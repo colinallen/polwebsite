@@ -1,0 +1,41 @@
+#!qtype MC_FIXED
+#!values Contraries::Contradictories::Subalt-Superalt::Superalt-Subalt::Subcontraries::None
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Logical Relationships</font>
+#!preamble Indicate the name of the logical relation that holds between the 
+#!preamble members of the pair of categorical statements.
+#!preamble (In the case of subalternation, indicate choose "Subalt-Superalt"
+#!preamble or "Superalt-Subalt" to indicated the order in which they appear.)
+#!preamble If the pair of statements does not exemplify any of the logical relations discussed in this section, select "None".
+
+#1
+All roses are red flowers./No roses are red flowers.::::Contraries
+#2
+All souls are immortal substances./Some souls are immortal substances.::::Superalt-Subalt
+#3
+Some people are jerks./Some people are not jerks.::::Subcontraries
+#4
+No Apaches are Shawnees./Some Apaches are Shawnees.::::Contradictories
+#5
+No emeralds are plants./Some emeralds are not plants.::::Superalt-Subalt
+#6
+Some people who believe in ghosts are smart people./Some people who believe in ghosts are not smart people.::::Subcontraries
+#7
+Some radical skeptics are profoundly miserable people./All radical skeptics are profoundly miserable people.::::Subalt-Superalt
+#8
+No truths are statements worth dying for./All truths are statements worth dying for.::::Contraries
+#9
+All atoms are physical objects./Some atoms are not physical objects.::::Contradictories
+#10
+Some odd numbers are numbers that can be divided by two (without remainder)./Some odd numbers are not numbers that can be divided by two (without remainder).::The first statement is cannot be true, so these cannot be subcontraries.::None
+#11
+Some gems are not amethysts./Some gems are amethysts.::::Subcontraries
+#12
+All liars are harmful people./No liars are harmful people.::::Contraries
+#13
+Some leaders are followers./Some leaders are not followers.::::Subcontraries
+#14
+All positive whole numbers between four and six are odd numbers./No positive whole numbers between four and six are odd numbers.::The first satement is a necessary truth., so these cannot be contraries.::None
+#15
+Some dinosaurs are not rational animals./No dinosaurs are rational animals.::::Subalt-Superalt

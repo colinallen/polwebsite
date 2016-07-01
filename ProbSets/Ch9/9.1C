@@ -1,0 +1,32 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Symbolize the following, using the schemes of abbreviation provided. 
+
+# Format of each line QUESTION
+
+No Zoroastrians are Moslems. (Zx: x is a Zoroastrian; Mx: x is a Moslem)::::(x)(Zx->~Mx)
+All kangaroos are marsupials. (Kx: x is a kangaroo; Mx: x is a marsupial)::::(x)(Kx->Mx)
+Peter Abelard is a logician, but Jacob Boehme is not. (Lx: x is a logician; a: Peter Abelard; b: Jacob Boehme)::::(La.~Lb)
+Not every marsupial is a kangaroo. (Mx: x is a marsupial; Kx: x is a kangaroo)::::~(x)(Mx->Kx)
+Nothing is right. (Rx: x is right)::::~($x)Rx
+Not everything is right. (Rx: x is right)::::~(x)Rx
+Something is right. (Rx: x is right)::::($x)Rx
+Something is not right. (Rx: x is right)::::($x)~Rx
+Only dogs are animals. (Dx: x is a dog; Ax: x is an animal)::::(x)(Ax->Dx)
+At least one mortal is human. (Mx: x is mortal; Hx: x is human)::::($x)(Mx.Hx)
+A thing is a logician only if it is rational. (Lx: x is a logician; Rx: x is rational)::::(x)(Lx->Rx)
+All trees are non-animals. (Tx: x is tree; Ax: x is an animal)::::(x)(Tx->~Ax)
+Some people are good and some people are not good. (Px: x is a person; Gx: x is good)::::(($x)(Px.Gx).($x)(Px.~Gx))
+Something is both good and evil. (Gx: x is good; Ex: x is evil)::::($x)(Gx.Ex)
+There exists a person who is good. (Px: x is a person; Gx: x is good)::::($x)(Px.Gx)
+Only blue things are sky-blue. (Bx: x is blue; Sx: x is sky-blue)::::(x)(Sx->Bx)
+If Socrates is not a philosopher, then Aristotle is not a philosopher. (s: Socrates; Px: x is a philosopher; a: Aristotle)::::(~Ps->~Pa)
+Not all animals are rational. (Ax: x is an animal; Rx: x is rational)::::~(x)(Ax->Rx)
+There exists an animal that has a soul. (Ax: x is an animal; Sx: x has a soul)::::($x)(Ax.Sx)
+If all bats are mammals, then some mammals have wings. (Bx: x is a bat; Mx: x is a mammal; Wx: x has wings)::::((x)(Bx->Mx)->($x)(Mx.Wx))
+All birds except penguins can fly. (Bx: x is a bird; Px: x is a penguin; Fx: x can fly)::::(x)((Bx.~Px)->Fx)
+All and only circles are perfect. (Cx: x is a circle; Px: x is perfect)::::(x)(Cx<->Px)
+One fails the course when blowing off the final exam. (Px: x is a person; Fx: x fails the course; Bx: x blows off the final exam)::::(x)((Px.Bx)->Fx)
+If any explorer discovers gold, then he or she will become famous. (Ex: x is an explorer; Dx: x discovers gold; Fx: x will become famous)::::(x)((Ex.Dx)->Fx)
+Humans are featherless bipeds. (Hx: x is human; Fx: x is featherless; Bx: x is a biped.)::::(x)(Hx->(Fx.Bx))

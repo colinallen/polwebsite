@@ -1,0 +1,17 @@
+#!qtype MC_FIXED
+#!values Symmetrical::Asymmetrical::Nonsymmetrical::Reflexive::Irreflexive::Nonreflexive::Transitive::Intransitive::Nontransitive
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
+#!preamble More Matching</font>&nbsp;&nbsp;
+#!preamble Choose the characteristic that best describes the following.
+
+Nothing is smaller than itself.::::Irreflexive
+If x hates y, then y may or may not hate x.::::Nonsymmetrical
+If x is the same size as y, then y is the same size as x.::::Symmetrical
+Everything is the same weight as itself.::::Reflexive
+If x is near y, then y is near x.::::Symmetrical
+If x is less than y, then y is not less than x.::::Asymmetrical
+If x likes y and y likes z, then x may or may not like z.::::Nontransitive
+If x is the father of y and y is the father of z, then x is not the father of z.::::Intransitive
+If x is taller than y, then y is not taller than x.::::Asymmetrical
+If x is younger than y and y is younger than z, then x is younger than z.::::Transitive
+

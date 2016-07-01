@@ -1,0 +1,417 @@
+<html>
+
+Before we discuss the specifics of filling in truth tables, <a
+href=#alignment><bold>click here</bold></a> if the characters in your
+truth tables do not look properly aligned in columns.
+
+<h3>Completing a Truth Table</h3>
+
+  <p> Upon selecting a truth table exercise, one is presented with an
+  incomplete truth table like this one:</p>
+
+
+  <p>
+    <center>
+      <form>
+	<table align=center border=3 cellspacing=0 cellpadding=0 width=100%>
+	  <tr>
+	    <td>
+	      <table border=0>
+		<tr>
+		  <td valign=center align=left>
+		    <img src="/Images/PoLogo.2e.gif" align=left border=0>
+		  </td>
+		  <td align=right valign=top>
+		    <strong><font size="+2">
+			<em>The Power of Logic</em>
+		      </font>
+		      <br>Exercise 7.3A Problem 25<br>
+		    </strong>
+		  </td>
+		</tr>
+	      </table>
+	      <hr width="98%">
+		<center>
+		  <strong>
+		    <font color="maroon"> 
+		      Complete the truth table!
+		    </font>
+		  </strong>
+		</center>
+		<center>
+		  <table border=0>
+		    <tr>
+		      <td align=left>
+			<TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: monospace">
+A B | (~A -&gt; (~B -&gt; A))  B :. ~~A
+----|----------------------------
+T T |                            
+T F |                            
+F T |                            
+F F |                            
+			</TEXTAREA></td></tr>
+		  </table>
+		  <hr width="98%">
+		    <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+		      <INPUT TYPE="hidden" NAME="helpfile"
+			VALUE="tt-help.html">
+			<p>
+	</table>
+      </form>
+    </center>
+    
+  <p> The top line of the incomplete truth table contains the
+  statement letters contained in the argument, a vertical line, and
+  the sentence or argument for which the truth table is to be
+  constructed.  The next line contains a separator -- basically a row
+  of hyphens and a single vertical line.  Beginning on the third line,
+  beneath the statement letters appear the 2<sup><em>n</em></sup>
+  possible distinct truth value assignments that can be given for the
+  statement letters.  (Because there is such a simple algorithm for
+  constructing these truth value assigments, we decided to relieve you
+  of the tedium of constructing them yourself -- <em>but be sure you
+  know how to construct them on your own!</em> You will need to know
+  how to to do this on your exams.)  To complete each row correctly,
+  follow these two guidelines:</p>
+
+    <ol>
+      <li>
+	Enter a truth value (i.e., <tt>T</tt> or &nbsp;<tt>F</tt>) under
+	each logical operator.</li>
+      <li>
+        Enter a truth value beneath an occurrence of a statement
+        letter if, and <em>only</em> if, that occurrence of the
+        statement letter is either one of the premises of the
+        argument or its conclusion </em>.</li>
+    </ol>
+    
+    Thus, following these guidelines a correct first row will look
+    like this:
+
+  <p>
+    <center>
+      <form>
+	<table align=center border=3 cellspacing=0 cellpadding=0 width=100%>
+	  <tr>
+	    <td>
+	      <table border=0>
+		<tr>
+		  <td valign=center align=left>
+		    <img src="/Images/PoLogo.2e.gif" align=left border=0>
+		  </td>
+		  <td align=right valign=top>
+		    <strong><font size="+2">
+			<em>The Power of Logic</em>
+		      </font>
+		      <br>Exercise 7.3A Problem 25<br>
+		    </strong>
+		  </td>
+		</tr>
+	      </table>
+	      <hr width="98%">
+		<center>
+		  <strong>
+		    <font color="maroon"> 
+		      Complete the truth table!
+		    </font>
+		  </strong>
+		</center>
+		<center>
+		  <table border=0>
+		    <tr>
+		      <td align=left>
+			<TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: monospace">
+A B | (~A -&gt; (~B -&gt; A))  B :. ~~A
+----|----------------------------
+T T |  F  T   T  T       T    TF                           
+T F |                            
+F T |                            
+F F |                            
+			</TEXTAREA></td></tr>
+		  </table>
+		  <hr width="98%">
+		    <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+		      <INPUT TYPE="hidden" NAME="helpfile"
+			VALUE="tt-help.html">
+			<p>
+	</table>
+      </form>
+    </center>
+    
+    <p> Filling out each row in similar fashion, a completed truth
+    table will look something like this:</p>
+
+  <p>
+    <center>
+      <form>
+	<table align=center border=3 cellspacing=0 cellpadding=0 width=100%>
+	  <tr>
+	    <td>
+	      <table border=0>
+		<tr>
+		  <td valign=center align=left>
+		    <img src="/Images/PoLogo.2e.gif" align=left border=0>
+		  </td>
+		  <td align=right valign=top>
+		    <strong><font size="+2">
+			<em>The Power of Logic</em>
+		      </font>
+		      <br>Exercise 7.3A Problem 25<br>
+		    </strong>
+		  </td>
+		</tr>
+	      </table>
+	      <hr width="98%">
+		<center>
+		  <strong>
+		    <font color="maroon"> 
+		      Complete the truth table!
+		    </font>
+		  </strong>
+		</center>
+		<center>
+		  <table border=0>
+		    <tr>
+		      <td align=left>
+			<TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: monospace">
+A B | (~A -&gt; (~B -&gt; A))  B :. ~~A
+----|----------------------------
+T T |  F  T   F  T       T    TF                           
+T F |  F  T   T  T       F    TF
+F T |  T  T   F  T       T    FT       
+F F |  T  F   T  F       F    FT     
+			</TEXTAREA></td></tr>
+		  </table>
+		  <hr width="98%">
+		    <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+		      <INPUT TYPE="hidden" NAME="helpfile"
+			VALUE="tt-help.html">
+			<p>
+	</table>
+      </form>
+    </center>
+    
+    <p> Clicking on the `Check Truth Table Now!' button will do just
+    that, i.e., it will check to see that you have filled in the truth
+    table correctly.  If you have not, you should get a helpful
+    response telling you what went wrong, and a copy of your truth
+    table in a new box in which you can make the necessary
+    corrections.</p>
+
+<h3>Determining Validity</h3>
+
+    <p> Once your truth table is correct, you will be presented with a
+    page that asks you to assess its validity.  The relevant portion
+    of the page looks like this:</p>
+
+	  <center>
+	  <FORM>
+	    <table border=3 width=90%>
+	      <tr>
+		<td>
+		  <table border=0>
+		    <tr>
+		      <td>&nbsp;</td>
+		      <td>
+			<tt>A B | (~A -> (~B -> A))&nbsp;&nbsp;B :. ~~A</tt>
+		      </td>
+		      <tr>
+			<td>&nbsp;</td>
+			<td>
+			  <tt>----|----------------------------</tt>
+			</td>
+		      </tr>
+		      <tr>
+			<td>
+			  <INPUT TYPE="checkbox" NAME="row_0" VALUE="checked">
+			</td>
+			<td><pre>T T |  F  T   F  T       T    TF </td></pre>
+		      </tr>	
+		      <tr>
+			<td>
+			  <INPUT TYPE="checkbox" NAME="row_1" VALUE="checked">
+			</td>
+			<td><pre>T F |  F  T   T  T       F    TF </td></pre>
+		      </tr>
+		      <tr>
+			<td>
+			  <INPUT TYPE="checkbox" NAME="row_2" VALUE="checked">
+			</td>
+			<td><pre>F T |  T  T   F  T       T    FT </td></pre>
+		      </tr>
+		      <tr>
+			<td>
+			  <INPUT TYPE="checkbox" NAME="row_3" VALUE="checked">
+			</td>
+			<td><pre>F F |  T  F   T  F       F    FT </td></pre>
+		      </tr>
+		  </table>
+		</td>
+	      </tr>
+	    </table>
+	    <center>
+		  <p>
+		    <INPUT TYPE="submit" NAME="" VALUE="Valid">
+		      <INPUT TYPE="submit" NAME="" VALUE="Invalid">
+			<INPUT TYPE="hidden" NAME="helpfile"
+			  VALUE="tt-help.html">
+		  </p>
+		  </center>
+	  </form>
+	</center>
+
+    <p> As noted in Section 7.3 of the text, to test for validity, you
+    look to see whether or not there is a row of the table on which
+    the premises of the argument are true and the conclusion false.
+    If you do not find such a row, the argument is valid, so click on
+    the `Valid' button to complete the exercise.  If you have missed
+    such a row you will be so informed and presented with your errant
+    truth table for you to fix.  If you do find such a row, check the
+    checkbox to its left, as indicated in our example:</p>
+
+	  <center>
+	  <FORM>
+	    <table border=3 width=90%>
+	      <tr>
+		<td>
+		  <table border=0>
+		    <tr>
+		      <td>&nbsp;</td>
+		      <td><tt>A B | (~A -> (~B -> A))&nbsp;&nbsp;B :. ~~A  </tt></td>
+		      <tr>
+			<td>&nbsp;</td>
+			<td><tt>----|----------------------------</tt></td>
+		      </tr>
+		      <tr>
+			<td>
+			  <INPUT TYPE="checkbox" NAME="" VALUE="checked">
+			</td>
+			<td><pre>T T |  F  T   F  T       T    TF </td></pre>
+		      </tr>	
+		      <tr>
+			<td>
+			  <INPUT TYPE="checkbox" NAME="" VALUE="checked">
+			</td>
+			<td><pre>T F |  F  T   T  T       F    TF </td></pre>
+		      </tr>
+		      <tr>
+			<td>
+			  <INPUT TYPE="checkbox" checked NAME="" VALUE="checked">
+			</td>
+			<td><pre>F T |  T  T   F  T       T    FT </td></pre>
+		      </tr>
+		      <tr>
+			<td>
+			  <INPUT TYPE="checkbox" NAME="" VALUE="checked">
+			</td>
+			<td><pre>F F |  T  F   T  F       F    FT </td></pre>
+		      </tr>
+		  </table>
+		</td>
+	      </tr>
+	    </table>
+	    <center>
+		  <p>
+		    <INPUT TYPE="submit" NAME="" VALUE="Valid">
+		      <INPUT TYPE="submit" NAME="" VALUE="Invalid">
+			<INPUT TYPE="hidden" NAME="helpfile"
+			  VALUE="tt-help.html">
+		  </p>
+		  </center>
+	  </form>
+	</center>
+
+    <p> You may then either click on the `Invalid' button (one row
+    with true premises and false conclusion is all you need to
+    establish invalidity) or you may continue to search for further
+    invalidating rows.  If the row you check is invalidating, but you
+    miss further invalidating rows, the program will tell you your
+    answer is correct, but will give you the opportunity to find the
+    invalidating rows that remain.  In either case, if you have
+    checked a row that does not invalidate the argument, you will
+    again be so informed and presented with your errant truth table.
+    If you are correct, enjoy the praise that will be heaped upon you!
+
+	  <p>	  
+	    <center>
+	      <table width=450 border=3 bgcolor=white>
+		<tr><td>
+		    <table border=0>
+		      <tr>
+			<td valign=center align=center>
+			  <img src="/Images/PoLogo.2e.gif" align=left border=0>
+			</td>
+			<td align=right valign=top>
+			  <strong>
+			    <font size="+2">
+			    <em>The Power of Logic</em>
+			    </font>
+			    <br>
+			      Exercise 7.3A Problem 25</strong>
+			</td>
+		      </tr>
+		    </table>
+		    <hr width="98%"><center><h1>Correct!</h1></center><table width="100%" border=0>
+			<tr><td>
+			    You are correct!  Row 3 shows that the argument is invalid!  On this row of the truth table, the premises of the argument are true and the conclusion false.</td></tr>
+
+		      </table>
+		      <p>
+			<center>
+			  <b>Your truth table:</b><p>
+			    <table border=0>
+			      <tr><td>
+				  <pre>
+A B | (~A -> (~B -> A))  B :. ~~A
+----|----------------------------
+T T |  F  T   F  T       T    TF
+T F |  F  T   T  T       F    TF
+F T |  T  T   F  T       T    FT
+F F |  T  F   T  F       F    FT
+				  </pre>
+				</td>
+			      </tr>
+			    </table>
+			</center>
+		  </td>
+		</tr>
+	      </table>
+	    </center>
+	  </p>
+
+<h3 >Appearance Problems in Netscape</h3>
+<a name="alignment"></a>
+
+If you are using Netscape, and statement letters, vertical bars, and
+truth values (<tt>T</tt>'s and <tt>F</tt>'s) do not seem to be lining
+up properly in columns, then Netscape is probably not paying attention
+when it is being told to use a "nonproportional" font in a text area.
+The problem is that Netscape by default likes to use a "proportional"
+font in text areas, that is, a font whose characters come in different
+widths.  Thus, in a proportional font like Times or Helvetica, an "m",
+for example, will usually be a lot wider than an "i" or a "-".  To fix
+this problem, click on the "Edit" menu option and then click on
+"Preferences...".  In the dialog box that comes up, click on the
+little icon next to "Appearance" so you can see its suboptions, and
+then click on "Fonts".  Depending on whether you are using Netscape 4
+or Netscape 6, do one of the following:
+
+<ul>
+<li>
+In Netscape 4, on the right side of the dialog box you should find
+that the button next to the option to "Use my default fonts,
+overriding document-specified fonts" has been clicked.  Click on
+either of the other options which begin "Use document-specified
+fonts".
+
+<li>
+In Netscape 6, on the right side of the dialog box you will simply
+find a checkbox option to "Allow documents to use other fonts".  Check
+that option.
+</ul>
+
+This procedure should allow Netscape to obey when it is told to use a
+nonproportional font, and hence should now render beautiful truth
+tables!
+
+</html>

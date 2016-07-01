@@ -1,0 +1,55 @@
+#!qtype PRF
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part E:  </strong>
+#!preamble Proofs</font>&nbsp;&nbsp;
+#!preamble Construct proofs to show the following arguments valid. You may use direct proof, CP, or RAA.
+
+#1
+1.(x)(y)(Rxy->Ryx)2.Rab.:Rba
+#2
+1.($x)~Rxx2.~(x)Rxx->(x)(y)~Txy.:~Tba
+#3
+1.(x)(y)(z)[(Wxy.Wyz)->Wxz]2.Wab3.Wbc.:Wac
+#4
+1.(y)(BayvBya).:Baa
+#5
+1.(Meb->Nbb)2.(z)~Nzz.:~Meb
+#6
+1.(x)(Tx->(y)[Vy->($z)(Pz.Sxyz)])2.(Tb.Ve).:($z)(Pz.Sbez)
+#7
+1.($x)[Hx.(y)(Hy->Lyx)].:($x)(Hx.Lxx)
+#8
+1.(x)[Px->~(y)(Py->Lxy)].:~($x)[Px.(y)(Py->Lxy)]
+#9
+1.(x)[Px->(y)(Py->~Lxy)].:~($x)[Px.($y)(Py.Lxy)]
+#10
+1.~($x)[Px.($y)(Py.Lxy)].:(x)[Px->(y)(Py->~Lxy)]
+#11
+1.($y)(z)~Kzy.:(y)($z)~Kyz 
+#12
+1.(x)(y)(Sxy->~Syx).:(x)~Sxx
+#13
+1.(x)[Px->~($y)Mxy].:~($x)(Px.Mxb)
+#14
+1.($x)(y)(Jx.Ny)2.[($x)(Jx.Nx)->~($x)Ux].:~Ud
+#15
+1.(x)(Kbx->Gxc)2.($x)Gxc->($y)Gcy.:($x)Kbx->($y)Gcy
+#16
+1.($x)($y)(z)Pxyz.:(z)($x)($y)Pxyz
+#17
+1.(x)(y)(Rxy->~Ryx).:(x)(y)[(~Sxy.Rxy)->~Ryx]
+#18
+1.($y)(x)(Lxy->Mxy).:($x)(y)Lxy->($y)($x)Mxy
+#19
+1.(x)(Gx->Fx)2.($x)Fx->~($y)($z)Hyz.:($x)Gx->~Hbc
+#20
+1.(x)[Fx->(y)(Sy->Rxy)]2.(x)[Px->(y)(Rxy->Ty)].:($x)(Fx.Px)->(y)(Sy->Ty)
+#21
+1.(x)(~RxvNx)2.~($x)Nxv($y)(z)Szy.:~($x)Rxv(z)($y)Szy
+#22
+1.($x)(Mx.Nx)2.($x)[Mx.(y)(Ny->~Lxy)].:($x)[Mx.~(y)(My->Lyx)]
+#23
+1.(x)(y)(Hxy->~Ia)2.($x)Hbx.(x)(y)(z)Jxyz.:~(Jabc->Ia)
+#24
+1.(x)(y)[~Cxyv(Dx<->Dy)]2.(x)(~Dx->~Ax)3.(x)[Ax->($y)(By.Cxy)]4.($x)Ax.:($x)(Bx.Dx)
+#25
+1.(x)(y)(Rxy->(z)Szxy)2.(x)(y)(z)[Szxy->(Tzx.Tzy)]3.(x)Rxa.:(x)($y)(Syxa.Tya)

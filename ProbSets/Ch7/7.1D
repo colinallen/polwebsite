@@ -1,0 +1,48 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part D: </strong>
+#!preamble More Symbolizing</font>&nbsp;&nbsp;
+#!preamble Translate the following statements into symbols, using the schemes 
+#!preamble of abbreviation provided.<p>
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+The picture frame is square only if it is rectangular. (S: The picture frame is square; R: The picture frame is rectangular)::::S->R
+#2
+You will not succeed if you lack common sense. (S: You will succeed; C: You have common sense)::::~C->~S
+#3
+If Sammy is a penguin, then Sammy is a bird that cannot fly. (P: Sammy is a penguin; B: Sammy is a bird; F: Sammy can fly)::::P->(B.~F)
+#4
+Either you work hard or you have fun, but not both. (W: You work hard; F: You have fun)::::(WvF).~(W.F)
+#5
+Given that Bozo has a bill, Bozo is either a duck or a platypus. (B: Bozo has a bill; D: Bozo is a duck; P: Bozo is a platypus)::::B->(DvP)
+#6
+Neither penguins nor ostriches can fly. (P: Penguins can fly; O: Ostriches can fly)::::~P.~O
+#7
+If Alvin has a bill, then he is not a platypus if he has feathers. (B: Alvin has a bill, P: Alvin is a platypus; F: Alvin has feathers)::::B->(F->~P)
+#8
+Neither Smith nor Jones wins if there is a tie; but Jones does not win given that Smith wins. (S: Smith wins; J: Jones wins; T: There is a tie)::::[T->(~S.~J)].(S->~J)
+#9
+While Miriam is both competent and hard-working, she is not interested in the job. (C: Miriam is competent; H: Miriam is hard-working; J: Miriam is interested in the job)::::(C.H).~J
+#10
+Given that Murphy is a bat only if he can fly, then Murphy is not a bat. (B: Murphy is a bat; F: Murphy can fly)::::(B->F)->~B
+#11
+Sally will pass unless her mind goes blank. (P: Sally will pass; M: Sally's mind goes blank)::::PvM
+#12
+Either Floyd Mayweather Jr wins or Manny Pacquiao wins, but not both. (F: Floyd Mayweather Jr; M: Manny Pacquiao wins)::::(FvM).~(F.M)
+#13
+Stella's being in Arkansas is a sufficient condition for her being in the USA. (A: Stella is in Arkansas; U: Stella is in the USA)::::A->U
+#14
+Humberto's being competent is a necessary and sufficient condition for his being hired. (C: Humberto is competent; H: Humberto is hired)::::C<->H
+#15
+Solomon's growing older is a necessary condition for his becoming wiser, but it is not a sufficient condition for his becoming wiser. (S: Solomon grows older; W: Solomon becomes wiser)::::(W->S).~(S->W)
+#16
+Dan's being in Pennsylvania is a necessary condition for his being in Philadelphia. (D: Dan is in Pennsylvania; P: Dan is in Philadelphia)::::P->D
+#17
+It is always wrong to kill the innocent only if it is wrong to kill an insane person in self-defense. (K: It is always wrong to kill the innocent; S: It is wrong to kill an insane person in self-defense)::::K->S
+#18
+It is not the case that if the Seahawks win, the Cowboys win. (S: The Seahawks win; C: The Cowboys win)::::~(S->C)
+#19
+It is not always wrong to kill the innocent just in case it is not wrong to kill an insane person in self-defense. (K: It is always wrong to kill the innocent; S: It is wrong to kill an insane person in self-defense)::::~K<->~S
+#20
+Plato's being a rational animal is a necessary and sufficient condition for his being human. (R: Plato is rational; A: Plato is an animal; H: Plato is human)::::(R.A)<->H

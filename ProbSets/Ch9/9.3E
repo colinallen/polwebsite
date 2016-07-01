@@ -1,0 +1,44 @@
+#!qtype PRF	
+#!preamble <font color="#ee0077" face="helvetica"<b>Part E.</b> </font>
+#!preamble Construct proofs to show that the following symbolic arguments are valid. Use direct proof rather than CP or RAA. 
+
+#1
+1.($x)(Ax.Bx):.($x)Ax.($x)Bx
+#2
+1.(x)(Dx->Lx)2.($x)Dx:.($x)(Dx.Lx)
+#3
+1.(z)(Hz->Jz)2.($z)(Hz.Kz):.($z)(Jz.Kz)
+#4
+1.(x)[(AxvBx)->Cx]2.($x)Bx:.($x)Cx
+#5
+1.($x)(Dx.~Rx)2.(x)(Dx->Wx):.($x)(Wx.~Rx)
+#6
+1.(z)[Uz->(Kz v Sz)]2.(z)Uz3.($z)~Sz:.($z)Kz
+#7
+1.(x)[(Bx->(z)Az)->~P]2.($x)~Bx:.~P
+#8
+1.(x)[(Sx.~(z)Rz)->Nd]2.(x)~Nx3.($x)Sx:.Rc
+#9
+1.(x)[Px->($y)Oy]2.($z)Pz:.($y)Oy
+#10
+1.($x)(Jx.Kx):.($x)Jx.($x)Kx
+#11
+1.(x)(Gx->Hx)2.($x)(~Fx.Gx):.($x)(~Fx.Hx)
+#12
+1.(x)(Jx->~Ex)2.($x)(Jx v Jd):.($y)(Ey->~Ed)
+#13
+1.(x)(Sx->Tx)2.($y)(Ry.~Ty):.($z)(Rz.~Sz)
+#14
+1.(x)(Bx->Cx)2.(x)(Ax->Bx)3.(x)(Cx->Dx)4.($x)~Dx:.($x)~Ax
+#15
+1.(x)(Dx->~Kx)2.($x)(Ex.Hx)3.(x)(Hx->Dx)4.(x)(Jx->Kx):.($x)(Ex.~Jx)
+#16
+1.(x)[Fx<->(Hx.~(y)Gy)]2.($x)~Fx3.(z)Hz:.Gc
+#17
+1.(x)[Bx->(Cx.Dx)]2.($x)Bx:.($x)~(~Cxv~Dx)
+#18
+1.(x)[Mx->($y)(Ny.Px)]2.(x)(Nx->~G)3.($x)Mx:.~G
+#19
+1.(x)(Fx->Gx).La2.($y)[Hy.(~Gy.Lb)]:.($z)(Hz.~Fz)
+#20
+1.(y)(Hy->~Ky)2.($z)(Kz.Jz):.($x)(Jx.~Hx)

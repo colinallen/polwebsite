@@ -1,0 +1,175 @@
+#!qtype MC_VAR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble Standard Forms</font>
+#!preamble For each of the following, indicate whether the sentence is 
+#!preamble is a categorical statement in standard form.  Use the text fielf
+#!preamble to translate those that are not into standard form.  
+#!preamble For sentences that don't contain the copula, try to use the
+#!preamble phrase "are things that ..." to construct the subject term.
+#!preamble For example, "No human being can swim across the Atlantic
+#!preamble Ocean" should become "No human beings are things that can
+#!preamble swim acroos the Atlantic Ocean."
+
+# Format of each line is QUESTION::%%ANSWERTYPE1::OPTION1_1::...::OPTION1_n::ANSWER1::ERRORSTRING1::...%%ANSWERTYPEm::OPTIONm_1::...::OPTIONm_r::ANSWERm::ERRORSTRINGm::
+
+# If ANSWERTYPE is TEXT, there will be only the answer -- the text to be matched.
+# (TO DO: We can make this a bit more robust if we allow a list of similar answers to check against...)
+# If ANSWERTYPE is POPUP, there will be several options that will appear on a popup list
+# The correct answer appears last in the list.  The first element of the list should be
+# an appropriate label for the POPUP; "?" is the default.
+# Don't forget the final "::" (needed to avoid special processing in the code for the mth 
+# bunch of stuff).
+
+
+#1
+No human being can swim across the Atlantic Ocean.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::No human beings are things that can swim across the Atlantic Ocean.::::%%POPUP::FORM::A::E::I::O::E::%%POPUP::QUANTITY::Universal::Particular::Universal::::%%POPUP::QUALITY::Affirmative::Negative::Negative::::
+#2
+Every kangaroo is a marsupial.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::No human beings are things that can swim across the Atlantic Ocean.::::%%POPUP::FORM::A::E::I::O::A::::%%POPUP::QUANTITY::Universal::Particular::Universal::::%%POPUP::QUALITY::Affirmative::Negative::Affirmative::::
+#3
+At least one car is not a Ford.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::Some cars are not Fords.::::%%POPUP::FORM::A::E::I::O::O::::%%POPUP::QUANTITY::Universal::Particular::Particular::::%%POPUP::QUALITY::Affirmative::Negative::Negative::::
+#4
+At least one person is a nerd.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::Some people are nerds.::::%%POPUP::FORM::A::E::I::O::I::::%%POPUP::QUANTITY::Universal::Particular::Particular::::%%POPUP::QUALITY::Affirmative::Negative::Affirmative::::
+#5
+Nothing that is a spider is an insect.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::No spiders are insects.::::%%POPUP::FORM::A::E::I::O::E::::%%POPUP::QUANTITY::Universal::Particular::Universal::::%%POPUP::QUALITY::Affirmative::Negative::Negative::::
+#6
+All ancient Greeks worshiped Zeus.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::All ancient Greeks are things that worshiped Zeus.::::%%POPUP::FORM::A::E::I::O::A::::%%POPUP::QUANTITY::Universal::Particular::Universal::::%%POPUP::QUALITY::Affirmative::Negative::Affirmative::::
+#7
+There exists a poem that is not a sonnet.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::Some poems are not sonnets.::::%%POPUP::FORM::A::E::I::O::O::::%%POPUP::QUANTITY::Universal::Particular::Particular::::%%POPUP::QUALITY::Affirmative::Negative::Negative::::
+#8
+There are saints who are reformed criminals.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::Some saints are reformed criminals.::::%%POPUP::FORM::A::E::I::O::I::::%%POPUP::QUANTITY::Universal::Particular::Particular::::%%POPUP::QUALITY::Affirmative::Negative::Affirmative::::
+#9
+Not all politicians are liars.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::Some politicians are not liars.::::%%POPUP::FORM::A::E::I::O::O::::%%POPUP::QUANTITY::Universal::Particular::Particular::::%%POPUP::QUALITY::Affirmative::Negative::Negative::::
+#10
+Some morally virtuous human beings are atheists.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::::::%%POPUP::FORM::A::E::I::O::I::::%%POPUP::QUANTITY::Universal::Particular::Particular::::%%POPUP::QUALITY::Affirmative::Negative::Affirmative::::
+#11
+Each patriotic American loves justice.::%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::All patriotic Americans love justice.::::%%POPUP::FORM::A::E::I::O::A::::%%POPUP::QUANTITY::Universal::Particular::Universal::::%%POPUP::QUALITY::Affirmative::Negative::Affirmative::::
+#12
+No Vikings were wimps.::%%POPUP::STANDARD?::Standard form::Not standard form::Standard form::::%%TEXT::No Vikings are things that were wimps.::::%%POPUP::FORM::A::E::I::O::E::::%%POPUP::QUANTITY::Universal::Particular::Universal::::%%POPUP::QUALITY::Affirmative::Negative::Negative::::
+#13
+Not every animal that can fly is a bird.::%%POPUP::STANDARD?::Standard form::Not standard form::Not tandard form::::%%TEXT::Some animals that can fly are not birds.::::%%POPUP::FORM::A::E::I::O::O::::%%POPUP::QUANTITY::Universal::Particular::Particular::::%%POPUP::QUALITY::Affirmative::Negative::Negative::::
+#14
+All people who have committed murder deserve death.%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::All people who have committed murder are things that deserve death.::::%%POPUP::FORM::A::E::I::O::A::::%%POPUP::QUANTITY::Universal::Particular::Universal::::%%POPUP::QUALITY::Affirmative::Negative::Affirmative::::
+#15
+Some good-looking people are snobs.%%POPUP::STANDARD?::Standard form::Not standard form::Standard form::::%%TEXT::::::%%POPUP::FORM::A::E::I::O::I::::%%POPUP::QUANTITY::Universal::Particular::Particular::::%%POPUP::QUALITY::Affirmative::Negative::Affirmative::::
+#16
+Shawnees were all skillful trackers.%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::All Shawnees were skillful trackers.::::%%POPUP::FORM::A::E::I::O::A::::%%POPUP::QUANTITY::Universal::Particular::Universal::::%%POPUP::QUALITY::Affirmative::Negative::Affirmative::::
+#17
+Nothing is a fool unless it is not a sage.%%POPUP::STANDARD?::Standard form::Not standard form::Not standard form::::%%TEXT::No fools are sages.::::%%POPUP::FORM::A::E::I::O::E::::%%POPUP::QUANTITY::Universal::Particular::Universal::::%%POPUP::QUALITY::Affirmative::Negative::Negative::::
+#18
+Masai warriors are all superb athletes.::Not standard::Would be standard if it said only "are" instead of "are all".::Universal::::Affirmative::
+#19
+No people who are unlucky are happy.::E::::Universal::::Negative::
+#20
+All college students who listened to Jimi Hendrix opposed the war in Vietnam.::Not standard::::Universal::::Affirmative::
+#21
+Nothing is a snake unless it is not a mammal.::Not standard::::Universal::::Negative::
+#22
+Only reptiles are lizards.::Not standard::::Universal::::Affirmative::
+#23
+If anything is chimpanzee, then it is not a fish.::Not standard::::Universal::::Negative::
+#24
+Not every bright green stone is an emerald.::Not standard::::Particular::::Negative::
+#25
+Things are birds only if they have feathers.::Not standard::::Universal::::Affirmative::
+#26
+Only diamonds are gems.::Not standard::::Universal::::Affirmative::
+#27
+World-class athletes all train vigorously.::Not standard::::Universal::::Affirmative::
+#28
+Something is a painting but not a masterpiece.::Not standard::::Particular::::Negative::
+#29
+Only physical objects are quarks.::Not standard::::Universal::::Affirmative::
+#30
+The voters will all be disappointed.::Not standard::::Universal::::Affirmative::
+#31
+There exists a mountain that is beautiful.::Not standard::::Particular::::Affirmative::
+#32
+If anything is a slug, then it is not intelligent.::Not standard::::Universal::::Negative::
+#33
+Soldiers who served under General George Patton all saw combat.::Not standard::::Universal::::Affirmative::
+#34
+At least one tree is ugly.::Not standard::::Particular::::Negative::
+#35
+Nothing that is an odd number is divisible by two.::Not standard::::Universal::::Negative::
+#36
+Things are beautiful only if they are pleasant to behold.::Not standard::::Universal::::Affirmative::
+#37
+At least one animal is vicious.::Not standard::::Particular::::Affirmative::
+#38
+If anything is a bad-tempered person, then it is a curmudgeon.::Not standard::::Universal::::Affirmative::
+#39
+Only red things are scarlet.::Not standard::::Universal::::Affirmative::
+#40
+If anything is a sibling that is female, then it is a sister.::Not standard::::Universal::::Affirmative::
+#41
+Dogs over fifteen years of age are all old.::Not standard::::Universal::::Affirmative::
+#42
+A thing is a tragedy only if it is not a fortunate event.::Not standard::::Universal::::Negative::
+#43
+Of the living survivors of the Nazi prison camps, some were tortured.::Not standard::::Particular::::Affirmative::
+#44
+Hindus all believe in reincarnation.::Not standard::::Universal::::Affirmative::
+#45
+No prisoners will be mistreated.::E::::Universal::::Negative::
+#46
+At least one soldier will be wounded.::Not standard::::Particular::::Affirmative::
+#47
+Whole numbers between one and five are in some cases even numbers.::Not standard::::Particular::::Affirmative::
+#48
+Of the living veterans of World War I, none were generals.::Not standard::::Universal::::Negative::
+#49
+Not every person who chooses not to fight is a coward.::Not standard::::Particular::::Negative::
+#50
+There exists an animal that is a dog.::Not standard::::Particular::::Affirmative::
+
+
+# 1. No human beings are beings who can swim across the Atlantic Ocean. (E, universal, negative)
+# 2. All kangaroos are marsupials. (A, universal, affirmative)
+# 3. Some cars are not Fords. (O, particular, negative
+# 4. Some persons are nerds. (I, particular, affirmative)
+# 5. No spiders are insects. (E, universal, negative)
+# 6. All ancient Greeks are people who worshiped Zeus. (A, universal, affirmative)
+# 7. Some poems are not sonnets. (O, particular, negative)
+# 8. Some saints are reformed criminals. (I, particular, affirmative)
+# 9. Some politicians are not liars. (O, particular, negative)
+# 10. Some morally virtuous human beings are atheists. (I, particular, affirmative)
+# 11. All patriotic Americans are lovers of justice. (A, universal, affirmative)
+# 12. No Viking are people who were wimps. (E, universal, negative)
+# 13. Some animals that can fly are not birds. (O, particular, negative)
+# 14. All people who have committed murder are people who deserve death. (A, universal, affirmative)
+# 15. Some good-looking people are snobs. (I, particular, affirmative)
+# 16. All Shawnees are people who were skillful trackers. (A, universal, affirmative)
+# 17. No fools are sages. (E, universal, negative)
+# 18. All Masai warriors are superb athletes. (A, universal, affirmative)
+# 19. No people who are unlucky are happy people. (A, universal, affirmative)
+# 20. All college students who listened to Jimi Hendrix are people who opposed the war in Vietnam. (A, universal, affirmative)
+# 21. No snakes are mammals. (E, universal, negative)
+# 22. All lizards are reptiles. (A, universal, affirmative)
+# 23. No chimpanzees are fish. (E, universal, negative)
+# 24. Some bright green stones are not emeralds. (O, particular, negative)
+# 25. All birds are things that have feathers. (A, universal, affirmative)
+# 26. All gems are diamonds. (A, universal, affirmative)
+# 27.  All world-class athletes are people who train vigorously. (A, universal, affirmative)
+# 28. Some paintings are not masterpieces. (O, particular, negative)
+# 29. All quarks are physical objects. (A, universal, affirmative)
+# 30. All voters are people who will be disappointed. (A, universal, affirmative)
+# 31. Some mountains are beautiful things. (I, particular, affirmative)
+# 32. No slugs are intelligent things. (E, universal, negative)
+# 33. All soldiers who served under General George Patton are people who saw combat. (A, universal, affirmative)
+# 34. Some trees are ugly. (I, particular, affirmative)
+# 35. No odd numbers are numbers divisible by two. (E, universal, negative)
+# 36. All beautiful things are things that are pleasant to behold. (A, universal, affirmative)
+# 37. Some animals are vicious animals. (I, particular, affirmative)
+# 38. All bad-tempered persons are curmudgeons. (A, universal, affirmative)
+# 39. All scarlet things are red things. (A, universal, affirmative)
+# 40. All female siblings are sisters. (A, universal, affirmative)
+# 41. All dogs over fifteen years of age are old dogs. (A, universal, affirmative)
+# 42. No tragedies are fortunate events. (E, universal, negative)
+# 43. Some living survivors of the Nazi prison camps are people who were tortured. (I, particular, affirmative)
+# 44. All Hindus are people who believe in reincarnation. (A, universal, affirmative)
+# 45. No prisoners are people who will be mistreated. (E, universal, negative)
+# 46. Some soldiers are people who will be wounded. (O, particular, negative)
+# 47. Some whole numbers between one and five are even numbers. (I, particular, affirmative)
+# 48. No living veterans of World War I are people who were generals. (E, universal, negative)
+# 49. Some persons who choose not to fight are not cowards. (O, particular, negative)
+# 50. Some animals are dogs. (I, particular, affirmative)

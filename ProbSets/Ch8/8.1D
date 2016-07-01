@@ -1,0 +1,57 @@
+#!qtype PRF
+
+#!preamble <font color="ee0077" face="helvetica"><strong>Part D:</strong>
+#!preamble Proofs</font>&nbsp;&nbsp;
+#!preamble Construct proofs for the following valid symbolic arguments
+
+#1
+1.P->Q2.R->~S3.PvR4.(Qv~S)->(~Tv~W)5.~~T :. ~W
+#2
+1.(AvG)->K2.K->(B->F)3.A.B :. F
+#3
+1.~M2.(~M.~N)->(Q->P)3.~N4.P->R :. Q->R
+#4
+1.~(RvS)2.~(T.V)->(RvS)3.~~(T.V)->W :. Wv~R
+#5
+1.~W.~~Z2.(~W.X)->Y3.~ZvX :. Y
+#6
+1.F->A2.~J.~K3.H->(G->F)4.~K->(~J->H) :. G->A
+#7
+1.~F->J2.~Fv~G3.~G->~H4.(Jv~H)->~K5.~L->K :. ~~L
+#8
+1.Y->W2.(Z->W)->(V.~T)3.Z->Y4.Q->T :. ~Q
+#9
+1.(~N.M)->T2.~O->M3.~O.~N :. TvS
+#10
+1.~A.~C2.~C->D3.(D.~A)->(E->~H)4.E.(~F->H) :. ~~F
+#11
+1.R->D2.B->R3.(B->D)->(EvF)4.~E :. F
+#12
+1.~F->~G2.P->~Q3.~FvP4.(~Gv~Q)->(L.M) :. L
+#13
+1.(Z.A)v~Y2.(Z.A)->U3.Wv~U4.~W :. ~Y
+#14
+1.(D.E)vF2.F->C3.(D.E)->~B4.(~BvC)->(A->P)5.~P :. ~A
+#15
+1.O->N2.~M3.S->R4.P->O5.R->P6.(S->N)->(MvL) :. ~PvL
+#16
+1.(~MvL)->(~A->B)2.~S->T3.R->~S4.~M.J5.Rv~A :. TvB
+#17
+1.F->~G2.~~G.O3.(~F.~~G)->[(~H->E).(C->F)]4.Cv~H :. E
+#18
+1.~N.~M2.~P->N3.~N->Z4.(Z.~~P)->K :. K.~M
+#19
+1.AvD2.~D3.(CvA)->~E :. ~E
+#20
+1.(C->Q).(~L->~R)2.(S->C).(~N->~L)3.~Q.J4.~Q->(Sv~N) :. ~R
+#21
+1.~(ZvY)->~W2.~U->~(ZvY)3.(~U->~W)->(T->S)4.S->(RvP)5.[T->(RvP)]->[(~RvK).~K] :. ~R
+#22
+1.~A2.[~Av(B.C)]->(D->~E)3.~E->~F4.(D->~F)->G :. (G.~A)v~H
+#23
+1.(SvU).~U2.S->[T.(FvG)]3.[Tv(J.P)]->(~B.E) :. S.~B
+#24
+1.~X->(~Y->~Z)2.Xv(W->U)3.~YvW4.~X.T5.(~ZvU)->~S :. (Rv~S).T
+#25
+1.(DvC)->(FvH)2.(H.G)->(FvE)3.(DvB)->(~F->G)4.(FvD).(~F.A) :. E
+

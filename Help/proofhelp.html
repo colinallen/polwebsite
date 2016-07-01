@@ -1,0 +1,89 @@
+<h3>Starting a Proof</h3>
+
+Proofs are entered or continued in the box provided.  In most of the
+online exercises, the proof is already started above the box.  You
+should enter the next line number in sequence and continue from there.
+Otherwise start by entering the first line of the proof in the box,
+beginning with line number 1.
+
+<p>
+
+Premises are entered on numbered lines, with the conclusion appearing
+to the right of the final premise.  For example:<br>
+<pre>         1. P &rarr; Q
+         2. P     &there4; Q</pre>
+
+(See <a href="#keysym">below</a> for instructions on how to type the logical symbols.)
+</p>
+
+<p>
+To prove a theorem, start an unnumbered line, with the symbol for
+therefore followed by the theorem that will be the
+conclusion of the proof. E.g.:
+<pre>         &there4; (((P &rarr; Q) &rarr; P) &rarr; P)</pre>
+
+<h3>Continuing a Proof</h3>
+
+Following the line containing the conclusion, each continuation line
+should consist of a line number, a well-formed formula, and the
+justification.  Except for assumptions, for which the justification is
+written "Assume", justifications consist of one or more line numbers
+and the name of a rule, all separated by commas, e.g. "1,2,MP".  (The
+quotation marks are not part of the justification.) 
+
+<p>
+
+When an assumption is made, you must also indent the proof until the
+assumption is discharged by an appropriate rule.  Indentation is marked
+using the vertical bar character "|".  For example:
+
+<pre>         1. (P &#x2219; Q) &rarr; R &there4; P &rarr; (Q &rarr; R)
+         | 2. P        Assume
+	 || 3. Q        Assume</pre>
+
+<a name="keysym"><h3>Symbols</h3></a>
+
+Keyboard characters are entered using standard keys that will be converted to the logical symbols as follows:
+
+<table style="border: 1px solid green; padding: 5px;">
+
+<tr><td style="border: 1px solid green; text-align: center;">&there4;</td>
+<td><strong>therefore</strong></td>
+<td>"<tt>:.</tt>" or "<tt>.:</tt>" (colon and period, in either order)</td></tr>
+
+<tr><td style="border: 1px solid green; text-align: center;">&rarr;</td>
+<td><strong>arrow</strong></td>
+<td>"<tt>-&gt;</tt>" (dash + greater than),
+or simply "<tt>&gt;</tt>" </td></tr>
+
+<tr><td style="border: 1px solid green; text-align: center;">&harr;</td>
+<td><strong>double arrow</strong></td>
+<td>"<tt>&lt;-&gt;</tt>"  (less than + dash + greater than),
+or simply "<tt>&lt;</tt>"</td></tr>
+
+<tr><td style="border: 1px solid green; text-align: center;">&#x2219;</td>
+<td><strong>conjunction (dot)</strong></td>
+<td>"<tt>.</tt>" (a period)</td></tr>
+
+<tr><td style="border: 1px solid green; text-align: center;">&or;</td>
+<td><strong>disjunction (wedge)</strong></td>
+<td>"<tt>v</tt>" (lower case letter vee)</td></tr>
+
+<tr><td style="border: 1px solid green; text-align: center;">&exist;</td>
+<td><strong>existential quantifier</strong></td>
+<td>"<tt>$</tt>" -- think <em>$ome</em>!</td></tr>
+
+<tr><td style="border: 1px solid green; text-align: center;">|</td>
+<td><strong>subproof indentation</strong></td>
+<td>type a vertical bar "<tt>|</tt>" for each level of indentation that a line should have,
+e.g.&nbsp;"<tt>|3.  P &rarr; ~Q Assume</tt>"</td></tr>
+
+</table>
+
+<h3>Checking Proofs</h3>
+
+Proofs may be checked at any time, even before they are complete.  The
+proof checker will assess each line in sequence until an error or the
+end of the proof is reached.  If an error is found or the proof is
+incomplete, a diagnostic message will be produced and the attempted
+proof will be redisplayed for you to edit and resubmit.

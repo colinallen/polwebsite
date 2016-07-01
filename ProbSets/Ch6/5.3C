@@ -1,0 +1,29 @@
+#!qtype MC_MULTI
+#!valuetype ARISTOTELIAN LOGICIANS::valid according to Aristotelians::not valid according to Aristotelians
+#!valuetype MODERN LOGICIANS::valid according to modern logicians::not valid according to modern logicians
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:  </strong>
+#!preamble Valid or Invalid?</font>&nbsp;&nbsp;
+#!preamble Determine which of the following are valid or not valid, with respect to both Aristotelian logicians and modern logicians.
+
+# Format of each line is QUESTION::ANSWER1::ERRORSTRING1::ANSWER2::ERRORSTRING2
+
+All vampires are dangerous creatures. So, some vampires are dangerous creatures.::valid according to Aristotelians::::not valid according to modern logicians::
+No poltergeists are perfect creatures. So, some poltergeists are not perfect creatures.::valid according to Aristotelians::::not valid according to modern logicians::
+All customers are people with correct opinions. Therefore, it is false that no customers are people with correct opinions.::valid according to Aristotelians::::not valid according to modern logicians::
+No angels are mortal beings. Hence, some angels are not mortal beings.::valid according to Aristotelians::::not valid according to modern logicians::
+Some dinosaurs are carnivores. So, some carnivores are dinosaurs.::valid according to Aristotelians::::valid according to modern logicians::
+All kangaroos are marsupials. Therefore, all marsupials are kangaroos.::not valid according to Aristotelians::::not valid according to modern logicians::
+No karate experts are wimps. Hence, it is false that all karate experts are wimps.::valid according to Aristotelians::::not valid according to modern logicians::
+No human beings are gods. Accordingly, some human beings are not gods.::valid according to Aristotelians::::not valid according to modern logicians::
+It is false that some people are entrepreneurs. So, some people are not entrepreneurs.::valid according to Aristotelians::::not valid according to modern logicians::
+No nerds are snobs. Therefore, no snobs are nerds.::valid according to Aristotelians::::valid according to modern logicians::
+No despicable persons are moral paragons. Thus, some despicable persons are not moral paragons.::valid according to Aristotelians::::not valid according to modern logicians::
+All rabbits are animals. Accordingly, all nonanimals are nonrabbits.::valid according to Aristotelians::::valid according to modern logicians::
+No doctors are astrologers. So, no nonastrologers are nondoctors.::not valid according to Aristotelians::::not valid according to modern logicians::
+Some plants are nontrees. So, some trees are nonplants.::not valid according to Aristotelians::::not valid according to modern logicians::
+All citizens are residents. Therefore, no citizens are nonresidents.::valid according to Aristotelians::::valid according to modern logicians::
+No scholars are conformists. Hence, all scholars are nonconformists.::valid according to Aristotelians::::valid according to modern logicians::
+Some vegans are not pacifists. Accordingly, some vegans are nonpacifists.::valid according to Aristotelians::::valid according to modern logicians::
+All extraterrestrials are highly evolved creatures. It follows that some extraterrestrials are highly evolved creatures.::valid according to Aristotelians::::not valid according to modern logicians::
+No people with flawless characters are geniuses. Thus, some people with flawless characters are not geniuses.::valid according to Aristotelians::::not valid according to modern logicians::
+Some athletes are professionals. So, some athletes are not nonprofessionals.::valid according to Aristotelians::::valid according to modern logicians::

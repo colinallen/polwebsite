@@ -1,0 +1,59 @@
+#!qtype MC_MULTI
+#!valuetype ?::No fallacy::Argument against the person::Straw man fallacy::Appeal to force::Appeal to the people::Appeal to pity::Formal fallacy::False cause::False dilemma::Appeal to ignorance::Red herring::Multiple fallacies
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>  
+#!preamble Formal and Informal Fallacies</font>&nbsp;&nbsp;
+#!preamble If a fallacy is committed in the following passages, choose the 
+#!preamble fallacy exemplified. If no fallacy is committed, choose "No fallacy."
+
+# Format of each line QUESTION::ANSWER::ERROR STRING
+
+#1
+What is the prochoice view?  This: It is permissible to kill innocent human beings at will as long as they are helpless. By implication, then, the prochoice view would permit the slaughter of children on a wide scale.  And that is why we should all oppose the prochoice view.::Straw man fallacy::No prochoice advocate would accept this description of their position.
+#2
+Your Honor, my client does not deserve a year in prison. He has small children that need a father, and a wife that needs a husband.::Appeal to pity::Take pity!
+#3
+You really think that drugs should be legalized? Think again. Dad will cut you out of the inheritance if you go on thinking like that. That should make it clear to you just how far off base your views really are.::Appeal to force::This statement makes a threat.
+#4
+Clairvoyance is the alleged ability to "see" with the mind's eye what cannot literally be seen. For example, some clairvoyants have claimed to "see" the death of a loved one from whom they were separated by many miles. Of course, you can imagine the kind of attention clairvoyants receive from the media, not to mention the money they can squeeze out of weak-minded people who are curious about the paranormal. Thus, I think the alleged reports of clairvoyance are just hype.::Argument against the person::Clairvoyants stand to gain, therefore they are wrong?
+#5
+Joe, I know you think that the new electronics plant should be located in Seattle. Well, you're wrong. It should be located in Spokane. How do I know? Joe, I'm your boss, right? And you're up for a promotion next month, right? You want the promotion, right? Well, then, the conclusion is obvious: the new electronics plant should be located in Spokane.::Appeal to force::We won't break your kneecaps, but....
+#6
+Smoking cigarettes can harm one's health. So, it's best to avoid smoking assuming one wants to be healthy.::No fallacy::Make no mistake about it!
+#7
+No one has ever shown that miracles do not happen. Therefore, miracles do happen.::Appeal to ignorance::"No one has ever shown..."
+#8
+Yates is guilty of murder assuming that he pleads guilty.  But Yates does not plead guilty. Therefore, Yates is not guilty of murder.::Formal fallacy::Denying the antecedent.
+#9
+You have argued that it is wrong for me to hunt deer. Well, you eat hamburger, and that involves the killing of cows. Moreover, it is obvious that there is no moral difference between killing cows and killing deer, so your argument is unsound.::Argument against the person::No explanation presently available
+#10
+The poor people in many Third World countries are malnourished and highly susceptible to disease. These people are in need of help for their poverty is so great that many of them can do little to help themselves. But many Americans have discretionary income well beyond what they need personally and these (relatively) wealthy Americans could help the poor in the Third World--at least to some extent. Moreover, from a moral point of view it is good to help those who really need help. So, from a moral point of view, it would be a good thing for these (relatively) wealthy Americans to help the poor in the Third World.::No fallacy::No explanation presently available
+#11
+No one has been able to demonstrate that astrology is nonsense. For this reason I have concluded that astrology is not nonsense--rather it is an insightful way of viewing our lives and the world around us.::Appeal to ignorance::"No one has been able to demonstrate..."
+#12
+No nuclear power plants are pollution-free forms of generating electical power. Some waterwheels are pollution-free forms of generating electical power.  It follows that no nuclear plants are waterwheels.::Formal fallacy::Find a counterexample.
+#13
+Suzanne won the race only if she beat Marilyn. And Suzanne won the race. Therefore, Suzanne beat Marilyn.::No fallacy::Modus Ponens
+#14
+Ingres' <em>Odalisque</em> is not a sexist painting.  Of course, I admit that <em>Odalisque</em> is sexist if it treats women as sex objects. But you'd have to be the worst sort of uptight prude to think that <em>Odalisque</em> treats women as sex objects. Therefore, <em>Odalisque</em> does not treat women as sex objects, and so it is not sexist.::Argument against the person::Are you an uptight prude?
+#15
+No contracts that contain a deliberate lie are legal contracts. All legal contracts are binding contracts. So no contracts that contain a deliberate lie are binding contracts.::Formal fallacy::You will see why this argument is a formal fallacy in a later chapter.
+#16
+I don't deserve a speeding ticket, officer. Yes, I admit I was going sixty in a school zone. But I've had a really rough day. I was angry about some stuff that happened at work. Everybody has to let some steam off once in a while, don't they? Give me a break.::Appeal to pity::What a whiner! Whether or not you've had a bad day has nothing to do with whether or not you deserve a ticket.
+#17
+Your Honor, the witness has just lied to the court three times. This has been verified by the tape recordings and by the reports of all of the other witnesses. Therefore, I submit that the witness's testimony is untrustworthy.::No fallacy::The evidence supports that the witness has lied.
+#18
+My dear sir, there are two reasons why you should agree that the money in your wallet is rightfully mine. First, I've had a lot of bad luck in my life, but you obviously enjoy health, wealth, and prosperity. So, if you are a man of compassion, you'll see that I deserve the wallet.  Second, since I'm pointing a gun at your head, you owe your very life to my generosity and patience.::Multiple fallacies::Because if you don't agree with my first reason, we'll make you pay!
+#19
+According to mind-body dualism, human beings have both a body and a nonphysical soul. But if mind-body-dualism is true, then new energy is introduced from the soul into the brain.  But dualists have never been able to show that new energy is introduced from the soul into the brain. Thus, we can safely conclude that new energy is not introduced from the soul into the brain. Furthermore, it's just crazy to suppose that a nonphysical thing (i.e., the soul) can have causal interactions with a physical thing (the brain). This, too, supports the claim that new energy is not introduced from the soul into the brain.  I must conclude  that mind-body dualism is not true.::Multiple fallacies::
+#20
+My opponent, the evolutionist, denies that we have our origin in God. Rather, according to the evolutionist, we humans have our origin in lower forms of life. Instead of having the dignity of being made in the image of God, we have the ignominy of being "made" in the image of apes, snakes, and bacteria.::Straw man fallacy::The views of the evolutionist are being distorted here.
+#21
+You bet I'm in favor of stiff punishments for violent crimes. After all, punishment deters crime --- no doubt about that. Yes, I'm aware that many bleeding-heart liberals have tried to prove that punishment doesn't really deter crime, but their feeble efforts have all failed miserably. It's just plain common sense that punishment deters crime.::Appeal to ignorance::"...many...have tried to prove..."
+#22
+If you want to die young, be one of thse animal rights advocates.  I mean, it's your business, but around here, folks don't have much patience with stupidity. Now, I know you really don't want to die young. So don't be an animal rights advocate. And don't say I didn't warn you.::Multiple fallacies::Deny the antecedent, or else!
+#23
+Wow! Just when you thought every state agency that possibly could had overdosed on dumb pills, here comes yet another. Kudos to Washington State Fish and Wildlife for opening the Lake Washington sockeye season on July 4. They must have trundled to the very depths of their department to find a mind so brilliant as to make this kind of decision. Why would someone mix three thousand boatloads of fisherman who are chomping at the bit to finally have a vialble fishery in their front yard with several thousand people trying to launch their boats to attend the fireworks display on Lake Union?::Argument against the person::Abusive language
+#24
+Everyone is selfish; everyone is doing what he believes will make himself happier. The recognition of that can take most of the sting out of accusations that you're being "selfish." Why should you feel guilty for seeking your own happiness when that's what everyone else is doing, too?::Appeal to the people::This argument basically boils down to "everyone else is doing it".
+#25
+When the candidate was asked whether he'd name a running mate who was opposed to school prayer, he answered: "It would be presumptive for someone who has yet to earn his party's nomination to be picking a vice president. However, the main criterion I would use in choosing a running mate would be whether the person was capable of being president."::Red herring::The candidate is not being asked to pick a vice president, but to specify a qualification for being a running mate.

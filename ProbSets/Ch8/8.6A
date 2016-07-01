@@ -1,0 +1,25 @@
+#!qtype PRF
+#!preamble <font color="ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Proofs</font>&nbsp;&nbsp;
+#!preamble Construct proofs for the following valid symbolic arguments
+
+:. ~(P->Q)->(P.~Q)
+:. ~(A.~A)
+:. [(SvR).~R]->S
+:. (X->Y)->~(X.~Y)
+:. (~F.~G)->(F<->G)
+:. ~(H.[(H->J).(H->~J)])
+:. K->[(K->L)->L]
+:. ~(M<->~M)
+:. (~N->O)v(N->O)
+:. (P.~Q)->~(P<->Q)
+:. [(~B->~A)->A]->A
+:. ~[(X<->Y).~(Xv~Y)]
+:. ~F->(F->G)
+:. (~Hv(~JvK))->((~HvJ)->(~HvK))
+:. [(~MvM)->M]->M
+:. [(P->Q).(R->~Q)]->~(P.R)
+:. D->(C->D)
+:. ~[(EvF).((E->G).[(F->G).~G])]
+:. (~X->Y)v(X->Z)
+:. [(A->B)v(A->C)]->[A->(BvC)]

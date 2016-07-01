@@ -1,0 +1,28 @@
+#!qtype
+#!preamble <font color="#ee0077" face="helvetica"><B>Part D.</B>
+#!preamble <B>English Arguments.</B></font>
+#!preamble Translate the following English arguments into symbols, using the 
+#!preamble schemes of abbreviation provided. Use abbreviated truth tables to 
+#!preamble determine whether the arguments are valid. 
+
+#1
+If you want to mess up your life, you should drink a lot of beer.  Therefore, if you don't want to mess up your life, you should not drink a lot of beer. (W: You want to mess up your life; B: You should drink a lot of beer)::::
+#2
+Being undetermined is a necessary but not a sufficient condition for human behavior's being free. The laws of subatomic physics are statistical only if human behavior is not determined. And the laws of subatomic physics are statistical. It follows that human behavior is free. (D: Human behavior is determined; F: Human behavior is free; L: The laws of subatomic physics are statistical)::::
+#3
+Given that nuclear energy is needed if and only if solar energy cannot be harnessed, nuclear energy is not needed. For solar energy can be harnessed provided that funds are available; and funds are available. (N: Nuclear energy is needed; S: Solar energy can be harnessed; F: Funds are available)::::
+#4
+If the Afghanistan War was about overcoming terrorism, and if human life is more valuable than overcoming terrorism, then the Afghanistan War was immoral. Human life is more valuable than overcoming terrorism, but the Afghanistan War was not about overcoming terrorism. Therefore, the Afghanistan War was not immoral. (W: The Afghanistan War was about overcoming terrorism; H: Human life is more valuable than overcoming terrorism; I: The Afghanistan War was immoral)
+#5
+The rate of teenage drunk driving will decrease just in case the taxes on beer increase. The taxes on beer increase only if either the federal government or the state government will resist the liquor lobby. The state government will resist the liquor lobby but the federal government will not. Accordingly, the rate of teenage drunk driving will not decrease. (R: The rate of teenage drunk driving will decrease; B: The taxes on beer increase; F: The Federal government will resist the liquor lobby; S: The state government will resist the liquor lobby)::::
+#6
+Erik attains Valhalla given that he is valiant. And Erik is depressed assuming that he is not valiant. Furthermore, Erik fails to attain Valhalla only if he is not depressed. Thus, Erik is depressed. (E: Erik attains Valhalla; V: Erik is valiant; D: Eri is depressed)::::
+#7
+If society is the ultimate source of moral authority, then if society approves of polygamy, polygamy is right. But it is not true that either society is the ultimate source of moral authority or society approves of polygamy. Hence, polygamy is not right. (S: Society is the ultimate source of moral authority; P: Society approves of polygamy; R: Polygamy is right)::::
+#8
+Either the Earth is millions of years old or it is only 6,000 years old. If the Earth is millions of years old, then the traditional story of creation is a myth and ultimate reality is nothing but atoms in motion. Now, either it is false that the Earth is only 6,000 years old or it is false that ultimate reality is nothing but atoms in motion. Therefore, the traditional story of creation is a myth. (E: The Earth is millions of years old; S: The Earth is only 6,000 years old; B: The traditional story of creation is a myth; U: Ultimate reality is nothing but atoms in motion)::::
+#9
+Wittgensteinians are right if logic is embedded in language. But logic is embedded in language if and only if logic varies as language varies. And logic is language~relative if logic varies as language varies. Moreover, given that logic is language~relative, contradictions may be true in some languages. Therefore, Wittgensteinians are right only if contradictions may be true in some languages. (W: Wittgensteinians are right; E: Logic is embedded in language; V: Logic varies as language varies; R: Logic is language~relative; C: Contradictions may be true in some languages)::::
+#10
+Although most Americans approve of gun control, gun control is neither wise nor moral. For gun control is wise if and only if it prevents criminals from obtaining weapons. And gun control is moral if and only if it preserves our liberty. But it is not the case that gun control both preserves our liberty and prevents criminals from obtaining weapons. (W: Gun control is wise; M: Gun control is moral; P: Gun control prevents criminals from obtaining weapons; L: Gun control preserves our liberty)::::
+

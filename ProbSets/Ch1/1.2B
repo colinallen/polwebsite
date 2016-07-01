@@ -1,0 +1,38 @@
+#!qtype MC_FIXED
+#!values MP: modus ponens::MT: modus tollens::HS: hypothetical syllogism::DS: disjunctive syllogism::CD: constructive dilemma::None
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble Identify the Forms</font>&nbsp;&nbsp;
+#!preamble Identify the forms of the following arguments, using capital letters to stand for statements  and eliminating any stylistic variants. If the argument form is one of the "famous" valid forms, select its name.  If the form is not one of the "famous" valid forms, select "None."
+
+# Format of each line is QUESTION::ERRORSTRING::ANSWER
+
+#1
+If the solution turns blue litmus paper red, then the solution contains acid. The solution turns blue litmus paper red. So, the solution contains acid.::::MP: modus ponens
+#2
+If the solution turns blue litmus paper red, then the solution contains acid. The solution does not contain acid. So the solution does not turn blue litmus paper red.::::MT: modus tollens
+#3
+Lewis is a famous author, only if he knows how to write. But Lewis is not a famous author. Hence, Lewis does not know how to write.::::None
+#4
+If Susan is a famous author, then she knows how to write. Moreover, Susan knows how to write. So, she is a famous author.::::None
+#5
+Souls transmigrate. But it is wrong to eat animals if souls transmigrate. Hence, it is wrong to eat animals.::::MP: modus ponens
+#6
+Either Jones is an innnocent bystander or Jones fired a shot at the mayor. Jones is not an innocent bystander. Therefore, Jones fired a shot at the mayor.::::DS: disjunctive syllogism
+#7
+Rilke is a dreamer if he is a poet. Therefore, Rilke is a poet.::::None
+#8
+Either you marry young or you wait. If you marry young, you incur a high risk of divorce. If you wait, the field of available partners grows ever smaller. So, you either incur a high risk of divorce or the field of available partners grows ever smaller.::::CD: constructive dilemma
+#9.
+It is not wrong to kill spiders. But if spiders have eternal souls, then it is wrong to kill them. Thus, it is false that spiders have eternal souls.::::MT: modus tollens
+#10
+If you study hard, you refine your communication skills. If you refine your communication skills, then your job opportunities increase. Hence, if you study hard, your job opportunities increase.::::HS: hypothetical syllogism
+#11
+If Mubarak is from Egypt, then he is from Africa. Therefore, if Mubarak is not from Egypt, then he is not from Africa.::::None
+#12
+Ben is a rat. Ben is a rat only if Ben is a mammal. So, Ben is a mammal.::::MP: modus ponens
+#13
+Sam is wealthy if he has over a billion dollars. But Sam does not have over a billion dollars. Therefore Sam is not wealthy.::::None
+#14
+There is life on Mars given that there is life on Earth. Hence, there is life on Mars.::::None
+#15
+It is true that corrupt institutions are hard to reform. It is false that individuals are totally depraved. Therefore, if corrupt institutions are hard to reform, then individuals are totally depraved.::::None

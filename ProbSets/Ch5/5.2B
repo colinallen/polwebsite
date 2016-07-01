@@ -1,0 +1,47 @@
+#!qtype MC_FIXED
+#!values Valid::Not valid
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble Immediate Inferences</font>
+#!preamble  Which of the following immediate inferences are valid according to Aristotelian logicians? Which are not valid?
+
+#1
+All cougars are carnivores. So, it is false that some cougars are not carnivores.::::Valid
+#2
+All legal treaties are promises. Hence, it is not the case that no legal treaties are promises.::::Valid
+#3
+Some mosquitoes are evil beings. Therefore, it is not true that no mosquitoesare evil beings.::::Valid
+#4
+All self-absorbed people are boring people. It follows that some self-absorbed people are boring people.::::Valid
+#5
+Some lawyers are shysters. So, all lawyers are shysters.::::Not valid
+#6
+No five-star generals are humble people. Consequently, it is false that some five-star generals are humble people.::::Valid
+#7
+Some heavenly bodies are not planets. Thus, it is false that all heavenly bodies are planets.::::Valid
+#8
+Some grapes are seedless fruit. So, some grapes are not seedless fruit.::::Not valid
+#9
+It is false that all geometrical figures are trapezoids. Accordingly, some geometrical figures are not trapezoids.::::Valid
+#10
+No fossils are traces of the missing link. Therefore, it is not true that all fossils are traces of the missing link.::::Valid
+#11
+No humans are morally perfect beings. It follows that some humans are not morally perfect beings.::::Valid
+#12
+All boxers who admire Hurricane Carter are winners. So, some boxers who admire Hurricane Carter are winners.::::Valid
+#13
+Some persons who have landed on the moon are not women. Hence, no persons who have landed on the moon are women.::::Not valid
+#14
+It is false that some grizzly bears are herbivores. It follows that some grizzly bears are not herbivores.::::Valid
+#15
+It is false that some wealthy Americans are political radicals. Thus, no wealthy Americans are political radicals.::::Valid
+#16
+It is false that all dinosaurs are animals that existed prior to the Cambrianexplosion. Accordingly, some dinosaurs are not animals that existed prior to the Cambrian explosion.::::Valid
+#17
+It is false that some Christians are not theists. Therefore, some Christians are theists.::::Valid
+#18
+All bureaucrats are spies. So, some bureaucrats are spies.::::Valid
+#19
+Some Senators are lovers of justice. It follows that some Senators are not lovers of justice.::::Not valid
+#20
+It is false that no astrologers are scientists. Consequently, some astrologers are scientists.::::Valid

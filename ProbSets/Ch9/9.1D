@@ -1,0 +1,58 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:  </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Symbolize the following, using the schemes of abbreviation provided. 
+
+#Format of each line is 
+
+#1
+A thing is a cat only if it is an animal. (Cx: x is cat; Ax: x is an animal)::::(x)(Cx->Ax)
+#2
+Some people are wicked. (Px: x is a person; Wx: x is wicked)::::($x)(Px.Wx)
+#3
+Some diseases are not fatal. (Dx: x is a disease; Fx: x is fatal)::::($x)(Dx.~Fx)
+#4
+Every logic student is wise. (Lx: x is a logic student; Wx: x is wise)::::(x)(Lx->Wx)
+#5
+No soldier is a sailor. (Sx: x is a soldier; Ax: x is a sailor)::::(x)(Sx->~Ax)
+#6
+Only animals are wolves. (Ax: x is an animal; Wx: x is wolf)::::(x)(Wx->Ax)
+#7
+Everything is an illusion. (Ix: x is an illusion)::::(x)Ix
+#8
+Not everything is an illusion. (Ix: x is an illusion)::::~(x)Ix
+#9
+Either something is an illusion or nothing is an illusion. (Ix: x is an illusion)::::($x)Ixv(x)~Ix
+#10
+Nothing is right unless it is not wrong. (Rx: x is right; Wx: x is wrong)::::(x)(Rx->~Wx)
+#11
+If neither Aristotle nor Boole is a logician, there are no logicians. (Lx: x is a logician; a: Aristotle;  b: Boole)::::[~(LavLb)->~($x)Lx]
+#12
+Some but not all paintings are forgeries. (Px: x is a painting; Fx: x is a forgery)::::[($x)(Px.Fx).~(x)(Px->Fx)]
+#13
+If everything is mental, then nothing is physical. (Mx: x is mental; Px: x is physical)::::[(x)Mx->(x)~Px]
+#14
+If nothing is mortal, then nothing is human. (Mx: x is mortal; Hx: x is human)::::[(x)~Mx->(x)~Hx]
+#15
+If everyone is sad, then no one is happy. (Sx: x is sad; Px: x is a person; Hx: x is happy)::::(x)(Px->Sx)->(x)(Px->~Hx)
+#16
+If anyone is sad, then he or she is not happy. (Sx: x is sad; Px: x is a person; Hx: x is happy)::::(x)[(Px.Sx)->~Hx]
+#17
+If Cudworth is a logician and all logicians are bores, then he is a bore. (Lx: x is a logician; Bx: x is a bore; c: Cudworth)::::([Lc.(x)(Lx->Bx)]->Bc)
+#18
+Something is red all over and something is green all over, but it is not true that something is both red all over and green all over. (Rx: x is red all over; Gx: x is green all over)::::[(($x)Rx.($x)Gx).~($x)(Rx.Gx)]
+#19
+If ghosts do not exist, then no houses are haunted. (Gx: x is ghost; Hx: x is a house; Nx: x is haunted)::::[(x)~Gx->(x)(Hx->~Nx)]
+#20
+If any number is odd, then not every number is even. (Nx: x is a number; Ox: x is odd; Ex: x is even)::::[($x)(Nx.Ox)->~(x)(Nx->Ex)]
+#21
+No bears, with the exception of teddy bears, are safe. (Bx: x is a bear; Tx: x is a teddy bear; Sx: x is safe)::::(x)((Bx.~Tx)->~Sx)
+#22
+Only large rodents are capybaras. (Lx: x is large; Rx: x is a rodent; Cx: x is a capybara)::::(x)(Cx->(Lx.Rx))
+#23
+Among sports, only football is painful. (Sx: x is a sport; Fx: x is football; Px: x is painful)::::(x)(Sx->(Px->Fx))
+#24
+All and only hip cats play jazz. (Hx: x is hip; Cx: x is a cat; Jx: x plays jazz)::::(x)((Hx.Cx)<->Jx)
+#25
+None but surfers are cool. (Sx: x is a surfer; Cx: x is cool)::::(x)(Cx->Sx)
+

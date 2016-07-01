@@ -1,0 +1,55 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part D:  </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Symbolize, using the schemes of abbreviation provided. 
+
+#1
+Someone gets angry at everyone. (Px: x is a person; Axy: x gets angry at y)::::($x)[Px.(y)(Py->Axy)]
+#2
+Everyone laughs at someone. (Px: x is a person; Lxy: x laughs at y)::::(x)(Px->($y)(Py.Lxy))
+#3
+Everything is either colorless or the same color as itself. (Cx: x has a color; Sxy: x has the same color as y)::::(x)(~CxvSxx)
+#4
+Some people like themselves, but some people do not like themselves. (Px: x is a person; Lxy: x likes y)::::($x)(Px.Lxx).($x)(Px.~Lxx)
+#5
+No one laughs at anyone. (Px: x is a person; Lxy: x laughs at y)::::(x)[Px->~($y)(Py.Lxy)]
+#6
+Some students find Kant boring, but Amy is a student who does not find Kant boring. (Sx: x is a student; Bxy: x finds y boring; k: Kant; a: Amy)::::($x)(Sx.Bxk).(Sa.~Bak)
+#7
+Everything is caused by something (or other). (Cxy: x is caused by y)::::(x)($y)Cxy
+#8
+Nothing causes everything. (Cxy: x causes y)::::~($x)(y)Cxy
+#9
+Something causes everything. (Cxy: x causes y)::::($x)(y)Cxy
+#10
+Nothing causes anything. (Cxy: x causes y)::::~($x)($y)Cxy
+#11
+Everyone gets angry at someone about something. (Px: x is a person; Axyz: x gets angry at y about z)::::(x)[Px->($y)($z)(Py.Axyz)]
+#12
+Everything has a cause; but for all x and y, if x precedes y, then y does not cause x. (Cxy: x causes y; Pxy: x precedes y)::::(x)($y)Cyx.(x)(y)(Pxy->~Cyx)
+#13
+Every entity is either necessary or dependent on a necessary entity. (Nx: x is necessary; Dxy: x is dependent on y)::::(x)(Nxv($y)(Ny.Dxy))
+#14
+No logician argues about every subject with everyone. (Lx: x is a logician; Sx: x is a subject; Px: x is a person; Axyz: x argues about y with z)::::(x)(Lx->~(y)[Sy->(z)(Pz->Axyz)])
+#15
+Either nothing is dependent on anything or everything is dependent on something. (Dxy: x is dependent on y)::::~($x)($y)Dxyv(x)($y)Dxy
+#16
+No one is obligated to everyone. (Px: x is a person; Oxy: x is obligated to y)::::(x)[Px->~(y)(Py->Oxy)]
+#17
+Everyone is obligated to someone. (Px: x is a person; Oxy: x is obligated to y)::::(x)[Px->($y)(Py.Oxy)]
+#18
+The relation <em>being to the north of</em> is transitive. (Nxy: x is north of y)::::(x)(y)(z)[(Nxy.Nyz)->Nxz]
+#19
+The relation <em>being next to</em> is symmetrical. (Nxy: x is next to y)::::(x)(y)(Nxy->Nyx)
+#20
+The relation <em>being the same shape</em> as is reflexive. (Sxy: x is the same shape as y)::::(x)Sxx
+#21
+Some number is greater than itself. (Nx: x is a number; Gxy: x is greater than y)::::($x)(Nx.Gxx)
+#22
+Voldemort hates all muggles. (v: Voldemort; Mx: x is a muggle; Hxy: x hates y)::::(x)(Mx->Hvx)
+#23
+Some philosopher studies every book with some teacher. (Px: x is a philosopher; Sxyz: x studies y with z; Bx: x is a book; Tx: x is a teacher)::::($x)[Px.(y)(By->($z)(Tz.Sxyz))]
+#24
+Every philosopher studies some book with every teacher. (Px: x is a philosopher; Sxyz: x studies y with z; Bx: x is a book; Tx: x is a teacher)::::(x)[Px->($y)(By.(z)(Tz->Sxyz))]
+#25
+No philosopher studies any book with any teacher. (Px: x is a philosopher; Sxyz: x studies y with z; Bx: x is a book; Tx: x is a teacher)::::~($x)[Px.($y)(By.($z)(Tz.Sxyz))]

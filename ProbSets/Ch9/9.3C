@@ -1,0 +1,25 @@
+#!qtype PRF	
+#!preamble <font color="#ee0077" face="helvetica"<b>Part C.</b> </font>
+#!preamble Construct proofs to show that the following symbolic arguments are valid. Use only statement logic, UI, and EG. Use direct proof rather than CP or RAA. 
+
+
+#1.
+1.(z)(~GzvFz)2.~Fa:.~Ga
+#2.
+1.HcvJd2.(x)(Hx->($y)Ky)3.(x)(Jx->($y)Ly):.($y)Kyv($y)Ly
+#3.
+1.(y)(~Py->~Ly)2.LcvLd:.PdvPc
+#4.
+1.(x)(~Tx->~Hx)2.Ha:.Ta
+#5.
+1.(x)(y)[Lx->(Mx.Ny)]2.~Mb:.Lb->Ob
+#6.
+1.(x)(Ax<->~Ax):.Bc
+#7.
+1.(x)[Lx->(Mx<->Nx)]2.La.Lb3.Na.~Nb:.Ma.~Mb
+#8.
+1.(y)[(Fy.Gy)->Hy]2.Fb.~Hb:.~Gb
+#9.
+1.(z)~[~(x)Jxv~Kz]:.Jc.Kc
+#10.
+1.(z)(Jz->Kz)2.(y)(~KyvJy).Ld:.Jd<->Kd

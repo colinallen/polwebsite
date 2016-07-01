@@ -1,0 +1,45 @@
+#!qtype TT
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A: </strong>
+#!preamble Truth Tables</font>&nbsp;&nbsp;
+#!preamble Construct truth tables to determine whether the following arguments are valid.
+
+#1
+AvB,~A:.B
+#2
+F->G,F:.G
+#3
+~Av~B,~B:.~~A
+#4
+~P->~R:.~(P->R)
+#5
+~(X->Y):.~X->~Y
+#6
+E:.DvE
+#7
+A.B:.B
+#8
+~(N.L):.~N->~L
+#9
+(AvB).~(A.B),A:.~B
+#10
+~F.~G:.~F<->~G
+#11
+~(S.~R),~R:.~S
+#12
+A<->B:.A.B
+#13
+D<->(EvC),~D:.~C
+#14
+A->(B->C):.A->(B.C)
+#15
+N<->(M.L),~L:.~N
+#16
+A->B,B->C:.A->C
+#17
+(Q.U)->Z,~Z:.~Q
+#18
+(E<->G)->H,~H:.~Ev~G
+#19
+AvB,A->C,B->C:.C
+#20
+A->C,B->D,~Cv~D :. ~Av~B

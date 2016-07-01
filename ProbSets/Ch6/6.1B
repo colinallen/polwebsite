@@ -1,0 +1,43 @@
+#!qtype MC_MULTI
+#!valuetype MOOD::AAA::AAI::AII::AEE::AEO::AIA::AOO::EEE::EIO::EAE::EAO::EOO::EOI::III::IAI::IAO::IEO::OOO::OAO::OEO::OIO
+#!valuetype FIGURE::First Figure::Second Figure::Third Figure::Fourth Figure
+#!valuetype EVALUATION::Valid::Not valid
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
+#!preamble Forms</font>&nbsp;&nbsp;
+#!preamble Specify the mood and figure of the following forms. 
+#!preamble Then use the list of valid forms to determine whether the forms
+#!preamble are valid.
+#!preamble <p>
+
+# Format of each line is QUESTION::ANSWER1::ERRORSTRING1::ANSWER2::ERRORSTRING2 etc.
+
+#1
+1. Some P are M. 2. All S are M. So, 3. Some S are P.::IAI::::Second Figure::::Not valid::
+#2
+1. Some M are P. 2. Some M are S. So, 3. Some S are P.::III::::Third Figure::::Not valid::
+#3
+1. All P are M. 2. No M are S. So, 3. No S are P.::AEE::::Fourth Figure::::Valid::
+#4
+1. No M are P. 2. Some M are not S. So, 3. Some S are P.::EOI::::Third Figure::::Not valid::
+#5
+1. No M are P.  2. All S are M. So, 3. No S are P.::EAE::::First Figure::::Valid::
+#6
+1. No P are M. 2. All M are S. So, 3. No S are P.::EAE::::Fourth Figure::::Not valid::
+#7
+1. All P are M. 2. Some S are M. So, 3. Some S are P.::AII::::Second Figure::::Not valid::
+#8
+1. Some P are not M. 2. Some S are not M. So, 3. Some S are not P.::OOO::::Second Figure::::Not valid::
+#9
+1.Some M are not P. 2. All M are S. So, 3. Some S are not P.::OAO::::Third Figure::::Valid::
+#10
+1. Some M are P. 2. All S are M. So, 3. Some S are not P.::IAO::::First Figure::::Not valid::
+#11
+1. All P are M. 2. Some S are not M. So, 3. Some S are not P.::AOO::::Second Figure::::Valid::
+#12
+1. No M are P. 2. Some S are M. So, 3. Some S are not P.::EIO::::First Figure::::Valid::
+#13
+1. All P are M. 2. All S are M. So, 3. All S are P.::AAA::::Second Figure::::Not valid::
+#14
+1. All M are P. 2. All M are S. So, 3. All S are P.::AAA::::Third Figure::::Not valid::
+#15.
+1. All M are P. 2. Some S are M. So, 3. Some S are P.::AII::::First Figure::::Valid::

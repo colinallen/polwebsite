@@ -1,0 +1,46 @@
+#!qtype venn3
+# Note that venn3 is now modified to handle either 2 or 3 circle questions
+# Absence of middle term triggers 2 circle mode
+# Format =
+# Syllogism::Major::Minor::Middle::Image::Validity
+
+#1
+All people who never make mistakes are admirable. All ideal humans are people who never make mistakes. So, Some ideal humans are admirable people.::Ideal humans::Admirable people::People who never make mistakes::11010010.gif::invalid
+#2
+No plants are animals. All weeds are plants. So, Some weeds are not animals.::Weeds::Animals::Plants::11001100.gif::invalid
+#3
+No perfect circles are perfect squares. Some perfect circles are objects of beauty. So, Some objects of beauty are not perfect squares.::Objects of beauty::Squares::Circles::00001109.gif::valid
+#4
+All persons who advocate the use of overwhelming nuclear force are persons who lack moral sensibility. All persons who advocate the use of overwhelming nuclear force are persons who should not serve as world leaders.  At least one person who advocates the use of overwhelming nuclear force exists. So, Some persons who should not serve as world leaders are persons who lack moral sensibility.::People who should not serve as world leaders::Persons who lack moral sensibility::Persons who advocate the use of overwhelming nuclear force::0001011b.gif::valid
+#5
+All lions are cats.  All cats are mammals. So, Some mammals are lions.::Mammals::Lions::Cats::01100110.gif::invalid
+#6
+No terrorists who use nuclear weapons are good people. All terrorists who use nuclear weapons are people who mean well.  At least one terrorist who uses nuclear weapons exists. So, Some people who mean well are not good people.::People who mean well::Good people::Terrorists who use nuclear weapons::00001119.gif::valid
+#7 
+All sycophants are flatterers. All flatterers are disgusting persons.  At least one flatterer exists. So, Some digusting persons are sycophants.::Disgusting persons::Sycophants::Flatterers::0110011a.gif::invalid
+#8 
+Some highly educated people are sybarites. All sybarites are poor role models. So, Some poor role models are highly educated people.::Poor role models::Highly educate dpeople::Sybarites::0000011b.gif::valid
+#9
+No oaks are elms. All oaks are trees.  At least one elm exists. So, Some trees are not elms.::Trees::Elms::Oaks::00001114.gif::invalid
+#10
+No members of the IRA are members of the IRS.So, It is false that all members of the IRA are members of the IRS.::IRA::IRS::::0100.gif::invalid
+#11
+All great inventors are slightly odd people. At least one great inventor exists. So,  Some slightly odd people are great inventors.::Great inventor::Odd people::::1002.gif::valid
+#12
+No anarchists are Republicans. At least one anarchist exists. So,  Some non-Republicans are not nonanarchists.::Anarchists::Republicans::::0101.gif::valid
+#13
+All scarlet things are red things. So,  It is false that no scarlet things are red things.::Scarlet things::Red things::::1000.gif::invalid
+#14
+No cities are nations. At least one city exists. So,  Some cities are not nations.::Cities::Nations::::0101.gif::valid
+#15
+All people with perfect memories are people who remember everything. So, Some people with perfect memories are people who remember everything.::People with perfect memories::People who remember everything::::1000.gif::invalid
+#16
+It is false that some Germans are Zoroastrians. So, Some Germans are not Zoroastrians.::Germans::Zoroastrians::::0100.gif::invalid
+#17
+It is false that some vampires are living things. At least one vampire exists. So,  Some vampires are not living things.::Vampires::Living things::::0101.gif::valid
+#18
+All people who do not care about social justice are heartless people. So, It is false that no people who do not care about social justice are heartless people.::People who do not care about social justice::Heartless people::::1000.gif::invalid
+#19
+No kangaroos are karate experts. So, Some kangaroos are not karate experts.::Kangaroos::Karate experts::::0100.gif::invalid
+#20
+It is false that some tyrants are not humans. At least one tyrant exists. So,  Some tyrants are humans.::Tyrants::Humans::::1002.gif::valid

@@ -1,0 +1,28 @@
+#!qtype ARITH
+#
+#!preamble <font color=ee0077 face=helvetica><strong>Part C:  </strong>
+#!preamble Various Compound Statements</font>&nbsp;&nbsp;
+#!preamble Let "G" be "God exists," "M" be "Miracles occur,"  
+#!preamble "T" be "(A->A)" and "D" be "Ducks exist." Assume that: 
+#!preamble P(G) = 3/5, P(M) = 3/10, P(D) = 9/10, and P(G/M) = 9/10. 
+#!preamble Also assume that D and M are independent. Determine the following 
+#!preamble probabilities.
+
+# Format of each line is 
+
+P(~G)::::2/5
+P(~M)::::7/10
+P(G.~G)::::0
+P(Mv~M)::::1
+P(T)::::1
+P(~T)::::0
+P(M.G)::::27/100
+P(MvG)::::63/100
+P(D/M)::::9/10
+P[D->(G->D)]::::1
+P(M/D)::::3/10
+P(~D)::::1/10
+P(D.M)::::27/100
+P(DvM)::::93/100
+P[G->(MvG)]::::1
+

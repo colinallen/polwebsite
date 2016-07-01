@@ -1,0 +1,41 @@
+#!qtype MC_FIXED
+#!values Too narrow::Too wide::Both too narrow and too wide
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part D:  </strong>
+#!preamble Precising Definitions</font>&nbsp;&nbsp;
+#!preamble Evaluate the following definitions <em>in the context of 
+#!preamble the making law</em>, Since these are precising definitions,
+#!preamble they may, without fault, depart from ordinary usage in some degree,
+#!preamble but if they depart in a high degree, they may appropriately be judged
+#!preamble too wide or too narrow (or otherwise flawed).
+
+# Format of each line QUESTION::ERROR STRING::ANSWER
+
+#1
+The elderly shall receive subsidized health care; "the elderly" means citizens over 92 years of age.::Too narrow! Certainly 91 is elderly!::Too narrow
+#2
+Euthanasia is permissible when a patient is permanently comatose.  A patient shall be deemed permanently comatose when he or she has been in a coma for at least one week.::Too wide! Surely that includes cases where euthanasia would be impermissible!::Too wide
+#3
+All serial killers shall receive the death penalty, a "serial killer" being anyone who has killed more than one person.::Too many killers get caught in this definition's dragnet!::Too wide
+#4
+Pacifists shall be exempt from the draft, a "pacifist" being anyone who is willing to swear under oath that he or she is opposed to the use of violence against human beings under any circumstances.::Too narrow! Swearing oaths is against the religious principles of some people who oppose all forms of violence (e.g., Jehovah's Witnesses).::Too narrow
+#5
+Religions shall not be taught in public schools; "religion" means any belief system involving supernatural beings.::Too wide! Belief in ghosts, for example, is not typically considered a religion.::Too wide
+#6
+The penalty for terrorism shall be life imprisonment; "terrorism" means any use of violence against persons or property for political purposes.::Too wide! Blowing up, say, an unmanned tractor to protest destruction of a forest doesn't deserve life.::Too wide
+#7
+Evolution shall be taught in the public high schools; "evolution" means the view that all life, including human life, came into existence through entirely natural causes, there being no supernatural Creator.::Too narrow! Many (non-fundamentalist) religious believers think that evolution was the mechanism the Creator used to bring about life on Earth.::Too narrow
+#8
+Killing in self-defense is justifiable homicide; one kills in self-defense when one kills a person who is immediately threatening one's life.  A person's life shall be deemed under immediate threat provided that s/he passes a lie detector test indicating that s/he believed (at the time of the event) that s/he was about to be attacked with a lethal weapon.::The definition in question is both too narrow nor too wide. A precising definition is too narrow when misses some of the intuitively correct instances of the concept purportedly being defined.  Thus, the proposed definition of "a person's life is under immediate threat" is too narrow because it misses cases where a lethal attack on a person might be imminent without the person believing it (he or she might be oblivious to the danger).  Similarly, a precising definition is too wide if it includes some intuitively incorrect cases.  Thus, the proposed definition is also too wide, because it includes cases where one falsely believes that one is about to be attacked by a lethal weapon when in fact he or she was in no danger at all.::Both too narrow and too wide
+#9
+Torture, defined as <em>inflicting physical pain on another person</em>, is a grave offense and merits incarceration::Too wide! A doctor, for example, inflicts physical pain when he sets a broken bone.::Too wide
+#10
+The penalty for telling a lie shall be a fine of $1000; "one tells a lie" means one asserts a falsehood without being coerced::Too wide! One can simply be sincerely mistaken about something.  Telling a lie also requires an intent to deceive the hearer.::Too wide
+#11
+It is illegal for adults to engage in sexual relations with minors. "A minor" is defined as someone under the age of 25.::Too wide!  Surely college graduates are no longer minors!::Too wide
+#12
+Drive at 20 miles per hour when children are present. "Children" is defined as persons under the age of 10.::Too narrow!  One can drive faster around 11 year olds?::Too narrow
+#13
+Do Not Resuscitate forms signed by mentally competent patients shall be binding. "Mentally competent" patients are those who have been tested and found to have an IQ over 120.::Too narrow!  The average IQ is 100, and even then IQ is not the absolute measure for mental competence, especially when a patient is in circumstances requiring a "Do Not Resuscitate" form.::Too narrow
+
+# Alternative explanation for #8 if we use the stronger definitions of narrowness and width (not supported by the text).
+#The definition in question is neither too narrow nor too wide. A precising definition is too narrow when it captures only, but not all, intuitively correct instances of the concept purportedly being defined.  Thus, the proposed definition of "a person's life is under immediate threat" is not too narrow because it includes some intuitively incorrect instances -- cases where one falsely believes that one is about to be attacked by a lethal weapon.  But neither is it too wide.  For a precising definition is too wide if it includes all intuitively correct instances and some incorrect ones as well.  But the proposed definition does not capture all of the intuitvely correct instances, as a lethal attack on a person might be imminent without the person believing it (he or she might be oblivious to the danger).

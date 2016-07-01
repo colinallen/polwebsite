@@ -1,0 +1,20 @@
+#!qtype ARITH
+#
+#!preamble <font color=ee0077 face=helvetica><strong>Part B:  </strong>
+#!preamble Conjunctions and Conditionals</font>&nbsp;&nbsp;
+#!preamble You have an ordinary deck of cards. You draw one card, do NOT 
+#!preamble replace it, then draw a second card. Assuming you are as likely to 
+#!preamble draw one card as another, find the following probabilities.
+
+# Format of each line is
+
+P(jack on first draw . queen on second draw)::::4/663
+P(ace on first draw . ace on second draw)::::3/663
+P(ace of hearts on first . red on second)::::25/2652
+P(club on first . club on second)::::3/51
+P(club on first . diamond on second)::::13/204
+P(black on first . black on second)::::25/102
+P(queen of hearts on first . queen of hearts on second)::::0
+P(spade on first . black on second)::::25/204
+P(king on second draw given ace on first draw)::::4/51
+P(red on second given jack of spades on first)::::26/51

@@ -1,0 +1,27 @@
+#!qtype ANNPRF
+
+#!preamble <font color="ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Annotating Proofs</font>&nbsp;&nbsp;
+#!preamble Annotate the proof, i.e., indicate which lines each
+#!preamble inference is drawn from, and by which rule the inference is made.
+
+#1
+1.F->G2.G->H .: F->H3.F->H
+#2
+1.~S->~P2.~S .: Kv~P3.~P4.Kv~P
+#3
+1.E->(T->S)2.~(T->S)3.~RvE .: ~R4.~E5.~R
+#4
+1.Hv~C2.H->~B3.~C->D4.(~BvD)->(K.J) .: J5.~BvD6.K.J7.J
+#5
+1.D2.~H3.(D.~H)->(EvH) .: E4.D.~H5.EvH6.E
+#6
+1.~A->~B2.~~B.C .: ~~A.C3.~~B4.~~A5.C6.~~A.C
+#7
+1.~(P.Q)vR2.(~E.~R)->(A.B)3.E->(P.Q)4.~R .: Bv(F.G)5.~(P.Q)6.~E7.~E.~R8.A.B9.B10.Bv(F.G)
+#8
+1.FvS2.G3.[G.(FvS)]->~T4.~B->T .: ~~B5.G.(FvS)6.~T7.~~B
+#9
+1.F->B2.~D3.(~D.G)->(B->S)4.G5.~S .: G.~F6.~D.G7.B->S8.F->S9.~F10.G.~F
+#10
+1.W->(Xv~Y)2.~~Y.W .: Xv~Z3.W4.Xv~Y5.~~Y6.X7.Xv~Z

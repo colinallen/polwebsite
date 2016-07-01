@@ -1,0 +1,37 @@
+#!qtype MC_FIXED
+#!valuesxc True::False
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble True or False?</font>
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+All arguments having only true premises are cogent.::Having true premises is just one of two conditions for being cogent.::False 
+#2
+All strong arguments are cogent.::Being strong is just one of two conditions for being cogent.::False
+#3
+All weak arguments are uncogent.::An cogent argument must be strong, not weak.::True 
+#4
+All arguments with a false premise are uncogent.::A valid argument with a false premise is unsound, not uncogent.::False  
+#5
+Some cogent arguments have a false conclusion.::Even the best inductive arguments do not guarantee the truth of their conclusions.::True
+#6
+Some sound arguments have a false conclusion.::It follows from the definition of deductive soundness that all such arguments have true conclusions.::False 
+#7
+The following argument is true: "Over ninety percent of Americans speak English. Hank Williams is an American. So, Hank Williams speaks English."::Arguments cannot be true or false.::False
+#8
+The following argument is an Argument from Analogy: "According to Flew's Dictionary of Philosophy, the British philosopher Bertrand Russell died in 1970. So, Bertrand Russell died in 1970."::Arguments from analogy require an explicit comparison to be drawn.::False
+#9
+A strong argument has the following essential feature: it is impossible for its conclusion to be false while its premises are true.::This is a definition of deductive validity.  The term `strong' refers to an inductive standard.::False
+#10
+Every uncogent argument has at least one false premise.::An argument can fail to be cogent when it is weak, even if it has no false premises.::False 
+#11
+Every uncogent argument is weak.::Weak arguments are uncogent, but a strong argument can also be unsound if it has a false premise.::False 
+#12
+Some arguments have valid premises, and some do not.::The notion of validity cannot be applied to individual premises.::False 
+#13
+The following argument is an argument from authority: "Scholars are like the Roman emperor Nero. Nero, you'll recall, played his violin while Rome burned. Similarly, scholars play with ideas while civilization is threatened by the 'flames' of greed, poverty, racism, and violence. Now, plainly, Nero was morally irresponsible. Hence scholars are morally irresponsible also."::An argument from authority requires the attribution of a claim to an expert.::False
+#14
+A strong argument has both of the following features: (a) it is possible that if its premises are true, its conclusion is false, and (b) it is probable that if its premises are true, then its conclusion is true.::Clause (a) is a consequence of the fact that strong arguments are invalid.  Clause (b) is one part of the definition of a strong argument.::True 
+#15
+A weak argument has the following essential feature: it is not likely that if its premises are true, then its conclusion is true.::This is from the definition of a weak argument.::True

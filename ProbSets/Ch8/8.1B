@@ -1,0 +1,74 @@
+#!qtype MC_FIXED
+#!values Incorrect::MP::MT::HS::DS::CD::Simp::Conj::Add
+#!preamble <font color="ee0077" face="helvetica"><strong>Part B. </strong>
+#!preamble Correct or Incorrect?</font>&nbsp;&nbsp;
+#!preamble For each of the following inferences, if it is a valid inference,
+#!preamble indicate which rule it is an example of.
+
+#!preamble Some of the following inferences are correct applications of the 
+#!preamble eight rules introduced in this section, and some are not. If an 
+#!preamble inference is a correct application of a rule, choose the rule
+#!preamble from the pop-up list. If not, choose "Incorret".
+
+# Format of each line QUESTION :: ERROR STRING :: RULE OF INFERENCE
+
+#1
+<tt>K->L, ~L :.~K</tt>::::MT
+
+#2
+<tt>G->F, E->G :.E->F</tt>::::HS
+
+#3
+<tt>M->N, ~M :.~N</tt>::::Incorrect
+
+#4
+<tt>~Bv~Y, ~B->~X ~Y->Z :. ~XvZ</tt>::::CD
+
+#5
+<tt>(E.F)vG, ~(E.F) :.G</tt>::::DS
+
+#6
+<tt>(N.P)->(OvS), (OvS) :.N.P</tt>::::Incorrect
+
+#7
+<tt>~Ev~F, ~~F :.~E</tt>::::DS
+
+#8
+<tt>A->~~B, ~B :.~A</tt>::::Incorrect
+
+#9
+<tt>(P->Q)vR, P :.QvR</tt>::::Incorrect
+
+#10
+<tt>(R.S)->T :.S->T</tt>::::Incorrect
+
+#11
+<tt>(KvL)->M, ~M :.~(KvL)</tt>::::MT
+
+#12
+<tt>(Hv~S)->~W, Hv~S :.~W</tt>::::MP
+
+#13
+<tt>T->~U, U :.~T</tt>::::Incorrect
+
+#14
+<tt>P.Q :.(R->S)v(P.Q)</tt>::::Add
+
+#15
+<tt>R->~S, ~~S :.~R</tt>::::MT
+
+#16
+<tt>~Cv~D, X->C, Y->D :.~Xv~Y</tt>::::Incorrect
+
+#17
+<tt>~Gv~P, G :.~P</tt>::::Incorrect
+
+#18
+<tt>A->(B->C), B :.A->C</tt>::::Incorrect
+
+#19
+<tt>(~BvD)->E, ~~B :.D->E</tt>::::Incorrect
+
+#20
+<tt>~T->~N, ~~N :.~~T</tt>::::MT
+

@@ -1,0 +1,27 @@
+#!qtype ATT
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C: </strong>
+#!preamble Valid or Invalid?</font>&nbsp;&nbsp; 
+#!preamble Some of the following arguments are valid, 
+#!preamble and some are invalid. Use abbreviated truth tables to determine 
+#!preamble which are valid, and which are invalid. 	
+
+#1
+~AvB :. A->B
+#2
+F->(G<->H), ~F.~H :. ~G
+#3
+~M :. (~Nv~M)
+#4
+Av(B.C) :. (A.B)v(A.C)
+#5
+P->~(Q.R), P.R :. ~Q
+#6
+X->Z, Y->Z, ~Z :. X<->Y
+#7
+~(S->R), S->J, ~R<->W :. W->~J
+#8
+~M->O, ~N->O, ~O<->~P, ~P :. M.N
+#9
+(AvB).(AvC) :. A.(BvC)
+#10
+R<->~Q, RvQ, RvP :. (P.Q)->R

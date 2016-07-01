@@ -1,0 +1,24 @@
+#!qtype PRF
+#!preamble <font color="#ee0077" face="helvetica"<b>Part F.</b> </font>
+#!preamble construct proofs to show that the following symbolic arguments are valid. Use direct proof rather than CP or RAA.
+
+#1.
+1.(y)~(Ly->My)2.(y)Ly->($x)Dx :. (y)~My.($x)Dx
+#2.
+1.(z)(Nz->~Ez)2.(z)(Sz->Nz) :. (z)(Sz->~Ez)
+#3.
+1.(x)[(Ax.Bx)->Cd]2.(x)(Ax->~Bx)->(x)Ex3.~Cd :. Ed
+#4.
+1.(x)(Fx.Gx)2.~(x)GxvHa :. ($x)Hx
+#5.
+1.($y)Fy->(y)My2.Fg :. Mg
+#6.
+1.(x)(Lx->Mx)->(x)(Nx->Lx)2.(x)~Lx :. (x)~Nx
+#7.
+1.(x)(Rx<->Sx) :. (x)(Rx->Sx).(x)(Sx->Rx)
+#8.
+1.(x)[(BxvAx)<->Cx]2.(x)~Cx :. (x)(Ax<->Bx)
+#9.
+1.(x)[Rx->(Sxv(y)Ty)]2.(x)(Rx->Sx)->Pb3.~(y)Ty :. Pb
+#10.
+1.(x)[Mx->($y)(Ny.Px)]2.(x)(Nx->~G)3.($x)Mx :. ~G

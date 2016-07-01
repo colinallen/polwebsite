@@ -1,0 +1,75 @@
+#!qtype MC_MULTI
+#!valuetype ?::No fallacy::Appeal to ignorance::Appeal to unreliable authority::False cause::Complex question::Appeal to the people::False dilemma::Begging the question::Division::Composition::Equivocation::Amphiboly::Argument against the person::Multiple fallacies
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble Identifying Fallacies</font>&nbsp;&nbsp;
+#!preamble If a fallacy is committed in the following passages, choose the 
+#!preamble fallacy exemplified. If no fallacy is committed, choose "No fallacy".
+
+#1
+Would you please be a good boy and eat your spinach?::Complex question::Being a good boy doesn't necessarily involve eating spinach.
+#2
+Please don't tell me you think that human vegetables should be kept on respirators! After all, brain dead humans are already dead. We know this because they are not alive.::Begging the question::A very questionable argument.
+#3
+Here's how to win the lottery: Consult an astrologer. How do I know this? Well, I was watching a TV program recently and there was an interview with this very intelligent man who said that astrology is based on scientific principles. So, astrology is based on science. Furthermore, last week I took the advice of an astrologer who gave me a number based on my astrological sign. Using the number, I won the lottery. So, obviously, astrology works on things like the lottery.::Appeal to unreliable authority::There are two instances of this fallacy here. Neither the "very intelligent man" nor the astrologer are reliable authorities.
+#4
+When it comes to criminal punishment, one must favor either rehabilitation or deterrence. the rehabilitationists think criminals are sick and need treatment. The deterrence crowd wants harsh punishments that will put a stop to crime. Since it is false that every shoplifter or car thief is mentally ill, the rehabilitationists are mistaken. Hence, the deterrence view is correct.::False dilemma::There are more views regarding about punishment than rehabilitation and deterrence, for instance, retribution or preventive detention. Furthermore, rehabilitation and deterrence are not mutually exclusive, as the argument implies.
+#5
+How do we know that there is life in other galaxies? Actually, that's not a difficult question. It's simply a matter of probabilities. with so many millions of planets out there, it's overwhelmingly likely that life has evloved on some of them, just as it has here on earth.::Complex question::The unwarranted assumption is that we know that there is life on other planets.
+#6
+I've heard that St. Andrew's Episcopal Church is very wealthy. You are a member of St. Andrew's, so you must be wealthy.::Division::The property of being wealthy does not transfer from the church as a whole to each of its members.
+#7
+My psychology professor says that religious experience is generated out of the deep human need for a father-figure, not by an encounter with an actual Deity. So, religious experience is not really an experience of God.::Appeal to unreliable authority::Psychology professors are not experts in metaphysics and theology.
+#8
+Surely Anthony loves me. For he told me he loves me and he wouldn't lie to someone he loves.::Begging the question::Anthony's love is just what's at issue!
+#9
+That young man was just fine until he read Soren Kierkegaard's <em>Fear and Trembling</em>. It wasn't but a week or so later that he began to walk in his sleep and to emit those awful moans. Therefore, Fear and Trembling is a dangerous book.::False cause::Psychosis has many causes.
+#10
+How can anyone go on living in a world that contains ten times as much misery as happiness?::Complex question::Unwarranted to assume that there is ten times as much misery as happiness.
+#11
+You either hate parties or you love them. So, since you say you don't hate parties, you must love them.::False dilemma::It is not just a love-hate thing.
+#12
+According to best-selling novelist, Dan Brown, Jesus and Mary Magdalene had a secret affair and a child whose descendants are around today. So, I'm pretty sure that's what happened, in spite of the fact that the Catholic Church has worked hard to suppress these facts.::Appeal to unreliable authority::Brown is not a genuine historian, so his word alone does not provide an adequate reason for believing such a radical and controversial claim.
+#13
+My sociology professor says that monogamy is an unjust form of social organization. Therefore, monogamy is an unjust form of social organization.::Appeal to unreliable authority::Sociology professors are not experts in justice.
+#14
+According to Lilian Roxon's Rock Encyclopedia, it was an English band called The Zombies that came out with the hit record "She's Not There" in 1965. So, while you say "She's Not There" was by The Beatles, it was really by The Zombies.::No fallacy::Roxon is a suitable authority.
+#15
+Before television came along we didn't have much of a problem with illegal drugs. But people learn about drugs on TV, and then they want the drugs. So, TV is ruining this country.::False cause::There are many reasons demand for drugs have increased.
+#16
+I was there, I tell you. I stood within ten feet of the man. Either I was hallucinating or he levitated. And I wasn't hallucinating. Therefore, he levitated.::False dilemma::It is a dilemma, but perhaps there were mirrors involved?
+#17
+According to the <em>Encyclopaedia Britannica</em>, Mary Cassatt, who is often considered American's greatest woman painter, was born in 1844 and died in 1926. So, Cassatt lived from 1844 till 1926.::No fallacy::<em>The Encyclopaedia Britannica</em> is a reliable authority.
+#18
+When it comes to morality, a person is either a cultural relativist or a dogmatist. Since you won't allow that infanticide is right for the Eskimos if they approve of it, you obviously aren't a cultural relativist. So, you must be a dogmatist.::False dilemma::Is that first premise true?
+#19
+We cannot intervene militarily in all countries with wicked dictators: Syria, Yemen, Zimbabwe, etc. To be consistent, we have to intervene everywhere or nowhere. So, we should intervene nowhere.::False dilemma::Consistency does not demand that we intervene everywhere or nowhere. At most, it demands that our policy of intervention is consistent, e.g., that we intervene only when there is a high likelihood of success with minimal casualties and a clear exit strategy. Such a policy would allow some intertventions and disallow others.
+#20
+Either nonhuman animals are robots or they have thoughts and feelings just like humans have. Nonhuman animals are not robots. Hence, they have thoughts and feelings just like humans have.::False dilemma::Think harder about that first premise.
+#21
+Religion is the opiate of the people. Therefore, religion is like a drug that can be used to make people forget or ignore the miserable conditions they live in.::Begging the question::If feels as though we are going round in circles.
+#22
+Logic varies as language varies. For logic is based on grammar. And any intelligent person will agree that different languages have different grammars. But if logic varies as languages vary, then logic is relative to cultures.  Consequently, logic is relative to cultures.::Appeal to the people::"...any intelligent person will agree..."
+#23
+People are either good or evil. And Doris is not good. Therefore, she is evil.::False dilemma::Good and evil and nothing in between?
+#24
+Would you please be a gentleman and refrain from talking politics?::Complex question::One cannot assume that being a gentleman entails not talking about politics.
+#25
+Either you believe that abortion is wrong or you believe it is right. Either way, you believe something about abortion. If you believe something, you think that's how things are. So, either way, you must think there are facts about right and wrong.::False dilemma::The first sentence presents a false dilemma. A third option is that you don't believe in facts about right and wrong and, hence, that you believe abortion is <em>neither</em> right nor wrong.
+#26
+Why do all philosophical problems turn out, in the final analysis, just to be a question of how to define terms?::Complex question::Unwarranted assumption about the nature of philosophical problems.
+#27
+You should stop reading your horoscope.  Why? First, because reading your horoscope is a waste of time.  After all you could be reading great literature instead.  Second, people will think you are superstitious if you read your horoscope. Third, you should quit reading your horoscope because horoscopes are for idiots. Fourth, you don't want to turn out like that weird guy at work, Bob Crombie. And Bob reads horoscopes! So, obviously, horoscopes produce weirdness. Hence, you've got to stop reading them.::Multiple fallacies::Contains an appeal to the people, an argument against the person, and false cause fallacies.
+#28
+When you get down to it, philosophers are just logic choppers who sit around trying to put reality into little boxes made of words.  So, the philosophical arguments against time travel prove nothing.::Argument against the person::"Logic choppers" is intended to be derogatory.
+#29
+Most Americans insist that terrorism is always wrong, but they are mistaken.  Terrorism, after all, is simply the use of violence to further political ends.  And no country on the face of the earth employs more violence to further its political ends than America does.  So, Americans are in no position to condemn terrorism.  Besides, one person's terrorist is another's freedom fighter.  Why can't Americans see that their own revolutionary war heroes were all terrorists?::Complex question::Question presupposes the conclusion that terrorists are sometimes praiseworthy.
+#30
+How do I know that mantras work?  Consider this: Last week I said a mantra on Tuesday and on Friday.  And guess what?  Those days really went well for me.::False cause::There are lots of reasons why you could have had a good day.
+#31
+Every nation in every region now has a decision to make. Either you are with us, or you are with the terrorists. (George W. Bush, September 20, 2001)::False dilemma::There are several shades of grey in any relationship between nations, and this statement dramatically reduces the possibilities to "with us" or "with the terrorists".
+#32
+There are very few general laws of social science, but we can offer one that has a deserved claim: the restriction of the concept of humanity in any sphere never enhances a respect for human life. It did not enhance the rights of slaves, prisoners of wars, criminals, traitors, women, children, Jews, blacks, heretics, workers, capitalists, Slavs or Gypsies. The restriction of the concept of personhood in regard to the fetus will not do so either.::Begging the question::What's precisely at issue here is whether or not the fetus is a human/person, so the suggestion that excluding the fetuses would be a restriction on humanity/personhood assumes what is disputed.
+#33
+Every woman has the right to do what she wants with her own body (as long as she harms no one else). Having an abortion is doing something with one's own body (and not harming anyone else). So, every woman has a right to have an abortion.::Begging the question::That aborting a fetus is not harming "anyone" assumes that a fetus is not a someone, which is the disputed issue.
+#34
+Why should merely cracking down on terrorism help to stop it, when that method hasn't worked in any other country? Why are we so hated in the Muslim world? What did our government do there to bring this horror home to all those innocent Americans? And why don't we learn anything, from our free press, about the gross ineptitude of our state agencies, about what's really happening in Afghanistan, about the pertinence of Central Asia's huge reserves of oil and natural gas, about the links between the Bush and the bin Laden families?::Complex question::All of these questions assume that the government is hiding information and are not posed to find solutions.

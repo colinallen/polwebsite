@@ -1,0 +1,51 @@
+# not yet implemented
+# free variables
+
+#1.
+(x)(HxvGy)
+#2.
+(x)(y)(Ax<->By)v~Bz
+#3.
+($y)(CyvDb).Ed
+#4.
+(z)[(FzvGz)->Jx]
+#5.
+($x)Kx.(x)Lx
+#6.
+(x)(Mxv(y)~Ny)
+#7.
+(x)(y)Pxy.Qx
+#8.
+($y)(R.Sy)
+#9.
+(x)[(TxvUx)->~Ax]
+#10.
+(x)[(Bx.(y)Dy)<->(z)Ez]
+#11.
+(x)($y)[($z)Fxzv(z)Fyz]
+#12.
+(z)[~Ge->(HzvKy)]
+#13.
+($x)Lx.($x)Nx
+#14.
+(y)[(Oxv(x)Px)<->Wy]
+#15.
+(x)[(y)(AbzvBy)->Cyx]
+
+
+# Answers
+#1. The x in Hx is bound by the quantifier; the y in Gy is free.
+#2. The x in Ax is bound by (x) quantifier; the y in By is bound by the (y) quantifier; the z in ~Bz is free. 
+#3. The y in Cy is bound by the quantifier. (Note: b and d are constants, not variables.)
+#4. The z is Fz is bound by the (z) quantifier, as is the z in Gz; the x in Jx is free. 
+#5. The x in Kx is bound by ($x); the x in Lx is bound by (x). 
+#6. The x in Mx is bound by (x); the y in ~Ny is bound by (y). 
+#7. The x in (y)Pxy is bound by (x); the y in Pxy is bound by (y). The x in Qx is free.
+#8. The y in Sy is bound by ($y).
+#9. All the variables are bound by the (x) quantifier.  
+#10. The x in Bx is bound by (x); the y in Dy in bound by (y); the z in Ez is bound by (z). 
+#11. The x in ($y)[($z)Fxz v (z)Fyz] is bound by (x); the y in [($z)Fxz v (z)Fyz] is bound by ($y); the z in Fxz is bound by ($z); the z in Fyz is bound by (z).
+#12. The z in Hz is bound by (z); the y in Ky is free. Note: e is a constant, not a variable. 
+#13. The x in Lx is bound by the quantifier immediately to its left; the  x in Nx is bound by the quantifier immediately to its left. 
+#14. The x in Ox is free; the x in Px is bound by (x); the y in Wy is bound by (y). 
+#15. The z in Abz is free (b is constant, not a variable); the y in (Abz v By) is bound by (y); and the x in Cyx is bound by (x); the y in Cyx is free. 

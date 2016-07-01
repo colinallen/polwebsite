@@ -1,0 +1,49 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C. </strong>
+#!preamble Symbolizing</font>&nbsp;&nbsp;
+#!preamble Translate the following statements into symbols, using the schemes 
+#!preamble of abbreviation provided.<p>
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+#1
+The crops will fail unless it rains. (C: The crops will fail; R: It rains)::::(CvR)
+#2
+Humans are animals if they are mammals. (A: Humans are animals; M:Humans are mammals)::::(M->A)
+#3
+The statement, "If humans are rational, then they are not animals" is false. (R: Humans are rational; A: Humans are animals)::::~(R->~A)
+#4
+Bats are mammals only if they nourish their young with milk. (M: Bats are mammals; N: Bats nourish their young with milk)::::(M->N)
+#5
+Coffee isn't good if it isn't fresh-brewed. (G: Coffee is good; F: Coffee is fresh-brewed)::::(~F->~G)
+#6
+Assuming that your test scores are high and you get your paper in on time, you will do well. (T: Your test scores are high; P: You get your paper in on time; W: You will do well)::::[(T.P)->W]
+#7
+Roberto lacks wisdom. (R: Roberto has wisdom)::::~R
+#8
+The statement, "Humans lack rationality" is false. (H: Humans have rationality)::::~~H
+#9
+Polly fails to be a parrot provided that she cannot talk and does not want a cracker. (P: Polly is a parrot; T: Polly can talk; C: Polly wants a cracker)::::[(~T.~C)->~P]
+#10
+Neither birds nor snakes are mammals. (B: Birds are mammals; S: Snakes are mammals)::::(~B.~S)
+#11
+Given that Linda is both smart and diligent, she will do well; but Linda is not diligent. (S: Linda is smart; D: Linda is diligent; W: Linda will do well)::::[((S.D)->W).~D]
+#12
+Al wins only if Ed does not win; and Ed wins only if Al does not win. (A: Al wins; E: Ed wins)::::((A->~E).(E->~A))
+#13
+If Smith fails to win, then either Jones wins or Smith and Jones are tied. (S: Smith wins; J: Jones wins; T: Smith and Jones are tied)::::(~S->(JvT))
+#14
+Assuming that Julio is a bachelor, he is a man who is unmarried. (B: Julio is a bachelor; M: Julio is a man; J: Julio is married)::::(B->(M.~J))
+#15
+Erin's being penniless is a sufficient condition for her being miserable. (P: Erin is penniless; M: Erin is miserable)::::(P->M)
+#16
+Dirk's being tall is a necessary condition for his being on the team. (D: Dirk Nowitzki is tall; T: Dirk Nowitzki is on the team)::::(T->D)
+#17
+The statement, "Santa does not exist" is false. (S: Santa exists)::::~~S
+#18
+We will be evicted unless we pay the rent. (E: We will be evicted; P: We pay the rent)::::(EvP)
+#19
+Although reindeer exist, Santa does not exist; but adults are not honest if Santa does not exist. (R: Reindeer exist; S: Santa exists; H: Adults are honest)::::((R.~S).(~S->~H))
+####19-old
+####While Joe and Sue are married, both have friends of the opposite sex. (M: Joe and Sue are married; J: Joe has friends of the opposite sex; S: Sue has friends of the opposite sex)::::(M.(J.S))
+#20
+Paula will pass the test just in case she studies diligently. (P: Paula will pass the test; S: Paula studies diligently)::::(S<->P)

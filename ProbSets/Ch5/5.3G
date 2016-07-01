@@ -1,0 +1,38 @@
+#!qtype MC_FIXED
+#!values True::False::Not guaranteed
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part F:</strong>
+#!preamble Inferences from <em>I</em> Statements</font>
+
+#!preamble Assuming that "Some chemicals are poisons" is true, what is implied regarding the truth or falsehood of the following statements? (If neither the truth nor the falsehood of the statement is implied, choose "Not guaranteed".) Note: To get the correct answer, you may need to make aseries of inferences from the assumed statement.
+
+#1
+Some poisons are chemicals.::::True
+#2
+No chemicals are poisons.::::False
+#3
+Some chemicals are not nonpoisons.::::True
+#4
+Some nonchemicals are nonpoisons.::::Not guaranteed
+#5
+No poisons are chemicals.::::False
+#6
+All chemicals are poisons.::::Not guaranteed
+#7
+Some nonpoisons are nonchemicals.::::Not guaranteed
+#8
+No nonpoisons are nonchemicals.::::Not guaranteed
+#9
+Some chemicals are not poisons.::::Not guaranteed
+#10
+Some nonchemicals are not nonpoisons.::::Not guaranteed
+#11
+All poisons are chemicals.::::Not guaranteed
+#12
+Some chemicals are nonpoisons.::::Not guaranteed
+#13
+Some nonchemicals are poisons.::::Not guaranteed
+#14
+Some nonpoisons are chemicals.::::Not guaranteed
+#15
+All chemicals are nonpoisons.::::False

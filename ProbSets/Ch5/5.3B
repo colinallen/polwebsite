@@ -1,0 +1,34 @@
+#!qtype MC_VAR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble Conversion </font>&nbsp;&nbsp;
+#!preamble Form the converse of each of the following statements. Then indicate whether conversion, as applied to the type of categorical statement in question, is a valid form of argument.
+
+# Format of each line is QUESTION::%%ANSWERTYPE1::OPTION1_1::...::OPTION1_n::ANSWER1::ERRORSTRING1::...%%ANSWERTYPEm::OPTIONm_1::...::OPTIONm_r::ANSWERm::ERRORSTRINGm::
+
+# If ANSWERTYPE is TEXT, there will be only the answer -- the text to be matched.
+# If ANSWERTYPE is POPUP, there will be several options that will appear on a popup list
+# The correct answer appears last in the list.  The first element of the list should be
+# an appropriate label for the POPUP; "?" is the default.
+# Don't forget the final "::" (needed to avoid special processing in the code for the mth 
+# bunch of stuff).
+
+#1
+No magnates are maggots.::%%TEXT::No maggots are magnates.::::%%POPUP::?::Valid::Invalid::Valid::If no As are Bs, is it not also true that no Bs are As?::
+#2
+All miracles are acts of God.::%%TEXT::All acts of God are miracles.::::%%POPUP::?::Valid::Invalid::Invalid::Although all acts of God might be miracles, it doesn't follow <b>generally</b> that all Bs are As if all As are Bs -- for instance, all dogs are mammals, but not all mammals are dogs.::
+#3
+Some rectangles are nonsquares.::%%TEXT::Some nonsquares are rectangles.::::%%POPUP::?::Valid::Invalid::Valid::The nonsquare rectangles are rectangular nonsquares.::
+#4
+Some explosives are not bombs.::%%TEXT::Some bombs are not explosives.::::%%POPUP::?::Valid::Invalid::Invalid::There are explosives (e.g., some fireworks) that aren't bombs.::
+#5
+All demons are angels.::%%TEXT::All angels are demons.::::%%POPUP::?::Valid::Invalid::Invalid::Only the bad angels are demons.::
+#6
+No lovers are loners.::%%TEXT::No loners are lovers.::::%%POPUP::?::Valid::Invalid::Valid::If some loner were a lover, it wouldn't be true that no lovers are loners.::
+#7
+All forgeries are copies.::%%TEXT::All copies are forgeries.::::%%POPUP::?::Valid::Invalid::Invalid::Every copy in an edition of original limited editions prints, for example, is genuine.  So some copies are not forgeries.::
+#8
+No roaches are coaches.::%%TEXT::No coaches are roaches.::::%%POPUP::?::Valid::Invalid::Valid::If none of the roaches are coaches, then none of the coaches are roaches!::
+#9
+Some Africans are not Kenyans.::%%TEXT::Some Kenyans are not Africans.::::%%POPUP::?::Valid::Invalid::Invalid::A Tanzanian, for instance, is a non-Kenyan African, but it is impossible to be a Kenyan without being an African.::
+#10
+Some leopards are nontigers.::%%TEXT::Some nontigers are leopards.::::%%POPUP::?::Valid::Invalid::Valid::Conversion is always valid for I statements!::

@@ -1,0 +1,37 @@
+#!qtype MC_FIXED
+#!values Valid::Invalid::Strong::Weak::Sound::Cogent::Statement::Unsound::Uncogent::Deductive logic::Inductive logic::Logic::Argument::Argument from analogy::Argument from authority
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong> Matching</font>&nbsp;&nbsp;
+#!preamble Choose the term that best characterizes the description or statement on the right.
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER 
+
+#1
+Sentence which is either true or false.::This is our definition of a statement::Statement
+#2
+An argument that is either invalid or has a false premise.::The definition of a Sound argument is one that is valid and has (all) true premises.::Unsound
+#3
+A strong argument with (all) true premises.::This is our definition of `Cogent'.::Cogent
+#4
+The part of logic which is concerned with tests for validity and invalidity.::A valid argument is one where the truth of the premises guarantees the truth of the conclusion.::Deductive logic 
+#5
+An argument in which it is not probable that, if the premises are true, then the conclusion is true::A strong argument must make its conclusion more likely than not.::Weak
+#6
+A valid argument with (all) true premises.::This is our definition of deductive soundness::Sound
+#7
+The part of logic concerned with tests for strength and weakness.::The terms `strong' and `weak' are inductive standards by which we evaluate arguments.::Inductive logic
+#8
+The study of methods for testing whether the premises of an argument adequately support its conclusion.::This statment encompasses both deductive and inductie standards of argument evaluation.::Logic
+#9
+An argument in which it is necessary that, if the premises are true then the conclusion is true.::This is a logical consequence of the definition of validity.::Valid
+#10
+A set of statements, where some of the statements, called the premises, are intended to support another, called the conclusion.::This is our definition of `argument'.::Argument
+#11
+Non-Hodgkins lymphoma is not as rare in the U.S.A. as one might have thought. For, according to the American Cancer Society, it is the fifth most common type of cancer in the U.S.A..::Appealing to the American Cancer Society's judgment is an appeal to authority.::Argument from authority
+#12
+An argument in which it is not necessary that: if the premises are true, then the conclusion is true.::This is impossible for a valid argument.  Strong and weak arguments have this feature, and together they comprise the class of invalid arguments.::Invalid
+#13
+Many organs are like machines: They have parts that are interrelated in such a way as to serve a purpose. Machines are produced by intelligent design. So, many organs are produced by intelligent design too.::Organs are likeBmachines- this is an analogy.::Argument from analogy
+#14
+An argument in which it is probable (but not necessary) that: if the premises are true, then the conclusion is true.::If true premises <i>always</i> led to a true conclusion, the argument would be valid.  Otherwise it is just strong.::Strong
+#15
+An argument that is either weak or strong with at least one false premise.::Weak and strong arguments are judged by inductive standards; a sound argument must have true premises.::Uncogent

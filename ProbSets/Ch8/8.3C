@@ -1,0 +1,36 @@
+#!qtype PRF
+#!preamble <font color="ee0077" face="helvetica"><strong>Part C:</strong>
+#!preamble Short Proofs</font>&nbsp;&nbsp;
+#!preamble Construct proofs for the following valid symbolic arguments
+
+1.~MvN :. ~N->~M
+1.~B<->C2.~B :. C
+1.~Sv(R.T)2.~R :. ~S
+1.~Av~A2.AvP :. P
+1.(D->C).(C->D)2.E->~(D<->C) :. ~E
+1.F.(GvH)2.~Fv~H :. F.G
+1.(~J.K)->L2.~J :. ~L->~K
+1.(~NvM).(~NvO) :. ~(M.O)->~N
+1.P.P2.Q->~P :. ~Q
+1.~R2.(R->S)->T :. T
+1.U->(X->W)2.Z->~[(U.X)->W] :. ~Z
+1.~D :. C->~D
+1.E->H2.(EvF).(EvG)3.(F.G)->H :. H
+1.(~J.K)v(~J.L)2.M->J :. ~M
+1.~N<->~O2.(~O->~N)->P :. P
+1.~~(R.S)2.T->(R->~S) :. ~T
+1.~C2.(~A.B)v(~A.C) :. B
+1.(~DvE).(~Dv~F)2.(E.~F)->~G3.~D->~G :. ~G
+1.HvH2.H<->~J :. ~J
+1.X<->Y2.~~(XvY) :. X.Y
+#21
+1.[(L.M)v~L].[(L.M)v~M] :. L<->M
+#22
+1.P.Q :. [(RvP).R]v[(RvP).Q]
+#23
+1.R.~R :. S.~S
+#24
+1.~O :. ~Q->~(O.P)
+#25
+1.(A->B)<->C2.~(A->B)v~C :. ~C
+

@@ -1,0 +1,47 @@
+#!qtype PRF
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
+#!preamble Proofs</font>&nbsp;&nbsp;
+#!preamble Construct proofs to show that the following arguments are valid.
+
+
+#1
+1.(Na.~Nb).:~a=b
+#2
+1.~a=b.:($x)($y)~x=y
+#3
+1.(Rab.($x)~Rxb).:($x)~x=a
+#4
+1.[c=d->e=g]2.d=c3.Fg.:Fe
+#5
+1.[(x)x=a->~b=b].:($x)~x=a
+#6
+1.(x)[~Gx->~x=d].:Gd	
+#7
+1.(y)(Ay->By)2.Ab3.b=c.:Bc
+#8
+1.(z)(Cz->Dz)2.(~Dg.Ca).:~g=a
+#9
+1.(x)(~Fx->~Ex)2.(x)(Fx->Gx)3.(~Gb.Ea).:~a=b
+#10
+1.(x)(Hx->Jx)2.(x)(Kx->Lx)3.(Hd.Kc)4.c=d.:(Jc.Ld)
+#11
+1.(x)[Gx->x=d]2.($x)(Fx.Gx).:Fd
+#12
+1.(x)(y)[Cyx->~(z)Dz]2.(x)n=x3.($x)[Ax.(y)(Ay->Cxy)].:~Dn
+#13
+1.($x)Hx2.(x)(y)[(Hx.Hy)->x=y].:($x)[Hx.(y)(Hy->x=y)]
+#14
+1.(x)(y)y=x2.(x)Mxx.:Mab
+#15
+1.(x)[($y)Kxy->($z)Kzx]2.(x)[Kxg.x=b].:($z)Kzb
+#16
+1.($x)([(Ax.Bxa).(y)((Ay.Bya)->y=x)].Dxb)2.Ac.Bca.:Dcb
+#17
+1.(x)x=a.:(x)(y)x=y
+#18
+1.($x)Wx.(x)(y)[(Wx.Wy)->x=y].:($x)[Wx.(y)(Wy->x=y)]
+#19
+1.(x)[Mx->(x=avx=b)]2.($x)(Mx.Nx).:MavMb
+#20
+1.($x)[Fx.(y)(Fy->x=y)]->~(x)($y)x=y2.Fb.:($y)(Fy.~b=y)
+

@@ -1,0 +1,71 @@
+#!qtype MC_MULTI
+#!valuetype ?::No fallacy::Argument against the person::Abusive ad hominem::Straw man fallacy::Appeal to force::Appeal to the people::Appeal to pity::Formal fallacy::Appeal to ignorance
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Formal and Informal Fallacies</font>&nbsp;&nbsp;
+#!preamble If a fallacy is committed in the following passages, choose the 
+#!preamble fallacy exemplified. If no fallacy is committed, choose "No fallacy."
+#!preamble If more than one fallacy applies, choose the most specific one.
+#!preamble (For example, "Abusive ad hominem" is more specific than "Argument against the person.")
+
+# Format of each line QUESTION::ANSWER::ERROR_MESSAGE
+
+#1
+To put it bluntly but fairly, anyone today who doubts that the variety of life on this planet was produced by a process of evolution is simply ignorant &mdash; inexcusably ignorant.::Argument against the person::This is simply an attack on the intelligence or education of those with doubts about evolution. It is not an argument, nor does it address the reasons people may have for their doubts. It is borderling abusive, so, in the right context, might be considered an abusive ad hominem fallacy.
+#2
+Your Honor, it's true that I killed my parents. I fully admit that I murdered them in cold blood. But I should get a light sentence. After all, I am an orphan.::Appeal to pity::The speaker is asking you to feel sorry for him or her.
+#3
+As I travel around and talk to people I find that many do not even know what genetic engineering is. Well, genetic engineering is best defined as the most recent in a long line of attempts, on the part of human beings, to play God. Of course, the proponents of genetic engineering overlook just one little fact: we humans are not God. And that's why genetic engineering is profoundly immoral.::Straw man fallacy::Is "playing God" and accurate description of genetic engineering?
+#4
+All the really hot new thinkers are using principles from sociobiology. It's the new wave in ethics. So, you should accept the principles of sociobiology.::Appeal to the people::Everyone is doing it!
+#5
+Any politician who has lied to the nation is a person who has betrayed the public trust. Some US Presidents are politicians who have lied to the nation. Accordingly, some US Presidents are persons who have betrayed the public trust.::No fallacy::This is a valid argument.
+#6
+Although they've certainly tried, scientists have not been able to demonstrate that ESP is a myth. So, ESP is probably real.::Appeal to ignorance::"...scientists have not been able to demonstrate..."
+#7
+It is quite clear what the proponents of legalized euthanasia are seeking. Put simply, they are seeking the power to kill anyone who has a serious illness. And that is why I stand opposed to legalized euthanasia.::Straw man fallacy::Do euthanasia advocates really seek this much power?
+#8
+All beautiful paintings are colorful objects. No charcoal drawings are beautiful paintings. Therefore, no charcoal drawings are colorful objects.::Formal fallacy::Identify the form and find a counterexample.
+#9
+So many people these days are against prayer in the public schools! Of course, the assumptions underlying this view include: (a) there is no God, (b) only matter exists, and (c) life is essentially meaningless. That is why we must fight against these people who seek to remove prayer from our public schools.::Straw man fallacy::Do all opponents of school prayer fit this description?
+#10
+Professor Jackson, this paper merits at least a "B." I stayed up all night working on it. And if I don't get a "B," I'll be put on academic probation.::Appeal to pity::A pitiful sight.
+#11
+If consuming large quantities of alcohol damages one's liver, then consuming large quantities of alcohol is unhealthy. Consuming large quantities of alcohol damages one's liver. Hence, consuming large quantities of alcohol is unhealthy.::No fallacy::Modus Ponens.
+#12
+Of course it is reasonable to believe that we have been visited by extraterrestrial beings. After all, plenty of skeptics have tried, but none has been able to disprove that such visitations have occurred.::Appeal to ignorance::"...none has been able to disprove..."
+#13
+ Since you became a member of this club you've raised quite a ruckus about women's rights. And I know you sincerely believe in feminism. But if you go on holding these extreme views, I will see to it that you are never voted in as an officer of this club. And you know I can make good on that threat. I hope you follow me: your feminist views are too radical and need to be toned down.::Appeal to force::We can force you to change your mind!
+#14
+The future free actions of humans can be known in advance only if time travel is possible. But you're a fool if you think time travel is possible. So, it is not true that the future free actions of humans can be known in advance.::Argument against the person::What, fools can't be right?  Attack the position not its representative.
+#15
+If Norway is the world leader in per capita electrical power generation, then the USA is not the world leader.  And indeed, the USA is not the world leader in per capita electrical power generation. Therefore, Norway is the world leader in per capita electrical power generation.::Formal fallacy::Identify the form and construct a counterexample.
+#16
+Dr. Herzheimer has written essays criticizing self-help books from the standpoint of logic and science. I realize Dr. Herzheimer is a famous philosopher, but I think it's immature and cold-hearted to criticize people who are trying to help others get their lives together. Thus, I myself give no credence to Dr. Herzheimer's work whatsoever.::Argument against the person::So you don't like Herzheimer -- does that mean he's wrong?
+#17
+Republicans are people who believe that the rich should get richer and the poor poorer. They are against welfare and against taxes for people who can well afford to pay taxes. Republicans also hold that the only good immigrants are either wealthy or well-educated. Thus, I strongly urge you not to be a Republican.::Straw man fallacy::Is this an accurate representation of Republican views?
+#18
+Excuse me, Mr. Smith, did I hear you correctly? Did you say that boxing should be banned? Sure, boxing is a little dangerous, but real men love boxing. Therefore, boxing should not be banned.::Appeal to the people::Lots of people like it so it must be good...right?
+#19
+Mr. Johnson argues that we should stop eating meat. But did you know that Mr. Johnson owns the Vegetables Forever Produce Company? Oh yes, he stands to gain a lot, financially speaking, if the rest of us become vegetarians. I think we can safely ignore his line of argument.::Argument against the person::Even if he does stand to gain, does that mean he's wrong?
+#20
+Nowadays, everybody who is anybody knows that zumba is the coolest way to keep fit.::Appeal to the people::It must be great, because it's the latest trend!! :-)
+#21
+Given that most commuters are willing to ride trains, light rail is a good solution to gridlock on the highways. But most commuters are not willing to ride trains. Hence, light rail is not a good solution to gridlock on the highways.::Formal fallacy::Denying the antecendent.
+#22
+I do not have very much information about Mr. Reed, but there is nothing in his file to disprove that he's an eco-terrorist. So, he probably is one.::Appeal to ignorance::There's nothing in his file to prove it, either! 
+#23
+I find it mildly amusing that Mr. and Mrs. Billings are advocating school reforms. But  I certainly do not see any reason to take their proposal seriously. Both of them were poor students in high school.::Argument against the person::Attacking Mr. and Mrs. Billings, not their arguments. The attack is not really severe enough to be considered abusive, even assuming the Billings' are in the room (although it could be if, e.g., it were said in a mocking tone of voice; but it is not clear from the context that an abusive tone was used).
+#24
+Intelligent, refined people insist on the best wines. And our Old World Merlot is the best red wine available. Obviously, Old World Merlot is for you.::Appeal to the people::Join the crowd!
+#25
+The school needs a football team. I hope you agree. One thing I can tell you for sure: if you want to fit in around here, you'll see this issue the way the rest of us do. And we all think the school needs a football team.::Appeal to the people::Be like us!
+#26
+Robert, I've heard you're a climate change denier. So, let me tell you something. Around here, we know climage change is real and manmade. And we have ways of making climate change deniers see the error of their ways. The last denier who passed through this town suddenly saw the light after some of the boys had a little "talk" with him one night. I hope these facts will clarify things for you. You do understand that climate change is real, don't you?::Appeal to force::We have ways of making you agree!
+#27
+Yes, Jill argues for deconstruction. But her mind is so open her brains are falling out. You can safely ignore whatever she has to say.::Argument against the person::Attack on Jane not her arguments.
+#28
+In 1742 Christian Goldbach conjectured that every even number greater than 2 is the sum of two primes. Mathematicians have been trying to prove Goldbach's Conjecture ever since, but no one has succeeded in doing so. After two-and-half centuries, I think we can safely conclude that Goldbach was wrong.::Appeal to ignorance::"...no one has succeeded in doing so."
+#29
+It's interesting how the family of David Walker, the African American shot by Seattle police, complained that none of the jurors at the fact-finding hearing are black, but have no problem that their attorney suing the city for $5 million is not black. (Assume that the implicit conclusion is: the complaint is groundless.)::Argument against the person::It is suggested that there is some inconsistency or hypocrisy in demanding black jurors while employing a non-black attorney.
+#30
+After centuries of trying, no one has been able to prove that God exists. The attempt seems to be futile. So, at this point I think we can safely conclude that there is no God.::Appeal to ignorance::"...no one has been able to prove..."

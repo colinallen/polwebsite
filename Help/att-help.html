@@ -1,0 +1,530 @@
+<html>
+    <h3>Completing an Abbreviated Truth Table</h3>
+
+    <p> After selecting an abbreviated truth table exercise, you are presented with an
+      incomplete abbreviated truth table like this one:</p>
+
+    <p>
+    <center>
+      <form>
+	<table align="center" border=3 cellspacing=0 cellpadding=0>
+	  <tr>
+	    <td>
+	      <table border="0">
+		<tr>
+		  <td valign="center" align="left">
+		    <img src="/Images/PoLogo.gif" align="left" border="0">
+		  </td>
+		  <td align="left" valign="center">
+		    <strong><font size="+1">
+			<em>The Power of Logic</em>
+		      </font>
+		      <br>Exercise 7.4A Problem 50<br>
+		    </strong>
+		  </td>
+		</tr>
+	      </table>
+	      <hr width="98%">
+              <center>
+                <strong>
+                  <font color="maroon"> 
+                    Complete the truth table!
+                  </font>
+                </strong>
+              </center>
+              <center>
+                <table border="0">
+                  <tr>
+                    <td align="left">
+                      <TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: Courier,monospace">
+A B | A -> C, ~(B -> ~C) :. A . C
+----|---------------------------------
+    |  
+                      </TEXTAREA></td></tr>
+                </table>
+                <hr width="98%">
+                <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+                <INPUT TYPE="hidden" NAME="helpfile"
+                  VALUE="att-help.html">
+                <p>
+	</table>
+      </form>
+    </center>
+    
+    <p> The top line of the incomplete abbreviated truth table
+      contains the statement letters contained in the argument, a
+      vertical line, and the sentence or argument for which the truth
+      table is to be constructed.  The next line contains a separator --
+      basically a row of hyphens and a single vertical line.  The third
+      line is blank.  Begin by filling in a &nbsp;<tt>T</tt> beneath the
+      main logical operator of each premise (or beneath any statement
+      letter that occurs as a premise) and an &nbsp;<tt>F</tt> beneath
+      the main logical operator of the conclusion (or beneath the
+      conclusion itself, if it is a statement letter):
+
+    <p>
+    <center>
+      <form>
+	<table align="center" border=3 cellspacing=0 cellpadding=0>
+	  <tr>
+	    <td>
+	      <table border="0">
+		<tr>
+		  <td valign="center" align="left">
+		    <img src="/Images/PoLogo.gif" align="left" border="0">
+		  </td>
+		  <td align="left" valign="center">
+		    <strong><font size="+1">
+			<em>The Power of Logic</em>
+		      </font>
+		      <br>Exercise 7.4A Problem 50<br>
+		    </strong>
+		  </td>
+		</tr>
+	      </table>
+	      <hr width="98%">
+              <center>
+                <strong>
+                  <font color="maroon"> 
+                    Complete the truth table!
+                  </font>
+                </strong>
+              </center>
+              <center>
+                <table border="0">
+                  <tr>
+                    <td align="left">
+                      <TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: Courier,monospace">
+A C B | A -> C, ~(B -> ~C) :. A . C
+------|---------------------------------
+      |   T     T               F
+                      </TEXTAREA></td></tr>
+                </table>
+                <hr width="98%">
+                <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+                <INPUT TYPE="hidden" NAME="helpfile"
+                  VALUE="att-help.html">
+                <p>
+	</table>
+      </form>
+    </center>
+
+    <p>
+      Now we flesh out the row by assigning truth values appropriately
+      to the component statements in the argument.  Specifically, in
+      Layman's method, one proceeds by identifying a truth value
+      assignment for the sentence letters that will make the
+      conclusion false (there will always be one, as the conclusions
+      in the exercises are never tautologies) and then testing
+      whether all of the premises can be made true on that assignment.
+      If so, the argument is invalid.  If not, identify any other
+      truth value assignments that make the conclusion false and fill
+      in another row in the same fashion.  If, on any of these
+      assignments, the premises can all be made true, the argument is
+      invalid.  On the other hand, if, on <i>every</i> truth value
+      assignment that makes the conclusion false, it is not possible
+      to make all of the premises true, the argument is valid.
+    </p>
+
+    <p>
+      Given this method, then, a row in an abbreviated truth value is
+      filled out in accordance with the following three rules:
+    </p>
+
+    <ol>
+      <li>
+        A truth value (i.e., '<tt>T</tt>' or '<tt>F</tt>') must occur
+        beneath every sentence letter in the argument
+      </li>
+      <li>
+        A truth value or a slash (i.e., '&#047') must occur beneath
+        every logical operator in the argument.
+      </li>
+      <li>
+        A slash can occur only under the main logical operator of a
+        premise.
+      </li>
+    </ol>
+
+    <p>	
+    <center>
+    </center>
+  </p>
+
+    <p>
+      (Note that, in practice, strict adherence to the first two rules
+      is not required -- in many abbreviated truth tables, some truth
+      values in some rows are irrelevant and can be omitted.  The
+      first rule is required here only because it allows for a much
+      simpler design than a looser rule would have permitted.)
+    </p>
+    
+    <p>
+      Because there are three ways to make <tt>(A . C)</tt> false,
+      each way must be tried in turn until a consistent assignment
+      for the component statement letters is found (i.e., an
+      "invalidating assignment"), or until all
+      three ways have failed to find such an assignment.  For
+      instance, suppose we first try assigning '<tt>F</tt>' to
+      both <tt>A</tt> and <tt>C</tt>.  Filling in accordingly
+      beneath every occurrence of <tt>A</tt> and <tt>C</tt> yields
+      the following:
+    </p>
+
+    <p>
+    <center>
+      <form>
+        <table align="center" border=3 cellspacing=0 cellpadding=0>
+          <tr>
+            <td>
+              <table border="0">
+                <tr>
+                  <td valign="center" align="left">
+                    <img src="/Images/PoLogo.gif" align="left" border="0">
+                  </td>
+                  <td align="left" valign="center">
+                    <strong><font size="+1"> <em>The Power of
+                          Logic</em>
+                      </font>
+                      <br>Exercise 7.3A Problem 50<br>
+                    </strong>
+                  </td>
+                </tr>
+              </table>
+              <hr width="98%">
+              <center>
+                <strong>
+                  <font color="maroon"> 
+                    Complete the truth table!
+                  </font>
+                </strong>
+              </center>
+              <center>
+                <table border="0">
+                  <tr>
+                    <td align="left">
+                      <TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: Courier,monospace">
+A C B | A -> C, ~(B -> ~C) :. A . C
+------|---------------------------------
+      | F T  F  T      F      F F F
+                      </TEXTAREA></td></tr>
+                </table>
+                <hr width="98%">
+                <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+                <INPUT TYPE="hidden" NAME="helpfile"
+                  VALUE="att-help.html">
+                <p>
+        </table>
+      </form>
+    </center>
+  </p>
+
+    All that remains is to to try to calculate the value for
+    <tt>~C</tt> and to find a value for <tt>B</tt>.  Since
+    <tt>C</tt> is false, <tt>~C</tt> must be true, so a
+    '<tt>T</tt>' will have to go underneath the tilde in
+    <tt>~C</tt>.  But this means that <tt>(B -> ~C)</tt> will be
+    true regardless of what truth value we assign to <tt>B</tt>.
+    However, note that by Rule 1 for completing a row of an
+    abbreviated truth table, a truth value must still be entered
+    for <tt>B</tt>.  We will choose '<tt>T</tt>' arbitrarily.  But
+    note now that the truth value for entire premise <tt>~(B ->
+      ~C)</tt> is <tt>F</tt> on this assigment of truth values to
+    <tt>B</tt> and <tt>C</tt>, which conflicts with our initial
+    assignment of '<tt>T</tt>'.  We therefore indicate this
+    conflict by replacing the '<tt>T</tt>' with a slash, as
+    indicated below:
+  </p>
+    
+    <p>
+    <center>
+      <form>
+        <table align="center" border=3 cellspacing=0 cellpadding=0>
+          <tr>
+            <td>
+              <table border="0">
+                <tr>
+                  <td valign="center" align="left">
+                    <img src="/Images/PoLogo.gif" align="left" border="0">
+                  </td>
+                  <td align="left" valign="center">
+                    <strong><font size="+1">
+                        <em>The Power of Logic</em>
+                      </font>
+                      <br>Exercise 7.3A Problem 50<br>
+                    </strong>
+                  </td>
+                </tr>
+              </table>
+              <hr width="98%">
+              <center>
+                <strong>
+                  <font color="maroon"> 
+                    Complete the truth table!
+                  </font>
+                </strong>
+              </center>
+              <center>
+                <table border="0">
+                  <tr>
+                    <td align="left">
+                      <TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: Courier,monospace">
+A C B | A -> C, ~(B -> ~C) :. A . C
+------|---------------------------------
+      | F T  F  / T T  TF     F F F
+
+                      </TEXTAREA></td></tr>
+                </table>
+                <hr width="98%">
+                <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+                <INPUT TYPE="hidden" NAME="helpfile"
+                  VALUE="att-help.html">
+                <p>
+        </table>
+      </form>
+    </center>
+  </p>
+    
+    (We cannot, of course, just assign '<tt>F</tt>' to
+    <tt>~(B -> ~C)</tt>, as the whole point is to try to
+    find a truth value assignment that makes the premises
+    <em>true</em> and the conclusion false.)  So this
+    particular attempt to find an invalidating assignment
+    has failed.  However, there remain two possible ways of
+    making the conclusion false that we have not tested, one 
+    where <tt>A</tt> is true and <tt>B</tt> is false, and
+    one where <tt>A</tt> is false and <tt>B</tt> is true.
+    Trying the first of these, we find that we again end up with an
+    inconsistent assignment:
+  </p>
+    
+    <p>
+    <center>
+      <form>
+        <table align="center" border=3 cellspacing=0 cellpadding=0>
+          <tr>
+            <td>
+              <table border="0">
+                <tr>
+                  <td valign="center" align="left">
+                    <img src="/Images/PoLogo.gif" align="left" border="0">
+                  </td>
+                  <td align="left" valign="center">
+                    <strong><font size="+1">
+                        <em>The Power of Logic</em>
+                      </font>
+                      <br>Exercise 7.4A Problem 50<br>
+                    </strong>
+                  </td>
+                </tr>
+              </table>
+              <hr width="98%">
+              <center>
+                <strong>
+                  <font color="maroon"> 
+                    Complete the truth table!
+                  </font>
+                </strong>
+              </center>
+              <center>
+                <table border="0">
+                  <tr>
+                    <td align="left">
+                      <TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: Courier,monospace">
+A C B | A -> C, ~(B -> ~C) :. A . C
+------|---------------------------------
+      | F T  F  / T T  TF     F F F
+      | T /  F  / T T  TF     T F F
+                      </TEXTAREA></td></tr>
+                </table>
+                <hr width="98%">
+                <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+                <INPUT TYPE="hidden" NAME="helpfile"
+                  VALUE="att-help.html">
+                <p>
+        </table>
+      </form>
+    </center>
+  </p>
+
+    <p>
+      Consequently, we need to try the third way of making the
+      conclusion false, and this time we find an invalidating
+      assignment:
+
+    <p>
+    <center>
+      <form>
+        <table align="center" border=3 cellspacing=0 cellpadding=0>
+          <tr>
+            <td>
+              <table border="0">
+                <tr>
+                  <td valign="center" align="left">
+                    <img src="/Images/PoLogo.gif" align="left" border="0">
+                  </td>
+                  <td align="left" valign="center">
+                    <strong><font size="+1">
+                        <em>The Power of Logic</em>
+                      </font>
+                      <br>Exercise 7.4A Problem 50<br>
+                    </strong>
+                  </td>
+                </tr>
+              </table>
+              <hr width="98%">
+              <center>
+                <strong>
+                  <font color="maroon"> 
+                    Complete the truth table!
+                  </font>
+                </strong>
+              </center>
+              <center>
+                <table border="0">
+                  <tr>
+                    <td align="left">
+                      <TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: Courier,monospace">
+A C B | A -> C, ~(B -> ~C) :. A . C
+------|---------------------------------
+      | F T  F  / T T  TF     F F F
+      | T /  F  / T T  TF     T F F
+      | F T  T  T T F  FT     F F T
+                      </TEXTAREA></td></tr>
+                </table>
+                <hr width="98%">
+                <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+                <INPUT TYPE="hidden" NAME="helpfile"
+                  VALUE="att-help.html">
+                <p>
+        </table>
+      </form>
+    </center>
+  </p>
+
+    <p>
+      To complete the truth table, copy the truth values that have
+      been assigned to the sentence letters under the argument to
+      the area beneath the initial list of sentence letters that
+      appear in the truth value assignment area to the left of the
+      argument; be sure you include a vertical bar to separate the
+      truth value assignment area from the area beneath the
+      argument:
+    </p>
+
+    <p>
+    <center>
+      <form>
+        <table align="center" border=3 cellspacing=0 cellpadding=0>
+          <tr>
+            <td>
+              <table border="0">
+                <tr>
+                  <td valign="center" align="left">
+                    <img src="/Images/PoLogo.gif" align="left" border="0">
+                  </td>
+                  <td align="left" valign="center">
+                    <strong><font size="+1">
+                        <em>The Power of Logic</em>
+                      </font>
+                      <br>Exercise 7.4A Problem 50<br>
+                    </strong>
+                  </td>
+                </tr>
+              </table>
+              <hr width="98%">
+              <center>
+                <strong>
+                  <font color="maroon"> 
+                    Complete the truth table!
+                  </font>
+                </strong>
+              </center>
+              <center>
+                <table border="0">
+                  <tr>
+                    <td align="left">
+                      <TEXTAREA NAME="tt" ROWS=7 COLS=45 STYLE="font-family: Courier,monospace">
+A C B | A -> C, ~(B -> ~C) :. A . C
+------|---------------------------------
+      | F T  F  / T T  TF     F F F
+      | T /  F  / T T  TF     T F F
+F T T | F T  T  T T F  FT     F F T
+                      </TEXTAREA></td></tr>
+                </table>
+                <hr width="98%">
+                <INPUT TYPE="submit" NAME="" VALUE="Check Truth Table Now!">
+                <INPUT TYPE="hidden" NAME="helpfile"
+                  VALUE="att-help.html">
+                <p>
+        </table>
+      </form>
+    </center>
+  </p>
+
+    <p>
+      Click on the "Invalid" button (or the "Valid" button, if you
+      have exhausted all the ways of making the conclusion false
+      without finding an invalidating assignment) to receive the
+      fulsome praise that is your due!
+    </p>
+
+    <p>	  
+    <center>
+      <table width=450 border=3 bgcolor=white>
+        <tr><td>
+            <table border="0">
+              <tr>
+                <td valign="center" align="center">
+                  <img src="/Images/PoLogo.gif" align="left" border="0">
+                </td>
+                <td align="left" valign="center">
+                  <strong>
+                    <font size="+1"><em>The Power of Logic</em>
+                    </font>
+                    <br>
+                    Exercise 7.4A Problem 50</strong>
+                </td>
+              </tr>
+            </table>
+            <hr width="98%">
+            <center>
+              <h1>
+                Correct!  Argument is invalid!
+              </h1>
+            </center><table width="100%" border="0">
+              <tr>
+                <td> Your abbreviated truth table is
+                  correct!  Row 3 shows that the premises are
+                  all true and the conclusion is false when
+                  statement letter <tt>A</tt> is assigned
+                  <tt>F</tt>, <tt>C</tt> is assigned
+                  <tt>T</tt>, and <tt>B</tt> is assigned
+                  <tt>T</tt>, so you have shown that the
+                  argument is invalid!
+                </td>
+              </tr>
+            </table>
+            <p>
+            <center>
+              <b>Your truth table:</b><p>
+              <table border="0">
+                <tr><td>
+                    <pre>
+A C B | A -> C, ~(B -> ~C) :. A . C
+------|---------------------------------
+      | F T  F  / T T  TF     F F F
+      | T /  F  / T T  TF     T F F
+F T T | F T  T  T T F  FT     F F T
+                    </pre>
+                  </td>
+                </tr>
+              </table>
+            </center>
+          </td>
+        </tr>
+      </table>
+    </center>
+  </p>
+
+</html>

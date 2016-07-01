@@ -1,0 +1,78 @@
+#!qtype MC_FIXED
+#!values True::False
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble True or False?</font>&nbsp;&nbsp;
+#!preamble Which of the following statements are true? Which are false? 
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+All valid arguments have at least one false premise.::The concept of validity applies to the <u>relationship</u> of premises to conclusion, not to the <u>actual</u> truth or falsity of the statements.::False
+#2
+An argument is a set of statements where some of the statements, called the premises, are intended to support another, called the conclusion.::Recall that this is a technical definition of `argument' for the study of logic.::True
+#3
+Every valid argument has true premises and only true premises::An argument with false premises is valid so long as it is the case that <u>if</u> its premises were true then conclusion would have to be true.::False
+#4
+Logic is the study of methods for evaluating whether the premises of an argument adequately support its conclusion.::For the purposes of this course, this is our definition of `logic'.::True
+#5
+Some statements are invalid.::The descriptions `valid' and `invalid' apply only to arguments, not single statements::False
+#6
+Every valid argument has true premises and a true conclusion.::Valid arguments may have false premises so long as it is the case that if its premises <u>were</u> true then conclusion would also have to be true.::False
+#7
+A sound argument can have a false conclusion::A sound argument is a valid argument with true premises.  An argument is valid if and only if the truth of its premises guarantees the truth of its conclusion.::False
+#8
+Deductive logic is the part of logic that is concerned with tests for validity and invalidity.::This is our definition of `deductive logic'.::True
+#9
+If a valid argument has only true premises, then it must have a true conclusion.::A valid argument is defined as one where necessarily if the premises are true, so is its conclusion.::True
+#10
+Some arguments are true.::The description `true' is properly applied only to individual statements, not to entire arguments.::False
+#11
+If a valid argument has only false premises, then it must have a false conclusion.::The definition of validity requires only that a valid argument with true premises must have a true conclusion; this allows for the possibility of a valid argument that has false premises having either a false conclusion or a true conclusion.::False
+#12
+Some invalid arguments have false conclusions but (all) true premises.::Invalid arguments can have any combination of true and false premises and conclusion.::True
+#13
+Every sound argument is valid.::It is part of the definition of a sound argument that the argument is valid.::True
+#14
+Every valid argument with a true conclusion is sound.::While having a true conclusion is entailed by the definition of deductive soundness, it is not a sufficient condition. ::False
+#15
+Every valid argument with a false conclusion has at least one false premise.::This statement is true because a valid argument with true premises must, by definition, have a true conclusion.::True
+#16
+Every unsound argument is invalid.::A valid argument can be unsound if it has at least one false premise.::False
+#17
+Some premises are valid.::The term `valid' is applied only to complete arguments.::False
+#18
+If all the premises of an argument are true, then it is sound.::Deductive soundness requires more than true premises.::False
+#19
+If an argument has (all) true premises and a false conclusion, then it is invalid.::The definition of a valid argument requires a true conclusion if all the premises are true.::True
+#20
+If an argument has one false premise, then it is unsound.::The definition of deductive soundness requires that all premises be true.::True
+#21
+Every unsound argument has at least one false premise.::An argument with all true premises may nonetheless be unsound if it is invalid.::False
+#22
+Some statements are sound.::The description `sound' cannot be applied to individual statements.::False
+#23
+Every valid argument has a true conclusion.::A false conclusion is possible from a valid argument so long as at least one premise is false.::False
+#24
+Every invalid argument is unsound.::Validity is a requirement for deductive soundness hence an invalid argument must be unsound.::True
+#25
+Some arguments are false.::The term `false' applies only to individual statements, not to arguments as a whole.::False
+#26
+If an argument is invalid, then it must have true premises and a false conclusion.::From the fact that an argument is invalid, nothing can be inferred about the truth or falsity of its premises.  Any combination of true and false premises is possible for invalid arguments.::False
+#27
+Every valid argument has this feature: Necessarily, if its premises are true, then its conclusion is true.::Compare to the definition of <em>validity</em>::True
+#28
+Every invalid argument has this feature: It is possibly false that if its premises are true, then its conclusion is true.::Only valid arguments guarantee true conclusions given true premises.::True
+#29
+Every sound argument has a true conclusion.::Sound arguments are valid arguments with true premises.::True
+#30
+Every valid argument has this feature: Necessarily, if its premises are false,then its conclusion is false.::Validity only tells you what happens if the premises are true.  If they are false, nothing can be inferred about the conclusion.::False
+#31
+A deductive argument is one in which the premises are intended to make the conclusion probable, without guaranteeing it.::Deductive arguments must <i>guarantee</i> the conclusion; this is the definition of an inductive argument.::False
+#32
+An inductive argument is one in which the premises are intended to guarantee the conclusion.::Inductive arguments must only make the conclusion more probable, without guaranteeing it.  This statement is the definition of a deductive argument.::False
+#33
+Inductive logic is the study of methods for evaluating whether the premises of an argument make its conclusion probable, without guaranteeing it.::From the definitions of <em>logic</em> and <em>inductive argument</em> one could use inductive logic to determine this.::True
+#34
+"It's raining outside, so the ground is wet," is best regarded as a deductive argument.::This is best regarded as an inductive argument where the premise is being offered as a reason to believe that the conclusion is LIKELY to be true.::False
+#35
+"It must be raining outside. After all, if it weren't, then the ground would be dry, but it's soaking wet" is best regarded as an inductive argument.::This is best regarded as a deductive argument, that is, one where the conclusion must be true IF the premises are. However, it is not obviously a SOUND argument, since the visible wet ground might be explained through other means (e.g., a sprinkler system).::False 

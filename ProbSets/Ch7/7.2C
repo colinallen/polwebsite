@@ -1,0 +1,40 @@
+#!qtype FALSIFY
+#!valuetype 
+#!valuetype 
+#!valuetype 
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
+#!preamble Assigning Truth Values</font>
+#!preamble What truth values must be assigned to the atomic statements
+#!preamble in order to make the following compounds <em>false</em>?
+
+#1
+~PvQ::P:T,Q:F
+#2
+~R->S::R:F,S:F
+#3
+~(E.G)::E:T,G:T
+#4
+~(A->B)->C::A:T,B:F,C:F
+#5
+(T<->~W)vT::T:F,W:F
+#6
+(~GvH)->~K::G:T,H:F,K:F
+#7
+(Y->~Z)v~Y::Y:T,Z:T
+#8
+(L<->M)->~M::L:T,M:T
+#9
+~A->~(~B.C)::A:F,B:F,C:T
+#10
+~(N<->P)v~P::N:T,P:T
+#11
+~(~Av~B)v~A::A:T,B:F
+#12
+(~CvE)->~(E.C)::C:T,E:T
+#13
+~(H.J)v(K->L)::H:T,J:T,K:T,L:F
+#14
+(M.N)->~P::M:T,N:T,P:T
+#15
+(R.~S)->(R<->Q)::R:T,S:F,Q:F

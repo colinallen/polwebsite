@@ -1,0 +1,25 @@
+#!qtype TRANSPRF
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:  </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Symbolize the following arguments, using the schemes of abbreviation provided. Then construct proofs to show that the arguments are valid.
+
+#1
+No one antedates himself. Augustine antedates Boethius. Augustine and Boethius are both persons. Therefore, Augustine is not identical with Boethius. (Px: x is a person; Axy: x antedates y; a: Augustine; b: Boethius)::::1.(x)(Px->~Axx)2.Aab:.~a=b
+#2
+I am not my body. The clump of cells in the corner of the room is my body. It follows that I am not identical with the clump of cells in the corner of the room. (i: I; b: my body; c: the clump of cells in the corner of the room)::::1.~i=b2.c=b:.~i=c
+#3
+Every mental state is identical with some brain state or other. All mental states are introspectible. There is at least one mental state. Hence, some brain state is introspectible. (Mx: x is a mental state; Bx: x is a brain state; Nx: x is introspectible)::::1.(x)[Mx->($y)(By.x=y)]2.(x)[Mx->Nx]3.($x)Mx:.($x)(Bx.Nx)
+#4
+There are exactly two omniscient beings. Apollo is omniscient. We may infer that there is an omniscient being distinct from Apollo. (Ox: x is omniscient; a: Apollo)::::1.($x)($y)[(Ox.Oy).~x=y].(x)(y)(z)((Ox.Oy.Oz)->[x=yv(x=zvy=z)])2.Oa:.($x)(Ox.~x=a)
+#5
+The only suspect who confessed is Benjamin Bondurant. The only suspect with a motive is Charles Ashworth. At least one suspect who confessed also has a motive. Consequently, Benjamin Bondurant is one and the same individual as Charles Ashworth. (Sx: x is suspect; Cx: x confessed; b: Benjamin Bondurant; c: Charles Ashworth; Mx: x has a motive)::::1.(Sb.Cb).(x)[(Sx.Cx)->x=b]2.(Sc.Mc).(x)[(Sx.Mx)->x=c]3.($x)[Sx.(Cx.Mx)]:.b=c
+#6
+The perfect triangle is not a material object. Hence, there is a perfect triangle. (Px: x is perfect; Tx: x is a triangle; Mx: x is a material object)::::1.($x)[((Tx.Px).(y)((Ty.Py)->y=x)).~Mx]:.($x)(Tx.Px)
+#7
+There are at least two physical objects. Jupiter is a physical object. Accordingly, there is at least one physical object other than Jupiter. (Px: x is a physical object; j: Jupiter)::::1.($x)($y)[(Px.Py).~x=y]2.Pj:.($x)(Px.~x=j)
+#8
+The perfect being is divine. All divine beings are benevolent. We may conclude that the perfect being is benevolent. (Px: x is a perfect being; Dx: x is a divine being; Bx: x is benevolent)::::1.($x)[(Py.(y)(Py->x=y)).Dx]2.(x)(Dx->Bx):.($x)[(Px.(y)(Py->x=y)).Bx]
+#9
+The greatest painter is Rembrandt. Michelangelo is greater than Rembrandt. Michelangelo is not the same individual as Rembrandt. If one thing is greater than another, then the latter is not greater than the former. Therefore, Michelangelo is not a painter. (Px: x is a painter; Gxy: x is greater than y; r: Rembrandt; m: Michelangelo)::::1.Pr.(x)[(Px.~x=r)->Grx]2.Gmr3.~m=r4.(x)(y)(Gxy->~Gyx):.~Pm
+#10
+The most powerful god is Zeus. The most powerful god is not morally weak. If one thing is more powerful than another, then the latter is not more powerful than the former. If Zeus is not morally weak, then Zeus is morally good. It follows that Zeus is morally good. (Mxy: x is more powerful than y; Gx: x is a god; z: Zeus; Wx: x is morally weak; Ox: x is morally good)::::1.Gz.(x)[(Gx.~x=z)->Mzx]2.($x)[(Gx.(y)([Gy.~x=y]->Mxy)).~Wx]3.(x)(y)(Mxy->~Myx)4.~Wz->Mz:.Mz

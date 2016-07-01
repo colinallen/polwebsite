@@ -1,0 +1,27 @@
+#!qtype venn3
+
+#!preamble Venn Diagrams. Use Venn diagrams to determine the validity of the
+#!preamble following syllogisms.
+
+#format is syllogism::major::minor::middle::image::validity
+
+#1
+All M are P. Some M are not S. So, Some S are not P.::S::P::M::0001001d.gif::invalid
+#2
+No P are M. Some M are not S. So, Some S are P.::S::P::M::0000110g.gif::invalid
+#3
+No M are P. Some M are S. So, Some S are not P.::S::P::M::00001109.gif::valid
+#4
+Some P are M. Some S are M. So, Some S are P.::S::P::M::0000000ac.gif::invalid
+#5
+All P are M. Some M are not S. So, Some S are not P.::S::P::M::0110000f.gif::invalid
+#6
+All P are M. Some S are not M. So, Some S are not P.::S::P::M::01100001.gif::valid
+#7
+No P are M. Some M are S. So, Some S are P.::S::P::M::00001109.gif::invalid
+#8
+All P are M. No S are M. So, No S are P.::S::P::M::01111000.gif::valid
+#9
+No P are M. No S are M. So, No S are P.::S::P::M::00011100.gif::invalid
+#10
+All M are P. No S are M. So, No S are P.::S::P::M::00011010.gif::invalid

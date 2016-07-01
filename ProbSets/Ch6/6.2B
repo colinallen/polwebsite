@@ -1,0 +1,36 @@
+#!qtype venn2x2
+
+#Part B:Venn Diagrams and ArgumentsDraw two Venn diagrams for each ofthe following arguments, one for the premise and one for the conclusion. First drawa Venn diagram of the premise, labeling the left circle with an abbreviation of thesubject term and the right circle with an abbreviation of the predicate term. Sec-ond, draw a Venn diagram for the conclusion, but label the circles as before (withthe left circle labeled by an abbreviation of the subject term of the premiseand theright circle labeled with an abbreviation of the predicate term of the premise).Finally, indicate whether the argument is valid.
+
+# format = arg::premsubj::prempred::premdiag::concdiag::validity
+
+#1
+Some chairs are not thrones. So, some thrones are not chairs.::Chairs::Thrones::0001.gif::0003.gif::Not valid
+#2
+All scallops are mollusks. Hence, no scallops are nonmollusks.::Scallops::Mollusks::1000.gif::1000.gif::Valid
+#3
+All minds are brains. Therefore, all non-brains are nonminds.::Minds::Brains::1000.gif::1000.gif::Valid
+#4
+Some married persons are persons who have attachment disorders. Thus, some persons who have attachment disorders are married persons.::Married persons::Persons with attachment disorders::0002.gif::0002.gif::Valid
+#5
+No laypersons are priests. It follows that all laypersons are non-priests.::Laypersons::Priests::0100.gif::0100.gif::Valid
+#6
+#Some political philosophers are egalitarians. Accordingly, some non-egalitarians are things that are not political philosophers.::Political philosophers::Egalitarians::0100.gif::unavailable.gif::Not valid
+#7
+#No elephants are beetles. Consequently, no nonbeetles are nonelephants.::Elephants::Beetles::0100.gif::unavailable.gif::Not valid
+#8
+No Pickwickian interpretations are obvious interpretations. So, no obvious interpretations are Pickwickian interpretations.::Pickwickian interpretations::Obvious interpretations::0100.gif::0100.gif::Valid
+#9
+Some rays are devilfish. Hence, some devilfish are not nonrays.::Rays::Devilfish::0002.gif::0002.gif::Valid
+#10
+Some wines are not merlots. Therefore, some non merlots are not nonwines.::Wines::Merlots::0001.gif::0001.gif::Valid
+#11
+All acts of torture are immoral acts. It follows that all immoral acts are acts of torture.::Torture::Immoral acts::1000.gif::0010.gif::Not valid
+#12
+Some vipers are not copperheads. Consequently, some vipers are noncopperheads.::Vipers::Copperheads::0001.gif::0001.gif::Valid
+#13
+Some mammals are edentulous animals. Thus, all mammals are edentulous animals.::Mammals::Edentulous animals::0002.gif::1000.gif::Not valid
+#14
+Some boring events are colloquia. Accordingly, some boring events are not colloquia.::Boring events::Colloquia::0002.gif::0001.gif::Not valid
+#15
+Some theists are not predestinarians. Therefore, no theists are predestinarians.::Theists::Predestinarians::0001.gif::0100.gif::Not valid

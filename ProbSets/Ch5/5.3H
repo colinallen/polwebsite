@@ -1,0 +1,38 @@
+#!qtype MC_FIXED
+#!values True::False::Not guaranteed
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part H:</strong>
+#!preamble Inferences from <em>O</em> Statements</font>
+
+#!preamble Assuming that "Some celebrities are not saints" is true, what is implied regarding the truth or falsehood of the following statements? (If neither the truth nor the falsehood of the statement is implied, choose "Not guaranteed".) Note: To get the correct answer, you may need to make a series of inferences from the assumed statement.
+
+#1
+No celebrities are saints.::::Not guaranteed
+#2
+All celebrities are saints.::::False
+#3
+Some celebrities are nonsaints.::::True
+#4
+Some saints are not celebrities.::::Not guaranteed
+#5
+Some nonsaints are not noncelebrities.::::True
+#6
+Some celebrities are saints.::::Not guaranteed
+#7
+Some nonsaints are celebrities.::::True
+#8
+All nonsaints are noncelebrities.::::False
+#9
+No celebrities are nonsaints.::::False
+#10
+Some noncelebrities are not nonsaints.::::Not guaranteed
+#11
+All celebrities are nonsaints.::::Not guaranteed
+#12
+No saints are celebrities.::::Not guaranteed
+#13
+Some celebrities are not nonsaints.::::Not guaranteed
+#14
+Some noncelebrities are saints.::::Not guaranteed
+#15
+No nonsaints are celebrities.::::False

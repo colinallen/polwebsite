@@ -1,0 +1,88 @@
+#!qtype venn3
+
+#!preamble Venn Diagrams. Use Venn diagrams to determine the validity of the
+#!preamble following syllogisms. In labeling the circles of your diagrams,
+#!preamble remember that the middle term labels the circle in the middle. The
+#!preamble subject term of the conclusion labels the circle on the upper left;
+#!preamble and the predicate term of the conclusion labels the remaining
+#!preamble circle. Use your knowledge of stylistic variants to reinterpret any
+#!preamble statements which are not in standard form. (Standard forms are: All S
+#!preamble are P; No S are P; Some S are P; Some S are not P.)
+
+#format is syllogism::major::minor::middle::image::validity
+
+#1
+Only Greeks are Athenians. At least one human is not an Athenian. Therefore, not all humans are Greeks.::Humans::Greeks::Athenians::00010012.gif::invalid
+
+#2
+Every animal is sentient. And each sentient thing is a rights-holder. Hence, if anything is an animal, then it is a rights-holder.::Animals::Rights Holders::Sentient::11010010.gif::valid
+
+#3
+No serial killer is good, because every serial killer is evil and no evil thing is good.::Serial Killers::Good Things::Evil Things::11001100.gif::valid
+
+#4
+Every wicked person is self-deceived, for all liars are wicked and every liar is self-deceived.::Wicked Persons::Self-deceived Persons::Liars::00010110.gif::invalid
+
+#5
+#Every person who loves children is blessed. Some criminals are persons who love children. Hence, at least one criminal is blessed.::Criminals::Blessed Persons::Persons Who Love Children::0001001b.gif::valid
+Every person without a conscience is happy; hence at least one criminal is happy since not every criminal has a conscience.::Criminals::Happy Persons::Persons Without a Conscience::0001001b.gif::valid
+
+#6
+All those who have faith are virtuous. But there are highly moral people who do not have faith. Therefore, not all highly moral people are virtuous.::Highly Moral People::Virtuous Persons::Persons Who Have Faith::00010012.gif::invalid
+
+#7
+No human is omniscient. Something is both divine and human. So, at least one divine being is not omniscient.::Divine Beings::Omniscient Beings::Human Beings::00001109.gif::valid
+
+#8
+Only wars are great evils. Some wars are ordained by God. Hence, at least one great evil is ordained by God.::Great Evils::Things Ordained by God::Wars::1100000c.gif::invalid
+
+#9
+Not every hobby is worth doing well.  But anything worth doing is worth doing well.  Therefore, at least one hobby is not worth doing.::Hobbies::Things Worth Doing::Things That Are Worth Doing Well::01100001.gif::valid
+
+#10
+If anything is a mental event, then it is not a brain event. For only physical events are brain events; and all mental events are non-physical.::Mental Events::Brain Events::Physical Events::01111000.gif::valid
+
+#11
+Some philosophical views are not worth considering. Every philosophical view has been held by a genius. Thus, some views which have been held by geniuses are not worth considering.::Views That Have Been Held By Geniuses::Views Worth Considering::Philosophical Views::00000119.gif::valid
+
+#12
+No wicked person is utterly without a conscience. But all wicked persons are deeply confused individuals. Hence, no deeply confused individual is utterly without a conscience.::Deeply Confused Individuals::Persons Utterly Without Conscience::Wicked Persons::00001110.gif::invalid
+
+#13
+Only metaphorical statements are similarity statements. And every statement is a similarity statement. Accordingly, a thing is a statement only if it is metaphorical.::Statements::Metaphorical Statements::Similarity Statements::11010010.gif::valid
+
+#14
+Contrary to what traditional Western morality says, some acts of suicide are morally permissible. For all morally permissible acts are ones which conform to the categorical imperative, and some acts of suicide conform to the categorical imperative.::Acts of Suicide::Morally Permissible Acts::Acts That Conform to the Categorical Imperative::0110000a.gif::invalid
+
+#15
+Only acts which maximize utility are obligatory. Not all acts which maximize utility are prescribed by the ten commandments. Therefore, at least one  act prescribed by the ten commandments is not obligatory.::Acts Prescribed by the Ten Commandments::Obligatory Acts::Acts that Maximize Utility::0110000f.gif::invalid
+
+#16
+Not every act is free, since every act foreknown by God is non-free and some acts are foreknown by God.::Acts::Free Acts::Acts Foreknown by God::00001109.gif::valid
+
+#17
+Only acts approved of by God are moral. Some acts of killing are approved of by God. Hence, some acts of killing are moral.::Acts of Killing::Moral Acts::Acts Approved by God::0110000a.gif::invalid
+
+#18
+No human is omnipotent. All divine beings are omnipotent. Therefore, no human is divine.::Human Beings::Divine Beings::Omnipotent Beings::01111000.gif::valid
+
+#19
+Only persons who have inner conflicts are unhappy. At least one successful comedian is unhappy. We may conclude that some successful comedians are persons who have inner conflicts.::Successful Comedians::Persons who have inner conflicts::Unhappy Persons::0001001b.gif::valid
+
+#20
+At least one tycoon is a person who has walked over others to get to the top. Every person who has walked over others to get to the top is evil. It follows that at least one tycoon is evil.::Tycoons::Evil Persons::People Who Have Walked Over Others To Get To The Top::0001001b.gif::valid
+
+#21
+Some trees are maples. Some trees are oaks. So, some oaks are maples.::Oaks::Maples::Trees::0000000ac.gif::invalid
+
+#22
+No balalaika is a banjo. Some balalaikas are beautiful. Hence, some beautiful things are not banjos.::Beautiful Things::Banjos::Balalaikas::00001109.gif::valid
+
+#23
+Each tyrant is mendacious. If anything is a tyrant, then it is a liar. Consequently, all liars are mendacious.::Liars::Mendacious Persons::Tyrants::00010110.gif::invalid
+
+#24
+Every aphorism is an apothegm. Each epigram is an aphorism. Accordingly, only apothegms are epigrams.::Epigrams::Apothegms::Aphorisms::11010010.gif::valid
+
+#25
+Every Saint Bernard is a large dog. Not all large dogs are brown. So , not all brown dogs are Saint Bernards.::Brown Dogs::Saint Bernards::Large Dogs::0110000f.gif::invalid

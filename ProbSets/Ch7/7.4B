@@ -1,0 +1,35 @@
+#!qtype ATT
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B: </strong>
+#!preamble More Abbreviated Truth Tables</font>&nbsp;&nbsp;
+#!preamble Use abbreviated truth tables to show that the following arguments are invalid. 
+
+#1
+~(A.B), ~A->C, ~B->D :. C.D
+#2
+L<->(M.N), MvN, ~L :. ~M
+#3
+(O<->P)->R, ~R :. ~OvP
+#4
+~(V.X)->~Y :. ~[(V.X)->Y]
+#5
+~(Z.H), ~Z->Y, W->H :. ~W->Y
+#6
+~Xv(C.A), ~Yv~B, ~Yv(XvT), T->(A->B) :. Tv~Y
+#7
+~(Z->A), Z->B, ~A->C :. C.~B
+#8
+B->(C.D), ~Ev~F, E->(BvG), G->(D->F) :. Gv~E
+#9
+~(D<->E), ~D->F, E->G :. F.G
+#10
+Hv~S, H->Z, ~S->P :. P<->Z
+#11
+~[(J.K)->(MvN)] :. K.N
+#12
+A->B, C->~D, ~BvD :. ~A<->~C
+#13
+~E->(G.A), ~(P<->~L)vE, ~(P.L)vQ, ~N->~G :. Q.A
+#14
+(G->E)<->S, ~(SvH), ~(P.~H) :. G.E
+#15
+~(C<->~D)vE, ~E->(G.H), (C.D)->K, ~N->~G :. K.H

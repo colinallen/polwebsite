@@ -1,0 +1,49 @@
+#!qtype MC_MULTI
+#!valuetype ?::Argument from Authority::Argument from Analogy::Induction by Enumeration::Incorrect form
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Exercise 10.2</strong>
+#!preamble Identifying Inductive Arguments</font>&nbsp;&nbsp;
+#!preamble Which of the following arguments are examples of the types of inductive argument introduced in this section? Which are not? So indicate by selecting the appropriate item on the dropdown list. Be sure to select "Incorrect form" if an argument does not fit any of the three argument forms introduced.
+
+# Format of each line QUESTION::ANSWER::ERROR_STRING 
+
+#1
+One hundred percent of the dogs that have been dissected have had kidneys. Hence, one hundred percent of the members of the class of dogs have kidneys.::Induction by Enumeration
+#2
+In a recent study, a randomly chosen sample of 1,500 American husbands were asked how many times they had had extra-marital affairs. Eighty-four percent of those in the sample stated that they had never had an extra-marital affair. Hence, approximately eighty-four percent of American husbands have never had an extra-marital affair.::Induction by Enumeration
+#3
+The word "obviate" means "to do away with or prevent" because that is what Webster's Dictionary says it means.::Argument from Authority
+#4
+According to a recent poll, fifty percent of a random sample of 1,500 voters in Ohio favor Quigley for governor. Thus, roughly fifty percent of voters in Ohio favor Quigley for governor.::Induction by Enumeration
+#5
+Bertrand Russell, a noted logician, states that the social mores concerning sex outside of marriage are harmful and oppressive. So, the social mores concerning sex outside of marriage are harmful and oppressive.::Argument from Authority::So says the noted logician! So this is indeed an argument from authority. But it is not a <em>strong</em> argument. For Russell's knowledge of logic (assuming this is all we know about him) does not make him a reliable authority on the harmful effects of social mores.
+#6
+Ron Paul and George W. Bush are both Republican. And Ron Paul advocates the decriminalization of marijuana. So, George W. Bush favors the decriminalization of marijuana.::Argument from Analogy::Paul and Bush are similar insofar as both are Republican. So this is an argument from analogy. So the question, regarding its strength, is whether this similarity relevant to the issue of the criminalization of marijuana.
+#7
+The <i>Bantam Medical Dictionary</i> says that an ectopic pregnancy is "the development of a fetus at a site other than the womb" (e.g., the fallopian tube). So, an ectopic pregnancy is the development of a fetus at a site outside the womb.::Argument from Authority::The <i>Dictionary</i> says!
+#8
+According to a recent poll, zero percent of a randomly chosen sample of five U.S. voters favors Mack Smith for President. So, zero percent of U.S. voters favors Mack Smith for President.::Induction by Enumeration
+#9
+Chimpanzees have intrinsic moral worth. After all, human beings have intrinsic moral worth, and over 98 percent of their DNA is present in chimpanzees.::Argument from Analogy::Chimpanzees are similar insofar as they share more of their DNA. But is it a <em>good</em> analogy? That is, is the similarity in question relevant to the possession of moral worth?
+#10
+The noted astrologer, Vashti Zinia, states that the stars determine the course of human history. So, our fate is in the hands of the stars.::Incorrect form
+#11
+The following information is gleaned from Howard Zinn, <i>A People's History of the United States</i> (New York: HarperCollins,1995), p. 585. In February of 1991 U.S. aircraft dropped bombs on an air raid shelter in Baghdad. Between 400 and 500 people were killed. The Pentagon claimed the shelter was a military target. But reporters who were allowed to inspect the site asserted that there was no evidence of any military presence. Now, given this information from Zinn, we may conclude that the Pentagon was right: the shelter was a military target.::Argument from Authority::The Pentagon, asserting its authority in military matters, claimed...
+#12
+In a recent study involving 600 male prison inmates in Georgia, 80% of those in the sample indicated disapproval of the death penalty. Hence, eighty percent of men in Georgia disapprove of the death penalty.::Incorrect form::Is the sample, relative to the population of men in Georgia, random?
+#13
+67% of those in a randomly chosen sample of 4,000 Americans are overweight. Therefore, about 67% of Americans are overweight.::Induction by Enumeration
+#14
+<i>The Tempest</i> is perfectly analogous to <i>The Tempest</i>, since everything perfectly resembles itself. And <i>The Tempest</i> is boring. So, by analogy, <i>The Tempest</i> is boring.::Incorrect form::The argument fits the general pattern of an Argument from Analogy. However, genuine arguments from analogy are inductive arguments and the argument in question is not inductive, as the premises, if true, <em>necessitate</em> the conclusion rather than simply make it <em>probable</em>; if the premises are true, the conclusion <em>must</em> also be true.
+#15
+82% percent of a randomly chosen sample of 600 American college students are sleep-deprived. Therefore, approximately 82% percent of American college students are sleep-deprived.::Induction by Enumeration
+#16
+According to a recent poll, 80% of a randomly chosen sample of ten Americans prefer football to soccer. Hence, about eighty percent of Americans prefer football to soccer.::Induction by Enumeration
+#17
+Of a randomly selected sample of 1000 Americans, only 140 had red hair. So, about 14% of Americans have red hair.::Induction by Enumeration
+#18
+I’m awesome at Madden 12. So I’m sure I’ll be awesome at Madden 13 too.::Argument from Analogy::To see that this has the right form for an argument from analogy, using the schematic letters in the blue "Summary" box on p. 513, A is Madden 12, B is Madden 13, and P is the property of being something that I am awesome at. Whether or not this is a <em>strong</em> argument depends on whether Madden 13 is similar enough to Madden 12 that it is reasonable to think that my prowess at the latter translates into prowess at the former. 
+#19
+According to Dee Brown, <i>Bury My Heart at Wounded Knee</i> (New York: Washington Square Press, 1981), 153 Native Americans are known to have been killed in the massacre at Wounded Knee, although the actual number may well be as high as 300. Only twenty-five U. S. soldiers were killed, most of them by "friendly fire" from other soldiers. According to Brown, the soldiers ordered the Native Americans to give up their rifles, but a young Minneconjou named Black Coyote did not give up his rifle. Some eyewitnesses say that Black Coyote opened fire on the soldiers, others say he was deaf and did not understand the soldiers. Therefore, based on this information, we may conclude that Black Coyote started the incident at Wounded Knee by firing on the soldiers.::Argument from Authority::The conclusion seems warranted to the extent that Brown is a reliable authority.
+#20
+According to a recent poll, 90 percent of a randomly chosen sample of 4000 men in Mississippi reported that they believe that racism is more widespread than sexism. Hence, approximately 90 percent of Americans believe that racism is more widespread than sexism.::Incorrect form::This may look at first sight like an induction by enumeration. But is the sample, relative to the population of men in America, random?

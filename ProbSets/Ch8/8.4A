@@ -1,0 +1,35 @@
+#!qtype PRF
+#!preamble <font color="ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Conditional Proof</font>&nbsp;&nbsp;
+#!preamble Use CP to show that each of the following symbolic arguments is valid.
+
+1.Z->(~Y->X)2.Z->~Y :. Z->X
+1.P->Q :. P->(QvR)
+1.(Fv~G)->~L :. L->G
+1.A->B2.A->C :. A->(B.C)
+1.(HvE)->K :. E->K
+1.(B->~C)->D :. B->(~C->D)
+1.P :. (P->Q)->Q
+1.S :. ~(S.R)->~R
+1.(G->H)->J :. H->J
+1.C->(~D->E)2.(D->~D)->(E->G) :. C->(~D->G)
+1.H->(J.K)2.~L->(J.M) :. (~LvH)->J
+1.~Xv(O.W)2.(X->O)->(W->X) :. W->X
+1.(AvN)->~S2.M->[N->(S.T)] :. ~(~Mv~N)->(S.~A)
+1.~Pv(Q.~R) :. (RvR)->~P
+1.(SvT)<->~E2.S->(F.~G)3.A->W4.T->~W :. (~E.A)->~G
+1.A->(B->C) :. (A->B)->(A->C)
+1.(G.P)->K2.E->Z3.~P->~Z4.G->(EvL) :. (G.~L)->K
+1.S->(~T->U)2.~T->(U->O) :. ~Sv[(T->~T)->O]
+1.A->(B.C)2.B->D3.C->~D :. A->X
+1.B->[(E.~G)->M]2.~(~EvG)->(M->R) :. B->[~(~G->~E)->R]
+#21
+1.P->(Q->R) :. Q->(P->R)
+#22
+1.Q->R :. (PvQ)->(PvR)
+#23
+1.A<->B :. ~B<->~A
+#24
+1.C<->D2.D<->~E :. C<->~E
+#25
+1.~A :. [(A.B)v(C.D)]<->[(AvC).(AvD)]

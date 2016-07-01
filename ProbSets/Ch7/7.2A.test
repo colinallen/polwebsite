@@ -1,0 +1,62 @@
+#!qtype MC_FIXED
+#!values True::False
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A: </strong>
+#!preamble True or False?</font>&nbsp;&nbsp;
+#!preamble Determine the truth value of the following compound statements.
+#!preamble Make the following assumptions: A is true, B is true, 
+#!preamble C is false, and D is false. 
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+A . C::A true conjunction must have both conjuncts true.::False
+#2
+A v C::At least one of these is true.::True
+#3
+~A::A is true, so its negation is false.::False
+#4
+B -> D::True antecedent, false consequent : false conditional.::False
+#5
+D -> B::False antecedent : true conditional.::True
+#6
+A <-> B::A and B have the same truth value.::True
+#7
+C <-> D::C and D have the same truth value.::True
+#8
+~(A . B)::The conjunction is true so its negation is false.::False
+#9
+C v D::Neither disjunct is true.::False
+#10
+~(C v D)::The disjunction is false so its negation is true.::True
+#11
+~C -> D::True antecedent, false consequent : false conditional.::False
+#12
+~(D -> A)::The conditional is true so its negation is false.::False
+#13
+(A . C)->B::A false antecedent : a true conditional.::True
+#14
+C -> (A -> D)::A false antecedent : a true conditional.::True
+#15
+(C -> A) -> D::True antecedent, false consequent : false conditional.::False
+#16
+~(A <-> D)::The biconditional is false so its negation is true.::True
+#17
+~C . ~D::Both conjuncts are true.::True
+#18
+~(~A <-> ~B)::The biconditional is true so its negation is false.::False
+#19
+(A . C) v (B . D)::Both disjuncts are false.::False
+#20
+(C v A) . (D v B)::Both conjuncts are disjunctions with at least one true disjunct.::True
+#21
+~[A -> (C v B)]::The conditional is true so its negation is false.::False
+#22
+(D <-> A) v (C -> B)::Exactly one of these disjuncts is true.::True
+#23
+#(~C -> A) <-> (~A v D)::The two sides of this biconditional have different truth values.::False
+(~C -> A) <-> (~A v D)::The two sides of this biconditional have different truth values.::False
+#24
+~B <-> (A . C)::Both sides of this biconditional are false. ::True
+#25
+~(D v C) -> B::A conditional with a true consequent is true.::True
+

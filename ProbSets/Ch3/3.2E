@@ -1,0 +1,31 @@
+#!qtype MC_FIXED
+#!values Courage::Justice::Faith::Evidence::Wisdom::Virtues::Belief::Suspending judgment::Vices::Disbelief
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part E:  </strong>
+#!preamble Theoretical Definitions</font>&nbsp;&nbsp;
+#!preamble Match each definiens with the definiendum that it <em>best</em> characterizes.
+#!preamble These definitions are theoretical in type.
+#!preamble <p>
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+Confidence that a proposition is true::Stand up for your beliefs!::Belief
+#2
+A tendency to perform acts the agent considers dangerous but worth the risk::This is what a coward lacks.::Courage
+#3
+Knowledge of which ends are worth achieving and of how to achieve them::Solomon lost it.::Wisdom
+#4
+Traits that hinder one from living well::Not a virtuous response!::Vices
+#5
+Considerations relevant to the truth of the proposition in question::Send a detective to look for it.::Evidence
+#6
+Confidence that a proposition is false::You don't believe it!::Disbelief
+#7
+Believing in spite of factors that may tend to cause doubt::O ye of little belief in spite of factors tending to cause doubt!::Faith
+#8
+Giving each individual his or her due::Sometimes we need a judge to dole it out.::Justice
+#9
+Traits enabling one to live well::Patience is one.::Virtues
+#10
+A lack of confidence in the truth of a proposition combined with a lack of confidence in its falsity.::It's a kind of deferred adjudication.::Suspending judgment

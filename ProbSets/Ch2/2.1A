@@ -1,0 +1,61 @@
+#!qtype MC_MULTI
+#!valuetype ?::argument::nonargument (explanation)::nonargument (conditional statement)::nonargument (report)::nonargument (illustration)
+#!preamble #!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Arguments and Nonarguments</font>&nbsp;&nbsp;
+#!preamble Determine which of the following are arguments, and which are not.  
+#!preamble If the passage is not an argument, determine if it is a report, 
+#!preamble illustration, explanation, or conditional statement.
+#!preamble <p>
+
+# Format of each line is QUESTION::ANSWER1::ERRORSTRING1::ANSWER2::ERRORSTRING2
+
+#1
+Americans are materialistic because they are exposed to more advertising than any other people on earth.::nonargument (explanation)::This is only an explanation of American materialism, not an argument.
+#2
+A person is dead if her brain has stopped functioning.::nonargument (conditional statement)::This is a conditional statement, not an argument; there is, in particular, no conclusion.
+#3
+The world fish catch dropped from its 1989 high of 100 million tons to 97 million tons in 1990 and has remained at about that figure ever since. Harvests have increased in some oceans but have fallen in others. And rising catches of some species are offset by falling catches of others. Breaking with a historical trend of constantly growing catches, stagnation in the global catch now appears likely to continue . . . . --Hal Kane, "Fish Catch No Longer Growing," in Lester Brown, Hal Kane, and Ed Ayres, <em>Vital Signs 1993: The Trends That Are Shaping Our Future</em> (New York: W.W. Norton, 1993), p. 32.::nonargument (report)::This is merely a report; there is, in particular, no conclusion.
+#4
+Waging war is always wrong because it involves killing human beings. And killing humans is wrong.::argument::This is an argument.  There are premises and a conclusion.
+#5
+When we calculate what the surface temperature of the planet should be, based on the heat it radiates to space, we find the whole globe should be a frozen wasteland, colder than today by about 33 degrees Celsius (60 degrees Fahrenheit) on average. The force saving us from this frigid fate is the atmosphere. The layer of air surrounding our globe contains important gases such as water vapor and carbon dioxide, which absorb the heat radiated by Earth's surface and reemit their own heat at much lower temperatures. We say they "trap" Earth's radiation and call this planetary warming mechanism the "greenhouse effect."--<em>The Climate System</em> (National Oceanic and Atmospheric Administration, Winter, 1991), p. 7.::nonargument (explanation)::There is no argument here, only an explanation of why the earth is not frigidly cold.
+#6
+Never has the nation been safer from foreign menaces, and never before has the nation been graduating students less well educated than those of the immediately preceding generation. These facts warrant this conclusion: Today the principal threat to America is America's public-education establishment. --George F. Will, <em>The Leveling Wind</em> (New York: Viking, 1994), p. 199.::argument::This is an argument: The words "These facts warrant this conclusion" are a dead giveaway.
+#7
+It's certainly true that Pluto doesn't act much like the other planets.  Not only is it small and obscure, it's so changeable in its motions that no one can tell you exactly where it will be in a century. Whereas the other planets orbit on more or less the same plane, Pluto's orbit shifts out of alignment at an angle of 17 degrees, like the brim of a hat tilted on someone's head. &mdash; Bill Bryson, <em>A Really Short History of Nearly Everything</em> (London: Random House, 2008), p. 17.::nonargument (report)::This is simply a set of observations about Pluto.
+#8
+If corporations are people, then corporations have the right to marry.::nonargument (conditional statement)::This is only a conditional statement, not an argument.
+#9
+U. S. food producers feed livestock 20 million tons of plant protein per year that could be consumed by humans, and the livestock yields only two million tons of protein.::nonargument (report)::This is just a quick report about the apparently inefficient use of protein involved in raising livestock.
+#10
+Wars occur because humans desire to control other humans.::nonargument (explanation)::This is just an explanation of why wars occur, not an argument to any particular conclusion.
+#11
+The earth is getting warmer. Why? There are many reasons, but here are two important ones. First, the burning of coal, oil, and natural gas has greatly increased the carbon dioxide in the atmosphere. And carbon dioxide retains heat. Second, chlorofluorocarbons, which are used in air conditioners and refrigerators, have attacked the ozone layer, thus leaving the earth exposed to ultraviolet rays from the sun.::nonargument (explanation)::This is just an explanation of why the earth is getting warmer.  There is no argument here.
+#12
+In 1950 the population of the world was about 2.5 billion. In 1967 the population of the world was almost 3.5 billion. In 1980 the population of the world was almost 4.5 billion. And in 1992 the population of the world was almost 5.5 billion. So, the population of the world has grown both steadily and rapidly since 1950.::argument::This is an argument regarding growth rate of the world's population.
+#13
+Global oil demand still lies well below the peak level of 1979. Improved energy efficiency and the expanding role of natural gas in many countries is cutting into petroleum's market. But oil is still the world's leading source of energy, supplying 40 percent of the total . . . . --Christopher Flavin and Hal Kane, "Oil Production Steady" in Lester Brown, Hal Kane, Ed Ayres, <em>Vital Signs 1993: The Trends That Are Shaping Our Future</em> (New York: W. W. Norton, 1993), p. 46.::nonargument (report)::This is merely a report about global oil usage.
+#14
+Either James died because he was shot, or James died because he was hanged. It's false that James died because he was shot. Hence, James died because he was hanged.::argument::Disjunctive syllogism form.
+#15
+Not all mob bosses avoid prison because John Gotti was a mob boss and Gotti was sent to prison.::argument::This is a valid argument; the instance supports the conclusion.
+#16
+Prime numbers are divisible only by themselves and one. For example, 3, 5, 7, and 11 are prime numbers.::nonargument (illustration)::This is an illustration of the concept of prime number.
+#17
+If Oswald did not kill Kennedy, then someone else did.::nonargument (conditional statement)::This is a conditional statement, not an argument.
+#18
+Roman numerals as well as Arabic numerals can be used to stand for numbers. Thus, the Roman numeral "IX" stands for the number nine.::nonargument (illustration)::This is an illustration of how roman numerals stand for numbers.
+#19
+If one sets one's heart on humaneness, one will be without evil.--Confucius, The Analects (New York: Oxford University Press, 1993), 13.::nonargument (conditional statement)::This is a conditional statement.
+#20
+During the cold war, the U.S. pursued a policy of nuclear deterrence. Missiles with nuclear warheads were aimed at many locations in the Soviet Union. The threat of destruction was real. Had the missiles been launched, millions of innocent people would have been killed. But in my opinion, the U.S. policy of nuclear deterrence was immoral. Let me give you an analogy. Suppose two angry men face each other with machine guns. Behind each one stands many innocent bystanders. Each man holds the other in check by threatening to pull the trigger, thus killing many innocent people. I submit that it is obvious that such men would be acting immorally. Hence, the U.S. policy of nuclear deterrence was immoral also.::argument::This is an argument for the conclusion that the policy of nuclear deterrence was immoral.
+#21
+If it is permissible for humans to eat animals, then it is permissible for super intelligent extraterrestrials to eat humans.::nonargument (conditional statement)::This is a conditional statement, not an argument.
+#22
+The good don't always die young because Mother Teresa is a good person.::argument::The instance supports the conclusion that the good don't always die young.
+#23
+America is a powerful nation primarily because it has one of the strongest economies in the world.::nonargument (explanation)::This is an explanation of America's power.
+#24
+Some metals are liquids at room temperature because mercury is a metal.::argument::Conclusion: Some metals are liquids at room temperature.
+#25
+If driving on the left side of the road is wrong simply because society disapproves of it, then stealing is wrong simply because society disapproves of it. And driving on the left side of the road is wrong simply because society disapproves of it. Therefore, stealing is wrong simply because society disapproves of it.::argument::An instance of modus ponens (albeit unsound).

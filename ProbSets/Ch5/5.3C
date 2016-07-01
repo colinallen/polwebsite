@@ -1,0 +1,35 @@
+#!qtype MC_VAR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
+#!preamble Obversion </font>&nbsp;&nbsp;
+#!preamble Form the obverse of each of the following statements. (Recall that obversion always results in a valid inference.)
+
+# Format of each line is QUESTION::%%ANSWERTYPE1::OPTION1_1::...::OPTION1_n::ANSWER1::ERRORSTRING1::...%%ANSWERTYPEm::OPTIONm_1::...::OPTIONm_r::ANSWERm::ERRORSTRINGm::
+
+# If ANSWERTYPE is TEXT, there will be only the answer -- the text to be matched.
+# If ANSWERTYPE is POPUP, there will be several options that will appear on a popup list
+# The correct answer appears last in the list.  The first element of the list should be
+# an appropriate label for the POPUP; "?" is the default.
+# Don't forget the final "::" (needed to avoid special processing in the code for the mth 
+# bunch of stuff).
+
+
+#1
+All sharpeis are dogs.::%%TEXT::No sharpeis are nondogs.::::
+#2
+No platypi are vegetarians.::%%TEXT::All platypi are nonvegetarians.::::
+#3
+Some prime ministers are women.::%%TEXT::Some prime ministers are not nonwomen.::::
+#4
+Some heroes are not martyrs.::%%TEXT::Some heroes are nonmartyrs.::::
+#5
+All shamans are priests.::%%TEXT::No shamans are nonpriests.::::
+#6
+No tulips are weeds.::%%TEXT::All tulips are nonweeds.::::
+#7
+All colonels are objects weighing at least 100 pounds.::%%TEXT::No colonels are objects not weighing at least 100 pounds.::::
+#8
+Some logicians are septuagenarians.::%%TEXT::Some logicians are not nonseptuagenarians.::::
+#9
+No giants are things less than ten feet tall.::%%TEXT::All giants are things not less than ten feet tall.::::
+#10
+No serigraphs are sculptures.::%%TEXT::All serigraphs are nonsculptures.::::

@@ -1,0 +1,26 @@
+#!qtype venn3
+
+# Part A:Argument FormsUse Venn diagrams to test the following argumentforms. (Do not supply unstated premises.)
+
+#format is syllogism::major::minor::middle::image::validity
+
+#1
+No M are P. All S are M. So, Some S are not P.::S::P::M::11001100.gif::invalid
+#2
+All P are M. No S are M. So, Some S are not P.::S::P::M::01111000.gif::invalid
+#3
+All M are P. All M are S. So, Some S are P.::S::P::M::00010110.gif::invalid
+#4
+All M are P. All M are S.  At least one M exists. So, Some S are P.::S::P::M::0001011b.gif::valid
+#5
+No M are P.  All M are S. So, Some S are not P.::S::P::M::00001110.gif::invalid
+#6
+No M are P. All M are S.  At least one M exists. So, Some S are not P.::S::P::M::00001119.gif::valid
+#7 
+No S are P. So, Some non-P are not non-S.::S::P::M::01001000.gif::invalid
+#8 
+All P are M. No M are S. So, Some S are not P.::S::P::M::01111000.gif::invalid
+#9
+All P are M. All M are S. So, Some S are P.::S::P::M::01100110.gif::invalid
+#10
+No S are P. At least one S exists. So, Some non-P are not non-S.::S::P::M::01001006.gif::valid

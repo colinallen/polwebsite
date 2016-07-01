@@ -1,0 +1,59 @@
+#!qtype MC_FIXED
+#!values WFF::Not a WFF
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A. </strong>
+#!preamble Wffs?</font>&nbsp;&nbsp;
+#!preamble Which of the following are well-formed formulas? Which are not? 
+#!preamble <p>
+
+# Format of each line QUESTION :: ERROR STRING :: ANSWER
+
+#1
+<tt>(x)Ax</tt>::This is a universal.::WFF
+#2
+<tt>(x)(Ax)</tt>::The parentheses around <tt>Ax</tt> are incorrect.::Not a WFF
+#3
+<tt>~($y)By</tt>::This is a negation of an existential formula.::WFF
+#4
+<tt>(a)Ca</tt>::<tt>a</tt> is not a variable.::Not a WFF
+#5
+<tt>(z)~Tz</tt>::This is a universal.::WFF
+#6
+<tt>(~x)Hx</tt>::The tilde is incorrectly placed.::Not a WFF
+#7
+<tt>~(x)~Jx</tt>::This is a negation of a universal.::WFF
+#8
+<tt>Cx</tt>::This is an open formula.::WFF
+#9
+<tt>(z)P~z</tt>::The tilde is incorrectly positioned.::Not a WFF
+#10
+<tt>($z)(Sx.Rz)</tt>::Existential::WFF
+#11
+<tt>($u)Gu</tt>::<tt>u</tt> is not a variable.::Not a WFF
+#12
+<tt>(w)(~Dw)</tt>::The parentheses around <tt>~Dw</tt> are incorrect.::Not a WFF
+#13
+<tt>(P.(x)Fx)</tt>::This is a conjunction.::WFF
+#14
+<tt>((x)Gx->(x)Nx)</tt>::This is a conditional.::WFF
+#15
+<tt>(y)(My->~Oy)</tt>::This is a universal.::WFF
+#16
+<tt>~b</tt>::&lsquo;<tt>b</tt>&rsquo; is an individual constant. &lsquo;<tt>~B</tt>&rsquo; would be well formed, since &lsquo;<tt>B</tt>&rsquo; is a statement letter and, hence, a WFF.::Not a WFF
+#17
+<tt>(y)(Hyv($y)Fy)</tt>::This is a universal.::WFF
+#18
+<tt>((y)Ryv($z)~Sz)</tt>::This is a disjunction::WFF
+#19
+<tt>(x)((FxvGx)->Hx)</tt>::This is a universal.::WFF
+#20
+<tt>(Q.(Rgv(x)Ex))</tt>::This is a conjunction.::WFF
+#21
+<tt>($x)Ba</tt>::This is an existentially quantified WFF, although the quantifier is &ldquo;vacuous&rdquo; because there are no free occurrences of &lsquo;<tt>x</tt>&rsquo; in &lsquo;<tt>Ba</tt>&rsquo;. (Remember that the result of prefixing any WFF with a quantifier is itself a WFF, even if the result of doing so is a vacuous quantifier.)::WFF
+#22
+<tt>(z)M</tt>::&lsquo;<tt>(z)M</tt>&rsquo; is a universally quantified WFF, although the quantifier is &ldquo;vacuous&rdquo; because there are no free occurrences of &lsquo;<tt>z</tt>&rsquo; in the WFF &lsquo;<tt>M</tt>&rsquo;. (Recall that &lsquo;<tt>M</tt>&rsquo; is a statement letter and, hence, a WFF and the result of prefixing any WFF with a quantifier is itself a WFF.)::WFF
+#23
+<tt>($y)Gx</tt>::This is an existentially quantified WFF, although the quantifier is &ldquo;vacuous&rdquo; because there are no free occurrences of &lsquo;<tt>y</tt>&rsquo; in &lsquo;<tt>Gx</tt>&rsquo;. However, the grammar for the language of predicate logic tells us that the result of prefixing any WFF p with a quantifier is itself a WFF &mdash; even if doing so results in a vacuous quantifier.)::WFF
+#24
+<tt>($x)($x)Fx</tt>::This is an existentially quantified WFF, although the first occurrence of the quantifier &lsquo;<tt>(&exist;x)</tt>&rsquo; is redundant because all occurrences of &lsquo;<tt>x</tt>&rsquo; in &lsquo;<tt>(&exist;x)Fx</tt>&rsquo; are already bound by an occurrence of that same quantifier. However, the grammar for the language of predicate logic tells us that the result of prefixing any WFF p with a quantifier is itself a WFF &mdash; even if that quantifier already occurs in p.::WFF
+#25
+<tt>(y)($x)Sxy</tt>::Universal::WFF

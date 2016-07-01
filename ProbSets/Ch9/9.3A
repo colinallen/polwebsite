@@ -1,0 +1,34 @@
+#!qtype ANNPRF
+#!preamble <font color="#ee0077" face="helvetica"<b>Part A.</b> </font>
+#!preamble Annotate the following proofs.
+
+#1
+1.(x)(Rx->Tx)2.~Tc.:~Rc3.(Rc->Tc)4.~Rc
+#2
+1.Km2.[($x)Kx->(x)Lx].:Lm3.($x)Kx4.(x)Lx5.Lm				
+#3
+1.(z)(Az->Bz)2.($y)Ay.:($y)By3.Ab4.(Ab->Bb)5.Bb6.($y)By
+#4
+1.Hn.:($x)Hx2.($x)Hx			
+#5
+1.(x)(Rx->~Ox)2.($y)(Sy.Ry).:($z)(Sz.~Oz)3.(Sb.Rb)4.(Rb->~Ob)5.Rb6.~Ob7.Sb8.Sb.~Ob9.($z)(Sz.~Oz)
+#6
+1.(z)(Mz.Lz)2.[(z)Mz->Kd].:($y)Ky3.(Mc.Lc)4.Mc5.(z)Mz6.Kd7.($y)Ky
+#7
+1.(y)(Ry->Ny)2.~Ng.:($y)~Ry3.(Rg->Ng)4.~Rg5.($y)~Ry
+#8
+1.[Abv(Bb.Cb)]2.(x)~Cx.:($x)Ax3.[(AbvBb).(AbvCb)]4.(AbvCb)5.~Cb6.Ab7.($x)Ax
+#9
+1.(x)(Fx->Gx)2.(x)(Gx->Fx).:(x)(Fx<->Gx)3.(Fa->Ga)4.(Ga->Fa)5.[(Fa->Ga).(Ga->Fa)]6.(Fa<->Ga)7.(x)(Fx<->Gx)
+#10
+1.($y)Py->(z)(~NzvOz)2.Pn3.~Om.:($x)~Nx4.($y)Py5.(z)(~NzvOz)6.(~NmvOm)7.~Nm8.($x)~Nx
+#11
+1.(x)(Kx->Lx)2.(x)(Lx->Mx).:(x)(Kx->Mx)3.Ka->La4.La->Ma5.Ka->Ma6.(x)(Kx->Mx)
+#12
+1.(x)[(AxvBx)->Cx]2.(x)~Cx.:(x)~Bx3.(AavBa)->Ca4.~Ca5.~(AavBa)6.~Aa.~Ba7.~Ba8.(x)~Bx
+#13
+1.(y)(Dy.Ey).:(y)Dy.(y)Ey2.Db.Eb3.Db4.(y)Dy5.Eb6.(y)Ey7.(y)Dy.(y)Ey
+#14
+1.($x)(Jx.Kx).:($x)Jx.($x)Kx2.Jb.Kb3.Jb4.($x)Jx5.Kb6.($x)Kx7.($x)Jx.($x)Kx
+#15
+1.(x)[Mav(Lx.Nx)]2.~Ma.:(x)Nx3.Mav(Lb.Nb)4.Lb.Nb5.Nb6.(x)Nx

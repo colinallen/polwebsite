@@ -1,0 +1,11 @@
+#!qtype PRF
+#!preamble <font color="ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble Proofs</font>&nbsp;&nbsp;
+#!preamble Construct proofs for the following valid symbolic arguments
+
+1.(F->G)->H :. F->(G->H)
+1.~L->L2.~L<->N :. ~N
+1.~(S->R) :. S.~R
+1.P->~Q :. Q->~P
+1.~S->(F->L)2.F->(L->P) :. ~S->(F->P)
+

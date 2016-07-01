@@ -1,0 +1,49 @@
+<font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
+Correct or incorrect?</font>
+Which of the following inferences are permitted by our inference rules? Which are not permitted?   
+	
+	*1. 	1. (x)Ax  -> (x)Bx  
+		2. Ax  -> (x)Bx	1, UI	
+
+	2. 	1. ($x)(Dx . Fx)
+		2. ($x)Gx
+		3. (Dx . Fx)	1, EI
+		4. Dx	3, Simp
+		5. (x)Dx	4, UG
+		6. Fx	3, Simp
+		7. ($x)Fx	6, EG	
+		8.  Gx	2, EI
+
+	3. 	1. ($y)Hy -> ($y)Jy
+		2. Hy -> ($y)Jy	1, EI
+
+	*4. 	1. ($z)(Kz . Lz)
+		2. ($z)Kz	1, Simp
+
+	5. 	1. ($y)(Ry . Sy)
+		2. Rb . Sb	1, EI
+
+	6.	1. (x)(Mx -> Nx)
+		2. (x)(Nx -> Ox)
+		3. (Mx -> Nx)	1, UI
+		4. (Nx -> Ox)	2, UI
+		5. (Mx -> Ox)	3, 4, HS
+		6. (x)(Mx -> Ox)	5, UG
+		7. (Md -> Od)	6, UI
+		8. ($y)(My -> Oy)	7, EG
+		
+	*7. 	1. (x)(y)(My <-> Nx)	
+		2. (y)(My <-> Ny)	1, UI
+
+	8. 	1. ~(x)(Tx v Ax)
+		2.  ~(Tx v Ax)	1, UI	
+	
+	9. 	1. (x)[(y)Fy v Hx]
+		2. (y)Fy v Hx	1, UI	
+		3. (y)Fy v ($z)Hz	2, EG	
+
+	*10. 	1. (x)(Bx -> (z)Cz)
+		2. (x)Bx
+		3. (z)Cz	1, 2, MP	
+
+

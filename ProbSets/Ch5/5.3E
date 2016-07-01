@@ -1,0 +1,38 @@
+#!qtype MC_FIXED
+#!values True::False::Not guaranteed
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part E:</strong>
+#!preamble Inferences from <em>A</em> Statements</font>
+
+#!preamble Assuming that "All ideologues are fools" is true, what is implied regarding the truth or falsehood of the following statements? (If neither the truth nor the falsehood of the statement is implied, choose "Not guaranteed".) Note: To get the correct answer, you may need to make a series of inferences from the assumed statement.
+
+#1
+All fools are ideologues.::Conversion for A statements is not valid.::Not guaranteed
+#2
+No ideologues are nonfools.::Obversion is always valid.::True
+#3
+Some ideologues are fools.::Subalternation of an A statement is valid::True
+#4
+All nonfools are nonideologues.::Contraposition is valid for A statements.::True
+#5
+No nonfools are ideologues.::This is the converse of the obverse ("No ideologues are nonfools") of the original statement.  Obversion is always valid for A statements, and conversion is valid for E statements.::True
+#6
+Some fools are ideologues.::This is the converse of the subaltern ("Some ideologues are fools"), an I statement, and conversion is valid for I statements.::True
+#7
+No fools are nonideologues.::There is no series of valid transformations from an A statement to this statement.  Notably, contraposition applied to the obverse ("No ideologues are nonfools"), an E statement, is not valid.::Not guaranteed
+#8
+Some ideologues are not fools.::This is the contradictory of the original statement.::False
+#9
+No ideologues are fools.::This statement and the original are contraries, i.e., they cannot both be true.::False
+#10
+Some ideologues are not nonfools.::This is the obverse of the subaltern ("Some ideologues are fools"), and obversion is always valid.::True
+#11
+Some fools are not nonideologues.::Contrapositive of obverse of subaltern::True
+#12
+All nonideologues are nonfools.::Ideologues and nonideologues alike might all be fools.::Not guaranteed
+#13
+Some nonfools are nonideologues.::This is the subaltern of the contrapositive ("All nonfools are nonideologues"), and contraposition is always valid for A statements.::True
+#14
+No fools are ideologues.::This statement is the converse of "No fools are ideologues".  If an E statement is false, its converse is false.  But "No fools are ideologues" and the original statement are contraries -- they can't both be true.  Hence, "No fools are ideologues" is false if the original is true.::False
+#15
+No nonideologues are nonfools.::Given the original statement, by contraposition, "All nonfools are nonideologues" is true.  The contrary of this -- "No nonfools are nonideologues" -- must therefore be false.  But if so, its converse (which is the statement in question) must also be false.::False

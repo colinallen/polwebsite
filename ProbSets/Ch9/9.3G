@@ -1,0 +1,16 @@
+#!qtype TRANSPRF
+#!preamble <font color="#ee0077" face="helvetica"<b>Part E.</b></font>
+#!preamble Symbolize the following arguments, using the schemes of abbreviation provided. Then construct proofs to show that the arguments are valid. Use direct proof rather than CP or RAA.  
+
+# Format of each line is QUESTION :: ERROR STRING :: TRANSLATION
+
+Only humans have inherent value. No chimps are humans. So, no chimps have inherent value. (Hx: x is a human; Ix: x has inherent value; Cx: x is a chimp)::::1.(x)(Ix->Hx)2.(x)(Cx->~Hx):.(x)(Cx->~Ix)
+Every fetus has an immortal soul. A thing has an immortal soul only if it has a right to life. Hence, each and every fetus has a right to life. (Fx: x is fetus; Sx: x has an immortal soul; Rx: x has a right to life)::::1.(x)(Fx->Sx)2.(x)(Sx->Rx):.(x)(Fx->Rx)
+There are rights which cannot be waived. But alienable rights can be waived. It follows that some rights are inalienable. (Rx: x is right; Wx: x can be waived; Ax: x is an alienable right)::::1.($x)(Rx.~Wx)2.(x)(Ax->Wx):.($x)(Rx.~Ax)
+God is a perfect being. Nothing perfect is unreal. Therefore, God is real. (g: God; Px: x is a perfect being; Rx: x is real)::::1.Pg2.(x)(Px->~~Rx):.Rg
+At least one instance of intentional killing is not wrong. But every murder is wrong. Hence, some instances of intentional killing are not murder. (Kx: x is an instance of intentional killing; Mx: x is murder; Wx: x is wrong)::::1.($x)(Kx.~Wx)2.(x)(Mx->Wx):.($x)(Kx.~Mx)
+Some wars are just. No war of aggression is just. Accordingly, there are wars which are not wars of aggression. (Wx: x is a war; Jx: x is just; Ax: x is a war of aggression)::::1.($x)(Wx.Jx)2.(x)(Ax->~Jx):.($x)(Wx.~Ax)
+A person deserves the death penalty if and only if he is a serial killer. Bundy is a serial killer but Oswald is not. Both Bundy and Oswald are persons. Hence, Bundy deserves the death penalty, but Oswald does not.  (Px: x is a person; Dx: x deserves the death penalty; Sx: x is a serial killer; b: Bundy; o: Oswald)::::1.(x)[Px->(Dx<->Sx)]2.Sb.~So3.Pb.Po:.Db.~Do
+All contingent beings are causally dependent. No necessary beings are causally dependent. Every physical entity is contingent. All atoms are physical entities. We may conclude that no atom is a necessary being. (Cx: x is a contingent being; Dx: x is causally dependent; Nx: x is a necessary being; Px: x is a physical entity; Ax: x is an atom)::::1.(x)(Cx->Dx)2.(x)(Nx->~Dx)3.(x)(Px->Cx)4.(x)(Ax->Px):.(x)(Ax->~Nx)
+At least one instance of killing an innocent human is not wrong. For some instances of killing an innocent human are either accidental or in self-defense. But accidental killing is not wrong. And killing in self-defense is not wrong. (Kx: x is an instance of killing an innocent human; Wx: x is wrong; Ax: x is an accidental killing; Sx: x is a case of killing in self-defense)::::1.($x)[Kx.(AxvSx)]2.(x)[Ax->~Wx]3.(x)[Sx->~Wx]:.($x)(Kx.~Wx)
+Only things having human bodies are human. No soul has a human body. Only souls survive the death of the body. Thus, no humans survive the death of the body. (Bx: x has a human body; Hx: x is human; Sx: x is a soul; Dx: x survives the death of the body)::::1.(x)(Hx->Bx)2.(x)(Sx->~Bx)3.(x)(Dx->Sx):.(x)(Hx->~Dx)

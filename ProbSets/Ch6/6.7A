@@ -1,0 +1,80 @@
+#!qtype MC_MULTI
+
+#!valuetype EVALUATION::Valid::Rule 1 violated::Rule 2 violated::Rule 3 violated::Rule 4 violated::Rule 5 violated::Multiple rules violated
+
+#!preamble <font color=ee0077 face=helvetica><strong>Part B:  </strong>
+#!preamble Forms</font>&nbsp;&nbsp;
+#!preamble Apply the following five rules to determine 
+#!preamble whether the syllogism has a valid form.  If an argument is invalid due to a
+#!preamble single rule violation, indicate which rule has been violated. If
+#!preamble more than one rule is violated, so indicate by choosing &ldquo;Multiple rules
+#!preamble violated&rdquo;.<p>
+
+#!preamble <table border=1 bordercolor=black cellspacing=0 bgcolor=#aaccff>
+#!preamble <tr><td>
+#!preamble <table><tr><td>
+#!preamble <font size=-1 color=ee0077 face=helvetica>
+#!preamble <strong>Rule 1:  </strong>
+#!preamble A valid standard-form categorical syllogism must contain exactly 
+#!preamble three terms, and each term must be used with the same meaning throughout the argument.<br>
+#!preamble </td></tr><tr><td>
+#!preamble <font size=-1 color=ee0077 face=helvetica>
+#!preamble <strong>Rule 2:  </strong>In a valid standard-form categorical syllogism, 
+#!preamble the middle term must be distributed in at least one premise.<br>
+#!preamble </td></tr><tr><td>
+#!preamble <font size=-1 color=ee0077 face=helvetica>
+#!preamble <strong>Rule 3:  </strong>In a valid standard-form categorical syllogism, 
+#!preamble a term must be distributed in the premises if it is distributed in the conclusion.<br>
+#!preamble </td></tr><tr><td>
+#!preamble <font size=-1 color=ee0077 face=helvetica>
+#!preamble <strong>Rule 4:  </strong>In a valid standard-form categorical syllogism, 
+#!preamble the number of negative premises must be equal to the number of negative conclusions.<br>
+#!preamble </td></tr><tr><td>
+#!preamble <font size=-1 color=ee0077 face=helvetica>
+#!preamble <strong>Rule 5:  </strong>No valid standard-form categorical syllogism with a
+#!preamble particular conclusion can have two universal premises.
+#!preamble </font></td></tr></table></td></tr></table>
+
+# Format of each line is QUESTION::ANSWER1::ERRORSTRING1::ANSWER2::ERRORSTRING2 etc.
+# (This does not seem to be true -- does the code handle it??)
+
+#1
+No P are M. No M are S. So, no S are P.::Rule 4 violated::
+#2
+All M are P. No S are M. So, no S are P.::Rule 3 violated::
+#3
+All M are P. All M are S. So, all S are P.::Rule 3 violated::
+#4
+All P are M. All S are M. So, all S are P.::Rule 2 violated::
+#5
+No M are P. Some S are M. So, some S is not P.::Valid::
+#6
+No M are P. All M are S. So, some S are not P.::Rule 5 violated::
+#7
+All P are M. Some S are not M. So, some S are not P.::Valid::
+#8
+Some M are P. All S are M. So, some S are not P.::Multiple rules violated::Rules 2, 3 and 4 are all violated by this syllogism
+#9
+All M are P. Some S are not M. So, some S are not P.::Rule 3 violated::
+#10
+Some P are not M. Some S are not M. So, some S are not P.::Multiple rules violated::Rules 3 and 4 are both violated by this syllogism
+#11
+All P are M. Some S are M. So, some S are P.::Rule 2 violated::
+#12
+No P are M. All M are S. So, no S are P.::Rule 3 violated::
+#13
+Some M are not P. All S are M. So, some S are not P.::Rule 2 violated::
+#14
+No M are P. Some M are not S. So, some S are not P.::Rule 4 violated::
+#15
+All P are M. No M are S. So, some S are not P.::Rule 5 violated::
+#16
+All M are P. All S are M. So, some S are P.::Rule 5 violated::
+#17
+All P are M. All M are S. So, all S are P.::Rule 3 violated::
+#18
+No P are M. All S are M. So, some S are not P.::Rule 5 violated::
+#19
+Some M are P. Some M are S. So, some S are P.::Rule 2 violated::
+#20
+Some P are M. All S are M. So, some S are P.::Rule 2 violated::

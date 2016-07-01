@@ -1,0 +1,68 @@
+#!qtype MC_FIXED
+#!values True::False
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble True or False?</font>&nbsp;&nbsp;
+#!preamble Which of the following statements are true? Which are false? 
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+A substitution instance of an argument form is an argument that results from uniformly replacing the variables in that form with statements (or terms).::Definition of <i>substitution instance</i>.::True
+#2
+A conditional is an "if-then" statement.::Definition of <i>conditional</i>.::True
+#3
+The parts of a disjunction are disjuncts.::The statements comprising a disjunction are the disjuncts.::True
+#4
+In logic, we treat statements of the form "Either A or B" as saying the same thing as "Either A or B, but not both A and B."::Disjunctions are not exclusive.::False
+#5
+The if part of a conditional is the antecedent.::The antecedent is the if part of a conditional.::True
+#6
+A valid argument form is one in which every substitution instance is a valid argument.::Definition of <i>valid argument form</i>.::True
+#7
+The consequent of "If it was reported in the <i>Daily Prophet</i>, then it's true" is "It was reported in the <i>Daily Prophet</i>."::The consequent is the then-clause of a conditional.  "It was reported in the <i>Daily Prophet</i>" is the if-clause, so it is the antecedent.::False
+#8
+In logic, we treat statements of the form "Either A or B" as saying the same thing as "Either A or B, or both A and B."::This is how we evaluate disjunctions.::True
+#9
+"Either Hermione gets Ron or she gets Harry" is a conditional.::This is a disjunction of the form "A or B".::False
+#10
+The inclusive sense of "or" means "Either A or B, or both."::This is true, the exclusive sense of "or" means "Either A or B, but not both."::True
+#11
+"Either Fritz is a philosopher or a gambler" is a disjunction.::This is an "either-or" statement, so it is a disjunction.::True
+#12
+An argument form is a pattern of reasoning.::Definition of <i>argument form</i>.::True
+#13
+The then part of a conditional is the consequent.::Definition of <i>consequent</i>.::True
+#14
+If the successful candidate has a PhD in English literature or at least five years of university teaching experience, it follows that the successful candidate does not have both a PhD in English literature and at least five years of university teaching experience.::Most logicians evaluate disjunctions in the inclusive sense ("Either A or B, or both"), rather than the exclusive sense ("Either A or B, but not both"), so this statement is false.::False
+#15
+The antecedent of "If Professor Dumbledore died in Book Six, then he won't make an appearance in Book Seven" is "Professor Dumbledore died in Book Six."::Regardless of the validity of the entire statement, "Professor Dumbledore died in Book Six" is the antecedent of this statement.::True
+#16
+The negation of a statement is its denial.::Definition of <i>negation</i>.::True
+#17
+A formally valid argument is one that is valid in virtue of its form.::Definition of <i>formally valid argument</i>.::True
+#18
+The antecedent of "If Professor Snape was a disciple of Voldemort, then he should be imprisoned in Azkaban" is "He should be imprisoned in Azkaban."::"He should be imprisoned in Azkaban" is the consequent, not the antecedent.::False
+#19
+The consequent of "If Dolores Umbrage despises Harry, then she's a disciple of he-who-shall-not-be-named" is "She's a disciple of he-who-shall-not-be-named."::"She's a disciple of he-who-shall-not-be-named" is the consequent.::True
+#20
+A disjunction is an "either-or" statement.::Definition of <i>disjunction</i>.::True
+#21
+"There is no God" is the denial of "There is a God."::This is a prime example of a denial.::True
+#22
+The exclusive sense of "or" means "Either A or B, but not both."::The inclusive sense of "or" means "Either A or B, or both".  This is the exclusive sense, however.::True
+#23
+In determining whether an argument is a substitution instance of an argument form, we must be careful to take the order of the premises into account.::Order plays no role in determining whether an argument is a substitution instance.::False
+#24
+The antecedent of "Either humans evolved from amoebas or humans were specially created by God" is "Humans evolved from amoebas."::Only if-then statements have antecedents and consequents.  This is a disjunction, which is composed of two disjuncts.  "Humans evolved from amoebas" is one of those disjuncts.::False
+#25
+The antecedent of "The Sonics will move to Oklahoma only if the league permits it" is "The Sonics will move to Oklahoma."::The prhase "only if" introduces the consequent of the condutional.::True
+#26
+The antecedent of "Bill will behave better in the future if Hillary forgives Bill" is "Bill will behave better in the future."::This is an inverted if-then statement, so the consequent ("Bill will behave better in the future") is presented first, rather than the antecedent.::False
+#27
+The consequent of "There is air in the room if there is fire in the room" is "there is air in the room."::This is an inverted if-then statement in which the consequent is presented first ("There is air in the room").::True
+#28
+The following argument is a substitution instance of disjunctive syllogism: Jill is in love with Sam or Henry; she is in love with Henry; so Jill is not in love with Sam.::In a disjunctive syllogism, one of the disjuncts is negated, and the other disjunct is the conclusion.::False
+#29
+Although the famous forms method does not allow us to show that an argument is invalid, it does allow us to show the validity of every valid argument.::While it is true that the famous forms method does not allow us to show that an argument is invalid, not every valid argument has a famous form, so the famous forms method cannot show the validity of every valid form.::False
+#30
+The consequent of "There is fire in the room <i>only if</i> there is air in the room" is "There is air in the room".::This is true, because the phrase "<i>only if</i>" introduces the consequent of a conditional statment.::True

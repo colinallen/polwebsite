@@ -1,0 +1,71 @@
+#!qtype MC_MULTI
+#!valuetype ?::No fallacy::Appeal to ignorance::Appeal to unreliable authority::False cause::Complex question::Appeal to the people::False dilemma::Begging the question::Equivocation::Amphiboly::Division::Composition::Multiple fallacies
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Identifying Fallacies</font>&nbsp;&nbsp;
+#!preamble If a fallacy is committed in the following passages, choose the 
+#!preamble fallacy exemplified. If no fallacy is committed, choose "No fallacy".
+
+#1
+In a recent speech, the president of General Motors asserted that our country has drifted dangerously away from its religious and ethical moorings. In light of this pronouncement, the cheery optimism of the liberals is no longer reasonable.::Appeal to unreliable authority::
+#2
+Every American is either a Republican or a Democrat. Dr. Porter is an American, but she is not a Republican. So, she must be a Democrat.::False dilemma::Look harder at the first premise.
+#3
+On Monday Bill drank scotch and soda, and noticed that he got drunk. On Tuesday, Bill drank whiskey and soda, and noticed that he got drunk. On Wednesday, Bill drank bourbon and soda, and noticed that he got drunk. Bill concluded that soda causes drunkenness.::False cause
+#4
+If smoking is not harmful, then it is not wrong. And the tobacco companies say that smoking is not harmful. Therefore, smoking is not wrong.::Appeal to unreliable authority
+#5
+Sleeping pills work because they cause people to go to sleep.::Begging the question::*Yawn*  What was the question again?
+#6
+Left turn signals frequently occur just before an automobile turns left. Right turn signals frequently occur just before an automobile turns right. Consequently, turn signals cause automobiles to turn.::False cause
+#7
+Either men are superior to women or women are superior to men. Men are not superior to women. Hence, women are superior to men.::False dilemma::Look harder at that first sentence.
+#8
+Leonardo da Vinci's paintings are immoral if they incite rape. And the Reverend Posner states that da Vinci's paintings incite rape. Hence, da Vinci's paintings are immoral.::Appeal to unreliable authority
+#9
+Who's the fairest of them all, Daryl Hannah or Helen Hunt?::Complex question::There are many more choices than Daryl or Helen.
+#10
+Obviously, humans have free will, since they have the power to make choices.::Begging the question::Perhaps a less questionable assumption should have been chosen.
+#11
+Keegan is a reliable authority on military history. Keegan says that it was morally wrong for the Americans to fight in World War I. Hence, it was morally wrong for the Americans to fight in World War I.::Appeal to unreliable authority
+#12
+Day always follows night. The two are perfectly correlated. Therefore, night causes day.::False cause
+#13
+Last night we went to see <em>Hamlet</em>.  The play was excellent since each scene was excellent.  Plus everybody who is anybody is raving about the play.::Multiple fallacies::(1) The play is composed of scenes; (2) "...everybody who is anybody..."
+#14
+Either God created everything (including human beings) in six days or else human life evolved gradually out of lower life forms over a very long period of time apart from any divine activity.  You know about fossils, hence you know that human life evolved gradually out of lower life forms over a very long period of time.  Thus, God did not create everything in six days.::False dilemma::The unwarranted assumption is that God must either create in six days or not at all.
+#15
+Suicide is wrong for many reasons.  First, because it involves killing.  And killing is wrong because it is wrong to take a life.  Second, suicide is wrong because it deeply wounds one's family and friends.  And that is not cool, not cool at all.  Third, suicide is the coward's way out.  It's for weaklings who collapse the first time they run into a little adversity.::Multiple fallacies::Begging the question ("killing is wrong because it is wrong to take a life"). Appeal to the people or ad populum fallacy ("not  cool, not cool at all"). Argument against the person or ad hominem fallacy  (abusive): the key word is "coward."
+#16
+Why was Warren G. Harding the best American President of the first half of the 20th century?::Complex question::The unwarranted assumption is that Harding was the best President of the period.
+#17
+We could get control of the crime problem in the United States if we would just punish criminals harshly.  In Saudi Arabia, for example, thieves get their hands chopped off.  Murderers are immediately put to death.  And the rate of crime in Saudi Arabia is much lower than the rate of crime in the United States.  Therefore, harsh punishments would greatly reduce the rate of crime in the United States.::False cause::The causes of crime are many and various.
+#18
+Time is composed of moments.  Moments have no duration.  Therefore, time has no duration.::Composition::Moments are points in time, but even though points have no extension they are parts of larger structures which do have extension.
+#19
+Without the discoveries of the great physicist, Albert Einstein, the atomic bomb could not have been invented. And Einstein said that it was immoral for America to drop the atomic bomb on Hiroshima. Therefore,  it was immoral for America to drop the atomic bomb on Hiroshima.::Appeal to unreliable authority::Physicists are not necessarily experts in morality.
+#20
+The largest slave revolt in U.S. history was one that occurred near New Orleans in 1811. Four or five hundred slaves were involved, lightly armed with cane knives, axes, and clubs. They wounded a plantation owner and killed his son. The revolt was put down by the U.S. army who attacked the slaves, killing sixty-six of them. This is all true, for I read about it in Howard Zinn's <em>A People's History of the United States</em> (New York: HarperCollins, 1995). And Dr. Zinn is a well known historian.::No fallacy::Most people would accept that Dr. Zinn is a reliable authority.
+#21
+What is the capital of Oregon?::No fallacy::A simple question with no false presuppositions.
+#22
+Gay rights activists claim that these marriages should be allowed because it doesn't hurt anyone, but it could start a chain reaction that destroys the whole idea of marriage. If someone wants to marry his dog, why shouldn't he be able to? What if someone wants to marry their brother or parent? What if someone wants to marry their blow-up doll or have 10 wives? What if some- one wants to marry a tree, a corpse, herself? Let's put a stop to this madness before it starts.::False cause::Slippery slope!
+#23
+Scientists have shown that a person loses a very small but measurable amount of weight at the time of death. This weight loss is probably due to the soul's leaving the body at that time. What else could account for this phenomenon? Here we have unexpected scientific evidence for the existence of an immaterial soul.::False cause::There is no justification for the second sentence.
+#24
+Violent crime has been on the increase for the past two decades. Abortion became more widespread roughly 20 years before that. We can only conclude that abortion has lowered the violent crime rate.::False cause::A statistical connection between movies and crime does not justify the claim that there is a causal connection between them.
+#25
+I have worn these socks to the last five baseball games. Each time I've gotten a base hit. So, these are my lucky socks. I play better when I wear them.::False cause::Without any further evidence, there is no justification for concluding that the socks are the cause of the improved play.
+#26
+Why is California the best place to live? Well, of course it's very beautiful. And there are many job opportunities. but most important of all, California is a very progressive state in every way -- so many important new trends begin there!::No fallacy::The beauty, job opportunities, progressiveness, and trendsetting qualities can all be taken as reasons for preferring California as a place to live.
+#27
+I warned those boys not to stand on Prince Valdinsky's grave. He was murdered, you know. And when he was being buried, his mother put a curse on anyone who showed disrespect for his grave. I was there -- it was a very eerie thing to watch. Anyway, those boys wouldn't listen, and now look a them, all broken up from that automobile crash. I tell you, that curse worked!::False cause::The unwarranted assumption here is that, because the curse was placed on the grave prior to the crash, it was the cause of the crash.
+#28
+Why is murder wrong? Because it takes away everything the victim has and everything he or she will ever have, including all the interesting experiences, fulfilling activities, and rewarding personal relationships.::No fallacy::This is a good reason for thinking murder is wrong.
+#29
+The will states that the painting of a beautiful woman in the storage bin shall be given to the brother of the deceased. But this is not a painting of a beautiful woman in a storage bin. It is a painting of a beautiful woman walking across a field. Therefore, this painting does not belong to the brother of the deceased.::Amphiboly::"the painting of a beautiful woman in the storage bin" can be interpreted to indicate the location of the painting itself or the location of the woman in the painting.
+#30
+Either you approve of legalizing drugs or you disapprove. You can't have it both ways. Those who want to legalize drugs claim that we are losing the war on drugs. Indeed, they claim that we cannot win that war -- the demand for drugs is high and when demand is high, supply is inevitable. But we must not be taken in by this pseudo-reasoning. If we legalize drugs, they will be cheaper and easier to obtain.  If drugs are cheaper and easier to obtain, more and more people will use drugs. As more people use drugs, the rate of absenteeism and work-related injuries will increase, productivity in the workplace will decline, and schools will be less effective in preparing students for the workforce. Thus, the economy will lose momentum and eventually collapse. Goodbye, America!::Multiple fallacies::You might not care at all, but it cannot be assumed that demand for drugs is held down because of high prices.
+
+#abandoned problem
+#The argument of tobacco's enemies is that because tobacco companies withheld information about the hazards and addictive properties of their products, they are liable for the enormous damages a jury has inflicted upon them.  If the government will now determine whether a company deserves to be punished when people use its legal products, we might reasonably ask where this will stop.  Gambling is a serious addiction for some.  Will gambling establishments be sued by addicts who have lost their rent and food money?  Some people who drink alcohol become addicted.  Should they be allowed to sue liquor companies?  [And] increasing numbers of people are addicted to porn.  If a marriage is ruined, or if someone is raped and rapist testifies it was porn that made him do it, should injured parties be allowed to seek a judgment against the companies that produced it...?  Credit card debt is at a record high.  If someone is forced to declare bankruptcy and claims an addiction to credit cards, why could the "victims" not be able to sue the card companies and the banks that issue them?  Some people suffer heart problems from their food addictions.  Should fast-food companies that advertise high-in-fat hamburgers be sued when a customer ... dies from a heart attack?::False cause::The things such as manipulation of data and addictiveness that would cause liability of the tobacco companies are not obviously present in the other cases.
+

@@ -1,0 +1,23 @@
+%chapter = (
+     chapnum => 1,
+     title  =>"Chapter 1 Basic Concepts",
+     sections => "1 2 ",
+     sec1 => {
+          title => "Validity and Deductive Soundness",
+          labels => {
+                "1.1A" => "A. Recognizing statements",
+                "1.1B" => "B. True or False ",
+                "1.1C" => "C. Valid or Invalid?",
+                "1.1D" => "D. Deductive soundness",
+          },
+     },
+     sec2 => {
+          title => "Strength and Inductive Soundness",
+          labels => {
+                "1.2A" => "A. Matching",
+                "1.2B" => "B. True or False",
+                "1.2C" => "C. Valid or Invalid? Strong or Weak?",
+                "1.2D" => "D. Inductive Soundness",
+          },
+     },
+);

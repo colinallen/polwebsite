@@ -1,0 +1,23 @@
+#!qtype MC_FIXED
+#!values metaphorical::literal
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble </font>&nbsp;&nbsp;
+#!preamble Classify the following as either metaphorical, or literal.
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+A marriage is a molecule, not an atom.::::metaphorical
+Thomas Edison was similar to Benjamin Franklin in that both were inventors.::::literal
+Religion is the opiate of the people.::::metaphorical
+The single life is the flight of a butterfly.::::metaphorical
+An undisciplined man is a rogue elephant.::::metaphorical
+My hat is like yours in that both are made of wool.::::literal
+A college education is a ticket to the middle class.::::metaphorical
+The fog comes on little cat feet.::::metaphorical
+A virtuous person "is like a tree planted by streams of water, that yields its fruit in season, and its leaf does not wither."::::metaphorical
+I won't take any more of your criticism, Bill. In case you haven't noticed, I'm not a dart board. So, just shut up!::::metaphorical
+Morality is a cage for little birds.::::metaphorical
+In this building, the walls have ears.::::metaphorical
+A baseball and a basketball are similar in that both are spherical in shape.::::literal
+Admittedly, Doug is not a rocket scientist, but he is honest and he's a hard worker. Moreover, he has experience in this type of janitorial work. You should hire him.::::metaphorical
+A rich tradition is a channel for the stream of life.::::metaphorical

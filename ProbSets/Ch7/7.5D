@@ -1,0 +1,27 @@
+#!qtype 
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part D.</strong>
+#!preamble <strong>English Arguments</strong></font> 
+#!preamble Symbolize the following arguments. Then use truth tables to 
+#!preamble determine whether they are valid. 
+
+#1
+Grass is green. So, if Obama wins, then Obama wins. (G: Grass is green; W: Obama wins)::::
+#2
+Light is both a wave and a particle. But if light is wave, then it is not a particle. So, physicists are profoundly mistaken. (W: Light is a wave; P: Light is a particle; M: Physicists are profoundly mistaken)::::
+#3
+Either unicorns exist or unicorns do not exist. Therefore, trees exist. (U: Unicorns exist; T: Trees exist)::::
+#4
+Pain is an illusion if and only if it is not an illusion. It follows that everything is an illusion. (P: Pain is an illusion; E: Everything is an illusion)::::
+#5
+If it is wet, then it is wet if it is raining. Consequently, either Sasquatch exists or Sasquatch fails to exist. (W: It is wet; R: It is raining; S: Sasquatch exists)::::
+#6
+Human behavior is determined only if human behavior is not free. Human behavior is determined, nevertheless it is free. Therefore, life is but a dream. (D: Human behavior is determined; F: Human behavior is free; L: Life is but a dream)::::
+#7
+The sky's being colored is a necessary condition for its being blue. It follows that the sky's being blue is sufficient condition for its being colored. (C: The sky is colored; B: The sky is blue)::::
+#8
+It is not the case both that electrons exist and electrons do not exist. Hence, electrons exist. (E: Electrons exist)::::
+#9
+If ultimate reality is divine, then it can be described in human language if and only if it cannot be described in human language. So, ultimate reality is not divine. (U: Ultimate reality is divine; L: Ultimate reality can be described in human language)::::
+#10
+If you do not accept me as I am, then you do not love me. You accept me as I am if and only if you accept me as a violent criminal. You love me, but you do not accept me as a violent criminal. Consequently, you do not love me. (A: You accept me as I am; L: You love me; C: You accept me as a violent criminal)::::
+

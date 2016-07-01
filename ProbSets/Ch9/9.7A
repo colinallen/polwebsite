@@ -1,0 +1,45 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:  </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Symbolize the following sentences, using the schemes of abbreviation provided.
+
+#1
+Timberlake is not identical to Timbaland. (j: Timberlake; t: Timbaland)::::~j=t
+#2
+Samuel Clemens is identical with Mark Twain. (s: Samuel Clemens; m: Mark Twain)::::s=m
+#3
+Everything is identical with something.::::(x)($y)x=y
+#4
+Nothing is distinct from itself.::::~($x)~x=x
+#5
+Everything differs from something.::::(x)($y)~x=y
+#6
+Nothing differs from everything.::::~($x)(y)~x=y
+#7
+Each thing is identical with itself.::::(x)x=x
+#8
+If two things are identical to a third thing, then they are identical to each other.::::(x)(y)(z)[(x=z.y=z)->x=y]
+#9
+Only Faraday discovered electromagnetic induction. (f: Faraday; Dx: x discovered electromagnetic induction)::::Df.(x)(Dx->x=f)
+#10
+At least two people invented the airplane. (Px: x is a person; Ax: x invented the airplane)::::($x)($y)[((Px.Py).~x=y).(Ax.Ay)]
+#11
+No one except Dostoyevsky wrote Crime and Punishment. (Px: x is a person; Wxy: x wrote y; d: Dostoyevsky; c: Crime and Punishment)::::(Pd.Wdc).(x)[(Px.Wxc)->x=d]
+#12
+Goliath is the tallest human. (g: Goliath; Hx: x is human; Txy: x is taller than y)::::Hg.(x)[(Hx.~x=g)->Tgx]
+#13
+At most two persons invented the airplane. (Px: x is a person; Ax: x invented the airplane)::::(x)(y)(z)[(((Px.Py).Pz).((Ax.Ay).Az))->((x=yvx=z)vy=z)]
+#14
+There is exactly one dollar in my wallet. (Dx: x is a dollar in my wallet)::::($x)[Dx.(y)(Dy->y=x)]
+#15
+At least two physicists discovered polonium. (Px: x is a physicist; Dx: x discovered polonium)::::($x)($y)[((Px.Py).~x=y).(Dx.Dy)]
+#16
+Dane Cook is the worst comedian. (d: Eddie Murphy; Cx: x is a comedian; Wxy: x is worse than y)::::Cd.(x)[(Cx.~x=d)->Wdx]
+#17
+Every star except the Sun is outside our solar system. (Sx: x is a star; s: The Sun; Ox: x is outside our solar system)::::(Ss.~Os).(x)[(Sx.~x=s)->Ox]
+#18
+The most brilliant physicist is Einstein. (Px: x is a physicist; Bxy: x is more brilliant than y; e: Einstein)::::Pe.(x)[(Px.~x=e)->Bex]
+#19
+There is at most one mountain in Ohio. (Mx: x is a mountain; Ox: x is in Ohio)::::(x)(y)[((Mx.Ox).(My.Oy))->x=y]
+#20
+There are at most two wizards. (Wx: x is a wizard)::::(x)(y)(z)[(Wx.(Wy.Wz))->(x=yv(x=zvy=z))]

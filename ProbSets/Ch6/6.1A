@@ -1,0 +1,39 @@
+#!qtype MC_FIXED
+#!values Standard::Not standard
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Standard Forms</font>
+#!preamble Which of the following categorical syllogisms are in standard form? Which are not? 
+
+#If a syllogism is not in standard form, rewrite it so that it is.
+
+#1
+1. Some works of art are books. 2. All novels are books. So, 3. Some works of art are novels.::::Not standard
+#2
+1. Some poems are not masterpieces. 2. No limericks are masterpieces. So, 3. Some limericks are not poems.::::Standard
+#3
+1. All movies are films. 2. Some documentaries are not movies. So, 3. Some documentaries are not films.::::Standard
+#4
+1. All sculptures are beautiful. 2. Some beautiful things are paintings. So, 3. Some sculptures are not paintings.::::Not standard
+#5
+1. Some short stories are not interesting.  2. Every famous short story is interesting. So, 3. Some short stories are not famous short stories.::::Not standard
+#6
+1. Some artists are millionaires. 2. No millionaires are poor. So, 3. At least one artist is not poor.::::Not standard
+#7.
+1. All sadists are mean. 2. All art critics are mean. So, 3. All art critics are sadists.::::Not standard
+#8.
+1. All metaphors are figures of speech. 2. All metaphors are words. So, 3. All figures of speech are words.::::Not standard
+#9
+1. All opera singers are cool people. 2. No rock singers are opera singers. So, 3. No rock singers are cool people.::::Standard
+#10
+1. Some ballerinas are clumsy dancers. 2. All people who hate music are clumsy dancers. So, 3. Some people who hate music are ballerinas.::::Standard
+#11
+1. Some comedians are poets. 2. Some comedians are prophets. So, 3. Some poets are prophets.::::Not standard
+#12
+1. Every author is insightful. 2. All novelists are authors. So, 3. All insightful people are novelists.::::Not standard
+#13
+1. No aspiring actor is a saint. 2. At least one aspiring actor is not an egoist. So, 3. Some egoists are saints.::::Not standard
+#14
+1. Some musicians are not classically trained musicians. 2. All jazz musicians are musicians. So, 3. Some jazz musicians are not classically trained musicians.::::Standard
+#15.
+1. Only artists are alive. 2. No ancient Greek poets are alive. So, 3. No artists are ancient Greek poets.::::Not standard

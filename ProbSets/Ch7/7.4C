@@ -1,0 +1,37 @@
+#!qtype ATT
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C.</strong></font> 
+#!preamble Still More Abbreviated Truth Tables</font>&nbsp;&nbsp;
+#!preamble Use abbreviated truth tables to show that the following
+#!preamble arguments are valid. 
+
+#1
+H -> ~B, D -> B, H :. ~D 
+#2
+F -> (G -> H), ~F -> J, ~(G -> H) :. J 
+#3
+(F v E) -> ~D, S v D, E :. S  
+#4
+~A -> F, A -> D, ~D, F -> S :. S v X 
+#5
+(A . E) -> F, E, F -> (D . ~C), A :. ~C 
+#6
+~F v ~G, ~F -> Z, ~G -> ~R, (Z v ~R) -> (U -> P), ~P :. ~U 
+#7
+C -> (T -> L), ~L, ~E -> C, L v ~E :. ~T  
+#8
+~~A, B -> ~A :. ~B 
+#9
+(B . A) -> C, ~D -> (B . A), ~C :. ~~D  
+#10
+~(S v R), B -> (S v R), B v P, ~Q v B :. P . ~Q 
+#11
+(G v H) -> (J v K) :. ~(J v K) -> ~(H v G)    
+#12
+(M v N) -> ~S, T -> (M v N), ~S -> ~(M v N) :. T -> ~(M v N) 
+#13
+X <-> Y, ~~(X v Y) :. X . Y
+#14
+(X . Q) -> (Z . ~T), R . (T v ~Z) :. (~X v ~Q) . R
+#15
+~F, ~(F . ~S) -> ~P, (~S . F) v ~T :. ~(P v T)
+ 

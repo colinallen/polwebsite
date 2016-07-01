@@ -1,0 +1,28 @@
+#!qtype ARITH
+# values 1/52::2/52::3/52::4/52::5/52::6/52::7/52::8/52::9/52::10/52::11/52::12/52::13/52::14/52::15/52::16/52::17/52::18/52::19/52::20/52::21/52::22/52::23/52::24/52::25/52::26/52::27/52::28/52::29/52::30/52::31/52::32/52::33/52::34/52::35/52::36/52::37/52::38/52::39/52::40/52::41/52::42/52::43/52::44/52::45/52::46/52::47/52::48/52::49/52::50/52::51/52::52/52
+#!preamble <font color=ee0077 face=helvetica><strong>Part A:</strong>
+#!preamble Disjunctions</font>&nbsp;&nbsp;
+#!preamble Suppose you have an ordinary deck of playing cards. Assuming that you are as likely to draw one card as another, what is the probability of each of the following statements? (An ordinary deck consists of 52 playing cards in four suits: hearts, diamonds, clubs, and spades. Each suit contains 13 cards: an ace, a two, a three, a four, a five, a six, a seven, an eight, a nine, a ten, a jack, a queen, and a king. Hearts and diamonds are red; clubs and spades are black.)
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+You select the jack of diamonds on the next draw.::::1/52
+#2
+You select a queen on the next draw.::::4/52
+#3
+You select a red card on the next draw.::::26/52
+#4
+You select a heart on the next draw.::::13/52
+#5
+You select a black card on the next draw.::::26/52
+#6
+You select the ace of spades on the next draw.::::1/52
+#7
+You select the three of diamonds on the next draw.::::1/52
+#8
+You select an ace on the next draw.::::4/52
+#9
+You select the five of hearts on the next draw.::::1/52
+#10
+You select a club on the next draw.::::13/52

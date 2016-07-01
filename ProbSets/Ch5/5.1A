@@ -1,0 +1,72 @@
+#!qtype MC_MULTI
+#!valuetype FORM::A::E::I::O
+#!valuetype QUANTITY::Universal::Particular
+#!valuetype QUALITY::Affirmative::Negative
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Categorical Statements</font>
+#!preamble Select the form of each of the following categorical statements
+#!preamble (A, E, I,or O)., quantity (universal or particular), and quality
+#!preamble (affirmative or negative).
+
+#1
+All hungry cannibals are dangerous people::A::::Universal::::Affirmative::
+#2
+No Ohioans are Texans::E::::Universal::::Negative::
+#3
+Some diamonds are not valuable objects::O::::Particular::::Negative::
+#4
+No green vegetables are minerals::E::::Universal::::Negative::
+#5
+Some outlaws are heroes::I::::Particular::::Affirmative::
+#6
+All equilateral triangles are geometrical figures::A::::Universal::::Affirmative::
+#7
+Some poems are not sonnets::O::::Particular::::Negative::
+#8
+No junk-food addicts are people with healthy diets::E::::Universal::::Negative::
+#9
+Some scoundrels are people who have been mistreated::I::::Particular::::Affirmative::
+#10
+Some numbers are not odd numbers::O::::Particular::::Negative::
+#11
+No pacifists are warmongers::E::::Universal::::Negative::
+#12
+All mammals are cats::A::::Universal::::Affirmative::
+#13
+Some celebrities are highly moral people::I::::Particular::::Affirmative::
+#14
+Some criminals are evil people::I::::Particular::::Affirmative::
+#15
+All people who intentionally direct violence at noncombatants for political purposes are terrorists.::A::::Universal::::Affirmative::
+#16
+No odd numbers are even numbers.::E::::Universal::::Negative::
+#17
+Some bank robbers are well-trained professionals.::I::::Particular::::Affirmative::
+#18
+All unreported crimes are lamentable events.::A::::Universal::::Affirmative::
+#19
+Some art critics who like Picasso are snobs.::I::::Particular::::Affirmative::
+#20
+Some wealthy people are not nice people.::O::::Particular::::Negative::
+#21
+No sedimentary rocks are volcanic rocks.::E::::Universal::::Negative::
+#22
+All individuals who lie frequently are deeply unhappy people.::A::::Universal::::Affirmative::
+#23
+No losers are winners.::E::::Universal::::Negative::
+#24
+Some people who voted for Gore are intelligent people.::I::::Particular::::Affirmative::
+#25
+No photons are objects visible to the naked eye.::E::::Universal::::Negative::
+#26
+Some ancient gods are not morally perfect deities.::O::::Particular::::Negative::
+#27
+All people who worship money are lunatics.::A::::Universal::::Affirmative::
+#28
+Some literature professors who love Tolstoy are not good lecturers.::O::::Particular::::Negative::
+#29
+No created entities are things that have always existed.::E::::Universal::::Negative::
+#30
+No humans who are truly happy are people who never work.::E::::Universal::::Negative::
+

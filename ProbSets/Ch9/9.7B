@@ -1,0 +1,35 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Symbolize the following sentences, using the schemes of abbreviation provided (where needed).
+
+#1
+If something is distinct from itself, then nothing makes sense. (Mx: x makes sense)::::($x)~x=x->~($x)Mx
+#2
+If anything is distinct from itself, then it is strange. (Sx: x is strange)::::(x)(~x=x->Sx)
+#3
+Everything is identical with itself if and only if nothing is distinct from itself.::::(x)x=x<->~($x)~x=x
+#4
+There are exactly two entities.::::($x)($y)(~x=y.(z)(z=xvz=y))
+#5
+There are at least two honest politicians. (Hx: x is honest; Px: x is a politician)::::($x)($y)[((Px.Py).(Hx.Hy)).~x=y]
+#6
+Everything but the Big Bang has a cause. (b: Big Bang; Cx: x has a cause)::::(x)(~x=b->Cx).~Cb
+#7
+Exactly one person shot Abraham Lincoln. (Px: x is a person; Sxy: x shot y; a: Abraham Lincoln)::::($x)[(Px.Sxa).(y)((Py.Sya)->x=y)]
+#8
+The author of The Brothers Karamazov is Russian. (b: The Brothers Karamazov; Wxy: x wrote y; Rx: x is Russian)::::($x)[(Wxb.(y)(Wyb->x=y)).Rx]
+#9
+The star of the movie Patton is George C. Scott. (Sxy: x is a star of y; p: Patton; g: George C. Scott)::::($x)[(Sxp.(y)(Syp->x=y)).x=g]
+#10
+No Dane except Kierkegaard is gloomy. (Dx: x is a Dane; k: Kierkegaard; Gx: x is gloomy)::::(Dk.Gk).(x)((Dx.~x=k)->~Gx)
+#11
+No movie star is identical with both Jennifer Lopez and Jennifer Aniston.(Mx: x is a movie star; j: Jennifer Lopez; a: Jennifer Aniston)::::(x)(Mx->~(x=j.x=a))
+#12
+If Meriwether Lewis is an explorer and William Clark is an explorer, then there are at least two explorers. (m: Meriwether Lewis; c: William Clark; Ex:x is an explorer)::::(Em.Ec)->($x)($y)((Ex.Ey).~x=y)
+#13
+The whole number between six and eight is an odd number. (Wxyz: x is a whole number between y and z; s: six; e: eight; Ox: x is an odd number)::::($x)((Wxse.(y)(Wyse->x=y)).Ox)
+#14
+Everyone who loves someone else also loves herself. (Px: x is a person; Lxy: x loves y)::::(x)((Px.($y)((Py.~x=y).Lxy))->Lxx)
+#15
+At least one person is angry at everyone except himself. (Px: x is a person; Axy: x is angry at y)::::($x)[(Px.(y)((Py.~x=y)->Axy)).~Axx]

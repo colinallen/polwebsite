@@ -1,0 +1,17 @@
+#!qtype PRF
+#!preamble <font color="ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Annotating Proofs</font>&nbsp;&nbsp;
+#!preamble <B>Part A:</B>
+#!preamble Annotate the following short proofs
+
+1.B<->E :. E->B2.(B->E).(E->B)3.E->B
+1.(B.C)v(~B.~C) :. B<->C2.B<->C
+1.~(A.A)v(BvB) :. A->B2.~(A.A)vB3.(A.A)->B4.A->B
+1.H->(J->~H) :. H->~J2.H->(~~H->~J)3.(H.~~H)->~J4.(H.H)->~J5. (H->~J)
+1.P.~Q :. P.(~QvR)2.(P.~Q)v(P.R)3.P.(~QvR)
+1.Fv(~G.H) :. G->F2.(Fv~G).(FvH)3.Fv~G4.~GvF5.G->F
+1.M->~N :. N->~M2.~Mv~N3.~Nv~M4.N->~M
+1.~S<->T :. (~S.T)v(S.~T)2.(~S.T)v(~~S.~T)3.(~S.T)v(S.~T)
+1.(B.B)v(C.D) :. BvD2.Bv(C.D)3.(BvC).(BvD)4.BvD
+1.(U->U)v(~U->U) :. ~UvU2.(~UvU)v(~U->U)3.(~UvU)v(~~UvU)4.(~UvU)v(UvU)5.(~UvU)vU6.~Uv(UvU)7.~UvU
+

@@ -1,0 +1,38 @@
+#!qtype MC_FIXED
+#!values True::False
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B: </strong>
+#!preamble More True or False</font>&nbsp;&nbsp;
+#!preamble Determine the truth value of the following compound statements. 
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+It is not the case that Abraham Lincoln was born in 1997.::Perhaps you're not thinking about the famous Lincoln, president during the American Civil War::True
+#2
+If water is H2O, then water is not wet.::True antecedent, false consequent hence a false conditional.::False
+#3
+Either New York City is the capital of Montana or Seattle is the capital of Montana.::This is a disjunction with two false disjuncts.::False
+#4
+Lady Gaga is a married man if and only if Lady Gaga is a husband.::This biconditional contains statements with the same truth value on each side.::True
+#5
+If Reno is in Nevada, then Reno is in the U.S.A.::This is a conditional with true antecedent and true consequent.::True
+#6
+Either Alabama is a southern state (of the U.S.A.) or Maine is a southern state.::At least one of these disjuncts is true.::True
+#7
+It is not the case that both Charlie Chaplin and George Washington are past Presidents of the U.S.A.::Only one of them was voted president - the other was constitutionally barred from that office!::True
+#8
+If either Mozart or Beethoven was born is Korea, then it is false that both Mozart and Beethoven were born in Australia.::This is a conditional with a false antecedent.::True
+#9
+If the Taj Mahal is green, then the Taj Mahal is not invisible.::This conditional has a false antecedent.::True
+#10
+If Paris is the capital of France, then neither Seattle nor Spokane is the capital of France.::A conditional with a true antecedent and true consequent.::True
+#11
+Samuel Clemens wrote Huckleberry Finn if and only if Samuel Clemens is Mark Twain.::Both sides of this biconditional are true.::True
+#12
+If Reno is in Nevada, then Reno is in Canada.::True antecedent, false consequent means false conditional.::False
+#13
+If the Statue of Liberty is in Kentucky, then the Statue of Liberty is in the U.S.A.::Any conditional with a false antecedent is true.::True
+#14
+Either Justin Bieber or Katy Perry is President of the U.S.A.::Neither disjunct is true.::False
+#15
+If Reno is in Nevada, then either Reno is in Canada or Reno is in the U.S.A.::True antecedent and true consequent, hence a true conditional.::True

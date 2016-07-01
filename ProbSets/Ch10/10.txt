@@ -1,0 +1,408 @@
+============*****Exercise 1*****===========
+
+10.1
+
+Part A:True or False?Which of the following statements are true? Which arefalse?
+
+1.If an argument is cogent, then it has true premises.
+
+2.If an argument is cogent, then it is strong.
+
+3.If an argument is cogent, then it is invalid.
+
+4.If an argument is strong and has only true premises, then it is cogent.
+
+5.If an argument is weak, then it is probable that if its premises are true, itsconclusion is false.
+
+6.If an argument is strong, then it is possible that its conclusion is false even ifits premises are true.
+
+7.If an argument is weak, then it is uncogent.
+
+8.If an argument has a false premise, then it must be uncogent.
+
+9.If an argument has true premises and a false conclusion, then it is weak.
+
+10.If an argument is valid, then it is strong.
+
+11.If an argument is strong, then it is valid.
+
+12.If an argument is uncogent, then it is weak.452Induction10  8/1/01  8:57 AM  Page 452
+
+13.If an argument is weak, then it must be invalid.
+
+14.If the conclusion of an argument is exactly as probableas its negation, giventhe premises of the argument, then the argument is weak.
+
+15.If an argument is uncogent, then it is strong but has at least one falsepremise.
+
+16.
+
+17.V
+
+18.Some valid arguments proceed from the general to the general.
+
+19.If an argument is valid and has at least one false premise, then it is uncogent.
+
+20.If an argument is weak, then it is not likely that if its premises are true, thenits conclusion is true.
+
+Part B:Identifying and Evaluating Statistical SyllogismsWhich of the follow-ing arguments have the form of a statistical syllogism? Which do not? Some of thearguments contain information that suggests a possible fallacy of incomplete evi-dence. Explain why.
+
+1.Fifty percent of the marbles in container 3 are green. The next marble to bedrawn is a marble from container 
+
+3. Hence, the next marble to be drawn isgreen.
+
+2.T, Chris is a woman.
+
+3.The vast majority of Americans approved of the Gulf War. John Mont-gomery is an American. So, John Montgomery approved of the Gulf Wareven though he belongs to a religious group most of whose members are paci-
+
+4.More than half of all voters in the state of Washington favor campaignreform. Gordon Johnark, a U.S. senator, is a voter in the state of Washing-ton. Accordingly, Gordon Johnark favors campaign reform.
+
+5.Philosophy 301 is similar to Philosophy 101 in that both are philosophycourses. Philosophy 101 is a course Diana dislikes. So, Philosophy 301 is acourse Diana dislikes.
+
+6.Most college students do not work full-time. Jane is a college student. There-fore, Jane does not work full-time.
+
+7.Seventy percent of the citizens of Salt Lake City do not drink coffee. PhilGoggans is a citizen of Salt Lake City. So, even though Phil owns and oper-ates the Caffeine Club Coffee House, he probably does not drink coffee.
+
+8.One hundred percent of Texans love Texas. Jeanine Diller is a Texan. There-fore, Jeanine loves Texas.
+
+9.Eighty-two percent of those in a randomly chosen sample of 4000 Americanseat meat. Therefore, about 82 percent of Americans eat meat.
+
+10.oderwas a Mennonite. Accordingly, John Howard Yo
+
+11.According to the National Enquirer,last week a woman gave birth to a babywhose father came from Mars. Therefore, last week a woman gave birth to ababy whose father came from Mars.
+
+12.Fifty-one percent of Marines are under 19 years old. Captain Lawrence is aMarine. So, Captain Lawrence is under 19 years old.
+
+13.Jackis65yearsold.So,Jackisnotcurrentlymakingalivingasaprofessionalboxer.
+
+14.weeks ofpregnancys abortion occurred in the 1980s. Thus, Ms..
+
+15.Ninety-nine percent of lemons are sour. The fruit I am about to eat is alemon. Therefore, the fruit I am about to eat is sour.
+
+10.2Arguments from Authority and Induction by EnumerationIn this section, we will examine two common types of arguments that are strongnot merely one that conforms to a certain pattern or form but also one thatavoids any fallacy of incomplete evidence.Arguments from AuthorityLet us begin with arguments from authority, which have the following form:
+
+1. Ris a reliable authority regarding S.
+
+2. R sincerely asserts that S.So,
+
+3. S.Here, R stands for any reliable source of information (e.g., an acknowledgedexpert, a group of experts, or a reference work), while S stands for any statement.We use arguments from authority when we appeal to dictionaries, encyclopedias,
+
+13.In his Dictionary of Philosophy, ticular arithmetic, is parlogicism is.3Arguments from authority are strong given that the authority in questionis reliable, and the more reliable the authority, the stronger the argument. Anauthority is reliable to the extent that he or she can be counted on to provide454Induction10  8/1/01  8:57 AM  Page 454true statements on the subject at issue. However, even reliable authorities canmake mistakes, and for this reason, arguments from authority are not valid.(Incidentally, an appeal to an infallible authority would be a special type of validargument, for an infallible cognitive authority is one that cannot make mistakes.R is an infallible authority regarding S, and R sincerely asserts S; there-fore, Sargument is valid, and another thing altogether to claim to know that there is aninfallible authority who has sincerely asserted such-and-such statements.)cognitive authority is a person or group possessinga special fund of knowledge. In other contexts, howeverorganizational authority is a person or group whosethat affect others in the organization (e.g., school, corporation, or nation). It isS is true;therefore, S cognitive authorities regarding S, the fact that they assert S does not providegood evidence that S in organizational authorities often leads to a confusion between the two types ofauthority in ordinary life.The ad verecundiamfallacy (or appeal to unreliable authority) masqueradesas an argument from authority. This fallacy occurs when there is legitimatedoubt about the reliability of the alleged authority, as when a breakfast cereal isendorsed as nutritiousby a celebrity (and there are no grounds for thinking thecelebrity has expertise regarding nutrition).4As regards arguments from authority, the fallacy of incomplete evidencetypi-cally arises when the arguer fails to note that an equally reliable authority (or amore reliable authority) denies the conclusion (either explicitly or implicitly).For example, suppose you look up a historical personage, such as ThomasAquinas, in a reliable source and reason as follows:
+
+14.s Classics of Western Philosophy, we read that Thomas Aquinas wasborn in 
+
+1225. So, Aquinas was born in 
+
+1225.5However
+
+1224.6s error ora mistake on the part of the author). Alternatively, it may be due to a differenceof opinion among historians. Assuming the authorities areboth generally reliableon the subject in question, the premises of the original argument remain true(i.e., Cahn is a reliable authority on the subject in question, and he does assertthat Aquinas was born in 1225), but the strength of the inference is called intoavoid a fallacy of incomplete evidence simply by drawing on a wider range ofreliable authorities. If nearly all of the most reliable authorities agree on a point,
+
+1.______percent of a sample of A is B.So, 
+
+2. Approximately ______percent of A is B.The sampleconsists of the members of set A that have been observed. Thus, thesample is a subset of set A. Set A itself is called the population. The blanks may
+
+15.Tmembers of the Republican Party. So, approximately 25 percent of the studentsat St. Ambrose College are members of the Republican Party.replaces A, and the set of persons belonging to the Republican Party replacesB.Argument (15) is correct in form, but it may still be weak. The fallacy of incom-plete evidencearises if our sample is too small or if it is biased. For instance, if oursample consists of only 4 students, and St. Ambrose has 3000 students enrolled,then our sample is just too small to warrant the inference. Or suppose our sampleoung Democrats Club.Then, again, the argument will be weak. Our sample must be representativeof setA, or else the premise will not support the conclusion.456Induction10  8/1/01  8:57 AM  Page 456How large does a sample need to be? How can one avoid biased samples?These are important questions that we cannot explore in great detail. But even asmall amount of information about sampling errors can help one avoid them. Letus here consider three features of a good sample. A good sample is random,ofappropriate size, and not distorted by psychological factors.8Random SamplesA good sample is randomas opposed to biased. meaning. A sample is randomif (and only if) each member of the populationhas an equal chance of being selected for observation. A famous case of a biasedsample illustrates the need for random samples. In 1936, Literary DigestmagazineRepublican Alf Landon or Democrat Franklin D. Roosevelt. The Digestsent out10 million questionnaires, of which roughly 2 million were returned. A sampleof 2 million is a very large sample compared to those used in a Gallup poll, sothere was no problem with the size of the sample. And based on the sample, theDigestpredicted that Landon would win the election, but in fact Roosevelt wonby a landslide. What went wrong? At least in part, this: The names of those to bepolled had been taken mainly from lists of telephone subscribers and lists ofautomobile registrations. However, the election occurred during the GreatDepression, when many people could not afford a telephone or an automobile.And a very large percentage of those on government relief voted for Roosevelt.How can a random sample be obtained? In some cases, the randomness ofa sample is fairly easy to obtain. This is especially so when the members of a pop-ulation are known to have a high degree of uniformity. To take an extreme case,suppose our argument concerns hydrogen atoms. Hydrogen atoms are exceed-ingly similar to one another, each having one proton and one electron. So,although the total number of hydrogen atoms is very large (according to physi-cists, there are about 1080hydrogen atoms!), a relatively small sample would sup-port an inference about the total population. Similarly, police detectives canlearn much from a few strands of hair or a few drops of blood at the scene of as hairs tend to be very similar to one another, and one drop of as) blood will be very similar to another.However, if we are concerned with human opinions about, say, whichfoods taste best, our population will have a very low degree of uniformity, forhumans have widely varying views about which foods taste best. And thus, wewill need to take elaborate precautions to ensure a random sample. Bias cancreep into a sample in many ways, some of them rather subtle. To cite just onecommon problem, when a sample consists of questionnaires that must be volun-tarily returned, people on one side of an issue may have much stronger feelingsthan those on the other side, and those with stronger feelings may be more likelyto return the questionnaire, which skews the result.To avoid such biased samples, researchers use elaborate methods to obtaina genuinely random sample. In essence, a city, state, or country is divided into
+
+1500.10Appropriate Sample SizeA good sample is of the appropriate size. It would be nice if a simple mathemati-cal formula could be applied to determine the appropriate sample size in anygiven case. Unfortunately, no such formula is available. As we have just seen,the appropriate size of the sample depends on such factors as the degree of uni-formity within the population. It also depends on (a) the size of the populationand (b) the acceptable degree of error.Size of the PopulationTo some extent, the size of the sample depends on thesize of the population. This is especially true when the population is relativelysmall. For instance, if we are taking an opinion poll at a small college with onlya few hundred students enrolled, our sample can be smaller than it would needto be if we were polling students at a university with 20,000 enrolled. However,one common misconception about samples is that the larger the population, thelarger the sample should be. The fact is that problems with samples dependonly slightly upon the size of the population under study if it is a large popula-tion. To achieve a sampling error of plus or minus three percentage pointscity, a state, or the nation.11We can perhaps best understand this point by means of an illustration. Supposewe are drawing a sample of 500 marbles from a barrel containing 10,000 marbles,half of them red and half blue. And let us stipulate that our sample is chosenrandomly, so that each marble in the barrel has an equal chance of beingselected. Our sample likely will contain approximately 250 red marbles (give or458Induction10  8/1/01  8:57 AM  Page 458take a few), and approximately 250 blue ones (give or take a few). Now, supposethe barrel contains 1 million marbles instead of 10,
+
+000. If we select 500 marblesat random, we should still get approximately 250 red and 250 blue. Thus, a largerpopulation does not necessarily require a larger sample.12Acceptable Degree of ErrorThe sampling erroris the difference between thepercentage of the sample that has the attribute in question and the percentage ofthe population that has it. For instance, suppose we take a random sample of 10marbles from a population of 100: 6 marbles in our sample are red, 4 are blue. Weconclude that 60 percent of the marbles in the population are red. In fact, let ussuppose, exactly 50 percent of the marbles in the population are red. The sam-pling error in this case is 10 percent.Based on experience with the Gallup polls, the relationship between sam-ple size and sampling error can be stated with remarkable precision for studies oflarge populations. Consider the following data:13Number of InterviewsMargin of Error (in percentage points)4000215003100047504600540062008100Let us suppose that we are conducting a poll, and our (randomly selected) sam-ple contains 1000 registered voters, of whom 700 say they currently favor Smithfor president. We conclude that 70 percent of the registered voters currentlygiven our evidence, it is probable that between 66 and 74 percent of the regis-tered voters currently favor Smith for president. And, as the data indicate, wecan reduce the margin of error by increasing the size of our sample. Of course, ittakes more time and effort to obtain larger samples (and hence more money), sowe may rest content with a smaller sample if we do not have a strong need forgreater accuracy.Psychological FactorsOne last potential problem with samples should be noted: distortion due to psy-chological factors. Even if a sample is randomly chosen and of the appropriatesize, an induction by enumeration can still be weak if psychological factors enterthe picture in certain ways. For instance, the nature of the questions asked in a
+
+============*****Exercise 2*****===========
+
+10.2Identifying Inductive ArgumentsWhich of the following arguments are examples ofthetypes of inductive argument introduced in this section? Which are not? (a) If an argu-ment is not an example of any of the types of arguments introduced in this section, simplyducedin this section, identify the type. (c) Specify the sampling error wherever possible.(d)been committed.
+
+1.One hundred percent of the dogs that have been dissected have had kidneys.Hence, 100 percent of the members of the class of dogs have kidneys.
+
+2.In a recent study, a randomly chosen sample of 1500 American husbandswere asked how many times they had had extramarital affairs. Eighty-fourpercent of those in the sample stated that they had never had an extramari-tal affair. Hence, approximately 84 percent of American husbands havenever had an extramarital affair.
+
+3.The word obviate Ws Dictionary says it means.
+
+4.According to a recent poll, 50 percent of a random sample of 1500 voters inOhio favor Quigley for governor. Thus, roughly 50 percent of voters in Ohiofavor Quigley for governor.
+
+5.Bertrand Russell, a noted logician, states that the social mores concerningsex outside of marriage are harmful and oppressive. So, the social mores con-cerning sex outside of marriage are harmful and oppressive.
+
+6.Accordingtoarecentpoll,65percentofarandomlychosensampleof1000votersinSanFranciscoareDemocrats.Thus,65percentofAmericanvotersareDemocrats.
+
+7.The Bantam Medical Dictionarysays that an ectopic pregnancy an ectopic pregnancy is the development of a fetus at a site outside thewomb.460Induction10  8/1/01  8:57 AM  Page 460
+
+8.U.S. voters favor Mack Smith for president. So, zero percent of U.S. votersfavor Mack Smith for president.
+
+9.According to a recent poll, only 15 percent of a randomly chosen sample of750 Oregon voters favor McKay for senator. Thus, approximately 15 percentof Oregon voters favor McKay for Senator.
+
+10.The noted astrologer Vashti Zinia states that the stars determine the courseof human history. So, our fate is in the hands of the stars.
+
+11.The following information is gleaned from Howard Zinn, s Historyof the United States(New York: HarperCollins, 1995), p. 585: In February1991, U.S. aircraft dropped bombs on an air raid shelter in Baghdad.Between 400 and 500 people were killed. The Pentagon claimed the shelterwas a military target. But reporters who were allowed to inspect the siteasserted that there was no evidence of any military presence. Now, given thisinformation from Zinn, we may conclude that the Pentagon was right: Theshelter was a military target.
+
+12.In a recent study involving 600 male prison inmates in Georgia, 80 percentof those in the sample indicated disapproval of the death penalty. Hence, 80percent of men in Georgia disapprove of the death penalty.
+
+13.Sixty-seven percent of those in a randomly chosen sample of 4000Americans are overweight. Therefore, about 67 percent of Americans areoverweight.
+
+14.In a recent study, a randomly chosen sample of 400 clergymen were askedwhether they have had sexual fantasies involving same-sex partners. Onlycent of clergymen have had sexual fantasies involving same-sex partners.
+
+15.Eighty-two percent of a randomly chosen sample of 600 American collegestudents are sleep-deprived. Therefore, approximately 82 percent of Ameri-can college students are sleep-deprived.
+
+16.According to a recent poll, 80 percent of a randomly chosen sample of 10Americans prefer football to soccer. Hence, about 80 percent of Americansprefer football to soccer.
+
+17.Of a randomly selected sample of 1000 Americans, only 140 had red hair. So,about 14 percent of Americans have red hair.
+
+18.In a recent study involving a randomly chosen sample of 200 college sopho-mores, none of those polled planned to take a course in symbolic logic.Hence, no college sophomores plan to take a course in symbolic logic.
+
+19.According to Dee Brown, Bury My Heart at Wounded Knee(New York:Washington Square Press, 1981), 153 Native Americans are known to havebeen killed in the massacre at Wounded Knee, although the actual numbermay well be as high as 
+
+300. Only 25 U.S. soldiers were killed, most of them
+
+20.According to a recent poll, 90 percent of a randomly chosen sample of 4000women in Mississippi reported that they believe that God exists. Hence,approximately 90 percent of American women believe that God exists.
+
+10.3s methods provide us with patterns of reasoning to use in reaching conclu-Acauses Bs methods areuseful in many kinds of situations, from mundane cause-and-effect issues to thes methods are useds methods leads naturally to a consid-s MethodsWe often want to know what has caused some event or phenomenon. For exam-scause. And when a friendship ceases to be enjoyable, one may speculate on thecause(s).Unfortunatelyto a for some event or phenomenon: If X condition for Y, then if X occurs, Y be used to refer to a necessary condition for some event or phenomenon: IfXisanecessary condition for Y, then Y occurs only if X occurs. Consider someexamples:
+
+16.For humans, being beheaded is a suf
+
+17.y condition for growth.s air supply cut off for a day. By contrast, water is a necessary condi-necessary, as are the proper nutrients in the soil. When an event or phenome-t be462Induction10  8/1/01  8:57 AM  Page 462. For example, a forest ranger may tell us that lightningtof any lightning). So, in this case, the lightning is simply the most obvious orsalient condition in a group of conditions that, taken togethercondition, (b) the timber is dry, and(c) oxygen is present.In his book A System of Logic, the English philosopher John Stuart MillAcauses B.s methods.First, Mill proposed the method of agreement. To apply this method, oneattempts to identify a common factor in a range of cases. For example, supposeernon Elementary School become nauseated shortly afterlunch. The school nurse makes a list of what each student ate for lunch:Student 1: Milk, tuna salad, candy barStudent 2: Tuna salad, Coke, potato chipsStudent 3: Milk, tuna salad, chocolate cakeStudent 4: Apple, orange juice, tuna saladStudent 5: Tuna salad, milk, carrots, cupcakeThe nurse observes that all of these students ate the tuna salad in the schoolcourse, this is not enough, by itself, to prove that the tuna salad caused the nau-sea, but the search for a common factor gives us a good place to start in identify-ing the cause.Second, Mill proposed the method of difference. To apply this method, wecompare two cases, one in which the effect is present and one in which theeffect is absent. Tonausea. To apply this methostudents t become nauseated ate for lunch. For example, suppose studentst become nauseated:Student 6: Pizza, Coke, tossed saladStudent 7: Hot dog, milk, potato chipsSince the effect (nausea) is absent, the cause is absent as well. And since stu-dents (6) and (7) did not eat the tuna salad, the nurse gains an additional line ofevidence in favor of the tuna salad as the cause of the nausea. (Of course, it
+
+18.On Monday, Bill drank scotch and soda and noticed that he got drunk. OnTuesday, Bill drank whiskey and soda and noticed that he got drunk. OnWednesday, Bill drank bourbon and soda and noticed that he got drunk.Billconcluded that soda causes drunkenness.14Here, Bill applies the method of agreement. Soda is indeed a common factor inthe three cases. And yet Bill has arrived at a false conclusion. The problem isthat Bill failed to recognize another, very important common factor, namely,s oversight is outlandish. But in the history of science,there are many cases in which the most important common factor was some-thing that most people did not even regard as a possible cause. For example,s famous experiments in 1881, virtually no one thoughtthat vaccination could produce immunity to anthrax. And until 1900, when464Induction10  8/1/01  8:57 AM  Page 464Walter Reed proved that mosquitoes can transmit yellow fever, most people hadnever even regarded mosquito bites as a possible cause of the disease.The soda and alcohol example illustrates something very important abouts methods: To make effective use of the methods, we have to make intelli-gent guesses about which conditions are causally relevant in a given case. Fors getting intoxicated he may have been wearing awhite shirt, breathing regularly, thinking about summer vacation, and eating asandwich. Why do we ignore these prior conditions as we consider possibles inebriated state? Well, our background knowledge gives us someideas about the kinds of conditions that might produce the effect in question.Accordingly, out of the myriad conditions present in any given case, we hypoth-smethods leads naturally to a discussion of the formation and testing of hypothe-s methods leads naturally to a discus-problem, (b) formulating hypotheses, and (c) testing the hypotheses. To illus-trate this process, let us consider the work of one scientist, Ignaz Semmelweis, aphysician who worked in the Vienna General Hospital. In the 1840s, he madean important discovery concerning the cause of childbed (puerperal) fever. Atthat time, childbed fever was a frequent cause of death among pregnant womenin Europe.15Describing the ProblemThe Vienna General Hospital had two maternity divisions. In one of these divi-sions, the First Maternity Division, 
+
+8.2 percent of the mothers died of childbedfever in 1844; 
+
+6.8 percent died in 1845; and 
+
+11.4 percent died in 
+
+1846. In theSecond Maternity Division, however, the death rate was much lower: 
+
+2.3, 
+
+2.0,and 
+
+2.7 during the same years.Formulating and Testing HypothesesSemmelweis formulated a number of hypotheses. Because some people thoughtthat the crowded conditions in the First Maternity Division might be the causeof the problem, Semmelweis formulated the following hypothesis:H1: Childbed fever is caused by the crowded conditions in the First MaternityDivision.Semmelweis tested this hypothesis by considering its implications. He observedthat the Second Division was actually more crowded than the First. (Due to the
+
+1.If H, then I.
+
+2.It is not the case that I.So, it is not the case that H.This is the general pattern for rejecting an empirical hypothesis as a result of anthe basis of the hypothesis). Note that the form is modus tollens, which meets thestandard of deductive logic, namely, validity. For this reason, and also becausevalid forms may be employed in deriving test implications from a hypothesis,deductive methoIt would, howeveramodus tollens. In a typicalcase, one must make many background assumptions to obtain the premises. Forexample, suppose an astronomical hypothesis implies that a planet will be in acertain location at a certain time. An astronomer uses her telescope to observewhether the planet is present at the location and time implied by the hypothe-sis, but she does not see the planet. Has the hypothesis been disproved? Not nec-essarily. The astronomer may have made an error in aiming the telescope. Thetelescope may have malfunctioned. And note that using the telescope presup-poses that the various hypotheses concerning optics, which are employed in thedesign and construction of the telescope, are true. So, in testing one hypothesis,we may need to assume that another hypothesis or theory is true. The point isthat while modus tollensmay be employed in testing hypotheses, applying it inopen to question in a given case (e.g., the telescope did not malfunction, theastronomer used the telescope properly, and so on).
+
+1.If H, then I.
+
+2.I.So, H., then the patients currently beingtreated in the First Division do not get childbed fever when the cadaveric mat-ter is absent. The patients currently being treated in the First Division do notget childbed fever when the cadaveric matter is absent. So, cadaveric mattercauses childbed feverhypothesis holds true, then the hypothesis holds true. But if we can identifyamount of support for the hypothesis. Each instance in which an implication ofa hypothesis is observed to be true is called a . And, atsomecoincidence. Howevercal principles for determining when a hypothesis is strongly supported by theevidence, and we cannot enter into a discussion of these complicated issueshere.16What do scientists look for in a hypothesis?17At least four things. First,generally speaking, a hypothesis should be logically consistent with hypothesesor theories that are already well established. There are exceptions to this generalrule, howevers theories were not consistent with New-stheories could not explain.Second, a hypothesis should have explanatory power. A hypothesis hasexplanatory power to the extent that known facts can be inferred from it. And,to explain; otherwise, the hypothesis is irrelevant. Toshypothesis that cadaveric material (when introduced into the bloodstream)causes childbed fever has explanatory power. From it, we can infer that personswho have had cadaveric material introduced into their bloodsteams are apt tocontract childbed fever, which explains the high rate of childbed fever in theFirst Maternity Division.Third, a goopose Semmelweis had hypothesized that the higher rate of childbed fever in theFirst Division was caused by ghosts who haunt the First Division (but not the468Induction10  8/1/01  8:57 AM  Page 468Second Division). Is there any way to test this hypothesis? There might be. Per-can be thwarted by the work of an exorcist. But suppose no tests are allowed.The alleged ghosts, it is asserted, cannot be seen or heard. No traces of them canbe found, not even in principle. Nor are they the type of ghosts who will respondto the work of exorcists. And so on. Such an untestable hypothesis is not accept-But at least two cautionary remarks are warranted here. First, scientistsroutinely form hypotheses concerning entities that are not directly observable,such as electrons and protons. Nevertheless, many observable events can beexplained in terms of these unobserved entities. For instance, if a hypothesisstates that electrons behave in such-and-such a way, implications concerningobservable events can be derived from the hypothesis. Scientists can then checkto see if these events occur. Second, it is one thing to say that an untestablehypotheses or else not explained at all.Finally, other things being equal, scientists generally prefer a simpler hypo-thesis to one that is more complicated. But consider an example outside of sciencefor a moment. When investigating a murder, police do not typically begin with acomplicated hypothesis to the effect that the victim was assassinated as part of aninternational conspiracy. Rather, it seems best to start with a relatively simplehypothesis and complicate it only as necessary to explain the phenomenon.Tofrom the ceiling.18We place a 1-pound weight on the spring, and it extends 1inch; we place a 2-pound weight on the spring, and it extends 2 inches; we placea 3-pound weight on the spring, and it extends 3 inches; and so on. We hypoth-esize that the behavior of the spring conforms to the formula x = y (where xisthe force in pounds and yis the extension in inches).PoundsInches
+
+============*****Exercise 3*****===========
+
+10.3
+
+Part A:s Methodss methods is illustrated in each of the fol-lowing examples? If, in your opinion, the conclusion reached indicates that an in-adequate hypothesis was employed, formulate a better hypothesis.
+
+1.By his third shot of whiskey, Robert noticed that he was feeling intoxicated.He drank another shot of whiskey and found that the feeling increased.470InductionThe method of agreement involves identifying a common factor, that is, one that ispresent whenever the effect is present.The method of difference involves comparing two cases, one in which the effect ispresent and one in which it is absent. If when the effect is absent the possible causeC is also absent, the test lends support to C as the cause.The joint method involves combining the rst two methods.The method of concomitant variation involves showing that as one factor varies,another varies in a corresponding way.The method of residues is applied when multiple, partial causes account for theeffect: Subtract out those aspects of the effect whose causes are known, andconclude that the rest of the effect (the residue) is due to an additional cause.Summars Methods10  8/1/01  8:57 AM  Page 470Curious, he drank yet another shot, and his head really began to spin. Robertconcluded that the whiskey was making him drunk.
+
+2.Dick and Jane took a history exam. Both did poorly although both studiedcause of their poor performance on the exam was a lack of sleep.
+
+3.Tom, Tanya, and Teri ate dinner at a Japanese restaurant. Tom had rice,squid, and salad. Tanya had rice, octopus, and salmon. Teri had rice, squid,and cucumber rolls. After the meal, Tom and Teri had upset stomachs, butTanya did not. They concluded that the squid caused their upset stomachs.
+
+4.Alonzo has done well on his last three math exams. In each case, he studiedvery intensely for 3 hours the night before the exam. Also, in each case, hedeparted from his usual informal style of dress and wore a tie to the exam.Alonzo concluded that wearing a tie increases the quality of his performanceon examinations.
+
+5.Joe is weighing cargo on trucks, using a drive-on scale. A truck pulls onto thescale, and Joe records the total weight of 6,000 pounds. He subtracts theweight of truck, which is 4500 pounds, to determine the weight of the cargo,1500 pounds.
+
+6.s skirts andthe price of stocks. As fashion trends moved in the direction of shorter skirts,stock prices increased. But as fashion trends moved in the direction of longerskirts, stock prices fell. The economist concluded that fashion trends regard-s skirts cause stock prices to rise and fall.
+
+7.A certain physics professor got into his car to drive home from work. As hebacked out of the parking place, he noticed a large oil spot. The next day heparked in a different parking place, one that had no oil spot. But as hebacked out of the parking place at the end of the day, he once again noticeda large oil spot. He concluded that an oil leak from his car had caused the oilspots.
+
+8.Pasteur gave each of 25 farm animals a vaccination for anthrax. These ani-mals, as well as 25 who had not been vaccinated, were subsequently given alarge dose of anthrax germs. None of the vaccinated animals came downwith the disease, but all of the others died of anthrax. Pasteur concluded thathis vaccine produced immunity to anthrax.
+
+9..Looking under the hood, he notices oily stains in two places: (a) near theback of the valve cover at the top of the engine and (b) near the bottom ofthe engine, where the oil pan is attached. The mechanic replaces the gasketin the valve cover, and the leaking decreases by about half, but a puddle ofoil still appears whenever the car is parked for several hours. The mechanicconcludes that the remaining leakage is coming from the bottom of theengine, where the oil pan is attached.
+
+10.A doctor had 10 patients suffering from a rare form of cancer. By investigat-ing the life histories of his patients, he found that each of them had workedfor several years at a nuclear power plant, and each had been exposed to sig-concluded that the radiation was the cause of cancer in each of the 10 cases.
+
+11.Bobby pulled the lever on the little black box. His electric train began tomove forward. He pulled the lever a bit further. The train went faster. Hepulled the lever furtherconcluded that pulling the lever caused the train to go faster.
+
+12.ered that each of the soldiers had begun to stutter shortly after undergoing afrightening experience in combat. The psychiatrist concluded that the stut-tering was caused by extreme fear.
+
+13.Galvani was dissecting a dead frog. By chance, he touched the nerves of thesleg muscles contracted suddenlys nerves manys leg muscles contractedsharplys nerves with a metal instrument thats leg did not contract. Galvanis muscles tocontract.
+
+14.A Martian visited a large city in North America. While walking the streets. He noted that when lights blinkedon the left side of a vehicle, it nearly always turned left; and when lightsblinked on the right side of a vehicle, it nearly always turned right. The Mar-tian concluded that the blinking lights caused the vehicles to turn.
+
+15.Mary is trying to determine the source of water in her basement. Possiblecauses include a leaky pipe and water seeping through the basement walls.rest of the problem is due to water seeping through the basement walls.
+
+16.On Wednesday night, Fran had shrimp, fries, and a salad with blue cheesedressing. She broke out in hives. The following Sunday, she ate the samemeal, and again she broke out in hives. She suspected that the blue cheesedressing was the problem. So, a few days later, she ate shrimp, fries, and asalad with Italian dressing. She did not break out in hives. Fran concludedthat the blue cheese dressing had indeed caused the hives.
+
+17.Sharon drank one cup of coffee with cream on an empty stomach. She beganto feel more alert. So, she had a second cup of coffee, again with cream. Shenoticed that she felt a bit jittery, but the coffee was delicious, so she had athird cup, adding a generous portion of cream. Suddenly, Sharon began tofeel very nervous and to talk excitedly. She concluded that the cream wasmaking her feel nervous.472Induction10  8/1/01  8:57 AM  Page 472
+
+18.A psychiatrist treated six men who wanted to be married but always woundup in profoundly unsatisfying relationships with women. He found that all ofthe men had been neglected by their parents as children. He concluded thatparental neglect had left the men without resources for maintaining satisfy-ing relationships with women.
+
+19.At one point in his research on the causes of yellow fever, Walter Reed con-number of mosquitoes that were known to have bitten persons having yellowfever. All the volunteers were bitten by the mosquitoes, and all contractedyellow fever. In another room, mosquitoes were carefully sealed out, and thepeople staying in that room did not contract yellow fever. Reed concludedthat the mosquitoes were spreading yellow fever.
+
+20.On one occasion,...[Semmelweis] and his associates, having carefully dis-a festering cervical cancer; then they proceeded to examine twelve otherwomen in the same room, after only routine washing without renewed disin-fection. Eleven of the twelve patients died of puerperal fever. Semmelweisconcluded that childbed fever can be caused not only by cadaveric material,Philosophy of Science(Englewood Cliffs, NJ: Prentice-Hall, 1966), p. 6
+
+21.ColettetookoneBenadrylcapsuleandfeltabitdrowsy.ShetookasecondBenadrylcapsuleandbegantofeelverysleepy.ShetookathirdBenadrylcapsuleandcouldscarcelykeephereyesopen.SheconcludedthatBenadrylcausessleepiness.
+
+22.Betty, a department store manager, seeks an explanation for a register thatoften shows a shortage of cash at the end of the day. Betty suspects that oneof the employees, Frank, is dipping from the till. But she also suspects thatanother employee, Jon, is making frequent mistakes in counting change.The frequency and amounts of the shortfall decrease sharply but are stillsmistakes in counting change.
+
+23.Marla ate some cookies that she obtained from a vending machine. Shortlyafter she ate the cookies, her lips began to tingle, and then they swelled up.t last very long, she quickly forgot about the inci-dent. But a few weeks later, she again ate some cookies from a vendingmachine, and once again, her lips swelled up immediately. She concludedthat something in the cookies was causing her lips to swell up.
+
+24.The chief of police is trying to account for a recent upsurge in violent crimein allocation of funds to the police department, which leads to fewer policesuspects that the appearance of the subway cars tends to make people feel
+
+15.A sociologist closely observed correlations between demographics and therate of violent crime. He noted that the rate of violent crime rose as the per-centage of young men (15 to 25 years of age) relative to the rest of the popula-tion increased. For example, he noted that about 15 years after each babyboom, there is an increase in the rate of violent crime, and the rate remainshigh for approximately 10 years. After about 10 years, the rate of violentcrime falls off. The sociologist concluded that increases in the rate of violentcrime are largely caused by an increase in the number of young men (as apercentage of the population).
+
+Part B:HypothesesIn the following arguments, identify any hypotheses that failto meet the four criteria for goolated, and explain your answer.
+
+1.Frederick has been having trouble with his watch. It keeps losing time. Het help. So, Frederick hypothesizedthat an invisible demon had possessed his watch, slowing down the mecha-t helpeither. Frederick concluded that the demon must be the type of demon thatcannot be exorcised.
+
+2.Robert was behind in his lab work in Chemistry 
+
+101. He heated some chemi-ing the chemicals had somehow produced a situation in which the law ofgravity was temporarily suspended. He excitedly wrote up his lab reports,expecting an A for his remarkable discovery.
+
+3.Jennifer has been having trouble with her computer. For example, occasion-ally a few letters in a document get misplaced (without any action on herpart). In an effort to account for these glitches, Jennifer hypothesizes thatthe computer has developed free will and is now occasionally making its ownchoices.
+
+4.A certain biology professor noted a correlation between increased activitytheir wings, their body heat increases, which warms the air around them,thus bringing about the changes in seasons from winter to spring.
+
+5.t start. He hypothesizesthat the trouble is due to poltergeistic activity. When you state your inten-tion of obtaining a second opinion, he indicates that this will do you no474Induction10  8/1/01  8:57 AM  Page 474good, since he is the only mechanic who can intuit the presence of polter-geists in cars and no observational checks are possible.
+
+6.Acertainprofessorgotintohiscartodrivehomefromwork.Ashebackedoutoftheparkingplace,henoticedalargeoilspot.Thenextdayheparkedinadifferentparkingplace,onethathadnooilspot.Butashebackedoutoftheparkingplace attheendoftheday,heonceagainnoticedalargeoilspot.Heconcludedthatagroupofprankstershadliftedhiscarupviablimpandpouredoilunderitonbothdays.
+
+7.A detective is trying to explain two murders that are remarkably similar inFlorida and one in Alaska. The detective hypothesizes that the murderer hassomehow learned to travel faster than the speed of light.
+
+8.A biologist is trying to account for the extinction of the dinosaurs. Hehypothesizes that the dinosaurs simply decided to stop having sex.
+
+9.A detective is assigned to a murder case. The victim has been shot six timeswith a large-caliber handgun. Forensic tests indicate that the bullets all camefrom the same gun. With virtually no other facts to go on, the detectivehypothesizes that there were six murderers who took turns shooting the vic-
+
+10.Martha has received her logic exam back from the instructor. She did well, on the exam, an inference ofA, then B; not A; so not Bmodus tollens. Thes handwriting. But since Martha knows that the infer-ence form is in fact the fallacy of denying the antecedent, she hypothesizesthat the CIA stole her exam from the instructor, erased her original answer,and wrote in an incorrect answer in her handwriting.
+
+Part C:For DiscussionSuppose you are a detective trying to solve a burglary.Evidence:Ms. Vogels TV is missing. Its a small TV set easily carried by one person.McGraw was seen lurking about Vogels house while she was on vacation, andMcGraws ngerprints are on the table where Vogel kept her TV.As a detective, you happen to have some relevant background information:Background information:McGraw and Kingston both have a record of petty theft,and both live within easy walking distance of Vogels house.Now, based on these givens, which of the following hypotheses is preferable, and why?Hypothesis 1: McGraw stole the TV.Hypothesis 2: Kingston stole the TV.
+
+10.4Arguments from AnalogyAnother type of argument which can be strong, when properly constructed, isthe argument from analogy. Arguments from analogyhave the following form:
+
+1.A is similar to B in relevant respects.
+
+2.B has property P.So,
+
+3. A has property P.Here, A and B object or person (e.g., my car or Socrates). They may stand for a type or kind ofor situations (e.g., the situation in which your car has broken down). P stands forany sort of property (e.g., the property of being fast, the property of being intelli-s consider an example:
+
+19.The Tempestand s Dream are both plays written byWilliam Shakespeare. These two plays are very similar in length. I was able toread s Dreamin the space of an evening. So, I am ableto read The Tempestin the space of an evening.The TempestA s DreamB inthe original schema. P is the property of being readable (by me) in the space ofan evening.How, in general, do we go about evaluating the strength of an argumentfrom analogy? Basically, we have to evaluate to what degree (if any) As similar-ity to B provides support for the statement that A has property P. Unfortunately,there is no formula or mechanical method for evaluating arguments from anal-ogy. But in assessing the logical connection between the premises and the con-clusion, it usually helps to ask the following three questions:Question1:WhataretherelevantrespectsinwhichAandBaresimilar?Ideally,theonewhoofferstheargumentsuppliesthisinformation,butoftentheinformationisprovidedonlyinpart.SimilaritiesarerelevantiftheyincreasethelikelihoodofAshavingpropertyP.And,generally476Induction10  8/1/01  8:57 AM  Page 476speaking,themorerelevantrespectsAandBshare,thestrongertheargument.Question 2: Are A and B dissimilar in any relevant respects? That is, doesthe analogy between A and B break down at any relevant points? Dissimi-larities are relevant if they decrease the likelihood of As having propertyP. Relevant differences between A and B tend to weaken the argument.Question 3: Are there things (other than A) that are similar to B in therelevant respects? If so, do these things have property P? To the extentthat there are things relevantly similar to B that lack P, the analogybreaks down. To the extent that there are things relevantly similar to Bthat have P, the analogy holds up.Let us evaluate argument (19) in terms of these three questions.Question 1:In what relevant respects are A (The Tempest) and B (A Mid-s Dream) similar? They are similar in length, and both are writtenin Elizabethan English. The style of writing is also similar.Question 2:Are A (The Tempest) and B (s Dream) dis-similar in any relevant respects? The Tempestis a more serious play than A Mid-s Dream, and in places The Tempest, unlike sDream, is rather pessimistic in tone. So, it might take a little longer to read TheTempest.Questions 3:Are there things other than A (The Tempest) that are similarto B (s Dream) in the relevant respects and that have prop-erty P (i.e., can be read by me in an evening)? Yes, I once read another of Shake-s plays, As You Like It, in an evening. And it is similar in length, type ofEnglish, and style to s Dream.To sum up, the answer to Question 1 indicates that there are several rele-vant respects in which The Tempestand s Dream are similar.The answer to Question 2 notes a relevant dissimilarity, but the dissimilaritydoes not seem to weaken the analogy much. The answer to Question 3 indicatesthat as we consider related examples, the analogy holds up. Accordingly, theargument appears to be strong.s consider a second argument from analogy:
+
+20.
+
+21.The prohibition of so-called hard drugs such as cocaine and heroin is similar tothe prohibition of alcohol. The prohibition of alcohol was well intentioned andbased on legitimate concerns about the dangers of alcohol consumption. Theprohibition of alcohol also led to a highly protable black market ruled byorganized crime and marked by violence. Now, we can all agree that theprohibition of alcohol was, in the last analysis, a mistake. Therefore, theprohibition of hard drugs is also a mistakehard drugs should be legalized.Here, A is the prohibition of hard drugs, and B is the prohibition of alcohol.Property P is that of being a mistake. Again, we use our three questions as toolsfor analyzing the argument.Question 1:In what ways are A and B relevantly similar? The premisesspell out a number of relevant similarities between the prohibition of hard drugsthe argument some initial plausibility.478Induction10  8/1/01  8:57 AM  Page 478Question 2:Are A and B dissimilar in any relevant respects? Critics ofargument (21) might claim that prohibiting hard drugs is relevantly differentfrom prohibiting alcohol in at least two ways. For instance:a.Drugs such as cocaine and heroin are more addictive than alcohol,and hence are in some respects potentially more harmful toindividuals and society than alcohol is.b.The current social context is different from that in which alcohol waslegalized. When alcohol was legalized, drug abuse was not a serioussocial problem in America. But now it is. Therefore, legalizing harddrugs will probably add to currently severe problems such as death andproblems because their mothers abuse chemical substances, anduse drugs while working.Surely, these alleged dissimilarities, if accurate, are relevant and weaken theanalogy at least to some degree.Question 3:Are there things other than A (the prohibition of hard drugs)that are similar to B (the prohibition of alcohol) in the relevant respects but thatlack P (the property of being a mistake)? Critics of argument (21) may point outs pre-scription. Surely, then, it is not in general a mistake to prohibit the use of a drugs orders). Proponents of argument (21) might reply, how-ever, that prescription drugs are not in general relevantly similar to cocaine and
+
+1. A is similar to B in relevant respects.
+
+2. B has property P.So,
+
+3. A has property P.Questions to Ask
+
+1. What are the relevant respects in which A and B are similar? In general, the morerelevant respects A and B share, the stronger the argument.
+
+2. Are A and B dissimilar in any relevant respects?
+
+3. Are there things (other than A) that are similar to B in the relevant respects? If so,do these things have property P? To the extent that there are things relevantlysimilar to B that lack P, the analogy breaks down. To the extent that there arethings relevantly similar to B that have P, the analogy holds up.Summary of Arguments from Analogy10  8/1/01  8:57 AM  Page 479
+
+============*****Exercise 4*****===========
+
+10.4
+
+Part A:Analyzing and Evaluating AnalogiesAnalyze the following argumentsin terms of the schema for arguments from analogy, identifying A and B (the thingsbeing compared) and property P. Below each argument is a suggested criticism orreply. Does the reply point to an important weakness in the analogy? Why or whystrength of the argument into question.
+
+1.Mars is similar to the earth in that both are planets that orbit the sun. Theearth is inhabited by living things. Therefore, Mars is inhabited by livingthings.Reply:The moon also orbits the sun, but we know that the moon is notinhabited by living things.
+
+2.Having an abortion is like using contraception. In both cases, the intent isthe same: to avoid having a baby. And plainly, contraception is morally per-missible. Thus, abortion is morally permissible also.Reply:Abortion involves taking life, while contraception prevents life fromoccurring.
+
+3.Marijuana is as much a gift from God as lettuce. Therefore, since it notwrong to enjoy lettuce, it is not wrong to enjoy marijuana.Reply:Marijuana is usually smoked, while lettuce is eaten.
+
+4.Logic, like whiskeyDunsany, My Ireland, as quoted in H.L. Mencken (ed.), A New Dictionary ofQuotations(New York: Knopf, 1978), p. 705 (Note: This quotation is slightlyReply:Whereas whiskey has alcohol in it, logic does not.
+
+5.Suppose Buddhists became politically powerful in America and succeeded inhaving Buddhism taught in the public schools. Would that be morally480Induction10  8/1/01  8:57 AM  Page 480acceptable? Of course not. Therefore, it is not morally acceptable to haveChristianity taught in the public schools.Reply:Until recently
+
+6.Can nonhuman animals feel pain? Well, the higher mammals have nervoussystems that are similar to human nervous systems. Furthermore, higherstabbed with a pin, so a dog is apt to yelp and withdraw its paw if it is stabbedwith a pin.) Therefore, higher mammals can feel pain.Reply:Animals cannot talk to us and explain how they feel, but humanscan.
+
+7.Taxation of earnings from labor is on a par with forced labor . . . it is likeforcing the person to work n s purpose. Therefore, since its purpose, it is wrong for theAnarchy, State, andUtopia(New York: Basic Books, 1974), p. 169 (Note: I have made the con-clusion explicit.)Reply:All governments tax their citizens, but only corrupt or tyrannicalgovernments have programs of forced labor.
+
+8.If at times force can be used to counter force, why should lies never be usedto counter lies?...just as someone forfeits his rights to noninterference byothers, when he threatens them forcibly, so a liar has forfeited the ordinaryright to be dealt with honestlyLying: Moral Choice in Publicand Private Life(New York: Random House, 1979), p. 133 (Note: Bok statesthe argument in order to discuss it, not to endorse it.)Reply:Lying involves the use of language, whereas force need not involvethe use of language.
+
+9., the fetus has no brain waves. So,during this period, the fetus is similar to a brain-dead adult. Therefore, if aweeks of pregnancydy,Philosophy and SexReply:A brain-dead adult is not growing and gaining new powers, but a fetusis growing and gaining new powers.
+
+10.Belief in God is like belief in electrons. For example, no one has ever seen anelectron, just as no one has ever seen God. Similarly, the concept of an elec-tron plays an important role in physical theory, just as the concept of Godplays an important role in theology. Furthermore, one can reasonably believethat electrons exist even if one cannot summarize the evidence for their exis-tence, for one can reasonably believe in electrons on the basis of authority(e.g., a physics textbook). Thus, one can reasonably believe in God even ifone cannot summarize the evidence for Gos existence.
+
+Part B:More AnalogiesAnalyze the following arguments in terms of theschema for arguments from analogy, identifying A and B (the things being com-pared) and property P. Below each argument is a suggested criticism or reply. Doesthe reply point to an important defect in the analogy? Why or why not?
+
+1., obviously, it is wrong to killmerely on the grounds that caring for him is incon-venient. Accordingly, it is wrong to kill a dog merely on the groundsthat car-ing for it is inconvenient.Reply:Dogs do not look very much like people.
+
+2.Surrogate motherhood is slave owning, for both slave owning and surrogatemotherhood involve the buying and selling of human beings. (The only dif-ference is that in the case of surrogate motherhood, the humans who arebought and sold are always babies.) And yet, everyone will agree that slave-owning is immoral. We may therefore conclude that surrogate motherhood isimmoral also.Reply:Surrogate mothers do not sell their babies; rather, surrogate mothersductive capacities.
+
+3.s club. The various states freelyagree to join the United States, just as gentlemen freely join a club. Ands own discre-tion. Thus, any state in the United States is free to withdraw (secede) at itsown discretion.Reply:s clubs, but bothmen and women are citizens of states.
+
+4.A computer, like the human brain, is capable of responding to stimuli inastonishingly complex ways. Computers can play chess, enter into dialogues,, humans areaware of their own thoughts and feelings. Therefore, computers are aware oftheir own thoughts and feelings also.Reply:Computers are made mostly of metal and plastic, but humans are not.
+
+5.Suppose a wicked tyrant threatens to kill 10 innocent people unless you givehim all your discretionary income. If you refuse to give the money, you willnot be harmed, but the 10 innocent people will be put to death. If you givethe money, both you and the 10 innocent people will go unharmed. (Assumethat you have no other options such as overthrowing the tyrant or helpingthe 10 people escape.) Clearly, in such circumstances, you are morally oblig-ated to give up your discretionary income to save the 10 people. Now, youare in fact in a situation quite like this. World hunger is the wicked tyrant.The 10 innocent people are the starving poor of the Third World. Therefore,482Induction10  8/1/01  8:57 AM  Page 482you are morally obligated to give up your discretionary income to save thestarving poorSinger, ed., Applied Ethics(New York: Oxford University Press, 1986), pp.Reply:In the wicked tyrant case, you can identify exactly who will die, butin the case of world hunger, you cannot identify the individuals who will die.
+
+6.Suppose you have been kidnapped by the Society of Music Lovers, and yourkidneys have been connected to the circulatory system of a famous violinistwho lies unconscious beside you. You know that if you detach yourself fromhis circulatory system, the violinist will die. You also know that if you stayhealth will not suffer). In such circumstances, would you be morally oblig-ated to remain connected to the violinist? Surely not. It would be very niceof you to remain connected, but it is not your moral duty to do so. Therefore,it is not wrong for a woman to have an abortion in the case of pregnancy, ed., Applied Ethics(New York: Oxford UniversityReply:like shooting him in the head with a gun. In other words, detaching yourselffrom the violinist is merely letting him die. By contrast, abortion involveskilling the fetus.
+
+7.How do I know that other people have inner mental lives of their own?Well, I, I thinkthoughts, and Idream dreams. And I know that other people have a centralnervous system very similar to mine. Therefore, other people have innermental lives of their own.Reply:Chimps also have a central nervous system similar to yours.
+
+8.Rich nations are tiny lifeboats surrounded by masses of drowning people.Thus, itisimpossible for rich nations to save many of those living in theAgainst Helping the PoorTaking Sides: ClashingViews on Controversial Moral Issues,4th ed. (Guilford, CT: Dushkin, 1994),Reply:Rich nations such as the United States own vast amounts of land. So,obviously, they can hold a lot more people than a lifeboat can.
+
+9.When the technique of in vitrofertilization is employed, eggs are withdrawnfrom the woman by laparoscopy and fertilized in a petri dish (usually by thes sperm). A number of eggs areremoved at one time and fertilized, for various reasons. For one thing,women who seek in vitroachieving pregnancy. Thus, multiple attempts at inserting embryos (i.e., fer-tilized eggs) into the womb are often required. Also, the pain and expense ofmultiple surgeries are saved by removing more than one egg per laparoscopy.
+
+10.The experiences of a clairvoyant person are similar to the experiences of asighted person. Both types of experience involve vivid images. And bothtypes of experience seemto tell us about events in the real world. Now,admittedly, not everyone is clairvoyant, but not everyone is sighted, either.Furthermore, while the experiences of clairvoyant persons sometimes proveillusory, the experiences of sighted persons sometimes prove to be illusorytoo. After all, optical illusions are common enough. Nevertheless, it is rea-sonable to believe that the experience of seeing is a source of truth about theworld. Hence, it is reasonable to believe that the experiences of clairvoyantpersons are a source of truth about the world.Reply:Most people are sighted, but at best only a small minority are clairvoyant.Notes
+
+1.I have borrowed this label from Wesley Salmon, Logic, 3rd ed. (Englewood Cliffs,NJ: Prentice-Hall, 1984), p. 
+
+97.
+
+2.My discussion of this common misconception is heavily indebted to Brian Skyrms,Choice and Chance,3rd ed. (Belmont, CA: W
+
+3.Anthony Flew, Dictionary of Philosophy, rev. ed. (New Ys Press,1979), p. 
+
+215.
+
+4.For a review of the ad verecundiamfallacy, see section 
+
+4.
+
+3.
+
+5.Steven M. Cahn, ed., Classics of Western Philosophy, 2nd ed. (Indianapolis, IN:Hackett, 1977), p. 
+
+279.
+
+6.For example, James F. Ross, Introduction to the Philosophy of Religion(London:Macmillan, 1969), p. 
+
+29. Yet another authority states that Aquinas was born in1225 or1226; see Bertrand Russell, A History of Western Philosophy(New York:Simon & Schuster, 1945), p. 
+
+452.
+
+7.For example, Frederick Copleston, a well-known authority on Aquinas, states thatAquinas was born eitherat the end of 1224 orat the beginning of 
+
+1225. See Cople-ston, A History of Philosophy, Vol. 2, Mediaeval Philosophy, 
+
+Part II, Albert the Great toDuns Scotus(New York: Image Books, 1962), p. 
+
+20.
+
+8.My discussion of the features of a goosion in Hurley, A Concise Introduction to Logic,
+
+9.Charles W. Roll, Jr., and Albert H. Cantril, Polls: Their Use and Misuse in Politics(New York: Basic Books, 1972), p. 
+
+67.
+
+10.See Roll and Cantril, Polls, methods used to obtain a random sample.
+
+11.Roll and Cantril, Polls, p. 
+
+74.484Induction10  8/1/01  8:57 AM  Page 484
+
+12.The illustration is borrowed from Roll and Cantril, Polls, p. 
+
+75.
+
+13.Roll and Cantril, Polls, p. 
+
+72.
+
+14.This example is borrowed from Salmon, Logic,p. 
+
+112. I have paraphrased freely.
+
+15.s work borrows heavily from Carl G. Hempel, Philosophyof Natural Science(Englewoo
+
+16.Philosophy of Science(Downers Grove, IL: Inter-V
+
+17.My brief summary of criteria for goosion in Irving M. Copi and Carl Cohen, Introduction to Logic, 9th ed. (Englewood
+
+18.This example is borrowed from Salmon, Logic, p. 
+
+134.
+

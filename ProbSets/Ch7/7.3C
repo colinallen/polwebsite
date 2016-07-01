@@ -1,0 +1,27 @@
+#!qtype 
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C.</strong></font> 
+#!preamble English Arguments</font>&nbsp;&nbsp;
+#!preamble Symbolize the following arguments. Then use truth tables to 
+#!preamble determine whether or not they are valid. 
+
+#1
+Not having exceeded our natural resources is a necessary condition for its being appropriate to expand our city. Unfortunately, we have exceeded our natural resources. Consequently, it is not appropriate to expand our city. (E: We have exceeded our natural resources; A: It is appropriate to expand our city)
+#2
+Humans evolved from lower life forms given that either human life evolved from inanimate matter apart from divine causes or God created human life via the long, slow processes we call evolution. God created human life via the long, slow processes we call evolution. It follows that humans evolved from lower life forms. (H: Humans evolved from lower life forms; M: Human life evolved from inanimate matter apart from divine causes; G: God created human life via the long, slow processes we call evolution)
+#3
+American foreign policy is bankrupt unless it is based on clear moral principles. American foreign policy is not based on clear moral principles just in case it is based primarily on the national interest. Unfortunately, American foreign policy is based primarily on the national interest. We may infer that American foreign policy is bankrupt. (B: American foreign policy is bankrupt; M: American foreign policy is based on clear moral principles; N: American foreign policy is based primarily on the national interest) 
+#4
+You won't get an A unless you do well on all the exams. Therefore, if you do well on all the exams, you will get an A. (A: You will get an A; W: You do well on all the exams)
+#5
+There are necessary truths (i.e., truths which cannot be false under any possible circumstances). For assuming that there are no necessary truths, there are no necessary connections between premises and conclusions. But there are no valid arguments if there are no necessary connections between premises and conclusions; and there are valid arguments. (N: There are necessary truths; C: There are necessary connections between premises and conclusions; V: There are valid arguments)
+#6
+On the condition that land mines are designed to inflict horrible suffering, they ought to be banned unless inflicting horrible suffering is sometimes justified. It is not true that inflicting horrible suffering is sometimes justified but it is true that land mines are designed to inflict horrible suffering. Accordingly, land mines ought to be banned. (L: Land mines are designed to inflict horrible suffering; B: Land mines ought to be banned; S: Inflicting horrible suffering is sometimes justified)
+#7
+The reduction of violence is a necessary and sufficient condition for making drugs legal. But more people will use drugs if drugs are made legal. And violence is not reduced if more people will use drugs. Hence, drugs are not made legal. (V: Violence is reduced; L: Drugs are made legal; P: More people will use drugs)
+#8
+Augustine achieves heaven if Augustine is virtuous. But Augustine is happy provided that he is not virtuous. Augustine does not achieve heaven only if he is not happy. Therefore, Augustine achieves heaven. (A: Augustine achieves heaven; V: Augustine is virtuous; H: Augustine is happy) 
+#9
+Not all living things are able to feel pain. For all living things are able to feel pain only if all living things have nervous systems. But not all living things have nervous systems given that plants do not have nervous systems. And plants do not have nervous systems. (L: All living things are able to feel pain; N: All living things have nervous systems; P: Plants have nervous systems)
+#10
+It is morally permissible for mentally superior extraterrestrials to eat humans on the condition that it is morally permissible for humans to eat animals. But either it is not morally permissible for mentally superior extraterrestrials to eat humans or human life lacks intrinsic value. However, human life has intrinsic value. We are forced to conclude that it is not morally permissible for humans to eat animals. (E: It is morally permissible for mentally superior extraterrestrials to eat humans; H: It is morally permissible for humans to eat animals; V: Human life has intrinsic value)
+

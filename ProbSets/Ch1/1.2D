@@ -1,0 +1,40 @@
+#!qtype MC_FIXED
+#!values MP: modus ponens::MT: modus tollens::HS: hypothetical syllogism::DS: disjunctive syllogism::CD: constructive dilemma::None
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble Still More Forms to Identify</font>&nbsp;&nbsp;
+#!preamble Identify the forms of the following arguments, using capital letters to stand for statements  and eliminating any stylistic variants. If the argument form is one of the "famous" valid forms, select its name.  If the form is not one of the "famous" valid forms, select "none."
+
+# Format of each line is QUESTION::ERRORSTRING::ANSWER
+
+#1
+Overeating is foolish only if it causes disease. Overeating does not cause disease. So, overeating is not foolish.::::MT: modus tollens
+#2
+Either films depicting graphic violence have caused the increase in violent crime or bad parenting has caused it (or both). Movies depicting graphic violence have caused the increase in violent crime. Therefore, bad parenting has not caused the rise in violent crime.::::None
+#3
+Corporations contribute huge sums of money to political campaigns. If that is so, then corporations exert undue influence on elections. So, corporations exert undue influence on elections.::::MP: modus ponens
+#4
+You will win the chess tournament if you are very good at chess. Unfortunately, you are not very good at chess. So, you will not win the chess tournament.::::None
+#5
+Either virtue is good for its own sake or it is good as a means to an end. It is not the case that virtue is good for its own sake. So, virtue is good as a means to an end.::::DS: disjunctive syllogism
+#old no 6
+#Contraception is immoral given that sex is strictly for procreation. But sex is not strictly for procreation. So, contraception is not immoral.::::None
+#6
+You should be an optimist if pessimists are less likely to succeed than optimists. And it is a fact that pessimists are less likely to succeed than optimists. Therefore, you should be an optimist.::::MP: modus ponens
+#7
+If God can arbitrarily decide what is morally right, then God can make cruelty right. And if God cannot arbitrarily decide what is morally right, then morality is not entirely in God's control. But either God can arbitrarily decide what is morally right, or God cannot arbitrarily decide what is morally right. Therefore, either God can make cruelty right, or morality is not entirely in God's control.::::CD: constructive dilemma
+#8
+The dinosaurs vanished due to a sudden, extreme drop in temperature. The earth must have suffered some sort of cataclysm millions of years ago assuming that the dinosaurs vanished due to a sudden, extreme drop in temperature. So, the earth must have suffered some sort of cataclysm millions of years ago.::::MP: modus ponens
+#9
+Assuming that you treat like cases alike, you are fair. Hence, you are fair only if you treat like cases alike.::::None
+#10
+The death penalty is inequitably applied to the poor and to minorities. And given that the death penalty is inequitably applied to the poor and to minorities, it is unjust. Therefore, the death penalty is unjust.::::MP: modus ponens
+#11
+Philosophy is important if ideas are important. And assuming that ideas change lives, ideas are important. Hence, if philosophy is important, then ideas change lives.::::None
+#12
+If you join the military, you give up a lot of freedom. If you go to college, you incur enormous debts. However, you either join the military or you go to college. Therefore, you either give up a lot of freedom or you incur enormous debts.::::CD: constructive dilemma
+#13
+Mercy killing is morally permissible only if it promotes a greater amount of happiness for everyone affected than the alternatives. And mercy killing does promote a greater amount of happiness for everyone affected than the alternatives. Therefore, mercy killing is morally permissible.::::None
+#14
+You must either love or hate. If you love, then you suffer when your loved ones suffer. If you hate, then you suffer when your enemies flourish. So, either you suffer when your loved ones suffer or you suffer when your enemies flourish.::::CD: constructive dilemma
+#15
+A severe depression will occur given that the economy collapses. The economy collapses if inflation soars. So, inflation soars only if a severe depression will occur.::::HS: hypothetical syllogism

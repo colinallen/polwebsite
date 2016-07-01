@@ -1,0 +1,34 @@
+#!qtype MC_VAR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part D:</strong>
+#!preamble Contraposition </font>&nbsp;&nbsp;
+#!preamble Form the contrapositive of each of the following statements. Then indicate whether contraposition, as applied to the type of categorical statement in question, is a valid form of argument.
+
+# Format of each line is QUESTION::%%ANSWERTYPE1::OPTION1_1::...::OPTION1_n::ANSWER1::ERRORSTRING1::...%%ANSWERTYPEm::OPTIONm_1::...::OPTIONm_r::ANSWERm::ERRORSTRINGm::
+
+# If ANSWERTYPE is TEXT, there will be only the answer -- the text to be matched.
+# If ANSWERTYPE is POPUP, there will be several options that will appear on a popup list
+# The correct answer appears last in the list.  The first element of the list should be
+# an appropriate label for the POPUP; "?" is the default.
+# Don't forget the final "::" (needed to avoid special processing in the code for the mth 
+# bunch of stuff).
+
+#1
+All cynics are pessimists.::%%TEXT::All nonpessimists are noncynics::::%%POPUP::?::Valid::Invalid::Valid::<!--explanation-->::
+#2
+Some plants are nonroses.::%%TEXT::Some roses are nonplants::::%%POPUP::?::Valid::Invalid::Invalid::<!--explanation-->::
+#3
+Some dramas are not comedies.::%%TEXT::Some noncomedies are not nondramas::::%%POPUP::?::Valid::Invalid::Valid::<!--explanation-->::
+#4
+Some noncollies are not nondogs.::%%TEXT::Some dogs are not collies::::%%POPUP::?::Valid::Invalid::Valid::<!--explanation-->::
+#5
+All photons are things that travel at the speed of light.::%%TEXT::All things that do not travel at the speed of light are nonphotons::::%%POPUP::?::Valid::Invalid::Valid::<!--explanation-->::
+#6
+No red oaks are elms.::%%TEXT::No nonelms are things that are not red oaks::::%%POPUP::?::Valid::Invalid::Invalid::<!--explanation-->::
+#7
+All things that can run at more than fifty miles an hour are cats.::%%TEXT::All noncats are things that cannot run at more than fifty miles an hour::::%%POPUP::?::Valid::Invalid::Valid::<!--explanation-->::
+#8
+Some non-Fords are not nonautomobiles.::%%TEXT::Some automobiles are not Fords.::::%%POPUP::?::Valid::Invalid::Valid::<!--explanation-->::
+#9
+All college students are entities having IQs of at least 100.::%%TEXT::All entities not having IQs of at least 100 are entities that are not college students::::%%POPUP::?::Valid::Invalid::Valid::<!--explanation-->::
+#10
+All great white sharks are nonguppies.::%%TEXT::All guppies are things that are not great white sharks::::%%POPUP::?::Valid::Invalid::Valid::<!--explanation-->::

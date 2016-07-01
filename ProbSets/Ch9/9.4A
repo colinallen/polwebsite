@@ -1,0 +1,45 @@
+#!qtype PRF
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Proofs</font>&nbsp;&nbsp;
+#!preamble Construct proofs to show that the following arguments are valid.You may use direct proof, CP, or RAA.
+
+#1
+1.(x)Ax->(x)Bx2.~(x)Bx.:($x)~Ax
+#2
+1.~($y)Cy2.(y)~Cy->(z)Dz.:Db3.(y)~Cy
+#3
+1.~(x)~Fx.:($x)Fx
+#4
+1.~($x)~Gx.:(x)Gx
+#5
+1.($y)Hy->($y)Jy2.(y)~Jy.:~Ha
+#6
+1.(z)[(KzvLz)->Mz].:(z)(Lz->Mz)
+#7
+1.(x)(Nx->Ox).:~(x)Ox->~(x)Nx
+#8
+1.~($x)~Px2.~($y)Syv~(x)Px.:~Sd
+#9
+1.(x)~Rx->($x)~~Tx.:(x)~Tx->($x)Rx
+#10
+1.(x)(Ax->~Bx)2.(y)Ay.:(z)~Bz
+#11
+1.~($x)(Fx.~Gx) :. (x)(Fx->Gx)
+#12
+1.(x)(Jx->Kx) :. (x)[Jx->((y)(Ky->Ly)->Lx)]
+#13
+1.($x)[Bx->(y)~Cy]2.~($y)Cy->~($z)Dz.:(x)Bx ->(z)~Dz
+#14
+1.($x)[Fx.(y)(Gy->Hx)]2.(x)[Fx->(y)(By->~Hx)].:(x)(Gx->~Bx)
+#15
+1.(x)[Dx->($y)(Fy.Gy)].:(x)~Fx->~($y)Dy
+#16
+1.~(x)Mx v ($x)~Mx2.[($x)Sx->(x)Mx]3.[Sbv(x)~Px].:~Pa
+#17
+1.[(x)Hx->($x)Gx]->~($y)(Fyv($z)Tz)2.~(x)Fx->($x)Gx3.(x)Hx->($x)~Fx.:($x)~Tx
+#18
+1.(x)Hxv[(x)Kx.($x)~Lx]2.(x)Hx->~(x)Nx3.~(x)Lx->($x)~Nx4.(x)Mxv(x)Nx.:Mc
+#19
+1.(x)(Lx<->(y)My).:(x)Lxv(x)~Lx
+#20
+1.(x)Axv(x)Bx.:(x)(AxvBx)

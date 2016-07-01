@@ -1,0 +1,54 @@
+#!qtype MC_FIXED
+#!values WFF::Not a WFF
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:  </strong>
+#!preamble Well-formed formulas?</font>&nbsp;&nbsp;
+#!preamble Which of the following symbolic expressions are 
+#!preamble well-formed formulas (WFFs)? Which are not?
+#!preamble (In answering these questions, use the six conditions
+#!preamble for WFFs strictly, making no allowances for routine abbreviations.)
+#!preamble <p>
+
+# Format of each line QUESTION :: ERROR STRING :: ANSWER
+
+#1
+<tt>(A -> B -> C)</tt>::Compare the number of operators to the pairs of parentheses.::Not a WFF
+#2
+<tt>(~B)</tt>::Parentheses are used only in connection with the ``binary'' operators: dot, vee, arrow, and double-arrow. ::Not a WFF
+#3
+<tt>(~(C) -> F)</tt>::Do those parentheses belong?::Not a WFF
+#4
+<tt>(E -> (~F -> G)</tt>::Avoid unbalanced responses!::Not a WFF
+#5
+<tt>~((H -> J) -> (K -> L)</tt>::A good balancing act is hard to spot!::Not a WFF
+#6
+<tt>(M -> ~~N)</tt>::This is a conditional.::WFF
+#7
+<tt>(O -> ~(P -> R))</tt>::This is a conditional.::WFF
+#8
+<tt>((Q -> S) -> T)</tt>::This is a conditional.::WFF
+#9
+<tt>(~(U) -> (W))</tt>::One arrow, many parentheses.::Not a WFF
+#10
+<tt>~Z</tt>::Whether you say "not zee" or "not zed", it's a wff all the same.::WFF
+#11
+<tt>~(B . C)</tt>::This is a negation of a conjunction.::WFF
+#12
+<tt>~(~W v ~Z)<tt>::This is a negation of a disjunction::WFF
+#13
+<tt>~(m <-> ~h)</tt>::Too small, you say?::Not a WFF
+#14
+#<tt>~(~A -> R)</tt>::This is a negation of a conditional.::WFF
+<tt>(~E . ~F . ~~G)::More parentheses needed.::Not a WFF
+#15
+#<tt>((~H . ~~F) -> ~(~K <-> ~N))</tt>::This is a conditional.::WFF
+<tt>~(~A -> ~R)::This is a negated conditional.::WFF
+#16
+<tt>(~S v ~R v ~(T . U))</tt>::Double disjunction, less than a WFF.::Not a WFF
+#17
+<tt>(~P v Q v ~R)</tt>::More parentheses needed.::Not a WFF
+#18
+<tt>((L v M) -> ~S)</tt>::This is a biconditional.::WFF
+#19
+<tt>(~(D . E) <-> (F v ~G))</tt>::This is a biconditional.::WFF
+#20
+<tt>((~H . ~~F) -> ~(~K <-> ~N))</tt>::Unconditionally a conditional.::WFF

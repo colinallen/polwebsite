@@ -1,0 +1,51 @@
+#!qtype MC_MULTI
+#!valuetype ?::argument::not an argument
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:  </strong>
+#!preamble Identifying Arguments</font>&nbsp;&nbsp;
+#!preamble Classify each of the following passages as either an argument, or not an argument. 
+#!preamble <p>
+
+# Format of each line is QUESTION::ANSWER1::ERRORSTRING1::ANSWER2::ERRORSTRING2
+
+#1
+The defendant is not guilty of murder since she is insane.::argument
+#2
+One does not worry about the fact that other people do not appreciate one. One worries about not appreciating other people.::not an argument
+#3
+America is in many ways different from Britain, but the two countries today are alike in their extremes of inequality, and in the desire of many politicians to solve economic and social ills by reducing the power of the state. Britain's current crisis should cause us to reflect on the fact that a smaller government can actually increase communal fear and diminish our quality of life. Is that a fate America wishes upon itself &mdash; Richard Sennett and Saskia Sassen, &ldquo;Broken Windows,&rdquo; <em>New York Times</em>, August 11, 2011.::argument
+#4
+All the world's farms currently produce enough food to make every person on the globe fat. Even though 800 million people are chronically underfed (6 will die of hunger-related causes while you read this article), it's because they lack money and opportunity, not because food is unavailable in their countries. The UN Food and Agriculture Organization (FAO) reports that current food production can sustain world food needs even for the 8 billion people who are projected to inhabit the planet in 2030. &mdash; Barbara Kingsolver, <em>Animal, Vegetable, Miracle</em> (New York: HarperCollins, 2007), p. 18.::argument
+#5
+It can hardly be denied that people fear death more than they fear life imprisonment. Are we not then forced to conclude that the death penalty is a greater deterrent than life imprisonment?::argument
+#6
+&ldquo;If you are in good health and averagely diligent about hygiene, you will have a herd of about one trillion bacteria grazing on your flesh &mdash; about 100,000 of them on every square centimeter of skin. &mdash; Bill Bryson, <em>A Really Short History of Nearly Everything</em> (London: Random House, 2008), p. 110.::not an argument
+#7
+Since affirmative action involves giving a less qualified person the job, affirmative action is unjust. After all, the most qualified person deserves the job.::argument
+#8
+Abraham Lincoln died because J. W. Booth shot him with a pistol.::not an argument
+#9
+If alcoholism is a disease, then it is treated medically. But alcoholism is not treated medically for the primary mode of treatment is the twelve-step program of Alcoholics Anonymous. And AA's twelve-step program is religious in nature. Therefore, alcoholism is not a disease.::argument
+#10
+Since 9/11, America has been engaged in a war on terror in many parts of the world.::not an argument
+#11
+A galaxy is a complex system of many stars. The galaxy in which we live is called the Milky Way. It is shaped like a hamburger bun 10,000 light years thick and 100,000 light years in diameter. It contains most of the stars we are able to see at night. But there is one of these stars which we can never see at night; we call this star the Sun. It is about 93 million miles away. Orbiting the Sun at 66,600 miles per hour is our own personal space vehicle, the planet Earth. [. . . .] The Milky way is also spinning around. We are in orbit around the center of the Milky Way at the fantastic speed of 600,000 miles an hour.::not an argument
+#12
+While it is true that people in general fear death more than they fear life in prison, most murders are crimes of passion. That is to say, most murderers, at the time when they commit the act, are so full of hate or anger that they are completely unconcerned with the long-term consequences of their actions. How, then, can anyone assert with confidence that the death penalty deters murder?::argument
+#13
+As carbon dioxide warms the planet, it also seeps into the oceans and acidifies them.  Sometime this century they may become acidified to the point that corals can no longer construct reefs, which would register in the geologic record as a &ldquo;reef gap.&rdquo; Reef gaps have marked each of the past five major mass extinctions. The most recent one, which is believed to have been caused by the impact of an asteroid, took place 65 million years ago, at the end of the Cretaceous period; it eliminated not just the dinosaurs, but also the plesiosaurs, pterosaurs, and ammonites. The scale of what's happening now to the oceans is, by many accounts, unmatched since then. To future geologists, our impact may look as sudden and profound as that of an asteroid. &mdash; Elizabeth Kolbert, &ldquo;Enter the Anthropocene: Age of Man,&rdquo; <em>National Geographic</em>, March 2011, p. 77.::not an argument
+#14
+Pacifists are either deeply insightful or greatly mistaken. But if pacifists are deeply insightful, then it is immoral for a policeman to kill a sniper who is firing at school children. Frankly, I don't think it takes a moral genius to see that it isn't wrong for a policeman to kill a sniper who is firing at school children. So, in my opinion, pacifists are not deeply insightful. And hence, in my estimation they are greatly mistaken.::argument
+#15
+Robert Provine of the University of Maryland has found that people are thirty times more likely to laugh when they are with other people than when they are alone. When people are in bonding situations, laughter flows.  Surprisingly, people who are speaking are 46% more likely to laugh during conversation than people who are listening. And they're not exactly laughing at hilarious punch lines. Only 15% of the sentences that trigger laughter are funny in any discernible way. &mdash; David Brooks, <em>The Social Animal</em> (New York: Random House, 2011), p. 42.::not an argument
+#16
+Obviously, empirical data are scientific. But only what can be falsified (i.e., what can in principle be shown false) is scientific. Therefore, although many people regard empirical data as fixed and unchangeable, empirical data can be falsified.::argument
+#17
+Joan and Carl had been living together for a year and had maintained their separate friendships with both sexes. They were in agreement that they were committed to monogamy, but did not want to sacrifice the opportunity to have close friends. This informal contract proved to be workable, until Carl began spending time with his young research assistant who was in the process of going through a divorce. In response, Joan found herself feeling jealous, threatened, and angry.::not an argument
+#18
+In spite of the fact that the vast majority of contemporary scientists and intellectuals accept the theory of evolution, it is highly questionable for at least two reasons. First, the probability of life evolving from non-life is so low as to be in the category of the miraculous. Second, if evolution is true, then there are "missing links" (for example, animals midway between reptiles and birds). But apparently there are no "missing links" since the fossil record contains none. Therefore, the theory of evolution is very much open to question.::argument
+#19
+In Stanley Milgram's obedience experiments, first performed at Yale in 1963, subjects were ostensibly recruited to take part in a study of memory. They were then duped into believing they were to be "teachers" in an experiment in which they would administer painful electric shocks of increasing strength to "learners" whenever the latter made mistakes. The so-called learners were actually actors who grunted, screamed, begged to be released from the experiment. As the subject-teachers administered what they thought was ever stronger punishment, they were observed to see whether they continued or protested, and what their reactions were. A large fraction of them were induced to give the highest range of electric shock, even when the pseudo-learners cried out that they feared a heart attack.::not an argument
+#20
+While many endorse the principle of <i>equal pay for equal work</i>, the principle is untrue, for it would have disastrous results if it were applied to colleges.  Why?  Because faculty salaries in fact differ markedly by discipline (e.g., professor of engineering receive much higher salaries that professor of English literature).  So, if colleges gave equal pay for equal work, they would either (a) go broke paying all faculty high salaries or (b) demoralize the more highly paid faculty with severe pay cuts.  Obviously, (a) would be disastrous and so would (b).::argument
+
+

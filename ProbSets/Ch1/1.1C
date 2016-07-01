@@ -1,0 +1,38 @@
+#!qtype MC_FIXED
+#!values Valid::Invalid
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
+#!preamble Valid or Invalid?</font>&nbsp;&nbsp;
+#!preamble Much of this text concerns methods of testing arguments for validity. Although we have not yet discussed any particular methods of testing arguments for validity, we do have definitions of "valid argument" and "invalid argument." Based on your current understanding, which of the following arguments are valid? Which are invalid? ( Hint:  Use the definitions that have been provided.)  
+
+# Format of each line QUESTION :: ERROR STRING :: ANSWER
+
+#1
+If Lincoln was killed in an automobile accident, then Lincoln is dead. Lincoln was killed in an automobile accident. Hence Lincoln is dead.::Even though there is a false premise here, it remains the case that <u>if</u> the premises <u>were</u> all true, that would guarantee the truth of the conclusion.::Valid
+#2
+If Lincoln was killed in an automobile accident, then Lincoln is dead.  Lincoln was not killed in an automobile accident. Therefore, Lincoln is not dead.::The premises are true but the conclusion is false.::Invalid
+#3
+If Lincoln was killed in an automobile accident, then Lincoln is dead. Lincoln is dead. So, Lincoln was killed in an automobile accident.::The premises are true but the conclusion is false.::Invalid
+#4
+If Lincoln was killed in an automobile accident, then Lincoln is dead. Lincoln is not dead. Hence, Lincoln was not killed in an automobile accident.::Even though the second premise is false, if it were true then, in conjunction with the first premise, it would entail the conclusion.::Valid
+#5
+Either 2 plus 2 equals 22 or Santa Claus is real. But 2 plus 2 does not equal 22. Therefore, Santa Claus is real.::If the premises were both true, that would guarantee the truth of the conclusion.::Valid
+#6
+Either we use nuclear power or we reduce our consumption of energy. If we use nuclear power, then we place our lives at great risk. If we reduce our consumption of energy, then we place ourselves under extensive governmental control. So, either we place our lives at great risk or we place ourselves under extensive governmental control.::Can the conclusion be false when all the premises are true?::Valid
+#7
+All birds are animals. No tree is a bird. Therefore no tree is an animal.::Even though the premises and the conclusion are in fact all true, the conclusion is not guaranteed by the premises.::Invalid
+#8
+Some humans are comatose. But no comatose being is rational. So, not every human is rational.::The truth of the premises guarantees the truth of the conclusion.::Valid
+#9
+All animals are living things. At least one cabbage is a living thing. So at least one cabbage is an animal.::The argument has true premises but the conclusion is false, which is not possible in a valid argument.::Invalid
+#10
+Alvin likes Jane. Jane likes Chris. So, Alvin likes Chris.::Alvin doesn't have to like all Jane's friends just because he likes here.  Liking isn't transitive!::Invalid
+#11
+All murderers are criminals. Therefore, all non murderers are non-criminals.::The premise is true but the conclusion is false.::Invalid
+#12
+David is shorter than Saul. Saul is shorter than Goliath. It follows that David is shorter than Goliath.::Being shorter is a transitive relation.::Valid
+#13
+It is possible that McGraw will win the next presidential election. It is possible that Lambert will win the next presidential election. Thus, it is possible that both McGraw and Lambert will win the next presidential election.::These are incompatible possibilities.::Invalid
+#14
+All physicians are singers. Lady Gaga is a physician. Therefore, Lady Gaga is a singer.::The premises may be false, they entail the conclusion.::Valid
+#15
+Samuel Morse invented the telegraph. Alexander Graham Bell did not invent the telegraph. Consequently, Morse is not identical with Bell.::If they were identical there would be just one person, who could not have invented and not invented the telegraph.::Valid

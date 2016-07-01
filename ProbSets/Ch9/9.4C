@@ -1,0 +1,38 @@
+#!qtype PRF
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:  </strong>
+#!preamble Logical Equivalence</font>&nbsp;&nbsp;
+#!preamble To show that <em>p</em> and <em>q</em> are logically equivalent
+#!preamble using proofs, you have to show that you can prove either from the
+#!preamble other, that is, that <em>p</em> :. <em>q</em> and <em>q</em> :. 
+#!preamble <em>q</em>.  Thus, the problems in the text are presented below in
+#!preamble the form of two such proofs, one in the left column and the other
+#!preamble in the right.  To prove equivalence Construct proofs for both.
+
+#1
+1.(x)(Ax. Bx).:[(x)Ax.(x)Bx]
+#2
+1.[(x)Ax.(x)Bx].:(x)(Ax.Bx)
+#3
+1.($x)(AxvBx).:[($x)Axv($x)Bx]
+#4
+1.[($x)Axv($x)Bx].:($x)(AxvBx)
+#5
+1.(x)(P->Ax).:[P->(x)Ax]
+#6
+1.[P->(x)Ax].:(x)(P->Ax)
+#7
+1.(x)(Ax->P).:[($x)Ax->P]
+#8
+1.[($x)Ax->P].:(x)(Ax->P)
+#9
+1.($x)(Ax->P).:[(x)Ax->P]
+#10
+1.[(x)Ax->P].:($x)(Ax->P)
+#11
+1.($x)(P->Ax).:[P->($x)Ax]
+#12
+1.[P->($x)Ax].:($x)(P->Ax) 
+#13
+1.[(x)AxvP].:(x)(AxvP)
+#14
+1.(x)(AxvP).:[(x)AxvP]

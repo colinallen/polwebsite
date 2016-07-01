@@ -1,0 +1,54 @@
+#!qtype DIAG
+
+# Format of each line is BRACKETED QUESTION :: DIAGRAM
+
+# The allowable element in DIAGRAMs are:
+#   statement numbers (max one digit)
+#   v (for independent branches)
+#   + (for interdependent supports -- same meaning as in book)
+#   > (for formatting)
+#
+# Internally, > represents an empty cell in the diagram, but it's for
+# pretty formatting purposes only to allow conclusions to be centered
+# under the supporting premises, but having no logical meaning.  The
+# diagram representation ends rows with colons, and shows all the
+# elements of each row in left to right order.  So, e.g.
+#
+# 12:3:
+# 1+2:>3
+# 1v2:3v4:5
+#
+# When there are multiple branches, the coordination between rows is implicit.  So, e.g. in 
+#    1+2v3:4v5:6:
+# 1+2 is matched to 4 and 3 is matched to 5.
+
+#1
+[Photography makes representational art obsolete] because [no one, not even the best artist, can be more accurate than a camera.]::2:1:
+#2
+In spite of the fact that [electrons are physical entities], [they cannot be seen]. For [electrons are too small to deflect photons (i.e., light particles)]. Hence, [electrons are invisible].::3:2:or3:4:
+#3
+[There is a healthy kind of individualism--the kind that is resistant to group tyranny] . . . . But [capitalist individualism is not concerned about promoting the growth of the person into emotional, intellectual, ethical and cultural fullness]; rather, [it fosters the development of individual traits only so far as these are useful for maximizing profits]. Thus, ironically, [capitalist individualism turns into a group despotism under which personal becoming is sacrificed to the external tyrannies of material gain].::2+3:>4:
+#4
+While [there is much wickedness in the world], [there is also much good]. For [if there is evil then there must be good], since [good and evil are relative like big and small]. And no one will deny that [evil exists].::4:3+5:>2:
+#5
+Since [major historical events cannot be repeated], [historians aren't scientists]. After all, [the scientific method necessarily involves events (called "experiments") which can be repeated].::3+1:>2:
+#6
+[The scientific method doesn't necessarily involve experimentation]. For [if anything is a science, astronomy is]. But [the great cosmic events observed by astronomers cannot be repeated]. And of course [an experiment is by definition a repeatable event].::4+2+3:>>1:
+#7
+Although [people often say that beauty is in the eye of the beholder], there are various reasons for thinking that [beauty is objective].  First, [there is wide agreement about natural beauty]. After all, [virtually everyone finds the Grand Canyon, Niagara Falls, and the Rocky Mountains beautiful]. Second, even though [art critics frequently disagree with one another], [they do defend their views with principled reasoning]. Third, [art critics tend to agree among themselves about which historical works of art are truly great]. And [this agreement is no mere coincidence] because [the critics are not in general reluctant to disagree with one another].::4>>>>>9:3v6v7+8:>>2:
+#8
+[In the new order, when voters are concerned about what benefits the elected officer will provide them, promises, hypocrisy, deceit, log-rolling and clout are fast becoming the characteristics of electability]. As Harold Blake Walker noted, [of twenty-one Congressmen linked in one way or another with political wrongdoing or personal scandal prior to the 1976 election, nineteen were re-elected].::2:1:
+#9
+Despite the fact that [contraception is regarded as a blessing by most Americans], [using contraceptives is immoral]. For [whatever is unnatural is immoral] since [God created and controls nature]. And [contraception is unnatural] because [it interferes with nature].::4>6:3+5:>2:
+#10
+While [some people seem to be under the impression that humans are making moral progress], I submit that [the twentieth century is a movement backwards into violence and cruelty]. For in spite of the fact that [science and technology have developed rapidly], [the greatest mass murders in history have all occurred in this century]. [Millions died on the battlefields of WW I and WW II]. [Six million Jews died in Nazi prison camps]. And [from 1917 until the end of Stalin's reign twenty million people died in Soviet work camps]. [More recently, we have Pol Pot's slaughter of the Cambodians as well as the atrocities in the former Yugoslavia].::5v6v7v8:>>>4:>>>2:
+#11
+[There is no life after death]. For [what's real is what you can see, hear, or touch]. And [you cannot see, hear, or touch life after death]. Furthermore, [life after death is possible only if humans have souls]. But [the notion of a soul belongs to a prescientific and outmoded view of the world]. And hence, [the belief in souls belongs to the realm of superstition].::>>>>>>5:2+3v4+6:>>>1:
+#12
+[Politicians are forever attributing crime rates to policies]--if [the crime rates are decreasing, to their own "wise" policies]; [if the crime rates are increasing, to the "failed" policies of their opponents]. But the fact is that [crime rates are best explained in terms of demographics]. For [crime is primarily a young man's game]. [Whenever there is a relatively large number of young men between the ages of fifteen and thirty, the crime rates are high]. And [whenever this part of the population is relatively small, the crime rates are relatively low].::6+7:>5:>4:
+#13
+[A liberal arts education is vital to any great nation]. Why? For one thing, [a liberal arts education provides the best possible skills in communication]. And [without good communication at all levels, a nation cannot move forward]. For another, [work is not the whole of life]. And it is well known that [a liberal arts education increases one's capacity to enjoy life by substantially broadening the range of one's interests].::2+3v4+5:>>>1:
+#14
+[The human sciences have...made a major contribution to cynicism about human greatness, especially as they treat the subjects of motivation and freedom]. [We are told that human choice is not what it appears to be].  [If we accept the sophistications of some views of psychology, we know that what appears to be heroic--for example, a man or woman's act of courage in saving another's life--is, in fact, a desperate attempt to win the approval of a long-dead parent who had withheld love in the childhood years]. What, then, has become of the hero? [He or she is transformed in our minds into a neurotic, and with a slight turn of the mind, admiration is changed to pity and condescension].::3:2+4:>1:
+#15
+[Violence as a way of achieving racial justice is both impractical and immoral]. [It is impractical] because [it is a descending spiral ending in destruction for all]. [The old law of an eye for an eye leaves everybody blind]. [It is immoral] because [it seeks to humiliate the opponent rather than win his understanding]; [it seeks to annihilate rather than to convert]. [Violence is immoral] because [it thrives on hatred rather than love]. [It destroys community and makes brotherhood impossible].::4:3>6v7v9v10:2+5:>>1:or4:3>6v7v9v10:2+8:>>1:

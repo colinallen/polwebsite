@@ -1,0 +1,31 @@
+#!qtype MC_FIXED
+#!values Incorrect::DN::Com::As::DeM::Cont
+#!preamble <font color="ee0077" face="helvetica"><strong>Part B. </strong>
+#!preamble Correct or Incorrect?</font>&nbsp;&nbsp;
+#!preamble For each of the following, if the inference is incorrect, i.e.
+#!preamble cannot be reached in one step, say so.  If it is correct, cite the
+#!preamble rule that justifies it.
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+<tt>~(~E v B) :. ~~E . ~B</tt>::</tt>::DeM
+<tt>~B -> ~C :. C -> B</tt>::</tt>::Cont
+<tt>~(F v G) :. ~F v ~G</tt>::</tt>::Incorrect
+<tt>~W v ~Z :. ~(W . Z)</tt>::</tt>::DeM
+<tt>A . ~B :. ~B . A</tt>::</tt>::Com
+<tt>~D -> ~E :. ~~E -> ~~D</tt>::</tt>::Cont
+<tt>~S v T :. ~(S . ~T)</tt>::</tt>::Incorrect
+<tt>~J v ~~K :. ~(J . ~K)</tt>::</tt>::DeM
+<tt>P -> ~Q :. Q -> ~P</tt>::</tt>::Incorrect
+<tt>O -> R :. ~R -> ~O</tt>::</tt>::Cont
+<tt>[B v (C v A)]<-> D :. [C v B) v A]<-> D</tt>::</tt>::Incorrect
+<tt>[~(D . C) -> E] :. [(~D v ~C) -> E]</tt>::</tt>::DeM
+<tt>~(L . ~M) :. ~(~M . L)</tt>::</tt>::Com
+<tt>~(U . ~Z) :. ~U v ~~Z</tt>::</tt>::DeM
+<tt>[(~~N v ~M)<-> (L . K)] :. [~(~N . M)<-> (L . K)]</tt>::</tt>::DeM
+<tt>~[(O . ~P) . W] :. ~[O . (~P . W)]</tt>::</tt>::As
+<tt>~(R v ~Q) :. ~R . ~~Q</tt>::</tt>::DeM
+<tt>~~S <-> T :. S <-> T</tt>::</tt>::DN
+<tt>~~(U v W) :. ~(~U . ~W)</tt>::</tt>::DeM
+<tt>~(X -> Y) :. ~X -> ~Y</tt>::</tt>::Incorrect
+

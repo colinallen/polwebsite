@@ -1,0 +1,51 @@
+#!qtype MC_MULTI
+#!valuetype ARGUMENT EVALUATION::Valid::Invalid but Strong::Invalid and Weak
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
+#!preamble Valid or Invalid? Strong or Weak?</font>&nbsp;&nbsp;
+#!preamble As best as you can determine, which of the following arguments are
+#!preamble valid? Which are invalid? Which are strong? Which weak?  (Note that
+#!preamble an argument that is strong or weak is invalid, by definition.)
+#!preamble <p>
+
+# Format of each line QUESTION :: ANSWER :: ERROR STRING 
+
+#1
+Fifty percent of serial killers were abused as children. Bundy is a serial killer. Therefore, Bundy was abused as a child.::Invalid and Weak::The argument is weak because, given the first premise, it is just as likely that Bundy was abused as a child as not.  Hence, the conclusion is as likely to be true as false, so it is inductively weak.
+#2
+This lovely china plate is similar in size, weight, and composition to the one I just dropped. The one I just dropped broke. So, if I drop this lovely china plate, it will break.::Invalid but Strong::The argument presents a suitable basis for the analogy, although the argument is invalid because the conclusion is not guaranteed true by the premises.
+#3
+According to Lillian Roxon's Rock Encyclopedia, Buddy Holly, who wrote Peggy Sue, That'll Be the Day, and other rock music hits, died in an airplane crash on February 3, 1959. So, Buddy Holly died in an airplane crash in 1959.::Invalid but Strong::An appropriate authority is cited, but the conclusion might still be false.
+#4
+One hundred percent of all the frogs which have ever been dissected have had hearts. Therefore, one hundred percent of the entire frog population have hearts.::Invalid but Strong::It's possible that the next frog dissected will be heartless, but it is unlikely given the premise.
+#5
+It is always wrong to kill an innocent human intentionally. A fetus is an innocent human. So, it is always wrong to kill a fetus intentionally.::Valid::If the premises are true, the conclusion would have to be true.
+#6
+Research based on the Gallup poll indicates that a random sample of 4,000 is sufficient to support highly accurate conclusions about large populations--conclusions having a margin of error of only two percentage points. And according to a recent poll, eighty-three percent of a random sample of 4,000 American voters favors Jones for President. Thus, approximately eighty-three percent of American voters favor Jones for President.::Invalid but Strong::The polling methods don't guarantee a true conclusion, but they do establish that it is more likely than not..
+#7
+A porpoise is similar to a human being. It has lungs rather than gills. It is warm-blooded rather than cold-blooded. And porpoises nurse their young with milk. Therefore, porpoises, like humans, are capable of speaking languages.::Invalid and Weak::Breathing, nursing, and thermoregulation are inappropriate bases for comparison with respect to language.
+#8
+Every serial killer is a psychopath. Some criminals are not psychopaths. So, some criminals are not serial killers.::Valid::If the premises are true, then the conclusion must also be true.
+#9
+Ninety percent of the cars in the parking lot were vandalized, and your car was in the parking lot. Therefore, your car was vandalized.::Invalid but Strong::The odds are good that you will be visiting the body reparir shop.
+#10
+No spiders are humans. Dawn is a human. Thus, Dawn is not a spider.::Valid::The conclusion must be true if the premises are.
+#11
+All observed emeralds have been green. So, the next emerald to be observed will be green.::Invalid but Strong::We might yet find that pink emerald, but don't bet on it!
+#12
+Linda is younger than Maria. Hence, Maria is older than Linda.::Valid::The conclusion has to be true if the premise is true.
+#13
+According to H. W. Janson, Professor of Fine Arts at New York University, the Norwegian artist, Edvard Munch, painted <em>The Scream</em> in 1893. So, Munch painted <em>The Scream</em> prior to 1900. See Janson's <em>History of Art</em> (Harry N. Abrams, Inc., Publisher, 1971), p. 513.::Invalid but Strong::Professor Janson is a reliable, if not infallible, authority on Munch's work.
+#14
+Sixty-five percent of the students at St. Ambrose College are Democrats. Joan is a student at St. Ambrose College. Therefore, Joan is a Democrat.::Invalid but Strong::The conclusion is more likely to be true than not.
+#15
+Mark Twain is identical with Samuel Clemens. Mark Twain wrote Huckleberry Finn. It follows that Samuel Clemens wrote Huckleberry Finn.::Valid::You could not consistently accept the premises and deny the conclusion.
+#16
+No circles are squares. All circles are figures. So, no figures are squares.::Invalid and Weak::The premises are true, but the conclusion is false.
+#17
+According to Lewis Hopfe, a noted authority on world religions, the religion called Jainism originated in India in the sixth century B.C.E. It is the goal of Jainism to liberate the soul from matter. All life, but especially animal life, is sacred to the Jains. And the Jains hold that the gods cannot help humans attain salvation. Therefore, at least one religion holds that the gods cannot help humans attain salvation. See Hopfe's, <em>Religions of the World</em>, fourth edition (New York: Macmillan, 1987), pp. 134-138.::Invalid but Strong::Hopfe might be wrong, but he is a legitimate authority on the subject.
+#18
+In a certain factory, there is a machine that produces tin cans. Quality-control inspectors examine (in a random fashion) one-tenth of all the tin cans produced by the machine. Of the tin cans examined by the inspectors, five percent are malformed. So, approximately five percent of all the tin cans produced by the machine are malformed.::Invalid but Strong::This standard sampling technique allows one to have confidence in the conclusion, although like all sampling techniques is it subject to error.
+#19
+Computers are similar to humans in that both are capable of complex calculations. Humans generally feel ashamed if they make a mistake. Hence, computers generally feel ashamed if they make a mistake.::Invalid and Weak::The capacity for calculation is an inappropriate basis for comparison of emotions.
+#20
+According to the <em>Encyclopedia Britannica</em>, the first use of poison gas as a weapon in modern warfare occurred on April 22, 1915, when the Germans launched a highly successful chlorine gas attack against the Allied positions at Ypres, Belgium. So, the first use of poison gas as a weapon in modern warfare occurred on April 22, 1915.::Invalid but Strong::The <em>Encyclopedia Britannica</em>is a recognized authority on such topics, although it does sometimes contain mistakes.

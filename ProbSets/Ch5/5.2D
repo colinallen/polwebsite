@@ -1,0 +1,38 @@
+#!qtype MC_MULTI
+#!valuetype EVALUATION::Valid::Not valid
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
+#!preamble Standard Form</font>
+##preamble Put the premise and conclusion of each of the following arguments into standard form.
+#!preamble Indicate whether each argument is valid.
+
+#1
+If anything is a capitalist, then it is not a hero. So, at least one thing is a capitalist but not a hero.::Valid::
+#2
+Only gods are immortal beings. Hence, there exist immortal beings that are gods.::Valid::
+#3
+Every misguided moralist is a menace to society. Consequently, a thing is a menace to society only if it is misguided moralist.::Not valid::
+#4
+Things are positrons only if they are smaller than atoms. Therefore, not all positrons are smaller than an atom.::Not valid::
+#5
+If anything is a falsehood, then it is not benecial. So, only benecial things are falsehoods.::Not valid::
+#6
+There exists an athlete who can run the mile in under four minutes. Hence, not all athletes can run the mile in under four minutes.::Not valid::
+#7
+Nothing is an acid unless it is not a base. Therefore, each acid is a base.::Not valid::
+#8
+Only acts that conform to the Ten Commandments are right acts. So, an act is right only if it does not conform to the Ten Commandments.::Not valid::
+#9
+Nothing that is a categorical argument is valid. Hence, not every categorical argument is valid.::Valid::
+#10
+Any person who is kept awake for over a week will go crazy. Thus, only persons who are kept awake for over a week will go crazy.::Not valid::
+#11
+A thing is a wicked act only if it is an act committed with malice aforethought. Therefore, at least one wicked act is an act committed with malice aforethought.::Valid::
+#12
+Some people who defended slavery were plantation owners. Thus, not all persons who defended slavery were plantation owners.::Not valid::
+#13
+No person who invented the airplane died flying an airplane. It follows that only persons who died flying an airplane invented the airplane.::Not valid::
+#14
+Colonels are all authoritarian people. So, nothing that is a colonel is an authoritarian person.::Not valid::
+#15
+Only chemicals that turn blue litmus paper red are acids. Thus, there exists an acid that is a chemical that turns blue litmus paper red.::Valid::

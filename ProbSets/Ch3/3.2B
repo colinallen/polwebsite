@@ -1,0 +1,62 @@
+#!qtype MC_FIXED
+#!values 1::2::3::4::5::6
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
+#!preamble Evaluating Lexical Definitions</font>&nbsp;&nbsp;
+#!preamble Identify one defect in each of the following definitions, 
+#!preamble using the six criteria for definition by genus and difference:
+
+#!preamble <table>
+#!preamble <tr><td>1.</td><td>Obscure, ambiguous, or figurative</td>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>4.</td><td>Too wide</td></tr>
+#!preamble <tr><td>2.</td><td>Circular</td>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>5.</td><td>Too narrow</td></tr>
+#!preamble <tr><td>3.</td><td>Unnecessarily negative</td>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>6.</td><td>Unsuitable attribute</td></tr>
+#!preamble </table>
+#!preamble <p>
+
+# Format of each line is QUESTION :: ERROR STRING ::ANSWER
+
+#1
+"Penguin" means bird that can't fly, but not an ostrich, cassowary, or emu.::More could be said about what penguins <u>are</u> instead of what they are <u>not</u>!::3
+#2
+"Quadrilateral" means a closed plane figure having four sides of equal length and four right (i.e., ninety degree) angles.::Squares are not the only quadrilaterals.::5
+#3
+"Marsupial" means an Australian mammal.::Marsupials live in places outside Australia.::5
+#4
+An octagon is a figure shaped like a stop sign.::We could decide to use triangular stop signs.::6
+#5
+"Square" means a closed plane figure having four right (i.e., ninety degree) angles.::All rectangles are closed plane figures having four right angles.::4
+#6
+"Right" means not wrong.::Say what it <u>is</u>, not what it's <u>not</u>!::3
+#7
+A triangle is a closed plane figure having three sides of equal length.::Not all triangles are equilateral.::5
+#8
+"Jellyfish" means an animal without a spine.::Jellyfish are just one kind of invertebrate.::4
+#9
+"Wine" means a beverage made from grapes.::Grape juice need not be fermented to wine.::4
+#10
+An ellipse is a cross between a circle and a rectangle.::You never know what you'll get when you cross things like this!::1
+#11
+"Coward" means a spineless person.::A coward has a backbone.::1
+#12
+"Wolf" is defined as a flesh-eating mammal having four legs.::Tigers object to being called wolves.::4	
+#13
+"Homosexual" means a man who is erotically attracted exclusively (or at least primarily) to other men.::Is homosexuality limited to males?::5
+#14
+"Dog" means a flesh-eating domestic mammal similar to a wolf but having specifically dog-like characteristics.::A dog is a dog is a dog...::2
+#15
+A murderer is a human who has killed another human.::So executioners are murderes too?::4
+#16
+A wealthy person is one who has as much money as Bill Gates or Donald Trump.::There are lots of wealthy people who *wish* they were that wealthy!::5
+#17
+"Camel" means ship of the desert.::This definition is all wet!::1
+#18
+"Snake" means a widely feared animal that symbolizes evil or deception in many cultures.::The snake anti-defamation league would like you to consider some of their more positive characteristics.::6
+#19
+"Evil" is defined as the darkness that lies within the human soul.::This definition seems a bit murky.::1
+#20
+"Wife" means spouse who is not a husband.::Can you say what a wife <u>is</u>?::3

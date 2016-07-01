@@ -1,0 +1,39 @@
+#!qtype MC_FIXED 
+#!values Sound::Unsound 
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part D:  </strong>
+#!preamble Soundness</font>&nbsp;&nbsp;
+#!preamble &nbsp;&nbsp;Which of the following arguments are sound? Which are unsound?
+#!preamble <br>
+
+# Format of each line QUESTION :: ERROR STRING :: ANSWER 
+
+#1
+All cats are mammals. All mammals are animals. So, all cats are animals.::An argument that is valid and has all true premises is sound.::Sound
+#2
+All collies are dogs. Some animals are not dogs. So, some animals are not collies.::An argument that is valid and has all true premises is sound.::Sound
+#3
+All citizens of Nebraska are Americans. All citizens of Montana are Americans. So all citizens of Nebraska are citizens of Montana.::This argument has true premises, but that's not all that's required to be sound.::Unsound
+#4
+"Let's party!" is either a sentence or a statement (or both). "Let's party!" is a sentence. So, "Let's party!" is not a statement.::You should reconsider whether this argument is <em>valid.</em>::Unsound
+#5
+No diamonds are emeralds. The Hope Diamond is a diamond. So the Hope Diamond is not an emerald.::An argument that is valid and has all true premises is sound.::Sound
+#6
+All the planets are round. The earth is round. So, the earth is a planet.::You should reconsider whether this argument is <em>valid.</em>::Unsound
+#7
+If the Taj Mahal is in Kentucky, then the Taj Mahal is in the U.S.A. But the Taj Mahal is not in the U.S.A. So, the Taj Mahal is not in Kentucky.::An argument that is valid and has all true premises is sound.::Sound
+#8
+All women are married. Some executives are not married. So some executives are not women.::The argument is valid, but that's not all there is to being sound.::Unsound
+#9
+All mammals are animals. No reptiles are mammals. So, no reptiles are animals.::You should reconsider whether this argument is <em>valid.</em>::Unsound
+#10
+All mammals are cats. All cats are animals. So, all mammals are animals.::This argument is valid, but that's not all there is to being sound.::Unsound
+#11
+Wilbur Wright invented the airplane. Therefore, Orville Wright did not invent the airplane.::Not valid because of the possibility of co-inventors.::Unsound
+#12
+All collies are dogs. Hence, all dogs are collies.::Not valid::Unsound
+#13
+William Shakespeare wrote Hamlet. Leo Tolstoy is identical with William Shakespeare. It follows that Leo Tolstoy wrote Hamlet.::Valid, but has a false premise.::Unsound
+#14
+If San Francisco is in Saskatchewan, then San Francisco is in Canada. But it is not true that San Francisco is in Saskatchewan. Hence, it is not true that San Francisco is in Canada.::The premises are true but the reasoning is invalid.::Unsound
+#15
+Either Thomas Jefferson was the first president of the U.S.A. or George Washington was the first president of the U.S.A., but not both. George Washington was the first president of the U.S.A. So, Thomas Jefferson was not the first president of the U.S.A.::We all know that Jefferson is not identical with Washington, and the rest is history.::Sound

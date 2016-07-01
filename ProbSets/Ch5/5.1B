@@ -1,0 +1,114 @@
+#!qtype MC_MULTI
+#!valuetype FORM::A::E::I::O
+#!valuetype QUANTITY::Universal::Particular
+#!valuetype QUALITY::Affirmative::Negative
+
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
+#!preamble Standard Forms</font>
+#!preamble Some of the following are in standard form, but most are
+#!preamble not.  In the former case, indicate the form of the sentence; in the latter
+#!preamble case, indicate what the form of the sentence would be if
+#!preamble it were translated into standard form.  Then, 
+#!preamble for all statements, standard or not, indicate quantity and quality.
+
+#1
+No human being can swim across the Atlantic Ocean.::E::::Universal::::Negative::
+#2
+Every kangaroo is a marsupial.::A::::Universal::::Affirmative::
+#3
+At least one car is not a Ford.::O::If at least one isn't, then some aren't.::Particular::::Negative::
+#4
+At least one person is a nerd.::I::If at least one is, then some are.::Particular::::Affirmative::
+#5
+Nothing that is a spider is an insect.::E::::Universal::::Negative::
+#6
+All ancient Greeks worshiped Zeus.::A::::Universal::::Affirmative::
+#7
+There exists a poem that is not a sonnet.::O::If there exists a poem that isn't, then some poems aren't.::Particular::::Negative::
+#8
+There are saints who are reformed criminals.::I::If there are such saints, then some saints are such.::Particular::::Affirmative::
+#9
+Not all politicians are liars.::O::If not all are, then some are not.::Particular::::Negative::
+#10
+Some morally virtuous human beings are atheists.::I::::Particular::::Affirmative::
+#11
+Each patriotic American loves justice.::A::If each patriotic American does, then all patriotic Americans do.::Universal::::Affirmative::
+#12
+No Vikings were wimps.::E::Standard forms are all present tense.::Universal::::Negative::
+#13
+Not every animal that can fly is a bird.::O::If not every animal can, then some can't.::Particular::::Negative::
+#14
+All people who have committed murder deserve death.::A::::Universal::::Affirmative::
+#15
+Some good-looking people are snobs.::I::::Particular::::Affirmative::
+#16
+Shawnees were all skillful trackers.::A::::Universal::::Affirmative::
+#17
+Nothing is a fool unless it is not a sage.::E::So no fool is a sage, as you can only be a fool if you are not a sage.::Universal::::Negative::
+#18
+Masai warriors are all superb athletes.::A::Would be standard if it said only "are" instead of "are all".::Universal::::Affirmative::
+#19
+No people who are unlucky are happy.::E::::Universal::::Negative::
+#20
+All college students who listened to Jimi Hendrix opposed the war in Vietnam.::A::::Universal::::Affirmative::
+#21
+Nothing is a snake unless it is not a mammal.::E::So no snake is a mammal.::Universal::::Negative::
+#22
+Only reptiles are lizards.::A::So all lizards must be reptiles.::Universal::::Affirmative::
+#23
+If anything is chimpanzee, then it is not a fish.::E::::Universal::::Negative::
+#24
+Not every bright green stone is an emerald.::O::Some some such stones are not emeralds.::Particular::::Negative::
+#25
+Things are birds only if they have feathers.::A::So you won't find a bird that lacks feathers, i.e., all birds are feathered things.::Universal::::Affirmative::
+#26
+Only diamonds are gems.::A::::Universal::::Affirmative::
+#27
+World-class athletes all train vigorously.::A::::Universal::::Affirmative::
+#28
+Something is a painting but not a masterpiece.::O::::Particular::::Negative::
+#29
+Only physical objects are quarks.::A::::Universal::::Affirmative::
+#30
+The voters will all be disappointed.::A::::Universal::::Affirmative::
+#31
+There exists a mountain that is beautiful.::I::::Particular::::Affirmative::
+#32
+If anything is a slug, then it is not intelligent.::E::::Universal::::Negative::
+#33
+Soldiers who served under General George Patton all saw combat.::A::::Universal::::Affirmative::
+#34
+At least one tree is ugly.::I::::Particular::::Affirmative::
+#35
+Nothing that is an odd number is divisible by two.::E::::Universal::::Negative::
+#36
+Things are beautiful only if they are pleasant to behold.::A::::Universal::::Affirmative::
+#37
+At least one animal is vicious.::I::::Particular::::Affirmative::
+#38
+If anything is a bad-tempered person, then it is a curmudgeon.::A::::Universal::::Affirmative::
+#39
+Only red things are scarlet.::A::::Universal::::Affirmative::
+#40
+If anything is a sibling that is female, then it is a sister.::A::::Universal::::Affirmative::
+#41
+Dogs over fifteen years of age are all old.::A::::Universal::::Affirmative::
+#42
+A thing is a tragedy only if it is not a fortunate event.::E::::Universal::::Negative::
+#43
+Of the living survivors of the Nazi prison camps, some were tortured.::I::::Particular::::Affirmative::
+#44
+Hindus all believe in reincarnation.::A::::Universal::::Affirmative::
+#45
+No prisoners will be mistreated.::E::::Universal::::Negative::
+#46
+At least one soldier will be wounded.::I::::Particular::::Affirmative::
+#47
+Whole numbers between one and five are in some cases even numbers.::I::::Particular::::Affirmative::
+#48
+Of the living veterans of World War I, none were generals.::E::::Universal::::Negative::
+#49
+Not every person who chooses not to fight is a coward.::O::::Particular::::Negative::
+#50
+There exists an animal that is a dog.::I::::Particular::::Affirmative::
+

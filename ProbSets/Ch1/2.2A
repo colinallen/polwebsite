@@ -1,0 +1,50 @@
+#!qtype SV_COND
+#!preamble <font color=ee0077 face=helvetica><B>Part A:</B>
+#!preamble Stylistic Variants</font>
+#!preamble Rewrite each of the following conditional statements in the
+#!preamble form "If A, then B."
+
+# Format for each line QUESTION :: ERROR STRING :: ANSWER
+
+
+#1
+The room is hot <I>given that</I> the sun is shining.::The phrase <u>given that</u> indicates the antecedent.::If the Sun is shining, then the room is hot.
+#2
+The car won't start <I>if</I> the battery is dead.::The word <u>if</u> introduces the antecedent.::If the battery is dead, then the car won't start.
+#3
+<I>Assuming that</I> you work hard, you will do well.::<u>Assuming that</u> is another way of introducing the antecedent.::If you work hard, then you will do well.
+#4
+Maria is a physicist <I>only if</I> Maria is a scientist.::Remember that the word <u>only</u> serves to modify the function of <u>if</u>.::If Maria is a physicist, then Maria is a scientist.
+#5
+Tolstoy is justly famous <I>assuming that</I> he wrote <I>War and Peace</I>::The phrase <u>assuming that</u> is a way of introducing the antecedent.::If he wrote War and Peace, then Tolstoy is justly famous.
+#6
+Fred is an animal <I>only if</I> Fred is an eagle.::Remember that the word <u>only</u> serves to modify the function of <u>if</u>.::If Fred is an animal, then Fred is an eagle.
+#7
+<I>Given that</I> Joe is late, Wendy is angry.::The phrase <u>given that</u> serves to introduce the antecedent.::If Joe is late, then Wendy is angry.
+#8
+Inflation will cease <I>if</I> the Fed increases the prime interest rate.::The word <u>if</u> introduces the antecedent.::If the Fed increases the prime interest rate, then inflation will cease.
+#9
+The car will start <I>only if</I> there is gas in the tank.::Remember that the word <u>only</u> serves to modify the function of <u>if</u>.::If the car will start, then there is gas in the tank.
+#10
+Valerie isn't from Oregon <I>if</I> she's from Seattle.::The word <u>if</u> introduces the antecedent.::If Valerie is from Seattle, then she is not from Oregon.
+#11
+<I>Given that</I> you like football, you will like rugby.::The phrase <u>given that</u> serves to introduce the antecedent.::If you like football, then you will like rugby.
+#12
+Jack is a bat <I>only if</I> Jack is a mammal.::Remember that the word <u>only</u> serves to modify the function of <u>if</u>.::If Jack is a bat, then Jack is a mammal.
+#13
+<I>Assuming that</I> Ted is guilty, he should go to prison.::The phrase <u>assuming that</u> is a way of introducing the antecedent.::If Ted is guilty, then he should go to prison.
+#14
+Madonna is married <I>only if</I> she has a husband.::Remember that the word <u>only</u> serves to modify the function of <u>if</u>.::If Madonna is married, then she has a husband.
+#15
+Murphy is funny <I>given that</I> he makes people laugh.::The phrase <u>given that</u> serves to introduce the antecedent.::If he makes people laugh, then Murphy is funny.
+#16
+Simone is a mathematician <I>only if</I> she is smart.::Remember that the word <u>only</u> serves to modify the function of <u>if</u>.::If Simone is a mathematician, then she is smart.
+#17
+<I>Given that</I> Bob wins, I'll eat my hat.::The phrase <u>given that</u> serves to introduce the antecedent.::If Bob wins, then I'll eat my hat.
+#18
+Jody is not wicked <I>if</I> she is not destructive.::The word <u>if</u> introduces the antecedent.::If she is not destructive, then Jody is not wicked.
+#19
+Van Gogh's <I>Starry Night</I> is beautiful <I>only if</I> it is worth big bucks.::Remember that the word <u>only</u> serves to modify the function of <u>if</u>.::If Van Gogh's Starry Night is beautiful, then it is worth big bucks.
+#20
+Bruce is not a murderer <I>given that</I> he hasn't killed anyone.::The phrase <u>given that</u> serves to introduce the antecedent.::If he hasn't killed anyone, then Bruce is not a murderer.
+

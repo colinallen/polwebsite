@@ -1,0 +1,112 @@
+Part B:Standard FormPut the following sorites into standard form, removingterm-complements whenever possible. Then identify the unstated subconclusionsand use Venn diagrams to test the sorites for validity.
+
+1.
+
+1. Some A are B.
+
+2. All non-D are non-C.
+
+3. No B are non-C.So,
+
+4. Some D are A.
+
+2.
+
+1. Some F are G.
+
+2. All non-H are non-G.
+
+3. All H are non-E.So,
+
+4. Some non-E are not non-F.
+
+3.
+
+1. Some K are non-L.
+
+2. No M are non-N.
+
+3. All N are L.So,
+
+4. Some K are not M.
+
+4.
+
+1. Some A are B.
+
+2. All non-E are non-D.
+
+3. All B are D.
+
+4. All E are non-C.So,
+
+5. Some A are not C.
+
+5.
+
+1. All F are non-M. 
+
+2. All non-D are non-B.
+
+3. All D are M.So,
+
+4. All F are non-B.238Categorical Logic: Syllogisms
+
+6.
+
+1. All U are non-T.
+
+2. All S are T.
+
+3. All non-S are non-R.
+
+4. All non-R are non-P.So,
+
+5. All P are non-U.
+
+7. 
+
+1. All non-B are non-A.
+
+2. No C are B.
+
+3. Some D are non-C.So,
+
+4. Some D are not A.
+
+8. 
+
+1. No R are non-S.
+
+2. All T are V.
+
+3. All non-R are non-Q.
+
+4. All P are Q.
+
+5. All T are S.So,
+
+6. All V are non-P.
+
+9.
+
+1. All F are G.
+
+2. No G are non-H.
+
+3. No J are H.
+
+4. Some K are J.So,
+
+5. Some non-F are not non-K.
+
+10.
+
+1. Some B are A.
+
+2. All non-D are non-C.
+
+3. All B are C.So,
+
+4. Some D are A.
+

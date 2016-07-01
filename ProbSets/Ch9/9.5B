@@ -1,0 +1,57 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B: </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Symbolize the following, using the schemes of abbreviation provided.
+
+# Format of each line is QUESTION :: ERROR STRING :: TRANSLATION
+
+#1
+Nothing stands to the left of itself. (Lxy: x stands to the left of y)::::(x)~Lxx
+#2
+No human is taller than Goliath. (Hx: x is human; Txy: x is taller than y; g: Goliath)::::(x)(Hx->~Txg)
+#3
+No human is taller than himself. (Hx: x is human; Txy: x is taller than y)::::(x)(Hx->~Txx)
+#4
+Some financier is richer than everyone. (Fx: x is a financier; Rxy: x is richer than y; Px: x is a person)::::($x)[Fx.(y)(Py->Rxy)]
+#5
+Someone gives everyone something. (Px: x is a person; Gxyz: x gives to y [object] z)::::($x)[Px.(y)(Py->($z)Gxyz)]
+#6
+Someone gives someone everything. (Px: x is a person; Gxyz: x gives to y [object] z)::::($x)[Px.($y)(Py.(z)Gxyz)]
+#7
+No Deity is weaker than some human. (Dx: x is a Deity; Hx: x is human; Wxy: x is weaker than y)::::(x)[Dx->~($y)(Hy.Wxy)]
+#8
+No one gives anyone anything. (Px: x is a person; Gxyz: x gives to y [object] z)::::(x)[Px->~($y)(Py.($z)Gxyz)]
+#9
+Everyone gives someone something. (Px: x is a person; Gxyz: x gives to y [object] z)::::(x)[Px->($y)(Py.($z)Gxyz)]
+#10
+No one who is poor is richer than someone who is wealthy. (Ox: x is a person; Px: x is poor; Rxy: x is richer than y; Wx: x is wealthy)::::(x)[(Ox.Px)->~($y)((Oy.Wy).Rxy)]
+#11
+No one is more fun than Chris. (Px: x is person; Fxy: x is more fun than y; c: Chris)::::(x)(Px->~Fxc)
+#12
+No cat is smarter than some horse. (Cx: x is cat; Sxy: x is smarter than y; Hx: x is a horse)::::(x)[Cx->~($y)(Hy.Sxy)]
+#13
+No mouse is mightier than himself. (Mx: x is a mouse; Hxy: x is mightier than y)::::(x)(Mx->~Hxx)
+#14
+Every woman is stronger than some man. (Wx: x is a woman; Sxy: x is stronger than y; Mx: x is a man)::::(x)[Wx->($y)(My.Sxy)]
+#15
+If Apollo is better than Hera and Hera is better than Cronos, then Apollo is better than Cronos. (Bxy: x is better than y; a: Apollo; h: Hera; c: Cronos)::::(Bah.Bhc)->Bac
+#16
+Every moviegoer admires Bogart. (Mx: x is moviegoer; Axy: x admires y; b: Bogart)::::(x)(Mx->Axb)
+#17
+Some moviegoers admire themselves as well as Bogart. (Mx: x is a moviegoer; Axy: x admires y; b: Bogart)::::($x)((Mx.Axx).Axb)
+#18
+Some saints help someone everyday.  (Sx: x is a saint; Hxyz: x helps y on z; Px: x is person; Dx: x is a day)::::($x)[Sx.(y)(Dy->($z)(Pz.Hxzy))]
+#19
+No saint helps everyone everyday. (Sx: x is a saint; Hxyz: x helps y on z; Px: x is person; Dx: x is a day)::::(x)[Sx->~(y)(Py->(z)(Dz->Hxyz))]
+#20
+Everyone falls in love with someone at some enchanted moment. (Px: x is a person; Lxyz: x falls in love with y at z; Ex: x is enchanted; Mx: x is a moment)::::(x)[Px->($y)(Py.($z)((Ez.Mz).Lxyz))]
+#21
+The relation <em>being older than</em> is asymmetrical. (Oxy: x is older than y)::::(x)(y)(Oxy->~Oyx)
+#22
+The relation <em>being the father of</em> is intransitive. (Fxy: x is the father of y)::::(x)(y)(z)[(Fxy.Fyz)->~Fxz]
+#23
+The relation <em>being larger than</em> is irreflexive. (Lxy: x is larger than y)::::(x)~Lxx
+#24
+The relation <em>being south of</em> is transitive. (Sxy: x is south of y)::::(x)(y)(z)[(Sxy.Syz)->Sxz]
+#25
+The relation <em>being near to</em> is symmetrical. (Nxy: x is near to y)::::(x)(y)(Nxy->Nyx)

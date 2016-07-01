@@ -1,0 +1,30 @@
+#!qtype MC_FIXED
+#!values Incorrect::Dist::Ex::Re::ME::MI
+#!preamble <font color="ee0077" face="helvetica"><strong>Part B. </strong>
+#!preamble Correct or Incorrect?</font>&nbsp;&nbsp;
+#!preamble For each of the following,
+#!preamble if the inference is incorrect, say so.  If it is correct, cite the
+#!preamble rule that justifies it.
+
+# Format of each line QUESTION :: ERROR STRING :: ANSWER
+
+<tt>(~Bv~B)<->A :. ~B<->A</tt>::::Re
+<tt>NvM :. ~N->M</tt>::::Incorrect
+<tt>~~PvQ :. ~P->Q</tt>::::MI
+<tt>(C.~L)v(C.S) :. C.(~LvS)</tt>::::Dist
+<tt>(~M.N)->~L :. ~M->(N->~L)</tt>::::Ex
+<tt>S->(R.R) :. S->R</tt>::::Re
+<tt>Kv(X.R) :. (K.X)v(K.R)</tt>::::Incorrect
+<tt>~H->P :. HvP</tt>::::Incorrect
+<tt>X->(Y->Z) :. (X.Y)->Z</tt>::::Ex
+<tt>(~UvS)->Q2.~~U :. S->Q</tt>::::Incorrect
+<tt>(~Wv~U)->(~Fv~F) :. (~Wv~U)->~F</tt>::::Re
+<tt>~A->~B :. ~~Av~B</tt>::::MI
+<tt>~Av(N.Z) :. (~AvN).(~AvZ)</tt>::::Dist
+<tt>F->(G.H) :. F->(G->H)</tt>::::Incorrect
+<tt>(~J.~K)v(~J.~L) :. ~J.(~Kv~L)</tt>::::Dist
+<tt>M.(OvU) :. (M.O)v(M.U)</tt>::::Dist
+<tt>(SvT).(Sv~W) :. Sv(T.~W)</tt>::::Dist
+<tt>A.(~BvC) :. (Av~B).(AvC)</tt>::::Incorrect
+<tt>(E.H)->V :. E</tt>::::Incorrect
+<tt>(B->C)vK, B :. (CvK)</tt>::::Incorrect

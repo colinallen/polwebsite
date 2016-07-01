@@ -1,0 +1,38 @@
+#!qtype MC_FIXED
+#!values MP: modus ponens::MT: modus tollens::HS: hypothetical syllogism::DS: disjunctive syllogism::CD: constructive dilemma::None
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
+#!preamble More Forms to Identify</font>&nbsp;&nbsp;
+#!preamble Identify the forms of the following arguments, using capital letters to stand for statements  and eliminating any stylistic variants. If the argument form is one of the "famous" valid forms, select its name.  If the argument form is not one of the "famous" valid forms, select "none."
+
+# Format of each line is QUESTION::ERRORSTRING::ANSWER
+
+#1
+The sky is blue. The sky is cobalt blue only if it is blue. Hence, the sky is cobalt blue.::::None
+#2
+Abortion in the case of ectopic pregnancy is not wrong. But if it is always wrong to kill an innocent human being, then abortion in the case of ectopic pregnancy is wrong. So, it is not always wrong to kill an innocent human.::::MT: modus tollens
+#3
+Kidnapping is wrong if society disapproves of it. Kidnapping is wrong. So, society disapproves of kidnapping.::::None
+#4
+Eating meat is unhealthy if meat contains a lot of cholesterol. Meat does contain a lot of cholesterol. So, eating meat is unhealthy.::::MP: modus ponens
+#5
+Either the "eye for an eye" principle is interpreted literally or it is interpreted figuratively. If it is interpreted literally, then the state should torture torturers, maim maimers, and rape rapists. If the "eye for an eye" principle is interpreted figuratively, then it does not necessarily demand death for murderers. So, either the state should torture torturers, maim maimers, and rape rapists, or the "eye for an eye" principle does not necessarily demand death for murderers.::::CD: constructive dilemma
+#6
+Affirmative action is preferential treatment of disadvantaged groups and preferential treatment of disadvantaged groups is reverse discrimination. If affirmative action is preferential treatment of disadvantaged groups and preferential treatment of disadvantaged groups is reverse discrimination, then affirmative action is wrong. So, affirmative action is wrong.::::MP: modus ponens
+#7
+If the zygote lacks a brain, then the zygote lacks a soul. If the zygote lacks a soul, then killing the zygote is permissible. So, if the zygote lacks a brain, then killing the zygote is permissible.::::HS: hypothetical syllogism
+#8
+If Mary is a psychiatrist, then she is a physician. Mary is not a physician. Therefore, Mary is a psychiatrist.::::None
+#9
+If you want to ruin your life, you should take hard drugs. But you don't want to ruin your life. So, you should not take hard drugs.::::None
+#10
+Lying causes social discord. Hence, lying is wrong.::::None
+#11
+It is not true that acts are right because God approves them. But either acts are right because God approves them, or God approves of acts because they are right. Therefore, God approves of acts because they are right.::::DS: disjunctive syllogism
+#12
+If Dracula is a vampire, then he is dangerous. But Dracula is not a vampire. Hence, he is dangerous.::::None
+#13
+Either the animals used in research are a lot like humans or they are not a lot like humans. If the animals are a lot like humans, then experimenting on them is morally questionable. If the animals are not a lot like humans, then experimenting on them is pointless. So, either experimenting on animals is morally questionable or it is pointless.::::CD: constructive dilemma
+#14
+The state cannot uphold the value of life by taking it. And if the state cannot uphold the value of life by taking it, then the death penalty should be abolished. So, the death penalty should be abolished.::::MP: modus ponens
+#15
+If my society approves of genetic engineering, then genetic engineering is right. But my society does not approve of genetic engineering. Hence, genetic engineering is not right.::::None

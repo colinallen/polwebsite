@@ -1,0 +1,28 @@
+#!qtype MC_FIXED
+#!values True::False
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble True or False?</font>&nbsp;&nbsp;
+#!preamble Indicate whether the following are true or false.
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+If an argument is cogent, then it has true premises.::::True
+If an argument is cogent, then it is strong.::::True
+If an argument is cogent, then it is invalid.::::True
+If an argument is strong and has only true premises, then it is cogent.::::True
+If an argument is weak, then it is probable that if its premises are true, its conclusion is false.::::False
+If an argument is strong, then it is possible that its conclusion is false even if its premises are true.::::True
+If an argument is weak, then it is uncogent.::::True
+If an argument has a false premise, then it must be uncogent.::::False
+If an argument has true premises and a false conclusion, then it is weak.::::False
+If an argument is valid, then it is strong.::::False
+If an argument is strong, then it is valid.::::False
+If an argument is uncogent, then it is weak.::::False
+If an argument is weak, then it must be invalid.::::True
+If the conclusion of an argument is exactly as probable as its negation, given the premises of the argument, then the argument is weak.::::True
+If an argument is uncogent, then it is strong but has at least one false premise.::::False
+Strong arguments always proceed from the specific to the general.::::False
+Valid arguments always proceed from the general to the specific.::::False
+Some valid arguments proceed from the general to the general.::::True
+If an argument is valid but has at least one false premise, then it is uncogent.::::False
+If an argument is weak, then it is not likely that if its premises are true, then its conclusion is true.::::True

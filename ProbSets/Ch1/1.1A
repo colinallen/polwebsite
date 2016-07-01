@@ -1,0 +1,74 @@
+#!qtype MC_FIXED
+#!values Statement::Sentence only::Neither
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Recognizing statements</font>&nbsp;&nbsp;
+#!preamble Choose "Statement" from the drop-down list if the item is a statement. 
+#!preamble Choose "Sentence only" if the item is a sentence but not a statement.
+#!preamble Choose "Neither" if the item is neither a sentence nor a statement.
+#!topic Recognizing Statements
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+The sky is blue.::This sentence is capable of being true or false, and hence is a statement.::Statement
+#2
+Let's paint the table red.::Proposals are neither true nor false.::Sentence only
+#3
+Please close the window!::This sentence has the form of a request, and hence is not capable of being true or false.::Sentence only
+#4
+Murder is illegal.::Although local laws may vary, this sentence is still a declarative sentence capable of being true or false, and hence is a statement.::Statement
+#5
+Abraham Lincoln was born in 1983.::This sentence is capable of being true or false, and hence is a statement.::Statement
+#6
+If San Francisco is in California, then San Francisco is in the U.S.A.::This sentence is capable of being true or false, and hence is a statement.::Statement
+#7
+It is not the case that Ben Franklin.::It is not the case that Ben Franklin <em>what?</em>::Neither
+#8
+"Why?" asked Socrates.::Reports direct speech and as such may be either a true or false representation of Socrates speech.::Statement
+#9
+Table not yes if.::Jibberish!::Neither
+#10
+Either humans evolved from apes, or apes evolved from humans.::This sentence if capable of being either true or false, and is therefore a statement.::Statement
+#11
+Davy Crockett died at the Alamo.::This sentence is capable of being true or false, and hence is a statement.::Statement
+#12
+How are you?::This sentence is a question, which is used to elicit a statement from the person being spoken to, but is not itself capable of being true or false.::Sentence only
+#13
+If seven is greater than six, then six is greater than seven.::This sentence is capable of being true or false, and hence is a statement.::Statement
+#14
+Let's have lunch.::This proposal is not capable of being true or false.::Sentence only
+#15
+Go!::A command is a sentence, but not a statement.  Its purpose is to elicit action, not to convey (good or bad) information.::Sentence only
+#16
+Shall we dance?::A question is a sentence but not a statement.  Its purpose is to <i>elicit</i> information, not to convey it.::Sentence only
+#17
+Patrick Henry said, "Give me liberty or give me death."::He either said it or he did not.::Statement
+#18
+If punishment deters crime.::Incomplete -- this could only be part of a sentence.::Neither
+#19.
+"Stand at attention!" ordered General Bradley.::If he ordered it, it is true.  If not, not.  This shows that it is a statement.::Statement
+#20
+Despite the weather.::Despite the weather, that is not a complete sentence.::Neither
+
+# The following non-sentences were added by Steve and are not from the text
+#21
+The longest shark in the Pacific Ocean.::This is a noun phrase, a phrase that refers to something, and not a complete sentence.::Neither
+#22
+Either Heather or Cheri.::This phrase can serve as the subject of a sentence, but is not itself a sentence.::Neither
+#23
+If there is only one human.::This is a fragment of a type of sentence known as a `conditional' but it is missing a consequent part (i.e., `then ...').::Neither
+#24
+Either shut the door or turn off the radio.::Commands are not capable of being true or false.::Sentence only
+#25
+Do you swear to tell the truth?::Questions are not capable of being true or false.::Sentence only
+#26
+Having seen all the suffering.::This phrase lacks a main verb.::Neither
+#27
+Let's stop griping and get to work.::Proposals are not true or false.::Sentence only
+#28
+Fame is a drug.::Even if you don't know whether it's true or false, a truth value might be assigned.::Statement
+#29
+By faith and love.::This phrase lacks a verb.::Neither
+#30
+Either Laura is angry or Frances is depressed.::This form of sentence is called a disjunction - it would be true if either of the embedded disjuncts were true.::Statement
+

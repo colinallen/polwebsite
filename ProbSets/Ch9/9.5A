@@ -1,0 +1,31 @@
+#!qtype MC_FIXED
+#!values Symmetrical::Asymmetrical::Nonsymmetrical::Reflexive::Irreflexive::Nonreflexive::Transitive::Intransitive::Nontransitive
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Matching</font>&nbsp;&nbsp;
+#!preamble Choose the characteristic that best describes the following 
+
+#1
+If x is older than y and y is older than z, then x is older than z.::Think about the transition that occurs here.::Transitive
+#2
+Nothing is bigger than itself.::It does not reflect upon its own size.::Irreflexive
+#3
+If x is shorter than y, then y is not shorter than x.::It is just a one way relation.::Asymmetrical
+#4
+Everything is the same size as itself.::Look in the mirror.::Reflexive
+#5
+If x is married to y, then y is married to x.::It is the same whichever way you look at it.::Symmetrical
+#6
+If x is greater than y, then y is not greater than x.::Shall we split the difference?::Asymmetrical
+#7
+If x is equal to y, then y is equal to x.::They are mirror images.::Symmetrical
+#8
+If x is the mother of y and y is the mother of z, then x is not the mother of z.::It may be all in the family, but motherhood is definitely not transitive.::Intransitive
+#9
+If x loves y and y loves z, then x may or may not love z.::Not transitive and not intransitive either.::Nontransitive
+#10
+If x admires y, then y may or may not admire x.::Not symmetrical and not asymmetrical either.::Nonsymmetrical
+#11
+A person may or may not hate himself.::If he does hate himself, he does not do it reflexively nor yet is it irreflexive.::Nonreflexive
+#12
+If x is obligated to y and y is obligated to z, then x may or may not be obligated to z.::Not transitive and not intransitive either.::Nontransitive
+

@@ -1,0 +1,54 @@
+#!qtype MC_FIXED
+#!values 1::2::3::4::5::6::7
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:  </strong>
+#!preamble More Lexical Definitions</font>&nbsp;&nbsp;
+#!preamble Evaluate the following definitions, using the six criteria 
+#!preamble for definition by genus and difference:
+
+#!preamble <table>
+#!preamble <tr><td>1.</td><td>Obscure, ambiguous, or figurative</td>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>4.</td><td>Too wide</td></tr>
+#!preamble <tr><td>2.</td><td>Circular</td>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>5.</td><td>Too narrow</td></tr>
+#!preamble <tr><td>3.</td><td>Unnecessarily negative</td>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>6.</td><td>Unsuitable attribute</td></tr>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>7.</td><td>Definition OK</td></tr>
+#!preamble </table>
+#!preamble <p>
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+"Blue" means having a bluish color.::We seem to be stuck in a cicle here.::2
+#2
+"Fifty" means the number of states in the U.S.A.::The number of states has changed over the years - has the definition of `fifty'?::6
+#3
+"Rectangle" means a plane figure having four equal sides and four right (i.e., 90 degree) angles.::This definition is too square.::5
+#4
+<em>Time</em> is the great container into which we pour our lives.::Isn't that an urn?::1
+#5
+"Wise person" means one who displays wisdom.::This definition leaves us none the wiser.::2
+#6
+A <em>trapezoid</em> is a closed plane figure that is neither a triangle nor a rectangle nor a circle nor an ellipse.::It's not this and it's not that, but what is it?::3
+#7
+"Oligarchy" means a form of govenment in which the ruling power belongs to a few persons.::Few get it right.::7
+#8
+A <em>circle</em> is a closed-plane figure bound by a single curved line, every point of which is equally distant from the point at the center of the figure.::Roundly so.::7
+#9
+"Atheist" means person who believes that there is no God::Believe that they don't believe.::7
+#10
+"Spherical" means shaped like the Earth.::It's a happy accident.::6
+#11
+A <em>trumpet</em> is a brass-wind instrument with three valves.::Tubas are offended that you forgot about them.::4
+#12
+A <em>painting</em> is a picture made with water colors.::Oil and water don't mix.::5
+#13
+"Reptile" means snake.::Turtles would disagree.::5
+#14
+A <em>scrupulous person</em> is one who has scruples.::This definition is scrupulously uninformative.::2
+#15
+"God" means a being Billy Graham often speaks about.::Some may beg to differ with Mr. Graham's perspective.::6

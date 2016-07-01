@@ -1,0 +1,49 @@
+#!qtype TAUT
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A: </strong> 
+#!preamble Tautologies, Contradictions, and Contingent Statements</font>&nbsp;&nbsp; 
+#!preamble Use truth tables to determine whether the following statements are 
+#!preamble tautologies, contradictions, or contingent statements. 
+
+#1
+~A->(A->B)
+#2
+~F->G
+#3
+~S<->S
+#4
+B->(A->B)
+#5
+F->[~(F.G)->~G]
+#6
+A->[(A->B)->B]
+#7
+P->(P->Q)
+#8
+(A<->B)->(~A.~B)
+#9
+~P.~(~Pv~Q)
+#10
+(R.~R)->S
+#11
+B->[~(A.B)->A]
+#12
+~(F->G).G
+#13
+~(N<->M)->(N.~M)
+#14
+[A->(BvC)]->[(A->B)v(A->C)]
+#15
+(~P<->P)->Q
+#16
+~(K->L)->(K.~L)
+#17
+[A->(B->C)]->[(A->B)->(A->C)]
+#18
+(H->J)->~(H.~J)
+#19
+(~Z.~W)->(Z<->W)
+#20
+[(A->B)->A]->A
+#21 Testing negated wff
+#~(F->[~(F.G)->~G])
+

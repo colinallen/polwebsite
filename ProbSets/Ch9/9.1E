@@ -1,0 +1,17 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part D:  </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Symbolize the following, using the schemes of abbreviation provided.
+ 
+# Format of each line is
+
+Every wombat is a marsupial. (Wx: x is a wombat; Mx: x is a marsupial)::::(x)(Wx->Mx)
+No wombat is a duck. (Wx: x is a wombat; Dx: x is a duck)::::(x)(Wx->~Dx)
+Some rectangles are squares. (Rx: x is a rectangle; Sx: x is square)::::($x)(Rx.Sx)
+At least one rectangle is not a square. (Rx: x is a rectangle; Sx: x is square)::::($x)(Rx.~Sx)
+Not every person is a vegetarian. (Px: x is a person; Vx: x is a vegetarian)::::~(x)(Px->Vx)
+Something is both green and not green. (Gx: x is green)::::($x)(Gx.~Gx)
+Only cats are mammals. (Cx: x is a cat; Mx: x is mammal)::::(x)(Mx->Cx)
+A thing is a sphere only if it is not a cube. (Sx: x is sphere; Cx: x is a cube)::::(x)(Sx->~Cx)
+There exists a tree that is an oak. (Tx: x is tree; Ox: x is an oak)::::($x)(Tx.Ox)
+If everything is blue, then nothing is red. (Bx: x is blue; Rx: x is red)::::[(x)Bx->~($x)Rx]

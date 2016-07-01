@@ -1,0 +1,32 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part F:  </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Translate into symbols, using the schemes of abbreviation provided. Some of these are rather difficult. 
+
+# Format of each line is 
+
+No rectangle is a square unless it is equilateral. (Rx: x is a rectangle; Sx: x is a square; Ex: x is equilateral)::::(x)[(Rx.Sx)->Ex]
+Not all murderers deserve capital punishment, but Smith is a murderer who deserves capital punishment. (Mx: x is a murderer; Dx: x deserves capital punishment; s: Smith)::::~(x)(Mx->Dx).(Ms.Ds)
+If Darwin is not a biologist, then no one is a biologist. (d: Darwin; Bx: x is a biologist; Px: x is a person)::::~Bd->(x)(Px->~Bx)
+None but citizens can vote. (Cx: x is citizen; Vx: x is a thing that can vote)::::(x)(Vx->Cx)
+Only citizens can vote. (Cx: x is citizen; Vx: x is a thing that can vote)::::(x)(Vx->Cx)
+If everything is a human, then Fido is a human. (Hx: x is a human; f: Fido)::::[(x)Hx->Hf]
+If all humans are mortal but Socrates is not mortal, then Socrates is not human. (Hx: x is human; Mx: x is mortal; s: Socrates)::::([(x)(Hx->Mx).~Ms]->~Hs)
+If everyone is wise, then no one is a fool. (Px: x is a person; Wx: x is wise; Fx: x is a fool)::::[(x)(Px->Wx)->(x)(Px->~Fx)]
+If anyone is wise, then he or she is not a fool. (Px: x is person; Wx: x is wise; Fx: x is a fool)::::(x)[(Px.Wx)->~Fx]
+Fetuses lack a right to life if they are neither humans nor moral agents. (Fx: x is a fetus; Rx: x has a right to life; Hx: x is human; Mx: x is a moral agent)::::(x)[(Fx.~(HxvMx))->~Rx]
+None but men are fathers. (Mx: x is a man; Fx: x is a father)::::(x)(Fx->Mx)
+If anyone is either courageous or just, then he is virtuous. (Px: x is a person; Cx: x is courageous; Jx: x is just; Vx: x is virtuous)::::(x)[(Px.(CxvJx))->Vx]
+If Bob is a dog and all dogs are animals, then Bob is an animal. (b: Bob; Dx: x is a dog; Ax: x is an animal)::::([Db.(x)(Dx->Ax)]->Ab)
+Either no one is wise or Solomon is wise. (Px: x is a person; Wx: x is wise; s: Solomon)::::[(x)(Px->~Wx)vWs]
+All and only married men are husbands. (Mx: x is a married; Nx: x is a man; Hx: x is a husband)::::(x)[(Mx.Nx)<->Hx]
+If anyone is both happy and sad, then he is confused. (Px: x is a person; Hx: x is happy; Sx: x is sad; Cx: x is confused)::::(x)[(Px.(Hx.Sx))->Cx]
+At least one nonphysical thing exists given that God exists. (Px: x is physical; G: God exists)::::[G->($x)~Px]
+Only benevolent deities are worthy of worship. (Bx: x is benevolent; Dx: x is a deity; Wx: x is worthy of worship)::::(x)[Wx->(Bx.Dx)]
+Nothing is good unless something is evil. (Gx: x is good; Ex: x is evil)::::[(x)~Gxv($x)Ex]
+No animal is a dog unless it is a mammal. (Ax: x is an animal; Dx: x is a dog; Mx: x is a mammal)::::(x)[(Ax.Dx)->Mx]
+When it rains, it pours, and an old man snores. (R: It is raining; P: It is pouring; Mx: x is a man; Ox: x is old; Sx: x snores)::::R->(P.($y)((Oy.My).Sy))
+The whale is neither a killer nor a fish. (Wx: x is a whale; Kx: x is a killer: Fx: x is a fish)::::(x)(Wx->(~Kx.~Fx))
+Some artists are not painters but dancers. (Ax: x is an artist; Px: x is a painter; Dx: x is a dancer)::::($x)(Ax.(~Px.Dx))
+No shark attacks unless provoked. (Sx: x is a shark; Ax: x attacks; Px: x is provoked)::::(x)(Sx->(Ax->Px))
+If anyone can play chess, Kasparov can. (Px: x is a person; Cx: x can playchess; k: Kasparov)::::($x)(Px.Cx)->Ck

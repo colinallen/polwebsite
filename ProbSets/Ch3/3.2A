@@ -1,0 +1,38 @@
+#!qtype MC_FIXED
+#!values A::B::C::D::E::F
+#
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:  </strong>
+#!preamble Types of Definitions</font>&nbsp;&nbsp;
+#!preamble Match the following with the definition which best
+#!preamble characterizes it, using the following key:
+#!preamble <table>
+#!preamble <tr><td>A.</td><td>Enumerative Definition</td>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>D.</td><td>Stipulative definition</td></tr>
+#!preamble <tr><td>B.</td><td>Definition by subclass</td>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>E.</td><td>Precising definition</td></tr>
+#!preamble <tr><td>C.</td><td>Lexical definition</td>
+#!preamble <td>&nbsp;</td>
+#!preamble <td>F.</td><td>Theoretical definition</td></tr>
+#!preamble </table>
+#!preamble <p>
+
+
+# Format of each line is QUESTION::ERROR STRING::ANSWER
+
+Let us use the word "grellow" to mean the color of things that are either green or yellow.::"grellow" is being coined here, so its definition must be stipulated.::D
+"Vixen" means female fox.::Female foxes constitute a subclass of foxes::C
+"Southern state" means Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Texas, and Virginia.::"Southern state" is being defined by a simple enumerated list.::A
+"Tall man" means male human over six feet in height.::"Tall" is vague in ordinary language; "over six feet in height" makes it precise.::E
+"Living things" means plants and animals.::Plants and animals are subclasses of the class of living things.::B
+"Motorized vehicle" means cars, motorcycles, trucks, and the like.::Cars etc. are constitute subclasses of the class of motorized vehicles ::B
+"Tome" means large book.::"Large book" is what we conventionally mean by "tome".  Hence, it is a lexical definition.::C
+A wrong act is one which fails to promote the general happiness.::This definition provides a definition of "wrong act" according to the ethical theory known as <b>utilitarianism</b>.::F
+"Aunt" means sister of one's father or mother.::This is what we ordinarily mean by the word "aunt".  Hence, it is a lexical definition.::C
+A sound argument is one which (a) has only true premises and (b) is valid (i.e., its conclusion cannot be false while its premises are true).::This makes the notion of a deductively sound argument more precise.::E
+"Religion" means Hinduism, Christianity, Judaism, Buddhism, Islam, Sikhism, and the like.::This definition provides simply an (incomplete) enumeration of the word "religion".::A
+Let us use the term "zangster" to mean a person who steals zirconium.::"Zangster" has no meaning until someone stipulates one for it.::D
+"Human" means rational animal.::This provides a theoretical definition of the word "human".::F
+"Subatomic particles" means electrons, protons, neutrons, quarks, and the like.::This definition provides simply an (incomplete) enumeration of the phrase "subatomic particle".::A
+"Miracle" means an event which is (a) an exception to a law of nature and which is (b) brought about by the decision of a divine being.::This definition captures pretty well what we ordinarily mean by "miracle".  Hence, it is a lexical definition.::C

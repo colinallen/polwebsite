@@ -1,0 +1,28 @@
+#!qtype CE
+#
+#!preamble <font color="#ee0077" face="helvetica"><strong>Exercise 1.3B</strong>
+#!preamble Counterexamples</font>&nbsp;&nbsp;
+#!preamble Try to construct a good counterexample to show that the original argument form is invalid, using the well-known category terms provided to replace the given terms, constructing statements whose truth or falsity are common knowledge.
+
+# Format of each line is QUESTION ::
+	
+No genuine Americans are communist spies. Some Oregonians are not communist spies. :. Some Oregonians are genuine Americans.::
+All dogmatists are hypocrites. All dogmatists are bigots. :. All bigots are hypocrites.::
+All who seek public office are noble. Some who seek public office are not wise persons. :. Some wise persons are not noble.::
+No rocks are sentient. Some mammals are sentient. :. No mammals are rocks.::
+All fatalists are determinists. Some predestinarians are not fatalists. :. Some predestinarians are not determinists.::
+All vegetarians who refuse to eat animal products are vegans. No vegetarians who refuse to eat animal products are cattle ranchers. :. No vegans are cattle ranchers.::
+Some intelligent people are highly immoral people. All highly immoral people are unhappy people. :. Some unhappy people are not intelligent people.::
+No perfect geometrical figures are physical entities. No physical entities are circles. :. No circles are perfect geometrical figures.::
+All Fabians are socialists. Some socialists are not communists. :. Some Fabians are not communists.::
+All trespassers are persons who will be prosecuted. Some trespassers are not criminals. :. Some criminals are not persons who will be prosecuted.::
+All observable entities are physical entities. Some quarks are not observable entities. :. Some quarks are not physical entities.::
+No wines are distilled liquors. Some beers are not distilled liquors. :. Some beers are not wines.::
+All statements that can be falsified are scientific. All empirical data are scientific. :. All statements that can be falsified are empirical data.::
+All diligent persons are individuals who deserve praise. Some students are individuals who deserve praise. :. Some students are diligent persons.::
+All black holes are stars that have collapsed in upon themselves. All black holes are entities that produce a tremendous amount of gravity. :. All entities that produce a tremendous amount of gravity are stars that have collapsed in upon themselves.::
+All rock musicians are cool. No nerds are rock musicians. :. No nerds are cool.::
+All miracles are highly improbable events. Some highly improbable events are cases of winning a lottery. :. Some cases of winning a lottery are miracles.::
+No positrons are particles with a negative charge. No neutrons are particles with a negative charge. :. Some positrons are neutrons.::
+All people who despise animals are neurotic. No veterinarians are people who despise animals. :. No veterinarians are neurotic.::
+All destructive acts are evil. Some wars are evil. :. Some wars are destructive acts.::

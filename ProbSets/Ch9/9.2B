@@ -1,0 +1,22 @@
+#!qtype TRANSEXP
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
+#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble Translate the following English arguments into symbols. Then use the finite universe method to show that the arguments are invalid. 
+
+# Format of each line is QUESTION :: ERROR STRING :: TRANSLATION
+
+All students who take logic are courageous. Therefore, some students who take logic are courageous. (Sx: x is a student; Lx: x takes logic; Cx: x is courageous)::::(x)[(Sx.Lx)->Cx] :. ($x)[(Sx.Lx).Cx]
+All human beings are moral agents. Hence, all moral agents are human beings. (Hx: x is a human being; Mx: x is a moral agent)::::(x)(Hx->Mx) :. (x)(Mx->Hx)
+Every general is arrogant. There are lieutenants who are not generals. It follows that at least one lieutenant is not arrogant. (Gx: x is a general; Ax: x is arrogant; Lx: x is a lieutenant)::::(x)(Gx->Ax). ($x)(Lx.~Gx) :. ($x)(Lx.~Ax)
+All saints are good people. Some bankers are good people. Consequently, some bankers are saints. (Sx: x is saint; Gx: x is a good person; Bx: x is a banker)::::(x)(Sx->Gx). ($x)(Bx.Gx) :.($x)(Bx.Sx)
+Nothing is a lover unless it is not a fighter. If anything is a fighter, then it is not a peacemaker. Accordingly, no lovers are peacemakers. (Lx: x is a lover; Fx: x is a fighter; Px: x is a peacemaker)::::(x)(Lx->~Fx). (x)(Fx->~Px) :. (x)(Lx->~Px)
+There is an x such that if x is a tycoon, then x is a rapscallion. Thus, some tycoons are rapscallions. (Tx: x is a tycoon; Rx: x is a rapscallion)::::($x)(Tx->Rx) :. ($x)(Tx.Rx)
+If everything is a circle, then everything is a square. Therefore, if anything is a circle, then it is square. (Cx: x is a circle; Sx: x is a square)::::(x)Cx->(x)Sx :. (x)(Cx->Sx)
+Someone is guilty. We may infer that Bob Smith is guilty. (Gx: x is guilty; b: Bob Smith)::::($x)Gx :. Gb
+Nothing that is a ghost is also a vampire. So, there exists a ghost who is not a vampire. (Gx: x is a ghost; Vx: x is a vampire)::::(x)(Gx->~Vx) :. ($x)(Gx.~Vx)
+All anarchists are fanatics. All communists are fanatics. We may infer that all communists are anarchists. (Ax: x is an anarchist; Fx: x is a fanatic; Cx: x is a communist)::::(x)(Ax->Fx). (x)(Cx->Fx) :. (x)(Cx->Ax)
+If anything is a human, then it is a sinner. Dracula is not a human. Hence, Dracula is not a sinner. (Hx: x is a human; Sx: x is a sinner; d: Dracula)::::(x)(Hx->Sx). ~Hd :. ~Sd
+Everything which is fully caused by material antecedents is determined. Some determined events are not free. Consequently, some things which are fully caused by material antecedents are not free. (Cx: x is fully caused by material antecedents; Dx: x is determined event; Fx: x is free)::::(x)(Cx->Dx). ($x)(Dx.~Fx) :. ($x)(Cx.~Fx)
+Only acts which promote the general happiness are morally obligatory. Not all acts which promote the general happiness are socially acceptable. Therefore, at least one act which is socially acceptable is not morally obligatory. (Ax: x is an act; Px: x promotes the general happiness; Mx: x is morally obligatory; Sx: x is socially acceptable)::::(x)[(Ax.Mx)->Px]. ~(x)[(Ax.Px)->Sx] :. ($x)[(Ax.Sx).~Mx]
+All scientists who are engaged in cancer research are vivisectionists. Some vivisectionists are well-intentioned but misguided. Therefore, some scientists who are engaged in cancer research are well-intentioned but misguided. (Sx: x is a scientist; Cx: x is engaged in cancer research; Vx: x is vivisectionist; Wx: x is well-intentioned; Mx: x is misguided)::::(x)[(Sx.Cx)->Vx]. ($x)[(Vx.Wx).Mx] :. ($x)[((Sx.Cx).Wx).Mx]
+Only things approved of by either God or society are morally permissible. Some acts of violence are approved of by either God or society. Hence, some acts of violence are morally permissible. (Gx: x is approved of by God; Sx: x is approved of by society; Mx: x is morally permissible; Vx: x is an act of violence)::::(x)[Mx->(GxvSx)]. ($x)(Vx.(GxvSx)) :. ($x)(Vx.Mx)

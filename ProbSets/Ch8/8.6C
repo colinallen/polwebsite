@@ -1,0 +1,27 @@
+#!qtype PRF
+#!preamble <font color="ee0077" face="helvetica"><strong>Part C. </strong>
+#!preamble Corresponding Conditionals</font>&nbsp;&nbsp;
+#!preamble Form the corresponding conditional foreach of the following 
+#!preamble symbolic arguments. Then construct a proof to show that each 
+#!preamble of the conditionals is a theorem.
+
+#1
+~Av~B, B :.~A::[(~Av~B).B]->~A
+#2
+C<->D, C :.D::[(C<->D).C]->D
+#3
+~E :.E->F::~E->(E->F)
+#4
+G->J, ~K->~H, GvH :.JvK::([(G->J).(~K->~H)].(GvH))->(JvK)
+#5
+~Mv~S, ~L :.(~L.~M)v(~L.~S)::[(~Mv~S).~L]->[(~L.~M)v(~L.~S)]
+#6
+N.O :.P->N::(N.O)->(P->N)
+#7
+~R, Q :.~(Q->R)::(~R.Q)->~(Q->R)
+#8
+~SvT, ~TvU :.Uv~S::[(~SvT).(~TvU)]->(Uv~S)
+#9
+~(W->X), Z->X :.~Z::[~(W->X).(Z->X)]->~Z
+#10
+A<->~A :.B::(A<->~A)->B

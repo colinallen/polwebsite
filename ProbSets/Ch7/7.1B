@@ -1,0 +1,37 @@
+#!qtype MC_FIXED
+#!values Permissible::Impermissible
+#!preamble <font color="#ee0077" face="hel v etica"><strong>Part B:  </strong>
+#!preamble Permissible Departures from Strict Grammar</font>&nbsp;&nbsp;
+#!preamble What counts as a WFF is defined strictly in terms of six conditions,
+#!preamble but in some cases parentheses can be dropped without changing the
+#!preamble meaning and without causing ambiguity. Also, in some cases,
+#!preamble alternating brackets with parentheses makes a formula easier to
+#!preamble read. Which of the following are examples of formulas that 
+#!preamble permissiblydepart from a strict application of the six conditions 
+#!preamble by dropping aset of parentheses or by an appropri-ate use of 
+#!preamble brackets?
+#!preamble <p>
+
+# Format of each line QUESTION :: ERROR STRING :: ANSWER
+
+#1
+<tt>E v ~F</tt>::This statement is the result of dropping outermost parentheses.::Permissible
+#2 
+<tt>~G . ~H</tt>::This statement is the result of dropping outermost parentheses.::Permissible
+#3 
+<tt>~J <-> ~K</tt>::This statement is the result of dropping outermost parentheses.::Permissible
+#4 
+<tt>~L v [(M -> N) -> ~O]</tt>::::Permissible
+#5 
+<tt>(~Q v ~R v ~~S)</tt>::::Impermissible
+#6 
+<tt>(A v B) <-> (C <-> D)</tt>::::Permissible
+#7 
+<tt>~U -> ~X</tt>::This statement is the result of dropping outermost parentheses.::Permissible
+#8 
+<tt>[~Z . ~W v ~~Y]</tt>::This expression is not the result of dropping parentheses from, or substituting brackets for parentheses in, a WFF.::Impermissible
+#9 
+<tt>~A -> (~C -> F)</tt>::This statement is the result of dropping outermost parentheses.::Permissible
+#10 
+<tt>(B . E) . [(G v H) . (J . K)]</tt>::This statement is the result of dropping outermost parentheses and substituting brackets for parentheses.::Permissible
+

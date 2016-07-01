@@ -1,0 +1,26 @@
+#!qtype PRF
+#!preamble <font color="ee0077" face="helvetica"><strong>Part B. </strong>
+#!preamble Challenging Theorems</font>&nbsp;&nbsp;
+#!preamble Prove the following theorems using either CP or RAA.
+
+#1
+:. (T->U)v(U->T)
+#2
+:. (D->E)->[(F->E)->((DvF)->E)]
+#3
+:. [(H->I)->H]->H
+#4
+:. [Pv(~P.Q)]<->(PvQ)
+#5
+:. (R<->S)->[((T->R)<->(T->S)).((R->T)<->(S->T))]
+#6
+:. ((SvT).(QvR))->[((S.Q)v(S.R))v((T.Q)v(T.R))]
+#7
+:. [((L.M)v(L.N))v((P.M)v(P.N))]->((LvP).(MvN))
+#8
+:. [(K->J).(Q->R)]->[((~K.~Q)v(~K.R))v((J.~Q)v(J.R))]
+#9
+:. [((~E.~G)v(~E.H))v((F.~G)v(F.H))]->[(E->F).(G->H)]
+#10
+:. ((A.B)v(C.D))->[((AvC).(AvD)).((BvC).(BvD))]
+

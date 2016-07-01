@@ -1,0 +1,35 @@
+#!qtype MC_VAR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Term Complements</font>&nbsp;&nbsp;
+#!preamble Rewrite the following categorical statements, replacing each term with its term-complement.
+
+# Format of each line is QUESTION::%%ANSWERTYPE1::OPTION1_1::...::OPTION1_n::ANSWER1::ERRORSTRING1::...%%ANSWERTYPEm::OPTIONm_1::...::OPTIONm_r::ANSWERm::ERRORSTRINGm::
+
+# If ANSWERTYPE is TEXT, there will be only the answer -- the text to be matched.
+# If ANSWERTYPE is POPUP, there will be several options that will appear on a popup list
+# The correct answer appears last in the list.  The first element of the list should be
+# an appropriate label for the POPUP; "?" is the default.
+# Don't forget the final "::" (needed to avoid special processing in the code for the mth 
+# bunch of stuff).
+
+
+#1
+No brown bears are herbivores.::%%TEXT::No things that are not brown bears are nonherbivores.::::
+#2
+All corporals are nongenerals.::%%TEXT::All noncorporals are generals.::::
+#3
+Some large birds are eagles.::%%TEXT::Some things that are not large birds are noneagles.::::
+#4
+Some unhappy entities are not people.::%%TEXT::Some entities that are not unhappy are not nonpeople.::::
+#5
+No things that are not humans are rational animals.::%%TEXT::No humans are things that are not rational animals.::::
+#6
+All drinkers are nondrivers.::%%TEXT::All nondrinkers are drivers.::::
+#7
+No great women are men.::%%TEXT::No things that are not great women are nonmen.::::
+#8
+Some athletes are poor losers.::%%TEXT::Some nonathletes are entities that are not poor losers.::::
+#9
+Some nonsmokers are not healthy people.::%%TEXT::Some smokers are not entities that are not healthy people.::::
+#10
+Some nonmetals are chemicals.::%%TEXT::Some metals are nonchemicals.::::

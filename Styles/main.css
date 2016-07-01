@@ -1,0 +1,14 @@
+body {background-color: white; font-family:Arial,Helvetica}
+table.whitebox { background: white; color: black; width:60px; margin:10px}
+td.note {color: gray; font-size:small}
+p.center {text-align: center}
+table.center {margin-left: auto; margin-right: auto}
+div.center {text-align: center}
+A {text-decoration: none;}
+A.plain:link {text-decoration: none; color: black}
+A.plain:visited {text-decoration: none; color: #660000}
+A.plain:active {text-decoration: none; color: black}
+A.lmenu:link {text-decoration: none; color: white}
+A.lmenu:visited {text-decoration: none; color: white}
+A.lmenu:active {text-decoration: none; color: white}
+h4.center {text-align: center}

@@ -1,0 +1,46 @@
+#!qtype MC_FIXED
+#!values DA: denying the antecedent::AC: affirming the consequent::Unnamed Invalid Form
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
+#!preamble Invalid Forms to Identify</font>&nbsp;&nbsp;
+#!preamble Try to identify the most logically sensitive forms of the following arguments, using capital letters to stand for statements and eliminating any stylistic variants.  Then determine whether it is one of the invalid forms introduced so far, or select "Unnamed Invalid Form".  (Note that we don't yet have the means to check counterexamples online, so the instructions for this exercise have been modified from the textbook.)
+
+# Format of each line is QUESTION::ERRORSTRING::ANSWER
+
+#1
+Lewis is a famous author only if he knows how to write. But Lewis is not a famous author. So, Lewis does not know how to write.::::DA: denying the antecedent
+#2
+If Susan is a famous author, then she knows how to write. Moreover, Susan knows how to write. So, She is a famous author.::::AC: affirming the consequent
+#3
+Rilke is a dreamer if he is a poet. So, Rilke is a poet.::::Unnamed Invalid Form
+#4
+If Mubarak is from Egypt, then he is from Africa. So, If Mubarak is not from Egypt, then he is not from Africa.::::Unnamed Invalid Form
+#5
+Sam is wealthy if he has more than a billion dollars. But Sam does not have more than a billion dollars. So, Sam is not wealthy.::::DA: denying the antecedent
+#6
+There is life on Mars given that there is life on Earth. So, There is life on Mars.::::Unnamed Invalid Form
+#7
+It is true that corrupt institutions are hard to reform. It is false that individuals are totally depraved. So, If corrupt institutions are hard to reform, then individuals are totally depraved.::::Unnamed Invalid Form
+#8
+The sky is blue. The sky is cobalt blue only if it is blue. So, The sky is cobalt blue.::::AC: affirming the consequent
+#9
+Kidnapping is wrong if society disapproves of it. Kidnapping is wrong. So, Society disapproves of kidnapping.::::AC: affirming the consequent
+#10
+If Mary is a psychiatrist, then she is a physician. Mary is not a physician. So, Mary is a psychiatrist.::::Unnamed Invalid Form
+#11
+If you want to ruin your life, you should take hard drugs. But you don't want to ruin your life. So, You should not take hard drugs.::::DA: denying the antecedent
+#12
+Lying causes social discord. So, Lying is wrong.::::Unnamed Invalid Form::
+#13
+If Dracula is a vampire, then he is dangerous. But Dracula is not a vampire. So, He is dangerous.::::Unnamed Invalid Form
+#14
+If my society approves of genetic engineering, then genetic engineering is right. But my society does not approve of genetic engineering. So, Genetic engineering is not right.::::DA: denying the antecedent
+#15
+Either films depicting graphic violence have caused the increase in violent crime or bad parenting has caused it (or both). Movies depicting graphic violence have caused the increase in violent crime. So, Bad parenting has not caused the rise in violent crime.::::Unnamed Invalid Form
+#16
+You will win the chess tournament if you are very good at chess. Unfortunately, you are not very good at chess. So, You will not win the chess tournament.::::DA: denying the antecedent
+#17
+Assuming that you treat like cases alike, you are fair. So, You are fair only if you treat like cases alike.::::Unnamed Invalid Form
+#18
+Philosophy is important if ideas are important. And assuming that ideas change lives, ideas are important. So, If philosophy is important, then ideas change lives.::::Unnamed Invalid Form
+#19
+Mercy killing is morally permissible only if it promotes a greater amount of happiness for everyone affected than the alternatives do. And mercy killing does promote a greater amount of happiness for everyone affected than the alternatives do. So, Mercy killing is morally permissible.::::AC: affirming the consequent

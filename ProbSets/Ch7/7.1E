@@ -1,0 +1,36 @@
+#!qtype TR
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part E. </strong>
+#!preamble More Symbolizing</font>&nbsp;&nbsp;
+#!preamble Translate the following statements into symbols, using the schemes 
+#!preamble of abbreviation provided.<p>
+
+#1
+Fido is a dog only if Fido is an animal. (D: Fido is a dog; A: Fido is an animal)::::D->A
+#2
+Josey is a mammal if Josey is a cat. (M: Josey is a mammal; C: Josey is a cat)::::C->M
+#3
+Physical laws cannot be changed given that they are either necessary or eternal. (C: Physical laws can be changed; N: Physical laws are necessary; E: Physical laws are eternal)::::(NvE)->~C
+#4
+Snakes are mammals only if snakes nourish their young with milk; but snakes do not nourish their young with milk. (M: Snakes are mammals; N: Snakes nourish their young with milk)::::(M->N).~N
+#5
+The statement "If evil exists, then God does not exist" is false. (E: Evil exists; G: God exists)::::~(E->~G)
+#6
+If Smith is guilty only if Smith's blood is on the murder weapon, then Smith is not guilty if Smith's blood is not on the murder weapon. (G: Smith is guilty; B: Smith's blood is on the murder weapon)::::(G->B)->(~B->~G)
+#7
+It is not true that if the Eiffel Tower is in Ohio, then it is in Europe. (O: The Eiffel Tower is in Ohio; E: The Eiffel Tower is in Europe)::::~(O->E)
+#8
+The defendant's having a motive is not a sufficient condition for his being guilty. (M: The defendant has a motive; G: The defendant is guilty)::::~(M->G)
+#9
+Jane will fail unless she studies. (F: Jane will fail; S: Jane studies)::::FvS
+#10
+Assuming Fred is both rational and an animal, Fred is human; but Fred is not rational. (R: Fred is rational; A: Fred is an animal; H: Fred is human)::::[(R.A)->H].~R
+#11
+Senator Crockett's approval of the war is not a necessary condition for her re-election. (W: Senator Crockett approves of the war; R: Senator Crockett will be re-elected)::::~(R->W)
+#12
+Unless we stop using fossil fuels, the earth will continue to get warmer. (S: We stop using fossil fuels; E: The earth will continue to get warmer.)::::SvE
+#13
+Marie Curie's being a scientist is a necessary condition, but not a sufficient condition, for her being a physicist. (S: Marie Curie is a scientist; P: Marie Curie is a physicist)::::(P->S).~(S->P)
+#14
+If God exists, then evil does not exist unless God has a good reason for allowing evil. (G: God exists; E: Evil exists; R: God has a good reason for allowing evil)::::G->(~EvR)
+#15
+Natalie Portman's being a movie star is a sufficient condition, but not a necessary condition, for her being famous. (M: Natalie Portman is a movie star; F: Natalie Portman is famous)::::(M->F).~(F->M)

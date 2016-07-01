@@ -1,0 +1,68 @@
+#!qtype EXP
+#!preamble <i><strong>NOTE</strong>: Some users of Microsoft Windows XP who are accessing the Power of Logic Web Tutor with Internet Explorer versions 6 or 7 have reported problems with the exercises in this section.  We are working on a solution but if you are experiencing any problems, please (if possible) use <a href="http://firefox.com">Mozilla Firefox</a> instead of Internet Explorer.  Alternatively, upgrade to <a href="http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx">Internet Explorer version 8</a>, although please note that some users are reporting minor problems with IE 8 as well.</i><p /> 
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part A. </strong>
+#!preamble Finite Universe Method</font>&nbsp;&nbsp;
+#!preamble Use the finite universe method to show that the following symbolic arguments are invalid.
+
+# Format of each line is 
+
+#1
+(x)(Ax->Bx) .: ($x)(Ax.Bx)
+#2
+($x)Cx .: (x)Cx
+#3
+(z)(Fz->~Gz), ($z)(Fz.~Hz) .: ($z)(Gz.Hz)
+#4
+[($y)Ky->($y)Ly] .: (y)(Ky->Ly)
+#5
+($x)(Ax->Bx) .: (x)(Ax->Bx)
+#6
+($x)(Rx->Sx) .: [(x)Rx->(x)Sx]
+#7
+[(x)Hx->(x)~Jx] .: (x)(Jx->~Hx)
+#8
+($z)Mz, ($z)Nz .: ($z)(Mz.Nz)
+#9
+(x)(Ax->Bx), ($x)Bx .: ($x)Ax
+#10
+($y)(Ry->Sy) .: [($y)Ry->($y)Sy]
+#11
+(x)(Cx->~Dx) .: ~(x)(Cx->Dx)
+#12
+($z)(Nz<->Pz) .: (z)(Nz<->Pz)
+#13
+(y)(Ay->By), Bd .: Ad
+#14
+[(x)Fx->(x)Gx] .: (x)(Fx->Gx)
+#15
+($x)Dx, ($x)Cx .: (x)(Dx.Cx)
+#16
+(x)(Mx->Nx), ($x)Mx .: (x)Nx
+#17
+~($y)(Sy.Py) .: ($y)(Sy.~Py)
+#18
+[(x)Tx<->(x)Ux] .: (x)(Tx<->Ux)
+#19
+($z)(Az.Bz), ($z)(Cz.Bz) .: ($z)(Az.Cz)	
+#20
+(x)(OxvPx) .: [(x)Oxv(x)Px]
+#21
+~[($x)Hx->(y)Ny] :. ($x)(Hx->(y)Ny)
+#22
+~(x)(Ax->($y)By) :. (x)Ax->($y)By
+#23
+($x)(Lx->(z)Mz) :. ($x)Lx->(z)Mz
+#24
+(y)Fy->($x)Gx :. (x)[(y)Fy->Gx]
+#25
+(x)Sx->($y)Ry :. (x)(Sx->($y)Ry)
+#26
+(x)(Lx->Nx) :. ($x)Lx->(x)Nx
+#27
+(x)Fx->(y)Gy :. (x)[Fx->(y)Gy]
+#28
+~(x)(Ax->Bx) :. (x)Ax->(x)Bx
+#29
+(x)[($y)Uy.Zx] :. (x)(Ux.Zx)
+#30
+($x)[(y)Ry->Tx] :. (y)Ry->(x)Tx

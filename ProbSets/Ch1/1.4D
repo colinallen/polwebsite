@@ -1,0 +1,30 @@
+#!qtype MC_FIXED
+#!values Cogent::Uncogent::Neither   
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part D:</strong>
+#!preamble Cogency</font>
+#!preamble Which of the following are cogent? Which are uncogent?
+#!preamble <p>
+
+# Format of each line is ARGUMENT :: ERROR STRING :: ANSWER
+
+#1
+Most humans fear death. Woody Allen (the famous comedian) is a human. Therefore, Woody Allen fears death.::Both premises are true and on this basis the conclusion is likely to be true.::Cogent
+#2
+Fifty percent of the students at Seattle Pacific University are Republicans. Kathy is a student at Seattle Pacific University. So, Kathy is a Republican.::The conclusion as likely to be false as true given these premises.::Uncogent
+#3
+All humans are mortal. Socrates is a human. Hence, Socrates is mortal.::This argument is <em>de</em>ductively valid, and deductively sound assuming that `Socrates' refers to the famous teacher of Plato.::Neither
+#4
+All of the birds which have been observed (in the entire history of the world) can fly. Therefore, all birds can fly.::::Uncogent
+#5
+War is similar to playing a game of chess. For instance, in both war and chess strategy is important. And in both war and chess there is a struggle for victory. Now, when one is losing a game of chess one should not attack one's opponent with lethal weapons. So, when a nation is losing a war it should not attack its opponent with lethal weapons.::The basis for comparison is inappropriate.::Uncogent
+#6
+Ninety percent of Americans speak Chinese. Harrison Ford (the famous actor) is an American. Thus, Harrison Ford speaks Chinese.::The argument has a false premise.::Uncogent
+#7
+Sue is taller than Tom. Tom is taller than Fred. It follows that Sue is taller than Fred.::This argument is deductively valid.::Neither 
+#8
+The vast majority of Americans are fluent speakers of English. The Queen of England is an American. Hence, the Queen of England is a fluent speaker of English.::This argument has a false premise.::Uncogent
+#9
+Most Americans live in Nevada. Aretha Franklin (the famous singer) is an American. So, Aretha Franklin lives in Nevada.::The argument has a false premise.::Uncogent
+#10
+Forty percent of students at Reed College are from the Northwest. Sally is a student at Reed College. So, Sally is from the Northwest.::Given these premises, the conclusion should be judged more likely to be false than true.::Uncogent
+
