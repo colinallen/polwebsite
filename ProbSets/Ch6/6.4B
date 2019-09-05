@@ -3,6 +3,9 @@
 # Absence of middle term triggers 2 circle mode
 # Format =
 # Syllogism::Major::Minor::Middle::Image::Validity
+#!preamble <font color="#ee3333" face="helvetica">
+#!preamble <strong>Testing Arguments</strong></font>&nbsp;&nbsp;
+#!preamble Use Venn diagrams to determine whether the following arguments are valid.
 
 #1
 All people who never make mistakes are admirable. All ideal humans are people who never make mistakes. So, Some ideal humans are admirable people.::Ideal humans::Admirable people::People who never make mistakes::11010010.gif::invalid

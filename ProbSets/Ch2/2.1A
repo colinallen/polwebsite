@@ -1,11 +1,10 @@
 #!qtype MC_MULTI
 #!valuetype ?::argument::nonargument (explanation)::nonargument (conditional statement)::nonargument (report)::nonargument (illustration)
-#!preamble #!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Arguments and Nonarguments</font>&nbsp;&nbsp;
+
+#!preamble <strong>Arguments and Nonarguments</strong>&nbsp;&nbsp;
 #!preamble Determine which of the following are arguments, and which are not.  
 #!preamble If the passage is not an argument, determine if it is a report, 
 #!preamble illustration, explanation, or conditional statement.
-#!preamble <p>
 
 # Format of each line is QUESTION::ANSWER1::ERRORSTRING1::ANSWER2::ERRORSTRING2
 
@@ -19,8 +18,17 @@ The world fish catch dropped from its 1989 high of 100 million tons to 97 millio
 Waging war is always wrong because it involves killing human beings. And killing humans is wrong.::argument::This is an argument.  There are premises and a conclusion.
 #5
 When we calculate what the surface temperature of the planet should be, based on the heat it radiates to space, we find the whole globe should be a frozen wasteland, colder than today by about 33 degrees Celsius (60 degrees Fahrenheit) on average. The force saving us from this frigid fate is the atmosphere. The layer of air surrounding our globe contains important gases such as water vapor and carbon dioxide, which absorb the heat radiated by Earth's surface and reemit their own heat at much lower temperatures. We say they "trap" Earth's radiation and call this planetary warming mechanism the "greenhouse effect."--<em>The Climate System</em> (National Oceanic and Atmospheric Administration, Winter, 1991), p. 7.::nonargument (explanation)::There is no argument here, only an explanation of why the earth is not frigidly cold.
+# OLD 6
+# Never has the nation been safer from foreign menaces, and never
+# before has the nation been graduating students less well educated
+# than those of the immediately preceding generation. These facts
+# warrant this conclusion: Today the principal threat to America is
+# America's public-education establishment. --George F. Will, <em>The
+# Leveling Wind</em> (New York: Viking, 1994), p. 199.::argument::This
+# is an argument: The words "These facts warrant this conclusion" are
+# a dead giveaway.
 #6
-Never has the nation been safer from foreign menaces, and never before has the nation been graduating students less well educated than those of the immediately preceding generation. These facts warrant this conclusion: Today the principal threat to America is America's public-education establishment. --George F. Will, <em>The Leveling Wind</em> (New York: Viking, 1994), p. 199.::argument::This is an argument: The words "These facts warrant this conclusion" are a dead giveaway.
+Letting the Dreamers work legally helps the U.S. economy. … To understand why, you need to realize that America is facing a demographic challenge thanks to declining fertility. An aging population means fewer workers paying taxes to support Social Security and Medicare. … Driving out young workers who will pay into the system for many decades is a way to make these problems worse. &ndash;Paul Krugman, <i>New York Times</i>. Op.ed. August 8, 2017.::argument::This is an argument. The first sentence is the conclusion and the remaining statements are intended to support it.
 #7
 It's certainly true that Pluto doesn't act much like the other planets.  Not only is it small and obscure, it's so changeable in its motions that no one can tell you exactly where it will be in a century. Whereas the other planets orbit on more or less the same plane, Pluto's orbit shifts out of alignment at an angle of 17 degrees, like the brim of a hat tilted on someone's head. &mdash; Bill Bryson, <em>A Really Short History of Nearly Everything</em> (London: Random House, 2008), p. 17.::nonargument (report)::This is simply a set of observations about Pluto.
 #8
@@ -37,8 +45,10 @@ In 1950 the population of the world was about 2.5 billion. In 1967 the populatio
 Global oil demand still lies well below the peak level of 1979. Improved energy efficiency and the expanding role of natural gas in many countries is cutting into petroleum's market. But oil is still the world's leading source of energy, supplying 40 percent of the total . . . . --Christopher Flavin and Hal Kane, "Oil Production Steady" in Lester Brown, Hal Kane, Ed Ayres, <em>Vital Signs 1993: The Trends That Are Shaping Our Future</em> (New York: W. W. Norton, 1993), p. 46.::nonargument (report)::This is merely a report about global oil usage.
 #14
 Either James died because he was shot, or James died because he was hanged. It's false that James died because he was shot. Hence, James died because he was hanged.::argument::Disjunctive syllogism form.
+#OLD 15
+# Not all mob bosses avoid prison because John Gotti was a mob boss and Gotti was sent to prison.::argument::This is a valid argument; the instance supports the conclusion.
 #15
-Not all mob bosses avoid prison because John Gotti was a mob boss and Gotti was sent to prison.::argument::This is a valid argument; the instance supports the conclusion.
+Not all U.S. major party presidential candidates have been men because Hillary Clinton was a woman::argument::This is a one-sentence argument that begins with the conclusion; it is true <i>because</i> of Hillary Clinton (who we all know was a presidential candidate).
 #16
 Prime numbers are divisible only by themselves and one. For example, 3, 5, 7, and 11 are prime numbers.::nonargument (illustration)::This is an illustration of the concept of prime number.
 #17

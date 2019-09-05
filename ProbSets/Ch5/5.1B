@@ -3,8 +3,7 @@
 #!valuetype QUANTITY::Universal::Particular
 #!valuetype QUALITY::Affirmative::Negative
 
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
-#!preamble Standard Forms</font>
+#!preamble <strong>Standard Forms.</strong>&nbsp;&nbsp;
 #!preamble Some of the following are in standard form, but most are
 #!preamble not.  In the former case, indicate the form of the sentence; in the latter
 #!preamble case, indicate what the form of the sentence would be if

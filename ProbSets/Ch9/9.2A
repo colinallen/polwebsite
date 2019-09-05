@@ -1,7 +1,5 @@
 #!qtype EXP
-#!preamble <i><strong>NOTE</strong>: Some users of Microsoft Windows XP who are accessing the Power of Logic Web Tutor with Internet Explorer versions 6 or 7 have reported problems with the exercises in this section.  We are working on a solution but if you are experiencing any problems, please (if possible) use <a href="http://firefox.com">Mozilla Firefox</a> instead of Internet Explorer.  Alternatively, upgrade to <a href="http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx">Internet Explorer version 8</a>, although please note that some users are reporting minor problems with IE 8 as well.</i><p /> 
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A. </strong>
-#!preamble Finite Universe Method</font>&nbsp;&nbsp;
+#!preamble <strong>Finite Universe Method</strong>&nbsp;&nbsp;
 #!preamble Use the finite universe method to show that the following symbolic arguments are invalid.
 
 # Format of each line is 

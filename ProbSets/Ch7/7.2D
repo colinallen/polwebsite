@@ -1,0 +1,40 @@
+#!qtype MC_FIXED
+#!values True::False
+
+#!preamble <strong>True or False Again.</strong>
+#!preamble Determine the truth value of the following compound statements.
+#!preamble Make the following assumptions: A is true, B is true, C is true,
+#!preamble D is false, E is false, F is false, and G is false.
+
+# Format of each line is QUESTION :: ERROR STRING :: ANSWER
+
+#1
+(A . D) v (~E . C)::::True
+#2
+~(G v ~B) . (~E v A)::::True
+#3
+(D -> C) . ~(B -> ~D)::::False
+#4
+(A . ~B) -> (~E -> B)::::True
+#5
+(C <-> ~A) v (D <-> E)::::True
+#6
+~[(A v ~C)  <->  (~E -> D)]::::True
+#7
+~[~(E -> A)  <->  ~(C -> D)]::::True
+#8
+(E <-> G)->[(B <-> ~D)->~(A v ~C)]::::True
+#9
+[(~E v D) -> (~B v C)] . [(~E . A) -> (E . ~D)]::::True
+#10
+~[(C -> D) v (G  <->  E)] v ~[(D  <->  A) v (A -> G)]::::True
+#11
+[(A . ~D) . (B . ~C)] <-> [(~G . ~E).(C . ~D)]::::False
+#12
+~[~[(C  <->  D) -> (~G  <->  ~A)]]  <->  ~[~[(A  <->  B) -> (~C  <->  ~B)]]::::False
+#13
+~[~[(D -> G)  <->  (~B -> C)]] v ~[~[(C -> B)  <->  (~C -> G)]]::::True
+#14
+~(E -> G) . [(~A -> B) . ~[~[(C -> A) v (~C -> E)]]]::::False
+#15
+~[[(A v ~G).(B v ~C)] <-> [(~G . ~E)v(C . ~E)]]::::True

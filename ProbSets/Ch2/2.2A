@@ -1,7 +1,7 @@
 #!qtype MC_MULTI
 #!valuetype ?::argument::not an argument
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:  </strong>
-#!preamble Identifying Arguments</font>&nbsp;&nbsp;
+
+#!preamble <strong>Identifying Arguments</strong>&nbsp;&nbsp;
 #!preamble Classify each of the following passages as either an argument, or not an argument. 
 #!preamble <p>
 

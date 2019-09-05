@@ -1,16 +1,17 @@
 #!qtype MC_FIXED
 #!values Permissible::Impermissible
-#!preamble <font color="#ee0077" face="hel v etica"><strong>Part B:  </strong>
-#!preamble Permissible Departures from Strict Grammar</font>&nbsp;&nbsp;
-#!preamble What counts as a WFF is defined strictly in terms of six conditions,
+#!preamble <span style="font-size: small">
+#!preamble <span style="font-weight: bold">
+#!preamble Permissible Departures from Strict Grammar.</span>
+#!preamble What counts as a WFF is defined strictly in terms of 6 conditions,
 #!preamble but in some cases parentheses can be dropped without changing the
 #!preamble meaning and without causing ambiguity. Also, in some cases,
 #!preamble alternating brackets with parentheses makes a formula easier to
 #!preamble read. Which of the following are examples of formulas that 
-#!preamble permissiblydepart from a strict application of the six conditions 
-#!preamble by dropping aset of parentheses or by an appropri-ate use of 
+#!preamble permissibly depart from a strict application of the six conditions 
+#!preamble by dropping a set of parentheses or by an appropriate use of 
 #!preamble brackets?
-#!preamble <p>
+#!preamble </span>
 
 # Format of each line QUESTION :: ERROR STRING :: ANSWER
 

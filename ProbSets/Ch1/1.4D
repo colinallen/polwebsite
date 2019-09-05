@@ -1,7 +1,6 @@
 #!qtype MC_FIXED
 #!values Cogent::Uncogent::Neither   
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part D:</strong>
-#!preamble Cogency</font>
+#!preamble <strong>Cogency</strong>&nbsp;&nbsp;
 #!preamble Which of the following are cogent? Which are uncogent?
 #!preamble <p>
 

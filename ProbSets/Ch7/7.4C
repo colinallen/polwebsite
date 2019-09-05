@@ -31,7 +31,7 @@ C -> (T -> L), ~L, ~E -> C, L v ~E :. ~T
 #13
 X <-> Y, ~~(X v Y) :. X . Y
 #14
-(X . Q) -> (Z . ~T), R . (T v ~Z) :. (~X v ~Q) . R
+(X . N) -> ~S, U -> (M v N), ~S → ~(M v N) :. U -> ~(M v N)
 #15
-~F, ~(F . ~S) -> ~P, (~S . F) v ~T :. ~(P v T)
+~G, ~(G . ∼S) -> ~P, (~S . G) v ~H L. ~(P v H)
  

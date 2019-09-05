@@ -1,7 +1,6 @@
 #!qtype MC_FIXED
 #!values Too narrow::Too wide::Both too narrow and too wide
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part D:  </strong>
-#!preamble Precising Definitions</font>&nbsp;&nbsp;
+#!preamble <strong>Precising Definitions.</strong>
 #!preamble Evaluate the following definitions <em>in the context of 
 #!preamble the making law</em>, Since these are precising definitions,
 #!preamble they may, without fault, depart from ordinary usage in some degree,

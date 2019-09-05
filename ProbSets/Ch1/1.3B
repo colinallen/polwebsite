@@ -1,28 +1,17 @@
 #!qtype CE
 #
-#!preamble <font color="#ee0077" face="helvetica"><strong>Exercise 1.3B</strong>
-#!preamble Counterexamples</font>&nbsp;&nbsp;
+#!preamble <strong>Counterexamples</strong>&nbsp;&nbsp;
 #!preamble Try to construct a good counterexample to show that the original argument form is invalid, using the well-known category terms provided to replace the given terms, constructing statements whose truth or falsity are common knowledge.
 
 # Format of each line is QUESTION ::
 	
-No genuine Americans are communist spies. Some Oregonians are not communist spies. :. Some Oregonians are genuine Americans.::
-All dogmatists are hypocrites. All dogmatists are bigots. :. All bigots are hypocrites.::
-All who seek public office are noble. Some who seek public office are not wise persons. :. Some wise persons are not noble.::
-No rocks are sentient. Some mammals are sentient. :. No mammals are rocks.::
-All fatalists are determinists. Some predestinarians are not fatalists. :. Some predestinarians are not determinists.::
-All vegetarians who refuse to eat animal products are vegans. No vegetarians who refuse to eat animal products are cattle ranchers. :. No vegans are cattle ranchers.::
-Some intelligent people are highly immoral people. All highly immoral people are unhappy people. :. Some unhappy people are not intelligent people.::
-No perfect geometrical figures are physical entities. No physical entities are circles. :. No circles are perfect geometrical figures.::
-All Fabians are socialists. Some socialists are not communists. :. Some Fabians are not communists.::
-All trespassers are persons who will be prosecuted. Some trespassers are not criminals. :. Some criminals are not persons who will be prosecuted.::
-All observable entities are physical entities. Some quarks are not observable entities. :. Some quarks are not physical entities.::
-No wines are distilled liquors. Some beers are not distilled liquors. :. Some beers are not wines.::
-All statements that can be falsified are scientific. All empirical data are scientific. :. All statements that can be falsified are empirical data.::
-All diligent persons are individuals who deserve praise. Some students are individuals who deserve praise. :. Some students are diligent persons.::
-All black holes are stars that have collapsed in upon themselves. All black holes are entities that produce a tremendous amount of gravity. :. All entities that produce a tremendous amount of gravity are stars that have collapsed in upon themselves.::
-All rock musicians are cool. No nerds are rock musicians. :. No nerds are cool.::
-All miracles are highly improbable events. Some highly improbable events are cases of winning a lottery. :. Some cases of winning a lottery are miracles.::
-No positrons are particles with a negative charge. No neutrons are particles with a negative charge. :. Some positrons are neutrons.::
-All people who despise animals are neurotic. No veterinarians are people who despise animals. :. No veterinarians are neurotic.::
-All destructive acts are evil. Some wars are evil. :. Some wars are destructive acts.::
+If cannabis and meth are legal, then society will destroy itself. It is not the case that both cannabis and meth are legal. :. Society will not destroy itself. ::
+Either Mary loves John or Mary loves David. Mary loves John. :. Mary does not love David. ::
+If we ban the sale of military-grade weapons, then we undermine the second amendment. :. If we undermine the second amendment, then we ban the sale of military-grade weapons. ::
+Either the moon orbits the earth or the sun is at the center of the solar system (or both). The sun is at the center of the solar system only if the earth orbits the sun. The moon orbits the earth. So, the earth orbits the sun. 
+If God is perfect in love, then everyone goes to heaven. If there is no hell, then everyone goes to heaven. :. If God is perfect in love, then there is no hell. ::
+Either there is no air in the house or there is no fire in the house. :. If there is fire in the house, then there is air in the house.
+If we let forest fires burn, then smoke will inundate our cities and/or national forests will be destroyed. Given that we use pesticides on our national forests, the mountain pine beetle will be destroyed. :. The mountain pine beetle will be destroyed if we let forest fires burn. ::
+World War III is inevitable or world peace is inevitable. If we escalate the production of nuclear arms, then World War III is inevitable. If the United Nations succeeds, then world peace is inevitable. :. The United Nations succeeds or we escalate the production of nuclear arms. ::
+If dachshunds are not dogs, then cats are not mice. :. Either dachshunds are dogs or cats are not mice. 
+If there are unicorns, then there are mermaids. If there are trolls, then there are dragons. There aren’t both mermaids and dragons! :. There are no unicorns. ::

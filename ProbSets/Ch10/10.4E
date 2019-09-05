@@ -6,7 +6,7 @@
 #!preamble following arguments. In other words, given that the premises are 
 #!preamble true, how likely is the conclusion? 
 
-The odds are 5 to 1 that Team A will beat Team B in the quarter-finals. The odds are 4 to 1 that Team C will beat Team D in the quarter-finals. Therefore, Team A will play Team C in the semi-finals.::
+The odds are 5 to 1 that the Packers will beat the Bears in the NFC championship. The odds are 4 to 1 that the Steelers will beat the Jets in the AFC championship. Therefore, the Packers will play the Steelers in the Superbowl.::
 The odds are 6 to 1 that Chris is lying. Therefore, it is not the case that Chris is lying.::
 The odds are 1 to 3 that Mad Dog Mike killed Jones. The odds are 2 to 1 that Bad Dog Bob killed Jones. There is a probability of zero that Mad Dog Mike and Bad Dog Bob both killed Jones. Therefore, either Mad Dog Mike or Bad Dog Bob killed Jones.::
 The die is fair (not loaded or off balance) and I roll it twice. Therefore, I roll a five twice.::

@@ -1,6 +1,5 @@
 #!qtype TRANSEXP
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
-#!preamble Symbolization</font>&nbsp;&nbsp;
+#!preamble <strong>Symbolization</strong>&nbsp;&nbsp;
 #!preamble Translate the following English arguments into symbols. Then use the finite universe method to show that the arguments are invalid. 
 
 # Format of each line is QUESTION :: ERROR STRING :: TRANSLATION

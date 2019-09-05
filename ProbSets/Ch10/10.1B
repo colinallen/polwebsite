@@ -7,18 +7,18 @@
 
 # Format of each line is QUESTION :: ERROR STRING :: ANSWER
 
-Fifty percent of the marbles in container no. 3 are green. The next marble to be drawn is a marble from container no. 3. Hence, the next marble to be drawn is green.::::not a statistical syllogism
-Two-thirds of the students at Seattle Pacific University are women. Chris is a student at Seattle Pacific. Consequently, Chris is a woman.::::statistical syllogism
-The vast majority of Americans approve of the Gulf War. John Montgomery is an American. So, John Montgomery approves of the Gulf War even though he belongs to a religious group most of whose members are pacifists.::::statistical syllogism
-More than half of all voters in the state of Washington favor campaign reform. Gordon Johnark, a U.S. Senator, is a voter in the state of Washington. Accordingly, Gordon Johnark favors campaign reform.::::statistical syllogism
-Philosophy 301 is similar to Philosophy 101 in that both are philosophy courses. Philosophy 101 is a course Diana dislikes. So, Philosophy 301 is a course Diana dislikes.::::not a statistical syllogism
-Most college students do not work full time. Jane is a college student. Therefore, Jane does not work full time.::::statistical syllogism
-Seventy percent of the citizens of Salt Lake City do not drink coffee. Phil Goggans is a citizen of Salt Lake City. So, even though Phil owns and operates the Caffeine Club Coffee House, he probably does not drink coffee.::::statistical syllogism
-One hundred percent of Texans love Texas. Marla Miller is a Texan. Therefore, Marla loves Texas.::::not a statistical syllogism
-Eighty-two percent of those in a randomly chosen sample of 4,000 Americans eat meat. Therefore, about eighty-two percent of Americans eat meat.::::not a statistical syllogism
-Nearly all Mennonites are (were, and will be) pacifists. John Howard Yoder was a Mennonite. Accordingly, John Howard Yoder was a pacifist.::::statistical syllogism
-According to the National Enquirer, last week a woman gave birth to a baby whose father came from Mars. Therefore, last week a woman gave birth to a baby whose father came from Mars.::::not a statistical syllogism
-Fifty-one percent of Marines are under nineteen years old. Captain Lawrence is a Marine. So, Captain Lawrence is under nineteen years old.::::statistical syllogism
-Jack is sixty-five years old. So, Jack is not currently making a living as a professional boxer.::::not a statistical syllogism
-Ninety percent of abortions in the 1980s were performed in the first twelve weeks of pregnancy. Ms. Brown's abortion occurred in the 1980s. Thus, Ms. Brown's abortion was performed in the first twelve weeks of her pregnancy.::::statistical syllogism
-Ninety-nine percent of lemons are sour. The fruit I am about to eat is a lemon. Therefore, the fruit I am about to eat is sour.::::statistical syllogism
+82% of democrats are supporters of abortion rights. Senator Casey is a democrat. So, Senator Casey is a supporter of abortion rights.::::statistical syllogism
+100% of the members of the N.R.A. are supporters of the Second Amendment. Chuck is a member of the N.R.A. It follows that Chuck is a supporter of the Second Amendment.::::not a statistical syllogism
+The richest 1% has as much wealth as the rest of the world combined. Bill Gates is among the richest 1%. So, Bill Gates has as much wealth as the rest of the world combined.::::not a statistical syllogism
+Approximately 60% of college students do not engage in binge drinking. Maria is a college student. So, Maria does not engage in binge drinking.::::statistical syllogism
+This cologne will work. After all, 60% of the time, it works every time.::::not a statistical syllogism
+According to the latest polls, 62% of Americans support marriage equality. So, since Pat is an American, he supports marriage equality.::::statistical syllogism
+All Texans love Texas. Jerry is a Texan. So, Jerry loves Texas.::::not a statistical syllogism
+Sean will like Introduction to Logic. After all, Sean likes most philosophy classes and Introduction to Logic is a philosophy class.::::statistical syllogism
+Saanvi will like Statistics for Sociology. After all, Saanvi likes some sociology classes and Statistics for Sociology is a sociology class.::::not a statistical syllogism
+96.8% of a randomly chosen sample of 4,000 Americans eat meat. So, approximately 96.8% of Americans eat meat.::::not a statistical syllogism
+Statistically speaking, you are more likely to die in a car accident than a plane crash. So, you won’t die in a plane crash.::::not a statistical syllogism
+Of all the cases in which a human being is intentionally killed, 0% are morally permissible. The execution of Saddam Hussein was a case in which a human being was intentionally killed. So, the execution of Saddam Hussein was not morally permissible.::::not a statistical syllogism
+3% of high-school basketball players will go on to play at the collegiate level. Cam is a high-school basketball player. So, Cam will go on to play at the collegiate level.::::not a statistical syllogism
+3% of high-school basketball players will go on to play at the collegiate level. Sue is in the top 2% of all high-school basketball players. So, Sue will go on to play at the collegiate level.::::statistical syllogism
+Approximately 51% of coins that are flipped heads up will land heads up. This coin was flipped heads up. So, this coin will land heads up.::::statistical syllogism

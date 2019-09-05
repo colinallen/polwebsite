@@ -1,7 +1,7 @@
 #!qtype MC_FIXED
 #!values True::False
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part B: </strong>
-#!preamble More True or False</font>&nbsp;&nbsp;
+
+#!preamble <strong>More True or False.</strong>
 #!preamble Determine the truth value of the following compound statements. 
 
 # Format of each line is QUESTION :: ERROR STRING :: ANSWER

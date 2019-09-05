@@ -1,6 +1,6 @@
 %chapter = (
      'chapnum' => 6,
-     'title'  =>"Chapter 6 -- Categorical Logic: Syllogisms",
+     'title'  =>"Chapter 6 &mdash; Categorical Logic: Syllogisms",
      'sections' => "1 2 3 4 5 6 7 999 ",
      'sec1' => {
           'title'  => "Standard Form, Mood, and Figure",
@@ -24,8 +24,8 @@
                 "6.2B" => "B. Venn Diagrams and Arguments",
           },
           'counts' => {
-                "6.2A" => "10",
-                "6.2B" => "13",
+                "6.2A" => "20",
+                "6.2B" => "20",
           },
      },
      'sec3' => {
@@ -51,14 +51,14 @@
           },
      },
      'sec5' => {
-          'title'  => "Enthymemes",
+          'title'  => "Rules for Evaluating Syllogisms",
           'labels' => {
-                "6.5A" => "A. Enthymemes - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 6.5A: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (6.5A).')\">[why?]</span>",
-                "6.5B" => "B. More Enthymemes - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 6.5B: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (6.5B).')\">[why?]</span>",
+                "6.5A" => "A. Forms",
+                "6.5B" => "B. Valid or Invalid? - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 6.7B: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (6.5B).')\">[why?]</span>",
           },
           'counts' => {
-                "6.5A" => "17",
-                "6.5B" => "11",
+                "6.5A" => "20",
+                "6.5B" => "20",
           },
      },
      'sec6' => {
@@ -75,14 +75,14 @@
           },
      },
      'sec7' => {
-          'title'  => "Rules for Evaluating Syllogisms",
+          'title'  => "Enthymemes",
           'labels' => {
-                "6.7A" => "A. Forms",
-                "6.7B" => "B. Valid or Invalid? - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 6.7B: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (6.7B).')\">[why?]</span>",
+                "6.7A" => "A. Enthymemes - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 6.5A: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (6.5A).')\">[why?]</span>",
+                "6.7B" => "B. More Enthymemes - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 6.5B: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (6.5B).')\">[why?]</span>",
           },
           'counts' => {
                 "6.7A" => "20",
-                "6.7B" => "16",
+                "6.7B" => "10",
           },
      },
      'sec999' => {

@@ -1,13 +1,12 @@
 #!qtype MC_MULTI
 #!valuetype MOOD::AAA::AAI::AII::AEE::AEO::AIA::AOO::EEE::EIO::EAE::EAO::EOO::EOI::III::IAI::IAO::IEO::OOO::OAO::OEO::OIO
 #!valuetype FIGURE::First Figure::Second Figure::Third Figure::Fourth Figure
-#!valuetype EVALUATION::Valid::Not valid
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
-#!preamble Forms</font>&nbsp;&nbsp;
-#!preamble Specify the mood and figure of the following forms. 
-#!preamble Then use the list of valid forms to determine whether the forms
-#!preamble are valid.
-#!preamble <p>
+#!valuetype VALIDITY::Valid::Not valid
+#!preamble <strong>Putting Syllogisms into Standard Form.</strong>
+#!preamble For each of the following forms, specify both the mood and figure.
+#!preamble Then use the first list of valid forms provided in Section 6.1 to
+#!preamble determine whether each form is valid.
+#!preamble <p />
 
 # Format of each line is QUESTION::ANSWER1::ERRORSTRING1::ANSWER2::ERRORSTRING2 etc.
 

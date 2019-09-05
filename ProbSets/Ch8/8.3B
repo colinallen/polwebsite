@@ -1,7 +1,7 @@
 #!qtype MC_FIXED
 #!values Incorrect::Dist::Ex::Re::ME::MI
-#!preamble <font color="ee0077" face="helvetica"><strong>Part B. </strong>
-#!preamble Correct or Incorrect?</font>&nbsp;&nbsp;
+
+#!preamble <strong>Correct or Incorrect?</strong>
 #!preamble For each of the following,
 #!preamble if the inference is incorrect, say so.  If it is correct, cite the
 #!preamble rule that justifies it.

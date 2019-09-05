@@ -1,6 +1,6 @@
 %chapter = (
      'chapnum' => 5,
-     'title'  =>"Chapter 5 -- Categorical Logic: Statements",
+     'title'  =>"Chapter 5 &mdash; Categorical Logic: Statements",
      'sections' => "1 2 3 ",
      'sec1' => {
           'title'  => "Standard Form of Categorical Statements",
@@ -24,7 +24,7 @@
           'counts' => {
                 "5.2A" => "15",
                 "5.2B" => "20",
-                "5.2C" => "4",
+                "5.2C" => "15",
                 "5.2D" => "15",
           },
      },

@@ -1,0 +1,55 @@
+#!qtype PRF
+
+#!preamble <strong>More Conditional Proofs</strong>
+#!preamble Use CP to show that each of the following symbolic arguments is valid.
+
+#1
+1.(B.D)->(C.R)2.D :. B->R
+#2
+1.(Z.~W)->(X.U)2.Z->(W->Y) :. Z->(~Y->U)
+#3
+1.(A.B)->C2.B :. A->C
+#4
+1.R->(P.S)2.O->(P.Q) :. (OvR)->P
+#5
+1.A->(B.C)2.(CvD)->H :. A->H
+#6
+1.(GvH)->K2.E->(F->G) :. ~Ev(F->K)
+#7
+1.A->B2.C->D :. (A.C)->(B.D)
+#8
+1.X->(Y.Z) :. (W->X)->(W->Z)
+#9
+1.(AvB)->C2.AvD3.D->(~E->B) :. ~(AvE)->C
+#10
+1.R->(S->T)2.Q->R3.Q->(R->S) :. Q->T
+#11
+1.M->(O.C)2.T.~E3.(H.~E)->B :. (M->O).(H->B)
+#12
+1.A->B2.(A.B)<->C :. A<->C
+#13
+1.T->W2.B->(V.S) :. T->[~(W.V)->~B]
+#14
+1.T->(S->U)2.R->(Sv~T) :. R->(T->U)
+#15
+1.R->(~Α.Τ)2.Bv~S3.RvS :. A->B
+#16
+1.A->(D->~E)2.A->(B->C)3.E->(BvD) :. A->(E->C)
+#17
+1.~Tv[(UvW)->V] :. T->(U->V)
+#18
+1.G->(H.J)2.K->(L.M) :. (J->K)->(G->M)
+#19
+1.(AvL)vM2.L<->M :. MvA
+#20
+1.W->(X->U)2.(Y->U)->(Tv~W)3.Z->(Y->X) :. (Z.W)->T
+#21
+1.A->B2.C->(D.E) :. (A.C)->(B<->D)
+#22
+1.(EvF)->G2.A->[(BvC)->(D.E)] :. A->(C->G)
+#23
+1.A->(V.R)2.B->(D.S) :. (A->R).(B->S)
+#24
+1.(GvJ)->(IvJ)2.F->[(G->(H.~I)] :. (F.G)->(H.J)
+#25
+1.A->B :. (C->A)->(C->B)

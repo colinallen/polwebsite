@@ -1,9 +1,15 @@
 #!qtype MC_MULTI
-#!valuetype ?::No fallacy::Appeal to ignorance::Appeal to unreliable authority::False cause::Complex question::Appeal to the people::False dilemma::Begging the question::Division::Composition::Equivocation::Amphiboly::Argument against the person::Multiple fallacies
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
-#!preamble Identifying Fallacies</font>&nbsp;&nbsp;
-#!preamble If a fallacy is committed in the following passages, choose the 
-#!preamble fallacy exemplified. If no fallacy is committed, choose "No fallacy".
+#!valuetype ?::Begging the question::False dilemma::Appeal to unreliable authority::False cause::Complex question::Equivocation::Amphiboly::Composition::Division::Argument against the person::Abusive ad hominem::Circumstantial ad hominem::Tu quoque::Straw man fallacy::Appeal to force::Appeal to the people::Appeal to pity::Appeal to ignorance::Red herring fallacy::Appeal to ignorance::Multiple fallacies::No fallacy
+#!preamble <strong>More Identifying Fallacies.</strong>
+#!preamble Most of the following passages (but not all) exemplify fallacies. Many
+#!preamble of the fallacies are fallacies involving unwarranted assumptions,
+#!preamble but some are fallacies introduced in previous sections of this
+#!preamble chapter. In some cases, a single passage exemplifies two or more
+#!preamble fallacies. Identify all the fallacies that appear. In the case of
+#!preamble fallacies involving an unwarranted assumption, identify the
+#!preamble unwarranted assumption. If more than one fallacy is clearly present,
+#!preamble select "Multiple fallacies". If a passage does not contain a fallacy,
+#!preamble select “no fallacy.”
 
 #1
 Would you please be a good boy and eat your spinach?::Complex question::Being a good boy doesn't necessarily involve eating spinach.
@@ -65,8 +71,10 @@ When you get down to it, philosophers are just logic choppers who sit around try
 Most Americans insist that terrorism is always wrong, but they are mistaken.  Terrorism, after all, is simply the use of violence to further political ends.  And no country on the face of the earth employs more violence to further its political ends than America does.  So, Americans are in no position to condemn terrorism.  Besides, one person's terrorist is another's freedom fighter.  Why can't Americans see that their own revolutionary war heroes were all terrorists?::Complex question::Question presupposes the conclusion that terrorists are sometimes praiseworthy.
 #30
 How do I know that mantras work?  Consider this: Last week I said a mantra on Tuesday and on Friday.  And guess what?  Those days really went well for me.::False cause::There are lots of reasons why you could have had a good day.
+# Old 31
+#Every nation in every region now has a decision to make. Either you are with us, or you are with the terrorists. (George W. Bush, September 20, 2001)::False dilemma::There are several shades of grey in any relationship between nations, and this statement dramatically reduces the possibilities to "with us" or "with the terrorists".
 #31
-Every nation in every region now has a decision to make. Either you are with us, or you are with the terrorists. (George W. Bush, September 20, 2001)::False dilemma::There are several shades of grey in any relationship between nations, and this statement dramatically reduces the possibilities to "with us" or "with the terrorists".
+Either you believe Kavanaugh is lying or you believe his accuser is lying. So, you treat him with disrespect or you treat her with disrespect. So, either way, you treat someone with disrespect.::False dilemma::The passage implies we have no option but to believe one or the other, but it is possible simply to withhold judgment on the matter. Hence, it presents a <b>false dilemma</b>.
 #32
 There are very few general laws of social science, but we can offer one that has a deserved claim: the restriction of the concept of humanity in any sphere never enhances a respect for human life. It did not enhance the rights of slaves, prisoners of wars, criminals, traitors, women, children, Jews, blacks, heretics, workers, capitalists, Slavs or Gypsies. The restriction of the concept of personhood in regard to the fetus will not do so either.::Begging the question::What's precisely at issue here is whether or not the fetus is a human/person, so the suggestion that excluding the fetuses would be a restriction on humanity/personhood assumes what is disputed.
 #33

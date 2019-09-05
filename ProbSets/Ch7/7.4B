@@ -20,7 +20,7 @@ L<->(M.N), MvN, ~L :. ~M
 #8
 B->(C.D), ~Ev~F, E->(BvG), G->(D->F) :. Gv~E
 #9
-~(D<->E), ~D->F, E->G :. F.G
+~(D<->E), ~D->H, E->G :. H.G
 #10
 Hv~S, H->Z, ~S->P :. P<->Z
 #11

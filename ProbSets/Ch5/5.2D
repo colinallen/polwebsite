@@ -1,10 +1,10 @@
 #!qtype MC_MULTI
 #!valuetype EVALUATION::Valid::Not valid
 
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
-#!preamble Standard Form</font>
-##preamble Put the premise and conclusion of each of the following arguments into standard form.
-#!preamble Indicate whether each argument is valid.
+#!preamble <strong>Standard Form.</strong>
+#!preamble For each of the following arguments, put the premise and
+#!preamble conclusion into standard form. Then indicate whether or not the
+#!preamble argument is valid according to the Traditional Square of Opposition.
 
 #1
 If anything is a capitalist, then it is not a hero. So, at least one thing is a capitalist but not a hero.::Valid::

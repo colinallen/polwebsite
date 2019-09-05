@@ -10,6 +10,8 @@
                 "7.1C" => "C. Symbolizing",
                 "7.1D" => "D. More Symbolizing",
                 "7.1E" => "E. More Symbolizing",
+                "7.1F" => "F. More Symbolizing  - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 7.1F: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (7.1F).')\">[why?]</span>",
+                "7.1G" => "G. More Symbolizing  - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 7.1G: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (7.1G).')\">[why?]</span>",
           },
           'counts' => {
                 "7.1A" => "20",
@@ -17,6 +19,8 @@
                 "7.1C" => "20",
                 "7.1D" => "20",
                 "7.1E" => "15",
+                "7.1F" => "0",
+                "7.1G" => "0",
           },
      },
      'sec2' => {
@@ -24,12 +28,14 @@
           'labels' => {
                 "7.2A" => "A. True or False?",
                 "7.2B" => "B. More True or False",
-                "7.2C" => "C. Assigning Truth Values - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 7.2C: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (7.2C).')\">[why?]</span>",
+                "7.2C" => "C. Assigning Truth Values  - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 7.2C: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (7.2C).')\">[why?]</span>",
+		"7.2D" => "D. True or False, again",
           },
           'counts' => {
                 "7.2A" => "25",
                 "7.2B" => "15",
-                "7.2C" => "15",
+                "7.2C" => "0",
+		"7.2D" => "15",
           },
      },
      'sec3' => {
@@ -52,12 +58,16 @@
                 "7.4B" => "B. More Abbreviated Truth Tables",
                 "7.4C" => "C. Still More Abbreviated Truth Tables",
                 "7.4D" => "D. Valid or Invalid?",
+                "7.4E" => "E. English Arguments - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 7.4E: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (7.4E).')\">[why?]</span>",
+                "7.4F" => "F. English Arguments - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 7.4F: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (7.4F).')\">[why?]</span>",
           },
           'counts' => {
                 "7.4A" => "20",
                 "7.4B" => "15",
                 "7.4C" => "15",
                 "7.4D" => "10",
+                "7.4E" => "0",
+                "7.4F" => "0",
           },
      },
      'sec5' => {

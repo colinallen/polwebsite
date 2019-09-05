@@ -1,9 +1,9 @@
 #!qtype MC_MULTI
-#!valuetype ?::No fallacy::Argument against the person::Straw man fallacy::Appeal to force::Appeal to the people::Appeal to pity::Formal fallacy::False cause::False dilemma::Appeal to ignorance::Red herring::Multiple fallacies
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>  
-#!preamble Formal and Informal Fallacies</font>&nbsp;&nbsp;
+#!valuetype ?::Argument against the person::Abusive ad hominem::Circumstantial ad hominem::Tu quoque::Straw man fallacy::Appeal to force::Appeal to the people::Appeal to pity::Appeal to ignorance::Red herring fallacy::Appeal to ignorance::Formal fallacy::No fallacy::Multiple fallacies
+#!preamble <strong>Formal and Informal Fallacies.</strong>
 #!preamble If a fallacy is committed in the following passages, choose the 
 #!preamble fallacy exemplified. If no fallacy is committed, choose "No fallacy."
+#!preamble If two or more fallacies are equally evident, choose "Multiple fallacies."
 
 # Format of each line QUESTION::ANSWER::ERROR STRING
 
@@ -51,8 +51,10 @@ My opponent, the evolutionist, denies that we have our origin in God. Rather, ac
 You bet I'm in favor of stiff punishments for violent crimes. After all, punishment deters crime --- no doubt about that. Yes, I'm aware that many bleeding-heart liberals have tried to prove that punishment doesn't really deter crime, but their feeble efforts have all failed miserably. It's just plain common sense that punishment deters crime.::Appeal to ignorance::"...many...have tried to prove..."
 #22
 If you want to die young, be one of thse animal rights advocates.  I mean, it's your business, but around here, folks don't have much patience with stupidity. Now, I know you really don't want to die young. So don't be an animal rights advocate. And don't say I didn't warn you.::Multiple fallacies::Deny the antecedent, or else!
+# Old 23
+#Wow! Just when you thought every state agency that possibly could had overdosed on dumb pills, here comes yet another. Kudos to Washington State Fish and Wildlife for opening the Lake Washington sockeye season on July 4. They must have trundled to the very depths of their department to find a mind so brilliant as to make this kind of decision. Why would someone mix three thousand boatloads of fisherman who are champing at the bit to finally have a viable fishery in their front yard with several thousand people trying to launch their boats to attend the fireworks display on Lake Union?::Abusive ad hominem::Abusive language.
 #23
-Wow! Just when you thought every state agency that possibly could had overdosed on dumb pills, here comes yet another. Kudos to Washington State Fish and Wildlife for opening the Lake Washington sockeye season on July 4. They must have trundled to the very depths of their department to find a mind so brilliant as to make this kind of decision. Why would someone mix three thousand boatloads of fisherman who are chomping at the bit to finally have a vialble fishery in their front yard with several thousand people trying to launch their boats to attend the fireworks display on Lake Union?::Argument against the person::Abusive language
+The Left only worries about people who don’t want to work; they could care less about the rest of us. They cater more to people who are here illegally, and they care more about the feelings of countries that would love to see us wiped off the face of the earth than they do hard-working Americans.::Straw man fallacy::The description of &ldquo;The Left&rdquo; is a cartoonish misrepresentation and hence would be a mark of which fallacy?
 #24
 Everyone is selfish; everyone is doing what he believes will make himself happier. The recognition of that can take most of the sting out of accusations that you're being "selfish." Why should you feel guilty for seeking your own happiness when that's what everyone else is doing, too?::Appeal to the people::This argument basically boils down to "everyone else is doing it".
 #25

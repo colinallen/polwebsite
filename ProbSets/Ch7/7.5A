@@ -1,6 +1,5 @@
 #!qtype TAUT
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A: </strong> 
-#!preamble Tautologies, Contradictions, and Contingent Statements</font>&nbsp;&nbsp; 
+#!preamble <strong>Tautologies, Contradictions, and Contingent Statements</strong>&nbsp;&nbsp; 
 #!preamble Use truth tables to determine whether the following statements are 
 #!preamble tautologies, contradictions, or contingent statements. 
 
@@ -13,7 +12,7 @@
 #4
 B->(A->B)
 #5
-F->[~(F.G)->~G]
+H->[~(H.G)->~G]
 #6
 A->[(A->B)->B]
 #7

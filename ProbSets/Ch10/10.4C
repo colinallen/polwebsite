@@ -8,13 +8,13 @@
 
 # Format of each line is
 
-P(jack on first draw . queen on second draw)::::4/663
-P(ace on first draw . ace on second draw)::::3/663
-P(ace of hearts on first . red on second)::::25/2652
-P(club on first . club on second)::::3/51
-P(club on first . diamond on second)::::13/204
-P(black on first . black on second)::::25/102
-P(queen of hearts on first . queen of hearts on second)::::0
-P(spade on first . black on second)::::25/204
-P(king on second draw given ace on first draw)::::4/51
-P(red on second given jack of spades on first)::::26/51
+P(Jack on first draw . Queen on second draw)::::4/663
+P(Ace on first draw . Ace on second draw)::::3/663
+P(Ace of hearts on first . Red on second)::::25/2652
+P(Club on first . Club on second)::::3/51
+P(Club on first . Diamond on second)::::13/204
+P(Black on first . Black on second)::::25/102
+P(Queen of hearts on first . Queen of hearts on second)::::0
+P(Spade on first . Black on second)::::25/204
+P(King on second draw given ace on first draw)::::4/51
+P(Red on second given jack of spades on first)::::26/51

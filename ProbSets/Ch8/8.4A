@@ -1,6 +1,6 @@
 #!qtype PRF
-#!preamble <font color="ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Conditional Proof</font>&nbsp;&nbsp;
+
+#!preamble <strong>Conditional Proof.</strong>
 #!preamble Use CP to show that each of the following symbolic arguments is valid.
 
 1.Z->(~Y->X)2.Z->~Y :. Z->X

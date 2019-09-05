@@ -3,11 +3,11 @@
 #!valuetype QUANTITY::Universal::Particular
 #!valuetype QUALITY::Affirmative::Negative
 
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Categorical Statements</font>
-#!preamble Select the form of each of the following categorical statements
-#!preamble (A, E, I,or O)., quantity (universal or particular), and quality
-#!preamble (affirmative or negative).
+#!preamble <strong>Categorical Statements</strong>&nbsp;&nbsp;
+#!preamble For each of the following statements, identify the form
+#!preamble (A, E, I, or O), quantity (universal or particular),
+#!preamble and quality (affirmative or negative). (The text also
+#!preamble has you identify the subject and predicate terms.)
 
 #1
 All hungry cannibals are dangerous people::A::::Universal::::Affirmative::
@@ -56,7 +56,7 @@ All individuals who lie frequently are deeply unhappy people.::A::::Universal:::
 #23
 No losers are winners.::E::::Universal::::Negative::
 #24
-Some people who voted for Gore are intelligent people.::I::::Particular::::Affirmative::
+Some politicians are intelligent people.::I::::Particular::::Affirmative::
 #25
 No photons are objects visible to the naked eye.::E::::Universal::::Negative::
 #26

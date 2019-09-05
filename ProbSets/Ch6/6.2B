@@ -1,6 +1,13 @@
 #!qtype venn2x2
 
-#Part B:Venn Diagrams and ArgumentsDraw two Venn diagrams for each ofthe following arguments, one for the premise and one for the conclusion. First drawa Venn diagram of the premise, labeling the left circle with an abbreviation of thesubject term and the right circle with an abbreviation of the predicate term. Sec-ond, draw a Venn diagram for the conclusion, but label the circles as before (withthe left circle labeled by an abbreviation of the subject term of the premiseand theright circle labeled with an abbreviation of the predicate term of the premise).Finally, indicate whether the argument is valid.
+#!preamble <strong>Venn Diagrams and Arguments.</strong>
+#!preamble For each of the following
+#!preamble arguments, you will be given two empty Venn diagrams with the left
+#!preamble circle labeled with the subject term of the premise and the right
+#!preamble circle labeled with the predicate term of the premise. First diagram
+#!preamble the premise. Then (as described in more detail in the text) diagram
+#!preamble the conclusion. After checking to verify that you have diagrammed
+#!preamble correctly, say whether or not the argument is valid.
 
 # format = arg::premsubj::prempred::premdiag::concdiag::validity
 
@@ -9,14 +16,16 @@ Some chairs are not thrones. So, some thrones are not chairs.::Chairs::Thrones::
 #2
 All scallops are mollusks. Hence, no scallops are nonmollusks.::Scallops::Mollusks::1000.gif::1000.gif::Valid
 #3
-All minds are brains. Therefore, all non-brains are nonminds.::Minds::Brains::1000.gif::1000.gif::Valid
+All minds are brains. Therefore, all non-brains are non-minds.::Minds::Brains::1000.gif::1000.gif::Valid
 #4
 Some married persons are persons who have attachment disorders. Thus, some persons who have attachment disorders are married persons.::Married persons::Persons with attachment disorders::0002.gif::0002.gif::Valid
 #5
 No laypersons are priests. It follows that all laypersons are non-priests.::Laypersons::Priests::0100.gif::0100.gif::Valid
 #6
+<i>Unavailable</i>
 #Some political philosophers are egalitarians. Accordingly, some non-egalitarians are things that are not political philosophers.::Political philosophers::Egalitarians::0100.gif::unavailable.gif::Not valid
 #7
+<i>Unavailable</i>
 #No elephants are beetles. Consequently, no nonbeetles are nonelephants.::Elephants::Beetles::0100.gif::unavailable.gif::Not valid
 #8
 No Pickwickian interpretations are obvious interpretations. So, no obvious interpretations are Pickwickian interpretations.::Pickwickian interpretations::Obvious interpretations::0100.gif::0100.gif::Valid
@@ -34,3 +43,14 @@ Some mammals are edentulous animals. Thus, all mammals are edentulous animals.::
 Some boring events are colloquia. Accordingly, some boring events are not colloquia.::Boring events::Colloquia::0002.gif::0001.gif::Not valid
 #15
 Some theists are not predestinarians. Therefore, no theists are predestinarians.::Theists::Predestinarians::0001.gif::0100.gif::Not valid
+#16
+No contrarians are easy people to work with. So, all noncontrarians are easy people to work with.::Contrarians::Easy people to work with::0100.gif::0000.gif::Not valid
+#17
+Some utility-maximizing acts are immoral acts. For after all, some immoral acts are utility-maximizing acts.::Immoral acts::Untility-maxing acts::0002.gif::0002.gif::Valid
+#18
+All pyrrhonians are skeptics. So, no phyrrhonians are nonskeptics.::Pyrrhonians::Skeptics::1000.gif::1000.gif::Valid
+#19
+Some virtues are not intellectual character traits. Hence, some virtues are intellectual character traits.::Virtues::Intellectual traits::0001.gif::0002.gif::Not valid
+#20
+<i>Unavailable</i>
+#Some marsupials are mammals. That’s because all nonmammals are nonmarsupials.::Nonmammals::Nonmarsupials::0010.gif::unavailable.gif::Not valid

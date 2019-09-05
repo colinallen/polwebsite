@@ -1,19 +1,37 @@
-#!qtype MC_MULTI
-#!valuetype A STATEMENT::True::False::Not guaranteed
-#!valuetype E STATEMENT::True::False::Not guaranteed
-#!valuetype I STATEMENT::True::False::Not guaranteed
-#!valuetype O STATEMENT::True::False::Not guaranteed
+#!qtype MC_FIXED
+#!values True::False
 
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
-#!preamble Generalizing</font>
-#!preamble Select the appropriate answers for the four types of statement.
-#!preamble Recall that when the truth value of one statement X logically implies neither the truth nor the falsehood of another statement Y, we say the truth value of Y is not guaranteed by X.
+#!preamble <strong>Generalizing.</strong>
+#!preamble For each of the following statements, select "True" or "False"
+#!preamble as the case may be.
 
 #1
-Suppose an A statement is false. What can be logically inferred regarding the truth or falsehood of its corresponding E, I,and O statements?::False::We told you!::Not guaranteed::All it takes for an A statement "All S are P" to be false is for just one S not to be P.  It needn't be the case that no S are P.::Not guaranteed::If it is false that all S are P, it <i>might</i> be the case that some still are.  However, it might also be the case that none are, and hence the true of the corresonding I statement is not guaranteed.::True::A and O statements are contradictories.
+If an A statement is false, then the corresponding E statement must be true.::::False
 #2
-Suppose an E statement is false. What can be logically inferred regarding the truth or falsehood of its corresponding A, I, and O statements?::Not guaranteed::If no S are P is false, then all we know is that at least one S is P; it <i>could</i> be that all S are P, but this is not guaranteed.::False::We told you!::True::E and I are contradictories.::Not guaranteed::If no S are P is false, then we know that at least one S is P; but we don't know that some are not, as it might be that, not just some S are P, but that <i>all</i> of them are, 
+If an A statement is false, then the corresponding I statement must be false.::::False
 #3
-Suppose an I statement is false. What can be logically inferred regarding the truth or falsehood of its corresponding A, E, and O statements?::False::A statements imply their corresponding I statements in the traditional square of opposition.::True::I statements and their corresponding E statements are contradictories.::False::We told you!::True::I and O are subcontraries, and subcontraries cannot both be false.
+If an A statement is false, then the corresponding O statement must be true.::::True
 #4
-Suppose an O statement is false. What an be logically inferred regarding the truth or falsehood of its corresponding A, E,and I statements.::True::Corresponding O and A statements are contradictories.::False::E implies O::True::Corresponding I and O are subcontraries, and subcontraries cannot both be false.::False::We told you!
+If an A statement is false, then the corresponding E statement could be either true or false.::::True
+#5
+If an E statement is false, then the corresponding A statement must be true.::::False
+#6
+If an E statement is false, then the corresponding I statement must be true.::::True
+#7
+If an E statement is false, then the corresponding O statement must be false.::::False
+#8
+If an E statement is false, then the corresponding I statement could be either true or false.::::False
+#9
+If an I statement is false, then the corresponding A statement must be false.::::True
+#10
+If an I statement is false, then the corresponding E statement must be true.::::True
+#11
+If an I statement is false, then the corresponding O statement must be false.::::False
+#12
+If an I statement is false, then the corresponding O statement must be true.::::True
+#13
+If an O statement is false, then the corresponding A statement could be either true or false.::::False
+#14
+If an O statement is false, then the corresponding E statement could be either true or false.::::False
+#15
+If an O statement is false, then the corresponding I statement could be either true or false.::::False

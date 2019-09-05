@@ -1,7 +1,7 @@
 #!qtype MC_FIXED
 #!values DA: denying the antecedent::AC: affirming the consequent::Unnamed Invalid Form
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Invalid Forms to Identify</font>&nbsp;&nbsp;
+
+#!preamble <strong>Invalid Forms to Identify</strong>&nbsp;&nbsp;
 #!preamble Try to identify the most logically sensitive forms of the following arguments, using capital letters to stand for statements and eliminating any stylistic variants.  Then determine whether it is one of the invalid forms introduced so far, or select "Unnamed Invalid Form".  (Note that we don't yet have the means to check counterexamples online, so the instructions for this exercise have been modified from the textbook.)
 
 # Format of each line is QUESTION::ERRORSTRING::ANSWER

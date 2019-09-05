@@ -24,7 +24,7 @@
                 "1.2B" => "B. Identify the Forms",
                 "1.2C" => "C. More Forms to Identify",
                 "1.2D" => "D. Still More Forms to Identify",
-                "1.2E" => "E. Constructing Arguments - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 1.2E: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (1.2E).')\">[why?]</span>",
+                "1.2E" => "E. Constructing Arguments &mdash; not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 1.2E: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (1.2E).')\">[why?]</span>",
           },
           'counts' => {
                 "1.2A" => "30",
@@ -38,11 +38,15 @@
           'title'  => "Counterexamples and Invalidity",
           'labels' => {
                 "1.3A" => "A. Counterexamples",
-                "1.3B" => "B. More Counterexamples",
+		"1.3B" => "B. More Counterexamples &mdash; not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 1.2E: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (1.3B).')\">[why?]</span>",
+                "1.3C" => "C. Even More Counterexamples",
+		"1.3D" => "D. Yet More Counterexamples &mdash; not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 1.2E: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (1.3D).')\">[why?]</span>",
           },
           'counts' => {
                 "1.3A" => "19",
-                "1.3B" => "20",
+		"1.3B" => "0",
+                "1.3C" => "20",
+                "1.3D" => "0",
           },
      },
      'sec4' => {

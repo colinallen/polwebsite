@@ -20,7 +20,7 @@
                 "4.2B" => "B. Equivocation  - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 4.2B: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (4.2B).')\">[why?]</span>",
           },
           'counts' => {
-                "4.2A" => "35",
+                "4.2A" => "31",
                 "4.2B" => "0",
           },
      },

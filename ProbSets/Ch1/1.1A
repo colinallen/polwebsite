@@ -1,8 +1,7 @@
 #!qtype MC_FIXED
 #!values Statement::Sentence only::Neither
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Recognizing statements</font>&nbsp;&nbsp;
-#!preamble Choose "Statement" from the drop-down list if the item is a statement. 
+#!preamble <strong>Recognizing statements</strong>&nbsp;&nbsp;
+#!preamble Choose "Statement" from the drop-down list if the item is a statement.
 #!preamble Choose "Sentence only" if the item is a sentence but not a statement.
 #!preamble Choose "Neither" if the item is neither a sentence nor a statement.
 #!topic Recognizing Statements

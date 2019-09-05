@@ -1,7 +1,8 @@
 #!qtype venn3
 
-#!preamble Venn Diagrams. Use Venn diagrams to determine the validity of the
-#!preamble following syllogisms.
+#!preamble <strong>Argument Forms.</strong>
+#!preamble Use Venn diagrams to determine whether the following argument
+#!preamble forms are valid. 
 
 #format is syllogism::major::minor::middle::image::validity
 

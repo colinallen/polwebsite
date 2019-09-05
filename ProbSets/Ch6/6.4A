@@ -1,6 +1,9 @@
 #!qtype venn3
 
-# Part A:Argument FormsUse Venn diagrams to test the following argumentforms. (Do not supply unstated premises.)
+#!preamble
+#!preamble <font color="#ee3333" face="helvetica">
+#!preamble <strong>Argument Forms</strong></font>&nbsp;&nbsp;
+#!preamble Use Venn diagrams to test the following argument forms.
 
 #format is syllogism::major::minor::middle::image::validity
 

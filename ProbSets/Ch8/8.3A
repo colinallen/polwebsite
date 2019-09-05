@@ -1,8 +1,7 @@
 #!qtype PRF
-#!preamble <font color="ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Annotating Proofs</font>&nbsp;&nbsp;
-#!preamble <B>Part A:</B>
-#!preamble Annotate the following short proofs
+
+#!preamble <strong>Annotating Proofs.</strong>
+#!preamble Annotate the following short proofs.
 
 1.B<->E :. E->B2.(B->E).(E->B)3.E->B
 1.(B.C)v(~B.~C) :. B<->C2.B<->C

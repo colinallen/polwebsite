@@ -1,7 +1,7 @@
 #!qtype MC_FIXED
 #!values MP: modus ponens::MT: modus tollens::HS: hypothetical syllogism::DS: disjunctive syllogism::CD: constructive dilemma::None
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
-#!preamble More Forms to Identify</font>&nbsp;&nbsp;
+
+#!preamble <strong>More Forms to Identify</strong>&nbsp;&nbsp;
 #!preamble Identify the forms of the following arguments, using capital letters to stand for statements  and eliminating any stylistic variants. If the argument form is one of the "famous" valid forms, select its name.  If the argument form is not one of the "famous" valid forms, select "none."
 
 # Format of each line is QUESTION::ERRORSTRING::ANSWER

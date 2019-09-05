@@ -77,7 +77,7 @@
                 "9.5B" => "B. Symbolizing",
                 "9.5C" => "C. More Matching",
                 "9.5D" => "D. More Symbolizing",
-                "9.5E" => "E. Ready for a Challenge? - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 9.5E: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (9.5E).')\">[why?]</span>",
+                "9.5E" => "E. Ready for a Challenge  - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 9.5E: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (9.5E).')\">[why?]</span>",
           },
           'counts' => {
                 "9.5A" => "12",

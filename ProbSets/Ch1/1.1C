@@ -1,7 +1,7 @@
 #!qtype MC_FIXED
 #!values Valid::Invalid
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
-#!preamble Valid or Invalid?</font>&nbsp;&nbsp;
+
+#!preamble <strong>Valid or Invalid?</strong>&nbsp;&nbsp;
 #!preamble Much of this text concerns methods of testing arguments for validity. Although we have not yet discussed any particular methods of testing arguments for validity, we do have definitions of "valid argument" and "invalid argument." Based on your current understanding, which of the following arguments are valid? Which are invalid? ( Hint:  Use the definitions that have been provided.)  
 
 # Format of each line QUESTION :: ERROR STRING :: ANSWER

@@ -1,8 +1,7 @@
 #!qtype MC_FIXED
 #!values Courage::Justice::Faith::Evidence::Wisdom::Virtues::Belief::Suspending judgment::Vices::Disbelief
 
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part E:  </strong>
-#!preamble Theoretical Definitions</font>&nbsp;&nbsp;
+#!preamble <strong>Theoretical Definitions.</strong>
 #!preamble Match each definiens with the definiendum that it <em>best</em> characterizes.
 #!preamble These definitions are theoretical in type.
 #!preamble <p>
@@ -21,8 +20,10 @@ Traits that hinder one from living well::Not a virtuous response!::Vices
 Considerations relevant to the truth of the proposition in question::Send a detective to look for it.::Evidence
 #6
 Confidence that a proposition is false::You don't believe it!::Disbelief
+# Old 7
+# Believing in spite of factors that may tend to cause doubt::O ye of little belief in spite of factors tending to cause doubt!::Faith
 #7
-Believing in spite of factors that may tend to cause doubt::O ye of little belief in spite of factors tending to cause doubt!::Faith
+Trusting in spite of factors that may tend to cause doubt.::Trust = Faith!::Faith
 #8
 Giving each individual his or her due::Sometimes we need a judge to dole it out.::Justice
 #9

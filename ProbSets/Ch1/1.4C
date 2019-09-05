@@ -1,7 +1,6 @@
 #!qtype MC_MULTI
 #!valuetype ARGUMENT EVALUATION::Valid::Invalid but Strong::Invalid and Weak
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part C:</strong>
-#!preamble Valid or Invalid? Strong or Weak?</font>&nbsp;&nbsp;
+#!preamble <strong>Valid or Invalid? Strong or Weak?</strong>&nbsp;&nbsp;
 #!preamble As best as you can determine, which of the following arguments are
 #!preamble valid? Which are invalid? Which are strong? Which weak?  (Note that
 #!preamble an argument that is strong or weak is invalid, by definition.)

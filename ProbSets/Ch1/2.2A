@@ -1,6 +1,5 @@
 #!qtype SV_COND
-#!preamble <font color=ee0077 face=helvetica><B>Part A:</B>
-#!preamble Stylistic Variants</font>
+#!preamble Stylistic Variants 
 #!preamble Rewrite each of the following conditional statements in the
 #!preamble form "If A, then B."
 

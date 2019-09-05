@@ -1,7 +1,7 @@
 #!qtype MC_FIXED
 #!values True::False
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble True or False?</font>&nbsp;&nbsp;
+
+#!preamble <strong>True or False?</strong>&nbsp;&nbsp;
 #!preamble Which of the following statements are true? Which are false? 
 
 # Format of each line is QUESTION :: ERROR STRING :: ANSWER

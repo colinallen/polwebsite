@@ -1,7 +1,7 @@
 #!qtype MC_FIXED
 #!values True::False
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A: </strong>
-#!preamble True or False?</font>&nbsp;&nbsp;
+
+#!preamble <strong>True or False?</strong>
 #!preamble Determine the truth value of the following compound statements.
 #!preamble Make the following assumptions: <tt>A</tt> is true, <tt>B</tt> is true, 
 #!preamble <tt>C</tt> is false, and <tt>D</tt> is false. 
@@ -9,54 +9,54 @@
 # Format of each line is QUESTION :: ERROR STRING :: ANSWER
 
 #1
-<tt>A . C</tt>::A true conjunction must have both conjuncts true.::False
+<tt>A.C</tt>::A true conjunction must have both conjuncts true.::False
 #2
-<tt>A v C</tt>::At least one of these is true.::True
+<tt>AvC</tt>::At least one of these is true.::True
 #3
 <tt>~A</tt>::<tt>A</tt> is true, so its negation is false.::False
 #4
-<tt>B -&gt; D</tt>::True antecedent, false consequent : false conditional.::False
+<tt>B-&gt;D</tt>::True antecedent, false consequent : false conditional.::False
 #5
-<tt>D -&gt; B</tt>::False antecedent : true conditional.::True
+<tt>D-&gt;B</tt>::False antecedent : true conditional.::True
 #6
-<tt>A &lt;-&gt; B</tt>::<tt>A</tt> and <tt>B</tt> have the same truth value.::True
+<tt>A&lt;-&gt;B</tt>::<tt>A</tt> and <tt>B</tt> have the same truth value.::True
 #7
-<tt>C &lt;-&gt; D</tt>::<tt>C</tt> and <tt>D</tt> have the same truth value.::True
+<tt>C&lt;-&gt;D</tt>::<tt>C</tt> and <tt>D</tt> have the same truth value.::True
 #8
-<tt>~(A . B)</tt>::The conjunction is true so its negation is false.::False
+<tt>~(A.B)</tt>::The conjunction is true so its negation is false.::False
 #9
-<tt>C v D</tt>::Neither disjunct is true.::False
+<tt>CvD</tt>::Neither disjunct is true.::False
 #10
-<tt>~(C v D)</tt>::The disjunction is false so its negation is true.::True
+<tt>~(CvD)</tt>::The disjunction is false so its negation is true.::True
 #11
-<tt>~C -&gt; D</tt>::True antecedent, false consequent : false conditional.::False
+<tt>~C-&gt;D</tt>::True antecedent, false consequent : false conditional.::False
 #12
-<tt>~(D -&gt; A)</tt>::The conditional is true so its negation is false.::False
+<tt>~(D-&gt;A)</tt>::The conditional is true so its negation is false.::False
 #13
-<tt>(A . C)-&gt;B</tt>::A false antecedent : a true conditional.::True
+<tt>(A.C)-&gt;B</tt>::A false antecedent : a true conditional.::True
 #14
-<tt>C -&gt; (A -&gt; D)</tt>::A false antecedent : a true conditional.::True
+<tt>C-&gt;(A-&gt;D)</tt>::A false antecedent : a true conditional.::True
 #15
-<tt>(C -&gt; A) -&gt; D</tt>::True antecedent, false consequent : false conditional.::False
+<tt>(C-&gt;A)-&gt;D</tt>::True antecedent, false consequent : false conditional.::False
 #16
-<tt>~(A &lt;-&gt; D)</tt>::The biconditional is false so its negation is true.::True
+<tt>~(A&lt;-&gt;D)</tt>::The biconditional is false so its negation is true.::True
 #17
-<tt>~C . ~D</tt>::Both conjuncts are true.::True
+<tt>~C.~D</tt>::Both conjuncts are true.::True
 #18
-<tt>~(~A &lt;-&gt; ~B)</tt>::The biconditional is true so its negation is false.::False
+<tt>~(~A&lt;-&gt;~B)</tt>::The biconditional is true so its negation is false.::False
 #19
-<tt>(A . C) v (B . D)</tt>::Both disjuncts are false.::False
+<tt>(A.C)v(B.D)</tt>::Both disjuncts are false.::False
 #20
-<tt>(C v A) . (D v B)</tt>::Both conjuncts are disjunctions with at least one true disjunct.::True
+<tt>(CvA).(DvB)</tt>::Both conjuncts are disjunctions with at least one true disjunct.::True
 #21
-<tt>~[A -&gt; (C v B)]</tt>::The conditional is true so its negation is false.::False
+<tt>~[A-&gt;(CvB)]</tt>::The conditional is true so its negation is false.::False
 #22
-<tt>(D &lt;-&gt; A) v (C -&gt; B)</tt>::Exactly one of these disjuncts is true.::True
+<tt>(D&lt;-&gt;A)v(C-&gt;B)</tt>::Exactly one of these disjuncts is true.::True
 #23
-#<tt>(~C -&gt; A) &lt;-&gt; (~A v D)</tt>::The two sides of this biconditional have different truth values.::False
-<tt>(~C -> A) <-> (~A v D)</tt>::The two sides of this biconditional have different truth values.::False
+#<tt>(~C-&gt;A)&lt;-&gt;(~AvD)</tt>::The two sides of this biconditional have different truth values.::False
+<tt>(~C->A)<->(~AvD)</tt>::The two sides of this biconditional have different truth values.::False
 #24
-<tt>~B &lt;-&gt; (A . C)</tt>::Both sides of this biconditional are false. ::True
+<tt>~B&lt;-&gt;(A.C)</tt>::Both sides of this biconditional are false. ::True
 #25
-<tt>~(D v C) -&gt; B</tt>::A conditional with a true consequent is true.::True
+<tt>~(DvC) -&gt; B</tt>::A conditional with a true consequent is true.::True
 

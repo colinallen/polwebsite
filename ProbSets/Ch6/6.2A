@@ -1,18 +1,22 @@
 #!qtype venn2
-#!preamble Construct a Venn diagram for the given statement.
+#!preamble 
 
-# format is subject::predicate::diag
+#!preamble <strong>Venn Diagrams and Standard Form.</strong>
+#!preamble Construct a Venn diagram for a categorical form of the
+#!preamble given statement
+
+# format is subject term::predicate term::diag
 
 #1
-At least one ancient philosopher believed in the unreality of change.::Ancient philosophers::People who believe in the unreality of change::0002.gif
+At least one ancient philosopher believed in the unreality of change.::Ancient philosophers::Believers in the unreality of change::0002.gif
 #2
-Not every act of killing is an act of murder.::Act of killing::Murder::0001.gif
+Not every act of killing is an act of murder.::Acts of killing::Acts of murder::0001.gif
 #3
 If anything is a divine being, then it is not limited.::Divine beings::Limited beings::0100.gif
 #4
 Only tax-dodgers deserve harsh treatment from the IRS.::People who deserve harsh treatment from the IRS::Tax-dodgers::1000.gif
 #5
-At least one current musical hit will not be a hit next year.::Current musical hits::Things that are hits next year::0001.gif
+At least one current musical hit will not be a hit next year.::Current musical hits::Hits next year::0001.gif
 #6
 Only people who believe in life after death are people who believe in reincarnation.::Reincarnation believers::Life after death believers::1000.gif
 #7
@@ -23,3 +27,23 @@ At least one corporation is cheating the government.::Corporations::Things that 
 Only violent offenders should be incarcerated.::People who should be incarcerated::Violent offenders::1000.gif
 #10
 Nothing is a physical entity unless it is not spiritual.::Physical entities::Spiritual entities::0100.gif
+#11
+Every day is a new opportunity.::Days::New Opportunities::1000.gif
+#12
+No Kantians are utilitarians.::Kantians::Utilitarians::0100.gif
+#13
+There are some siblings who have no brothers.::Siblings::People with brothers::0001.gif
+#14
+Some nihilists are unpleasant.::Siblings::pleasant people::0001.gif
+#15
+There exists a truth that is unknowable.::Truths::Things that are knowable::0001.gif
+#16
+Only desired outcomes are intended.::Intended outcomes::Desired outcomes::1000.gif
+#17
+Every ontologist is a metaphysician.::Ontologists::Metaphysicians::1000.gif
+#18
+Some things are better left unsaid.::Things::Things better left unsaid::0002.gif
+#19
+At least one Emmy winner is also an Oscar winner.::Emmy winners::Oscar winners::0002.gif
+#20
+If something looks like a duck and quacks like a duck, then it’s a duck.::Things that look and quack like a duck::Ducks::1000.gif

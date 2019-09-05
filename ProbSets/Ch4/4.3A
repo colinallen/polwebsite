@@ -1,9 +1,15 @@
 #!qtype MC_MULTI
-#!valuetype ?::No fallacy::Appeal to ignorance::Appeal to unreliable authority::False cause::Complex question::Appeal to the people::False dilemma::Begging the question::Equivocation::Amphiboly::Division::Composition::Multiple fallacies
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Identifying Fallacies</font>&nbsp;&nbsp;
-#!preamble If a fallacy is committed in the following passages, choose the 
-#!preamble fallacy exemplified. If no fallacy is committed, choose "No fallacy".
+#!valuetype ?::Begging the question::False dilemma::Appeal to unreliable authority::False cause::Complex question::Equivocation::Amphiboly::Composition::Division::Argument against the person::Abusive ad hominem::Circumstantial ad hominem::Tu quoque::Straw man fallacy::Appeal to force::Appeal to the people::Appeal to pity::Appeal to ignorance::Red herring fallacy::Appeal to ignorance::Multiple fallacies::No fallacy
+#!preamble <strong>Identifying Fallacies.</strong>
+#!preamble Most of the following passages (but not all) exemplify fallacies. Many
+#!preamble of the fallacies are fallacies involving unwarranted assumptions,
+#!preamble but some are fallacies introduced in previous sections of this
+#!preamble chapter. In some cases, a single passage exemplifies two or more
+#!preamble fallacies. Identify all the fallacies that appear. In the case of
+#!preamble fallacies involving an unwarranted assumption, identify the
+#!preamble unwarranted assumption. If more than one fallacy is clearly present,
+#!preamble select "Multiple fallacies". If a passage does not contain a fallacy,
+#!preamble select “no fallacy.”
 
 #1
 In a recent speech, the president of General Motors asserted that our country has drifted dangerously away from its religious and ethical moorings. In light of this pronouncement, the cheery optimism of the liberals is no longer reasonable.::Appeal to unreliable authority::
@@ -21,8 +27,10 @@ Left turn signals frequently occur just before an automobile turns left. Right t
 Either men are superior to women or women are superior to men. Men are not superior to women. Hence, women are superior to men.::False dilemma::Look harder at that first sentence.
 #8
 Leonardo da Vinci's paintings are immoral if they incite rape. And the Reverend Posner states that da Vinci's paintings incite rape. Hence, da Vinci's paintings are immoral.::Appeal to unreliable authority
+# Old 9
+#Who's the fairest of them all, Daryl Hannah or Helen Hunt?::Complex question::There are many more choices than Daryl or Helen.
 #9
-Who's the fairest of them all, Daryl Hannah or Helen Hunt?::Complex question::There are many more choices than Daryl or Helen.
+Who’s the most gorgeous movie star alive, Ryan Gosling or Chadwick Boseman?::False dilemma.::There are plenty of leading men who might be considered at least equally handsome.
 #10
 Obviously, humans have free will, since they have the power to make choices.::Begging the question::Perhaps a less questionable assumption should have been chosen.
 #11
@@ -35,8 +43,10 @@ Last night we went to see <em>Hamlet</em>.  The play was excellent since each sc
 Either God created everything (including human beings) in six days or else human life evolved gradually out of lower life forms over a very long period of time apart from any divine activity.  You know about fossils, hence you know that human life evolved gradually out of lower life forms over a very long period of time.  Thus, God did not create everything in six days.::False dilemma::The unwarranted assumption is that God must either create in six days or not at all.
 #15
 Suicide is wrong for many reasons.  First, because it involves killing.  And killing is wrong because it is wrong to take a life.  Second, suicide is wrong because it deeply wounds one's family and friends.  And that is not cool, not cool at all.  Third, suicide is the coward's way out.  It's for weaklings who collapse the first time they run into a little adversity.::Multiple fallacies::Begging the question ("killing is wrong because it is wrong to take a life"). Appeal to the people or ad populum fallacy ("not  cool, not cool at all"). Argument against the person or ad hominem fallacy  (abusive): the key word is "coward."
+# Old 16
+#Why was Warren G. Harding the best American President of the first half of the 20th century?::Complex question::The unwarranted assumption is that Harding was the best President of the period.
 #16
-Why was Warren G. Harding the best American President of the first half of the 20th century?::Complex question::The unwarranted assumption is that Harding was the best President of the period.
+Why was Obama the worst president ever?::Complex question::The question builds in the assumption that Obama was the worst president.
 #17
 We could get control of the crime problem in the United States if we would just punish criminals harshly.  In Saudi Arabia, for example, thieves get their hands chopped off.  Murderers are immediately put to death.  And the rate of crime in Saudi Arabia is much lower than the rate of crime in the United States.  Therefore, harsh punishments would greatly reduce the rate of crime in the United States.::False cause::The causes of crime are many and various.
 #18

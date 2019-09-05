@@ -1,6 +1,5 @@
 #!qtype PRF
-#!preamble <font color="ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Annotating Proofs</font>&nbsp;&nbsp;
+#!preamble <strong>Annotating Proofs.</strong>
 
 #1
 1.~~A->B :. A->B2.A->B

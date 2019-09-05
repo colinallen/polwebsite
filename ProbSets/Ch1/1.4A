@@ -1,6 +1,6 @@
 #!qtype MC_FIXED
 #!values Valid::Invalid::Strong::Weak::Sound::Cogent::Statement::Unsound::Uncogent::Deductive logic::Inductive logic::Logic::Argument::Argument from analogy::Argument from authority
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong> Matching</font>&nbsp;&nbsp;
+#!preamble <strong>Matching</strong>&nbsp;&nbsp;
 #!preamble Choose the term that best characterizes the description or statement on the right.
 
 # Format of each line is QUESTION :: ERROR STRING :: ANSWER 

@@ -1,11 +1,10 @@
 #!qtype MC_FIXED
 #!values 1::2::3::4::5::6
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:  </strong>
-#!preamble Evaluating Lexical Definitions</font>&nbsp;&nbsp;
+#!preamble <strong>Evaluating Lexical Definitions.</strong>
 #!preamble Identify one defect in each of the following definitions, 
 #!preamble using the six criteria for definition by genus and difference:
 
-#!preamble <table>
+#!preamble <table cellpadding="0">
 #!preamble <tr><td>1.</td><td>Obscure, ambiguous, or figurative</td>
 #!preamble <td>&nbsp;</td>
 #!preamble <td>4.</td><td>Too wide</td></tr>

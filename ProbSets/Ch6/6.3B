@@ -1,13 +1,9 @@
 #!qtype venn3
 
-#!preamble Venn Diagrams. Use Venn diagrams to determine the validity of the
-#!preamble following syllogisms. In labeling the circles of your diagrams,
-#!preamble remember that the middle term labels the circle in the middle. The
-#!preamble subject term of the conclusion labels the circle on the upper left;
-#!preamble and the predicate term of the conclusion labels the remaining
-#!preamble circle. Use your knowledge of stylistic variants to reinterpret any
-#!preamble statements which are not in standard form. (Standard forms are: All S
-#!preamble are P; No S are P; Some S are P; Some S are not P.)
+#!preamble <strong>Categorical Syllogisms.</strong>
+#!preamble Use Venn diagrams to determine whether the following categorical
+#!preamble syllogisms are valid. If a given syllogism is not in standard form, be
+#!preamble sure to put it into standard form before working the problem.
 
 #format is syllogism::major::minor::middle::image::validity
 

@@ -1,9 +1,10 @@
 #!qtype MC_FIXED
 #!values Valid::Not valid
 
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part B:</strong>
-#!preamble Immediate Inferences</font>
-#!preamble  Which of the following immediate inferences are valid according to Aristotelian logicians? Which are not valid?
+#!preamble <strong>Immediate Inferences.</strong>
+#!preamble For each of the following inferences, select "Valid" if
+#!preamble it is valid according to the Traditional Square of Opposition;
+#!preamble otherwise select "Not valid".
 
 #1
 All cougars are carnivores. So, it is false that some cougars are not carnivores.::::Valid

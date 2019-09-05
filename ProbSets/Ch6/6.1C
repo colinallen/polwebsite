@@ -1,38 +1,41 @@
 #!qtype MC_MULTI
 #!valuetype MOOD::AAA::AAI::AEE::AEO::AIA::AII::AOO::EAE::EAO::EEE::EII::EIO::EOO::IAI::IAO::IEO::III::OAO::OEE::OEO::OOO
 #!valuetype FIGURE::First Figure::Second Figure::Third Figure::Fourth Figure
-#!valuetype EVALUATION::Valid::Not valid
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part C: </strong>
-#!preamble Putting Syllogisms into Standard Form</font>&nbsp;&nbsp;
-#!preamble After you have put the following syllogisms into standard form, indicate the mood and figure below and use the list of valid forms to determine whether the syllogisms are valid.
+#!valuetype VALIDITY::Valid::Not valid
+#!preamble <strong>Putting Syllogisms into Standard Form.</strong>
+#!preamble On a separate sheet of paper, put each the following syllogisms
+#!preamble into standard form. Then, for each syllogism, indicate
+#!preamble its mood and figure, and use the first list of
+#!preamble valid forms provided in Section 6.1 to determine whether the
+#!preamble syllogism is valid.
 
 #1
-Every cowboy loves horses. Not all farmers love horses. It follows that at least one farmer is not a cowboy.::AOO::::Second Figure::::Valid::
+Every cowboy loves horses. Not all farmers love horses. It follows that at least one farmer is not a cowboy.::AOO::The mood is AOO.::Second Figure::2nd figure.::Valid::Syllogisms with the form AOO-2 are valid.
 #2
-Nothing is a rodeo unless it is not an opera. Each opera includes singers. So, nothing that is a rodeo includes singers.::AEE::::First Figure::::Not valid::
+Nothing is a rodeo unless it is not an opera. Each opera includes singers. So, nothing that is a rodeo includes singers.::AEE::The mood is AEE.::First Figure::1st figure.::Not valid::Syllogisms with the form AEE-1 are not valid.
 #3
-Not everyone who loves country music is rodeo star. For at least one rock star loves country music; and no rock stars are rodeo stars.::EIO::::Third Figure::::Valid::
+Not everyone who loves country music is rodeo star. For at least one rock star loves country music; and no rock stars are rodeo stars.::EIO::The mood is EIO. Note that the conclusion is stated first and should be rendered (e.g.) "Some country music lovers are not rodeo stars". The word "For" signals that the premises in support of the conclusion are about to be given.::Third Figure::3rd figure.::Valid::Syllogisms with the form EIO-3 are valid.
 #4
-No cowards ride bulls; therefore, some fools are not cowards since at least tone bull rider is a fool.::EIO::::Fourth Figure::::Valid::
+No cowards ride bulls; therefore, some fools are not cowards since at least tone bull rider is a fool.::EIO::The mood is EIO.::Fourth Figure::4th figure.::Valid::Syllogisms with the form EIO-4 are valid.
 #5
-No cowgirls are city slickers; hence, no city slicker is a talented rider, because only talented riders are cowgirls.::AEE::::Third Figure::::Not valid::
+No cowgirls are city slickers; hence, no city slicker is a talented rider, because only talented riders are cowgirls.::AEE::The mood is AEE. Note that the conclusion (signaled by the word "hence") comes second here.::Third Figure::3rd figure.::Not valid::Syllogisms with the form AEE-3 are not valid.
 #6
-There exists a drifter who is a sheriff; for at least one sheriff is a gunslinger, and a thing is a gunslinger only if it is a drifter.::IAI::::Fourth Figure::::Valid::
+There exists a drifter who is a sheriff; for at least one sheriff is a gunslinger, and a thing is a gunslinger only if it is a drifter.::IAI::The mood is IAI. Note that the conclusion comes first; the word "for" signals the premises in support of the conclusion are about to be given.::Fourth Figure::4th figure::Valid::Syllogisms with the form IAI-4 are valid.
 #7
-Only good guys are cowboys in white outfits. A thing is a cattle rustler only if it is not a good guy. It follows that no cowboys in white outfits are cattle rustlers.::EAE::::Second Figure::::Valid::
+Only good guys are cowboys in white outfits. A thing is a cattle rustler only if it is not a good guy. It follows that no cowboys in white outfits are cattle rustlers.::EAE::The mood is EAE. Bear in mind, regarding the first premise, that statements of the form "Only Bs are As" translate to standard form as "All As are Bs".::Second Figure::2nd figure.::Valid::Syllogisms with the form EAE-2 are valid.
 #8
-Every barkeep who serves rotgut is a bad guy. Therefore, at least one person who won't live long is a bad guy since at least one barkeep who serves rotgut won't live long.::AII::::Third Figure::::Valid::
+Every barkeep who serves rotgut is a bad guy. Therefore, at least one person who won't live long is a bad guy since at least one barkeep who serves rotgut won't live long.::AII::The mood is AII. Note that the conclusion &mdash; signaled by the word "Therefore" &mdash; comes second here.::Third Figure::3rd figure.::Valid::Syllogisms with the form AII-3 are valid.
 #9
-Only westerns are worth seeing, because only good movies are worth seeing,and only westerns are good movies.::AAA::::First Figure::::Valid::
+Only westerns are worth seeing, because only good movies are worth seeing,and only westerns are good movies.::AAA::The mood is AAA. The conclusion in the syllogism as stated is given first &mdash; the word "because" tells us that the premises to be offered in support of the conclusion are about to be given) and is properly rendered "All movies worth seeing are westerns" (which makes "westerns" the major term).::First Figure::1st figure.::Valid::Syllogisms with the form AAA-1 are valid.
 #10
-At least one bronco is not hard to ride, for all bulls are hard to ride, and some broncos are not bulls.::AOO::::First Figure::::Not valid::
+At least one bronco is not hard to ride, for all bulls are hard to ride, and some broncos are not bulls.::AOO::The mood is AOO. Note the conclusion is stated first; the word "for" signals that the premises are about to be given.::First Figure::1st figure.::Not valid::Syllogisms of the form AOO-1 are not in general valid.
 #11
-Nothing is a wealthy landowner unless it is not a buckaroo. A thing is a cattle baron only if it is a wealthy landowner. Hence, nothing that is a buckaroo is also a cattle baron.::AEE::::Fourth Figure::::Valid::
+Nothing is a wealthy landowner unless it is not a buckaroo. A thing is a cattle baron only if it is a wealthy landowner. Hence, nothing that is a buckaroo is also a cattle baron.::AEE::The mood is AEE.::Fourth Figure::4th figure::Valid::Syllogisms of the form AEE-4 are valid.
 #12
-If anything is a bounty hunter, then it is not a sodbuster. At least one outlaw is a sodbuster; therefore, not every outlaw is a bounty hunter.::EIO::::Second Figure::::Valid::
+If anything is a bounty hunter, then it is not a sodbuster. At least one outlaw is a sodbuster; therefore, not every outlaw is a bounty hunter.::EIO::The mood is EIO. Be careful to identify the major term and put the major premise first.::Second Figure::2nd figure.::Valid::Syllogisms of the form EIO-2 are valid.
 #13
-A thing is a trail boss only if it is not a hired hand. There exists a rancher who is a hired hand. Consequently, at least one rancher is a trail boss.::EII::::Second Figure::::Not valid::
+A thing is a trail boss only if it is not a hired hand. There exists a rancher who is a hired hand. Consequently, at least one rancher is a trail boss.::EII::The mood is EII::Second Figure::2nd figure.::Not valid::Syllogisms of the form EII-2 are not in general valid.
 #14
-Not all bandits will be hanged. After all, at least one bandit is not a horse thief, and every horse thief will be hanged.::AOO::::First Figure::::Not valid::
+Not all bandits will be hanged. After all, at least one bandit is not a horse thief, and every horse thief will be hanged.::AOO::The mood is AOO. Note that the conclusion is stated first. The premises are signalled by the folksy "After all".::First Figure::1st figure.::Not valid::Syllogisms of the form AOO-1 are not valid in virtue of their form.
 #15
-Not all sheep ranchers are fast guns; hence, not all honest citizens are fast guns, since only honest citizens are sheep ranchers.::OAO::::Third Figure::::Valid::
+Not all sheep ranchers are fast guns; hence, not all honest citizens are fast guns, since only honest citizens are sheep ranchers.::OAO::The mood is OAO. Note the conclusion (signaled by the word "hence") of the syllogism as given is stated second and the second premise (signaled by "since") is stated last::Third Figure::3rd figure.::Valid::Syllogisms of the form OAO-3 are valid.

@@ -1,84 +1,100 @@
-<table><tr><td align="center">
+<table style="border: solid brown 1px">
+  <tr>
+    <td align="center">
+      <table style="border: solid brown 1px">
+	<tr>
+	  <td>
+	    <div><!--actions-->
+	      <INPUT TYPE="radio" NAME="action" VALUE="Shading"> <b>Shading</b>
+	      <INPUT TYPE="radio" NAME="action" VALUE="Particular" CHECKED> <b>Particular</b>
+	      </div>
+	    </td>
+	</tr>
+      </table><!--end actions-->
+      <center><em>Diagram actions</em></center>
+    </td>
+    
+    
+    <td>
+      The Venn Diagram is altered by selecting either `Shading' or
+      `Particular' from the radio button set and then clicking on an
+      appropriate region of the image.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      With <span style="font-weight:bold; color:red">Shading</span>
+      selected, clicking on an unshaded area will shade it,
+      unless you have already reached the maximum number of shaded areas
+      (four).  Clicking on a shaded area will remove the shading.
+      
+      <p>
+	With <span style="font-weight:bold; color:red">Particular</span>
+	selected, clicking in an unoccupied region or on the
+	border between two unshaded regions will result in an `X' being
+	positioned appropriately.  Clicking on a region that already contains
+	an X will remove that X.  Otherwise clicking on a diagram which
+	already contains an X will result in the X being moved unless
+	the rules for constructing diagrams of syllogisms allow a second X
+	to be placed in that position.
+      </p>
+    </td>
+    
+    <td align="center">
+      <table border="0"><!--diagram-->
+	<tr>
+	  <td width="80" align="left" valign="top"><strong>A</strong></td>
+	  <td width="80" align="right" valign="top"><strong>B</strong></td>
+	</tr>
+	<tr>
+	  <td width="160" align="center" colspan="2" bgcolor="#ffffcc">
+	    <img src="http://www.poweroflogic.com/cgi/Venn/delivergif.cgi?image=00100001.gif"
+		 align="center" border="0">
+	    <br><center><strong>C</strong></center>
+	    <br><em>Example Venn Diagram</em>
+	  </td>
+	</tr>
+      </table><!--end diagram-->
+  </td></tr>
+  
+  <tr><td align="center">
+      <table style="border: solid brown 1px">
+	<tr>
+	  <td>
+	    <table border="0">
+	      <tr>
+		<div>
+		  <TD><INPUT TYPE="radio" NAME="action" VALUE="Check"> <b>Check</b></TD>
+		  <TD><INPUT TYPE="radio" NAME="action" VALUE="Clear"> <b>Clear</b></TD>
+		</div>
+	      </tr>
+	    </table>
+	  </td>
+	</tr>
+      </table>
 
-<table border="1"><tr><td>
-<TABLE border="0:><!--actions-->
-<TR>
-<TD>
-<INPUT TYPE="radio" NAME="action" VALUE="Shading"> Shading</TD>
-<TD><INPUT TYPE="radio" NAME="action" VALUE="Particular" CHECKED> Particular</TD>
-</TR>
-</TABLE><!--end actions-->
-</td></tr></table>
-<center><em>Diagram actions</em></center>
-</td>
-
-
-<td>
-The Venn Diagram is altered by selecting either `Shading' or
-`Particular' from the radio button set and then clicking on an
-appropriate region of the image.
-</td>
-</tr>
-
-<tr>
-<td>
-With `Shading' selected, clicking on an unshaded area will shade it,
-unless you have already reached the maximum number of shaded areas
-(four).  Clicking on a shaded area will remove the shading.
-
-<p>
-
-With `Particular' selected, clicking in an unoccupied region or on the
-border between two unshaded regions will result in an `X' being
-positioned appropriately.  Clicking on a region that already contains
-an X will remove that X.  Otherwise clicking on a diagram which
-already contains an X will result in the X being moved unless
-the rules for constructing diagrams of syllogisms allow a second X
-to be placed in that position.
-
-
-</td>
-<td align="center">
-<table border="0"><!--diagram-->
-<tr>
-<td width="80" align="left" valign="top"><strong>A</strong></td>
-<td width="80" align="right" valign="top"><strong>B</strong></td>
-</tr>
-<tr>
-<td width="160" align="center" colspan="2">
-<img SRC="http://www.poweroflogic.com/cgi/Venn/delivergif.cgi?image=00100001.gif" align="center" border="0">
-<br><center><strong>C</strong></center>
-<br><em>Example Venn Diagram</em>
-</td>
-</tr>
-</table><!--end diagram-->
-</td></tr>
-
-<tr><td align="center">
-<table border="1"><tr><td>
-<table border="0">
-<TR>
-<TD><INPUT TYPE="radio" NAME="action" VALUE="Check"> Check</TD>
-<TD><INPUT TYPE="radio" NAME="action" VALUE="Clear"> Clear</TD>
-</TR>
+      <center><em>Other actions</em></center>
+    </td>
+    
+    <td>
+      At any point the <span style="font-weight:bold; color:red">Check</span>
+      button may be selected; clicking on the diagram
+      at this point will check the diagram against the premises of the
+      syllogism.  If the premises are accurately represented by the diagram
+      you will be asked whether the syllogism is valid or invalid.
+      Otherwise you will be presented with the opportunity to continue to
+      modify the diagram. 
+      
+      <p>
+	
+	The <span style="font-weight:bold; color:red">Clear</span>
+	button will return the diagram to the basic, unshaded
+	3-circle figure.
+	</p>
+      
+    </td>
+  </tr>
 </table>
-</td></tr></table>
-<center><em>Other actions</em></center>
-</td>
-
-<td>
-At any point the `Check' button may be selected; clicking on the diagram
-at this point will check the diagram against the premises of the
-syllogism.  If the premises are accurately represented by the diagram
-you will be asked whether the syllogism is valid or invalid.
-Otherwise you will be presented with the opportunity to continue to
-modify the diagram. 
-
-<p>
-
-The `Clear' button will return the diagram to the basic, unshaded
-3-circle figure.
-
-</td></tr></table>
 
 

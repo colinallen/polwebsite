@@ -1,6 +1,7 @@
 #!qtype ATT
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A: </strong>
-#!preamble Abbreviated Truth Tables</font>&nbsp;&nbsp;
+#!preamble <span style="font-weight: bold">
+#!preamble Abbreviated Truth Tables
+#!preamble </span>&nbsp;&nbsp;
 #!preamble Use abbreviated truth tables to show that the following arguments are invalid.
 
 #1
@@ -40,6 +41,6 @@ S->(A.O), ~Pv~R, P->(SvZ), Z->(O->R) :. Zv~P
 #18
 Av(B.C), ~A :. (A.B)v(A.C)
 #19
-~(QvS), ~TvS, (U.W)->Q :. (~T.~U).W
+~(QvS), ~GvS, (U.W)->Q :. (~G.~U).W
 #20
 ~J.~K, L->J, M->K, (M->~L)->~(N.O) :. ~N

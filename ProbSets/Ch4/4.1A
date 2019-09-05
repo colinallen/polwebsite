@@ -1,7 +1,6 @@
 #!qtype MC_MULTI
-#!valuetype ?::No fallacy::Argument against the person::Abusive ad hominem::Straw man fallacy::Appeal to force::Appeal to the people::Appeal to pity::Formal fallacy::Appeal to ignorance
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Formal and Informal Fallacies</font>&nbsp;&nbsp;
+#!valuetype ?::Argument against the person::Abusive ad hominem::Circumstantial ad hominem::Tu quoque::Straw man fallacy::Appeal to force::Appeal to the people::Appeal to pity::Appeal to ignorance::Red herring fallacy::Appeal to ignorance::Formal fallacy::No fallacy
+#!preamble <strong>Formal and Informal Fallacies.</strong>
 #!preamble If a fallacy is committed in the following passages, choose the 
 #!preamble fallacy exemplified. If no fallacy is committed, choose "No fallacy."
 #!preamble If more than one fallacy applies, choose the most specific one.
@@ -48,7 +47,7 @@ Excuse me, Mr. Smith, did I hear you correctly? Did you say that boxing should b
 #19
 Mr. Johnson argues that we should stop eating meat. But did you know that Mr. Johnson owns the Vegetables Forever Produce Company? Oh yes, he stands to gain a lot, financially speaking, if the rest of us become vegetarians. I think we can safely ignore his line of argument.::Argument against the person::Even if he does stand to gain, does that mean he's wrong?
 #20
-Nowadays, everybody who is anybody knows that zumba is the coolest way to keep fit.::Appeal to the people::It must be great, because it's the latest trend!! :-)
+Nowadays, everybody who is anybody knows that CrossFit is the coolest way to keep fit.::Appeal to the people::It must be great, because it's the latest trend!! :-)
 #21
 Given that most commuters are willing to ride trains, light rail is a good solution to gridlock on the highways. But most commuters are not willing to ride trains. Hence, light rail is not a good solution to gridlock on the highways.::Formal fallacy::Denying the antecendent.
 #22
@@ -65,7 +64,9 @@ Robert, I've heard you're a climate change denier. So, let me tell you something
 Yes, Jill argues for deconstruction. But her mind is so open her brains are falling out. You can safely ignore whatever she has to say.::Argument against the person::Attack on Jane not her arguments.
 #28
 In 1742 Christian Goldbach conjectured that every even number greater than 2 is the sum of two primes. Mathematicians have been trying to prove Goldbach's Conjecture ever since, but no one has succeeded in doing so. After two-and-half centuries, I think we can safely conclude that Goldbach was wrong.::Appeal to ignorance::"...no one has succeeded in doing so."
+# Old 29
+#It's interesting how the family of David Walker, the African American shot by Seattle police, complained that none of the jurors at the fact-finding hearing are black, but have no problem that their attorney suing the city for $5 million is not black. (Assume that the implicit conclusion is: the complaint is groundless.)::Argument against the person::It is suggested that there is some inconsistency or hypocrisy in demanding black jurors while employing a non-black attorney.
 #29
-It's interesting how the family of David Walker, the African American shot by Seattle police, complained that none of the jurors at the fact-finding hearing are black, but have no problem that their attorney suing the city for $5 million is not black. (Assume that the implicit conclusion is: the complaint is groundless.)::Argument against the person::It is suggested that there is some inconsistency or hypocrisy in demanding black jurors while employing a non-black attorney.
+The GOP is complaining about the one week delay in the Kavanaugh hearings. Wait; is this the GOP who wouldn’t even discuss Obama’s nominee? I am choking on the hypocrisy.::Tu quoque::The charge of hypocrisy is the distinguishing characteristic of the <b>tu quoque</b> fallacy.
 #30
 After centuries of trying, no one has been able to prove that God exists. The attempt seems to be futile. So, at this point I think we can safely conclude that there is no God.::Appeal to ignorance::"...no one has been able to prove..."

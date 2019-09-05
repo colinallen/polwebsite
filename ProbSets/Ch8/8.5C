@@ -1,0 +1,65 @@
+#!qtype PRF
+
+#!preamble <strong>More Proofs</strong>
+#!preamble Construct proofs for the following valid symbolic arguments.
+
+#1
+1.CvF2.F->C :. C
+#2
+1.Lv(M.N)2.[M->(∼L->~O]3.O :. L
+#3
+1.B->D2.~A->(B.C)3.C->~D :. A
+#4
+1.~KvN2.(J.K)->L3.(J->L)->M :. K->(M.N)
+#5
+1.(DvE)->(F->G)2.(~GvH)->(D.F) :. G
+#6
+1.~Rv~S2.A->(S.R) :. ~A
+#7
+1.(K->P)->M2.K->(P.D) :. M
+#8
+1.~AvB2.~Av(~BvC) :. ~AvC
+#9
+1.DvC2.C->(DvF)3.~F :. D
+#10
+1.AvD2.(AvB)->C3.(DvX)->C :. C
+#11
+1.N :. M->(P->M)
+#12
+1.(NvO)->(P.~K)2.(KvL)->(M.N) :. ~K
+#13
+1.A->~B2.C->(A.B)3.D<->C :. ~D
+#14
+1.(K->P)->M2.K->(P.D) :. M
+#15
+1.A->(V->S)2.A->V3.(A->S)->H :. H
+#16
+1.(FvB)2.(C.D)3.~(D.F) :. ~F
+#17
+1.(AvB)->~(DvE)2.DvC3.C->(B.H) :. (AvB) ↔ C
+#18
+1.(PvW)->~T2.S->(Q.U)3.R->(SvT) :. (P.~Q)->~R
+#19
+1.~A->(~A->B)2.B->[A->(C.~C)] :. ~A<->B
+#20
+1.A->B2.E->C3.~A->(D->E)4.(BvC)->F :. D->F
+#21
+1.M->(N->O)2.~N->P3.(M->P)->(Ov~Q) :. ~O->~Q
+#22
+1.A->B2.B->C :. A<->(A.C)
+#23
+1.(MvN)->O2.(~MvP)->Q :. OvQ
+#24
+1.[X->(Y->X)]->Z :. Z
+#25
+1.CvD :. (B->C)v(~G->D)
+#26
+1.(Z.Y)<->(W.X)2.Z->Y3.X->W :. Z<->X
+#27
+1.A->(B.C)2.(A.C)->(D<->~D) :. ~A
+#28
+1.G->[(Hv~H)->(IvJ)]2.J->~(Kv~K) :. G->I
+#29
+1.(EvF)->(H.I)2.(IvJ)->(Lv~H)3.(LvM)->~(E.I) :. ~E
+#30
+1.D->[(EvF)->(G.H)]2.I->[(HvJ)->(K.~F)] :. (D.I)->~F

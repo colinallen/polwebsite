@@ -1,16 +1,19 @@
 #!qtype MC_MULTI
-#!valuetype FALLACY?::No fallacy::Equivocation::Amphiboly::Composition::Division::Argument against the person::Straw man fallacy::Appeal to pity
-#!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
-#!preamble Fallacies Involving Ambiguity</font>&nbsp;&nbsp;
-#!preamble If a fallacy is committed in the following passages, choose the 
-#!preamble fallacy exemplified. If No fallacy is committed, choose "No fallacy."
+#!valuetype ?::Equivocation::Amphiboly::Composition::Division::Argument against the person::Abusive ad hominem::Circumstantial ad hominem::Tu quoque::Straw man fallacy::Appeal to force::Appeal to the people::Appeal to pity::Appeal to ignorance::Red herring fallacy::Appeal to ignorance::No fallacy
+#!preamble <strong>Fallacies Involving Ambiguity.</strong>
+#!preamble Most of the following passages exemplify a fallacy introduced in
+#!preamble Section 4.2, but some of the passages do not exemplify fallacies, and
+#!preamble some exemplify a fallacy introduced in Section 4.1. Identify all of
+#!preamble the fallacies. If no fallacy is committed, choose “No fallacy.”
 
 #1
 The leader of this new religious group preaches the following message, "We shall wear no clothes to distinguish ourselves from our Christian brethren." Therefore, this religious group should be opposed. For it advocates nudity.::Amphiboly::Reject ambiguous sentences!
 #2
 No member of the crew can lift over 100 pounds. Therefore, the entire crew cannot lift over 100 pounds.::Composition::Together they can do more than alone.
+# OLD #3
+#Monty is so much fun at a party! He's a real ham! But if he's a ham, then he is high in cholesterol. So, he is high in cholesterol.::Equivocation::How many hams are there?
 #3
-Monty is so much fun at a party! He's a real ham! But if he's a ham, then he is high in cholesterol. So, he is high in cholesterol.::Equivocation::How many hams are there?
+No man born of woman can harm Macbeth. Macduff is a man born of woman. So, Macduff cannot harm Macbeth.::Equivocation::&ldquo;Born of a woman&rdquo; can mean &ldquo;exited a woman&rsquo;s womb, i.e., simply the offspring of human parents&rdquo; and it can mean &ldquo;born by vaginal delivery, not Caesarean section.&rdquo; If you need a quick refresher on the relevant storyline in Shakespeare's <i>Macbeth</i>, <a href="https://www.enotes.com/homework-help/who-was-not-born-woman-why-86477">click here</a>!
 #4
 Every sentence in my book is well written. Accordingly, my book is well written.::Composition::The parts may not add up to the whole.
 #5
@@ -57,21 +60,16 @@ We Americans have got to get rid of the electoral college!  Why? Well, this is s
 According to the <em>Seattle Times</em>, this year the state of Washington will not issue parking permits to fish.  So, I guess the salmon won't be allowed to park anywhere this year.::Amphiboly::The sentence structure allows "fish" to be taken either as a verb or as a noun.
 #26
 If Edwin Hubble is an astronomer, then he must necessarily be a scientist.  Edwin Hubble is an astronomer.  So, Hubble must necessarily be a scientist. But if Hubble must necessarily be a scientist, then he has no choice but to be a scientist.  Consequently, Hubble has no choice but to be a scientist.::Amphiboly::The first sentence can be interpreted to mean that the entire conditional is necessarily true, or that the consequent is necessarily true if the antecedent is true.  Only the first reading is true, but the second is the one required for the argument to be valid.
+#####
+# 27-30 FROM 5e WERE CUT
+#####
 #27
-Dear Editor: I am writing to voice my opposition to the proposed light rail system, which is supposed to solve the traffic problems in Seattle. Do the math.  The project will cost $3.5 billion.  If you divide by ridership predictions, the cost per ride, over the first ten years of operation, will be $12.13.  Apparently backers of light rail are a bunch of fat cats with no conception of how the other half lives!  The sooner we get a better plan for dealing with the traffic issue, the better.::Argument against the person::Fat cats!
+I read in the <em>Seattle Times</em> that most traffic accidents occur within five miles of your home.  Now, given this fact, I'm forced to conclude that it would be a good idea for you to relocate to someplace <em>more than five miles</em> distant from your home.::Equivocation::Equivocation on "your home." In the premise it means "the home of  the driver who has been involved in an accident." In the conclusion means the "the home of the person being addressed."
 #28
-That which can not-be at some time is not. Therefore, if everything can not-be, then at one time there was nothing in existence.::Amphiboly::Can not-be or cannot be?
-#29
-God is love. Love is a character trait. Therefore, God is a character trait.::Equivocation::To be or not to be, that <em>is</em> ambiguous.
-#30
-Sixty percent of the students at Seattle Pacific University are female. Pat is a student at Seattle Pacific. So, Pat is sixty percent female.::Division::You cannot divide students like that.
-#31
-I read in the <em>Seattle Times</em> that most traffic accidents occur within five miles of your home.  Now, given this fact, I'm forced to conclude that it would be a good idea for you to relocate to someplace <em>more than five miles</em> distant from your home.::Equivocation::Equivocation on "your home." In the premise it means "the home of  the driver who has been involved in an accident." In the conclusion  "your home" means the "the home of the person being addressed."
-#32
 For Communication 101, I'm required to give a speech on drugs.  But I am personally opposed to using drugs for any reason, so I think the professor is being unfair.  I mean, sure, like most people, I've wondered what it would be like to be on drugs, but I shouldn't have to violate my personal ethical standards in order to meet the class requirements.::Equivocation::Equivocation on "on drugs." Presumably, by a speech  "on  drugs,"  the instructor meant a speech "about drugs." But in  the  conclusion,  the arguer means a speech "under the influence of drugs."
-#33
-I'm sorry to hear that many of the bars tested illegally sell alcohol to people under 21.  I infer that the governor should put a stop to such illegal testing.::Amphiboly::Was it the selling that was illegal, or  the  testing?  The arguer unjustifiably takes it to be the testing.
-#34
+#29
+I'm sorry to hear that many of the bars tested illegally sell alcohol to people under 21. I infer that the governor should put a stop to such illegal testing.::Amphiboly::Was it the selling that was illegal, or  the  testing?  The arguer unjustifiably takes it to be the testing.
+#30
 According to the letter we received, your previous employer recommends you with no qualifications.  But I'm afraid we here at the Grove Company hire only people that do have qualifications.  So, there's really no point in our talking further.::Amphiboly::The  previous employer presumably meant that the recommendation did not need to be qualified with statements indicating areas of concern about the applicant. The  interviewer takes the previous employer's statement to mean that the applicant has no qualifications (experience, skills, etc.) needed to do the job.
-#35
+#31
 In a recent sermon, Pastor Bob said that a good marriage takes more than just two people in love. I found the sermon quite disturbing. Apparently Pastor Bob no longer believes in monogamy.::Amphiboly::In the premise, the sentence, "A good marriage takes more than just two people in love" presumably means something like, "Being in love, though important, does not by itself guarantee that a couple will have a good marriage." In the conclusion, the sentence is interpreted to mean, "In order for a marriage to be good, it must involve more than two people who are in love with one another."
