@@ -1,7 +1,7 @@
 #!qtype MC_VAR
 #!preamble <font color="#ee0077" face="helvetica"><strong>Part A:</strong>
 #!preamble Term Complements</font>&nbsp;&nbsp;
-#!preamble Rewrite the following categorical statements, replacing each term with its term-complement.
+#!preamble Put the following categorical statements into standard form and replace each term with its term-complement.
 
 # Format of each line is QUESTION::%%ANSWERTYPE1::OPTION1_1::...::OPTION1_n::ANSWER1::ERRORSTRING1::...%%ANSWERTYPEm::OPTIONm_1::...::OPTIONm_r::ANSWERm::ERRORSTRINGm::
 
