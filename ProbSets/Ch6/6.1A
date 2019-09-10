@@ -3,13 +3,12 @@
 
 #!preamble <strong>Standard Forms.</strong>
 #!preamble For each of the following categorical syllogisms, select “Standard form”
-#!preamble or “Not standard form” as the case may be. If a syllogism is not in
-#!preamble standard from, rewrite it so that it is on a separate piece of paper.
-#!preamble If you think that an argument is not in standard form but are unsure 
+#!preamble or “Not standard form” as the case may be.
+#!preamble If you think that an argument is not in standard form but are unsure
 #!preamble <i>why</i>, select the 6.1A problem set again from
 #!preamble <a href="/cgi/6e/menu.cgi?chapter=6">the main menu</a>, select
 #!preamble "User choice", select the argument(s) in question, and select
-#!preamble the (incorrect!) answer "Standard form".
+#!preamble the (incorrect!) answer "Standard form" to receive an explanation.
 
 #1
 1. Some works of art are books. 2. All novels are books. So, 3. Some works of art are novels.::The component sentences are in standard form but the first premise is not the major premise::Not standard form
