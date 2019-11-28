@@ -3,25 +3,45 @@
 #!preamble <strong>Conditional Proof.</strong>
 #!preamble Use CP to show that each of the following symbolic arguments is valid.
 
+#1
 1.Z->(~Y->X)2.Z->~Y :. Z->X
+#2
 1.P->Q :. P->(QvR)
+#3
 1.(Fv~G)->~L :. L->G
+#4
 1.A->B2.A->C :. A->(B.C)
+#5
 1.(HvE)->K :. E->K
+#6
 1.(B->~C)->D :. B->(~C->D)
+#7
 1.P :. (P->Q)->Q
+#8
 1.S :. ~(S.R)->~R
+#9
 1.(G->H)->J :. H->J
+#10
 1.C->(~D->E)2.(D->~D)->(E->G) :. C->(~D->G)
+#11
 1.H->(J.K)2.~L->(J.M) :. (~LvH)->J
+#12
 1.~Xv(O.W)2.(X->O)->(W->X) :. W->X
+#13
 1.(AvN)->~S2.M->[N->(S.T)] :. ~(~Mv~N)->(S.~A)
+#14
 1.~Pv(Q.~R) :. (RvR)->~P
+#15
 1.(SvT)<->~E2.S->(F.~G)3.A->W4.T->~W :. (~E.A)->~G
+#16
 1.A->(B->C) :. (A->B)->(A->C)
+#17
 1.(G.P)->K2.E->Z3.~P->~Z4.G->(EvL) :. (G.~L)->K
+#18
 1.S->(~T->U)2.~T->(U->O) :. ~Sv[(T->~T)->O]
+#19
 1.A->(B.C)2.B->D3.C->~D :. A->X
+#20
 1.B->[(E.~G)->M]2.~(~EvG)->(M->R) :. B->[~(~G->~E)->R]
 #21
 1.P->(Q->R) :. Q->(P->R)

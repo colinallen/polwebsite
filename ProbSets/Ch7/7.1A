@@ -33,15 +33,15 @@
 #11
 <tt>~(B . C)</tt>::This is a negation of a conjunction.::WFF
 #12
-<tt>~(~W v ~Z)<tt>::This is a negation of a disjunction::WFF
+<tt>~(~W v ~Z)</tt>::This is a negation of a disjunction::WFF
 #13
 <tt>~(m <-> ~h)</tt>::Too small, you say?::Not a WFF
 #14
 #<tt>~(~A -> R)</tt>::This is a negation of a conditional.::WFF
-<tt>(~E . ~F . ~~G)::More parentheses needed.::Not a WFF
+<tt>(~E . ~F . ~~G)</tt>::More parentheses needed.::Not a WFF
 #15
 #<tt>((~H . ~~F) -> ~(~K <-> ~N))</tt>::This is a conditional.::WFF
-<tt>~(~A -> ~R)::This is a negated conditional.::WFF
+<tt>~(~A -> ~R)</tt>::This is a negated conditional.::WFF
 #16
 <tt>(~S v ~R v ~(T . U))</tt>::Double disjunction, less than a WFF.::Not a WFF
 #17

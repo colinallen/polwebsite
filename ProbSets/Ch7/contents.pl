@@ -60,6 +60,7 @@
                 "7.4D" => "D. Valid or Invalid?",
                 "7.4E" => "E. English Arguments - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 7.4E: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (7.4E).')\">[why?]</span>",
                 "7.4F" => "F. English Arguments - not available online  <span style=\"color:#666666; font-size:9px\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"alert('EXERCISE 7.4F: There are two possible reasons why this exercise is unavailable: either it is too open ended to be checked by software or it combines elements of other exercises for which there is already ample opportunity to practice.  If you believe this exercise could and should be online, please send your request by email to webmaster\@poweroflogic.com. Be sure to identify the exercise number (7.4F).')\">[why?]</span>",
+		"7.4X" => "X. Two Bonus Abbreviated Truth Tables",
           },
           'counts' => {
                 "7.4A" => "20",
@@ -68,6 +69,7 @@
                 "7.4D" => "10",
                 "7.4E" => "0",
                 "7.4F" => "0",
+                "7.4X" => "2",
           },
      },
      'sec5' => {
