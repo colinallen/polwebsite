@@ -5,6 +5,9 @@
 #!preamble Determine the truth value of the following compound statements.
 #!preamble Make the following assumptions: A is true, B is true, C is true,
 #!preamble D is false, E is false, F is false, and G is false.
+#!preamble <br>
+#!preamble <em>[Note: items 12-14 in the textbook are not well-formed so
+#!preamble the corresponding items online are slightly different.]</em>
 
 # Format of each line is QUESTION :: ERROR STRING :: ANSWER
 
@@ -31,10 +34,13 @@
 #11
 [(A . ~D) . (B . ~C)] <-> [(~G . ~E).(C . ~D)]::::False
 #12
-~[~[(C  <->  D) -> (~G  <->  ~A)]]  <->  ~[~[(A  <->  B) -> (~C  <->  ~B)]]::::False
+#~[~[(C  <->  D) -> (~G  <->  ~A)]]  <->  ~[~[(A  <->  B) -> (~C  <->  ~B)]]::::False
+~~[(C <-> D) -> (~G <-> ~A)] <-> ~~[(A <-> B) -> (~C <-> ~B)]::::True
 #13
-~[~[(D -> G)  <->  (~B -> C)]] v ~[~[(C -> B)  <->  (~C -> G)]]::::True
+#~[~[(D -> G)  <->  (~B -> C)]] v ~[~[(C -> B)  <->  (~C -> G)]]::::True
+~~[(D -> G) <-> (~B -> C)] v ~~[(C -> B) <-> (~C -> G)]::::True
 #14
-~(E -> G) . [(~A -> B) . ~[~[(C -> A) v (~C -> E)]]]::::False
+#~(E -> G) . [(~A -> B) . ~[~[(C -> A) v (~C -> E)]]]::::False
+~(E -> G) . [(~A -> B) . ~~[(C -> A) v (~C -> E)]]::::False
 #15
 ~[[(A v ~G).(B v ~C)] <-> [(~G . ~E)v(C . ~E)]]::::False
