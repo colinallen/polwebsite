@@ -1,0 +1,14 @@
+#!qtype venn3
+
+#!preamble <strong>Categorical Syllogisms.</strong>
+#!preamble Use a Venn diagram to determine whether the following categorical
+#!preamble syllogism is valid. Be sure to put your syllogism in standard
+#!preamble form before working the problem.
+
+#format is syllogism::major::minor::middle::image::validity
+
+#1
+No one who lies is virtuous. There are a few politicians who aren&rsquo;t liars. So, some politicians are not virtuous.::politicians::virtuous people::liars::000011002.gif::invalid
+
+#2 
+Not all honest people are rich. Every Aggie is honest. So, at least one rich person is not an Aggie.::Rich people::Aggies::Honest people::0110000f.gif::invalid

@@ -7,7 +7,7 @@
 	f.value = f.value.replace(/([\d])∙/gi, "$1.");     // Logical AND
 	f.value = f.value.replace(/([^\d])\./gi, "$1∙");     // Logical AND
 	f.value = f.value.replace(/:\.|\.:|∙:|:∙/gi, "∴"); // Therefore
-	f.value = f.value.replace(/<|<>|↔>|<->|↔->/gi, "↔"); // Biconditional
+	f.value = f.value.replace(/<>|↔>|<->|<->->|↔->|</gi, "↔"); // Biconditional
 	f.value = f.value.replace(/->|>/gi, "→"); // conditional
 	return orig != f.value;
 }

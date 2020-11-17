@@ -1,0 +1,10 @@
+#!qtype ATT
+#!preamble <font color="#ee0077" face="helvetica"><strong>Part X: </strong>
+#!preamble Valid or Invalid?</font>&nbsp;&nbsp; 
+#!preamble Use abbreviated truth tables to determine 
+#!preamble whether or not the following arguments are valid.
+
+#1
+~A <-> B, ~(C . ~A), B v C :. A v C
+#2
+B -> ~C, (C . A) <-> ~D, A :. C -> ~(D v B)
