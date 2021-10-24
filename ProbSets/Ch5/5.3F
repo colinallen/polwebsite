@@ -27,7 +27,7 @@ Some psychiatrists are optimists.::This is the contradictory of the original sta
 #10
 Some nonoptimists are not nonpsychiatrists.::This is the contraposition of the subaltern of the original statement; the subaltern is an O statement, and constraposition is valid for O statements.::True
 #11
-No nonpsychiatrists are optimists.::Since our original statement "No psychiatrists are optimists" is true, its converse "No optimists are psychiatrists" must be true, as conversion is valid for E statements.  Hence the subaltern "Some optimists are not psychiatrists" is true.  Hence, its obverse "Some optimists are nonpsychiatrists" is true, as obversion is valid for all statements.  Thus, the converse "Some nonpsychiatrists are optimists" of that statement is true, as conversion is valid for I statements.  But that statement is the contradictory of "No nonpsychiatrists are optimists", and so that statement must be false.
+No nonpsychiatrists are optimists.::Since our original statement "No psychiatrists are optimists" is true, its converse "No optimists are psychiatrists" must be true, as conversion is valid for E statements.  Hence the subaltern "Some optimists are not psychiatrists" is true.  Hence, its obverse "Some optimists are nonpsychiatrists" is true, as obversion is valid for all statements.  Thus, the converse "Some nonpsychiatrists are optimists" of that statement is true, as conversion is valid for I statements.  But that statement is the contradictory of "No nonpsychiatrists are optimists", and so that statement must be false.::False
 #12
 Some optimists are nonpsychiatrists.::This is the obverse of the subaltern of our original sentence, and obversion is always valid::True
 #13
